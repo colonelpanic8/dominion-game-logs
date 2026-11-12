@@ -34,6 +34,7 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 <!-- runs:start -->
 | Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-12/005431-opus-high](runs/2026-11-12/005431-opus-high) | opus high | bot | 185832858: colonelpanic8 92, Lord Rattington 39 | fbad6da* | 4fa8d02 | $4.49 |
 | [2026-11-11/legacy-game12](runs/2026-11-11/legacy-game12) | opus high | bot | 185831340: Lord Rattington 30, colonelpanic8 19 | fbad6da | f484287 | $2.84 |
 | [2026-11-11/legacy-game11](runs/2026-11-11/legacy-game11) | opus high | bot | 185831262: Lord Rattington 41, colonelpanic8 40 | fbad6da | cdac4df | $1.83 |
 | [2026-11-11/legacy-game10](runs/2026-11-11/legacy-game10) | opus high | bot | 185831104: colonelpanic8 43, Lord Rattington 16 | fbad6da | ea14cf8 | $2.46 |

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "dominion": {
+      "command": "bash",
+      "args": [
+        "-c",
+        "cd /home/imalison/projects/dominion-navigator && exec node --import tsx scripts/mcp-server.ts --game-log-dir /home/imalison/projects/dominion-game-logs/runs/2026-11-12/005431-opus-high"
+      ],
+      "env": {
+        "DOMINION_GAME_LOG_META": "{\"run\": \"2026-11-12/005431-opus-high\", \"harness\": {\"name\": \"claude-code\", \"version\": \"2.1.319 (Claude Code)\"}, \"model\": \"opus\", \"effort\": \"high\", \"opponent\": \"bot\", \"agents\": {\"commit\": \"fbad6da14098f11aa9d7170012f808548f488d9b\", \"dirty\": true}, \"prompt\": \"89954f79cd3a1c32\"}"
+      }
+    }
+  }
+}

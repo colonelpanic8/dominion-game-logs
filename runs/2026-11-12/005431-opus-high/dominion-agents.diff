@@ -1,0 +1,258 @@
+diff --git a/AGENTS.md b/AGENTS.md
+index da34c80..1c65515 100644
+--- a/AGENTS.md
++++ b/AGENTS.md
+@@ -33,6 +33,7 @@ Before doing any Dominion work, read all of these in full:
+   material goes in `skills/<name>/references/`.
+ - `protocol/`: the agent-view@2 protocol. `agent-view.schema.json` is canonical;
+   `README.md` is its spec (fields, knowledge, answers, text rendering);
++  `tools.md` specifies dominion/play@1, the MCP tools every producer serves;
+   `examples/` holds a view, its text rendering and an answer, produced by
+   dominion-engine. Change the schema here first; producers (dominion-engine's
+   `just sync-protocol`, dominion-navigator) vendor it. Keep it producer- and
+diff --git a/protocol/README.md b/protocol/README.md
+index f751469..2df7751 100644
+--- a/protocol/README.md
++++ b/protocol/README.md
+@@ -135,7 +135,7 @@ possessing player sees what the possessed player sees.
+ ## Glossary
+ 
+ `{name, types, set, cost, text}` per card, with official text (lines separated by `\n`,
+-`---` for the dividing line). Producers offer it on demand (the `card` tool).
++`---` for the dividing line). Producers offer it on demand (the `cards` tool).
+ 
+ ## Text rendering
+ 
+@@ -189,4 +189,6 @@ bounds (`order matters` for ordered decisions, `or answer with any card's name`
+   fields), uses `purpose: "other"` where it can't tell, `kind` from the client's question
+   types, and `unlocated` for cards its tracker can't place.
+ 
++Every producer serves the MCP tools specified in [`tools.md`](tools.md) (dominion/play@1).
++
+ Changes to the protocol go through the schema here first; producers vendor it.
+diff --git a/protocol/tools.md b/protocol/tools.md
+new file mode 100644
+index 0000000..0bdad6b
+--- /dev/null
++++ b/protocol/tools.md
+@@ -0,0 +1,107 @@
++# dominion/play@1: the MCP tools
++
++The tools a producer serves so that an agent can play one seat of a game over
++[MCP](https://modelcontextprotocol.io). The same tool names, arguments and results work on
++every producer, so an agent (and `skills/play-game`) doesn't need to know which one it is
++talking to. Views and decisions are [agent-view@2](README.md).
++
++Register the server as `dominion`. A producer may add tools of its own. It must not give
++a tool from this list a different meaning.
++
++## Tools
++
++| Tool | Arguments | Does |
++| --- | --- | --- |
++| `state` | `token?` | Whether there is a game, and if there is, the full view plus card text. |
++| `step` | `decision`, `indices?`, `name?`, `timeout_s?`, `token?` | Answers the open decision, waits for your next one, returns what changed. |
++| `wait` | `timeout_s?`, `token?` | Waits for your next decision without answering, returns what changed. |
++| `new_game` | `kingdom?`, `landscapes?`, `bots?`, `players?` and producer extras | Starts a game, seats you, returns the full view. |
++| `cards` | `names` | Card text, types and current cost (the [glossary](README.md#glossary)). |
++| `log` | `after?`, `limit?` | Rereads the game log, oldest first, with each entry's `seq`. |
++
++Optional tools, for producers that have the concept:
++
++| Tool | Arguments | Does |
++| --- | --- | --- |
++| `join_game` | `game`, `token` | Binds this MCP session to a seat, so later calls can leave out `token`. |
++| `list_games` | none | Games on the server, without tokens. |
++| `resign` | `token?` | Resigns your seat's game. |
++
++Debugging tools (such as `inspect`) may read hidden state. Name them so they are clearly
++not for play, and say so in their description. An agent playing a game must not call them.
++
++## Arguments
++
++- `token`: a seat's secret, for producers that host several seats. A producer with one
++  seat per server (one logged-in account) ignores it. After `new_game` or `join_game`,
++  calls in the same MCP session may leave it out.
++- `decision`, `indices`, `name`: the [answer](README.md#answers), field for field.
++  `indices: []` chooses nothing. `name` only where the decision has `nameAny`.
++- `timeout_s`: seconds to wait for your next decision. Default 60. A producer may cap it,
++  but must accept at least 300.
++- `new_game`:
++  - `kingdom`, `landscapes`: names the game must use. The producer fills the rest at
++    random.
++  - `bots`: how many bot opponents (default 1 where the producer has bots).
++  - `players`: seats in all (default 2). Seats that are neither you nor a bot are left
++    for other agents, and the result gives their tokens.
++  - A producer refuses settings it can't honour, and says why. It never silently drops
++    one. Producer extras (`seed`, `sets`, `turn_limit`, ...) are listed in its tool
++    description.
++- `log`: `after` is a `seq`. `limit` keeps the newest entries (default 50).
++
++Unknown arguments are refused.
++
++## Results
++
++Every result has text content for the model. Results that carry a view also carry it as
++structured content: `{view, glossary?}`, the full agent-view@2 JSON, even when the text
++is a delta.
++
++**Full text** (`state`, `new_game`, and `step`/`wait` the first time this session sees
++a game): the [text rendering](README.md#text-rendering), preceded by one status line
++and followed by `CARDS`.
++
++**Delta text** (`step`, `wait`): the rendering, cut down to what changed since the view
++this MCP session was last shown.
++
++- The `GAME` line, always.
++- `LOG` with only the entries not shown before, by `seq`. None are skipped. If there are
++  too many, the oldest are cut and a line says to call `log`.
++- Any other line or pile whose text changed. Changed piles go on one line, as
++  `SUPPLY (changed) Village $3 x9, Province $8 x6`. A pile or line that went away is
++  reported as gone.
++- The `DECISION` in full.
++
++**Status line**: one line before a full view saying where things stand, e.g.
++`STATUS game g4, seat 0 of 2, opponents: 1 bot`, or `STATUS no game` with what to call.
++
++**`CARDS`**: the glossary entry of each card in the view that this session hasn't been
++shown yet, one per line, leaving out the basic Treasures, Victory cards and Curse. So
++the text of every card arrives once, as it first appears.
++
++**Forced decisions**: a decision with only one legal answer is answered on your behalf
++on the way to the next real one, in `step`, `wait` and `new_game`. The log shows what
++happened. A producer may also report each one as a line such as
++`AUTO d31: Cellar: discard any number of cards -> (nothing)`.
++
++**Endings.** A result whose wait ends without a decision ends with one of these lines:
++
++- `WAITING: no decision for you yet; call wait.` (the timeout passed)
++- `GAME OVER` and the `RESULT` line.
++- `SPECTATING: nothing to answer.`
++
++## Errors
++
++A failed call returns an MCP error result whose text says why and what to do next. A
++rejected `step` changes nothing. It gives the reason, as under
++[Answers](README.md#answers), then the open decision in full, so the caller can answer
++again without another call.
++
++Errors with a fixed meaning start with a code:
++
++- `NO_GAME`: no game is running. Call `new_game`.
++- `NOT_SEATED`: this session has no seat. Pass `token`, or call `join_game`.
++- `REJECTED`: the answer was illegal or stale.
++- `REFUSED`: the producer won't act, e.g. a table with human opponents, which needs the
++  operator's explicit permission.
+diff --git a/skills/play-game/SKILL.md b/skills/play-game/SKILL.md
+new file mode 100644
+index 0000000..0c4404d
+--- /dev/null
++++ b/skills/play-game/SKILL.md
+@@ -0,0 +1,107 @@
++---
++name: play-game
++description: Play a whole game of Dominion as one seat through a `dominion` MCP server (dominion-engine or dominion-navigator), from the kingdom plan through every decision to a review afterwards. Use when asked to play a game, play against a bot or another agent, or carry on with a game in progress.
++---
++
++# Play a game
++
++Play one seat from the first decision to the result. The server's tools are the
++same on every producer and are specified in `protocol/tools.md`. The view and
++its decisions are specified in `protocol/README.md`. This skill is the loop
++around them: `kingdom-analysis` makes the plan, `play-turn` decides the hard
++turns, and this skill decides how much thought each decision gets.
++
++## Ground rules
++
++- Know only what your seat may know. Never call a debugging tool (`inspect`
++  or anything that says it reads hidden state), and never use another seat's
++  token, even one `new_game` handed you.
++- Don't sit down against human opponents unless the operator said to. A
++  `REFUSED` error is the server enforcing that, so report it and stop.
++- Trust the view over your memory. It tracks every card you could know about,
++  including your own deck. Your notes only need to hold the plan.
++
++## 1. Start or rejoin
++
++Call `state` first. If you already have a game in progress, carry on with it.
++Otherwise call `new_game` with what the operator asked for (kingdom, bots,
++seats). Its result is your first full view.
++
++## 2. Make the plan
++
++Run `kingdom-analysis`, quick version (its steps 1–5), on the kingdom in the
++first view. The `CARDS` block has the text of every card. Keep the result as a
++short game plan, about ten lines:
++
++- the plan and the reason it beats Big Money here;
++- the opening for each split;
++- the build order, and the point at which you start greening;
++- what to watch for: the opponent's possible attacks or plan, and key or
++  contested piles.
++
++The plan is the only thing you carry between decisions. If the game is past
++its opening when you join, still write the plan, from the current view.
++
++## 3. Answer decisions
++
++Each `step` result shows what changed and your next decision. Spend thought
++where it changes the outcome. A game has roughly 30–60 decisions, and most of
++them are routine.
++
++- **Routine**: the plan already settles it and nothing in view cares about
++  the choice. Examples are playing Treasures when no card reacts to their
++  order, ending a phase with nothing worth playing, or the only sensible play.
++  Answer it straight away.
++- **Turn plan**: at the start of a turn with real choices (Actions to order,
++  a buy the plan doesn't settle), work out the whole turn with `play-turn`.
++  Then answer its decisions in order. Re-plan only when a draw or a reveal
++  changes what you know.
++- **Full check**: run `play-turn`'s endgame and attack-response steps when the
++  decision is any of these:
++  - a buy or gain once the game could end within two turns;
++  - a response to an attack;
++  - a choice involving a card you haven't judged yet (new `CARDS` lines, an
++    unplanned Loot or Reward, a card the opponent just started buying).
++
++Mechanics:
++
++- Read indices from the latest `DECISION` only. They change from one decision
++  to the next.
++- Check each group's `min` and `max`. `indices: []` chooses nothing. For an
++  ordered decision, list the top card first.
++- After a `REJECTED` error, read the reason and the decision that came with
++  it, then answer that. Don't resend the same answer.
++- On `WAITING`, call `wait`. Call `state` only when you've lost track: it
++  prints everything. Use `log` for older history.
++
++## 4. Revisit the plan
++
++Check the plan against the view, in one line, at each of these moments:
++
++- the opponent's opening is visible (after their second turn), and whenever
++  they start buying something new;
++- your deck starts drawing itself, so it is time to switch to payload;
++- a pile you or they need runs low;
++- someone buys the first Victory card.
++
++When the plan changes, say what changed and why, and update it.
++
++## 5. Finish and review
++
++On `GAME OVER`, report to the operator:
++
++- the result line (VP, turns, how the game ended);
++- the plan you made, and whether you kept to it;
++- the one or two turns or decisions that decided the game, each with what you
++  would do differently, if anything;
++- anything the server got wrong or showed confusingly (a missing card text, a
++  decision you couldn't express), so the producer can be fixed.
++
++Keep the report short. Don't write lessons into the repository unless asked.
++
++## Talking to the operator during play
++
++Say little while playing. Report the plan once it is made, any change to it,
++and the result. If the server breaks (errors that aren't about your answer, a
++game that stops advancing), stop and report what you called and what came
++back, rather than guessing around it.

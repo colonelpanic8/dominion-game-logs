@@ -1,0 +1,90 @@
+{
+  "run": "2026-11-12/005431-opus-high",
+  "started": "2026-11-12T00:54:31.451900+00:00",
+  "settings": {
+    "model": "opus",
+    "effort": "high",
+    "opponent": "bot",
+    "bots": 1,
+    "kingdom": [],
+    "max_turns": 400,
+    "allowed_tools": [
+      "mcp__dominion__state",
+      "mcp__dominion__step",
+      "mcp__dominion__wait",
+      "mcp__dominion__new_game",
+      "mcp__dominion__log",
+      "mcp__dominion__cards",
+      "Read",
+      "Glob",
+      "Grep",
+      "Skill"
+    ]
+  },
+  "versions": {
+    "harness": {
+      "name": "claude-code",
+      "version": "2.1.319 (Claude Code)"
+    },
+    "node": "v24.21.0",
+    "dominion-agents": {
+      "path": "/home/imalison/projects/dominion-agents",
+      "commit": "fbad6da14098f11aa9d7170012f808548f488d9b",
+      "branch": "master",
+      "remote": "git@github.com:colonelpanic8/dominion-agents.git",
+      "dirty": true,
+      "changed": [
+        " M AGENTS.md",
+        " M protocol/README.md",
+        "?? protocol/tools.md",
+        "?? skills/play-game/"
+      ],
+      "diff": "dominion-agents.diff"
+    },
+    "dominion-navigator": {
+      "path": "/home/imalison/projects/dominion-navigator",
+      "commit": "4fa8d0239d62b6c4d9e5a7d625be302f702d52fe",
+      "branch": "master",
+      "remote": "git@github.com:colonelpanic8/dominion-navigator.git",
+      "dirty": false
+    }
+  },
+  "prompt_sha256": "89954f79cd3a1c32495446f506fa3873c1de1bf4e31793c755f2f91aea5a5620",
+  "finished": "2026-11-12T01:03:54.928747+00:00",
+  "exit_code": 0,
+  "outcome": {
+    "cost_usd": 4.4882237,
+    "duration_s": 563,
+    "agent_turns": 123,
+    "usage": {
+      "input_tokens": 186,
+      "cache_creation_input_tokens": 167984,
+      "cache_read_input_tokens": 11538525,
+      "output_tokens": 41787
+    },
+    "games": [
+      {
+        "game": "185832858",
+        "decisions": 109,
+        "result": {
+          "players": [
+            {
+              "name": "colonelpanic8",
+              "rank": 1,
+              "points": 92,
+              "turns": 21,
+              "resigned": false
+            },
+            {
+              "name": "Lord Rattington",
+              "rank": 2,
+              "points": 39,
+              "turns": 21,
+              "resigned": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
