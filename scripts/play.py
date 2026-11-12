@@ -133,7 +133,7 @@ def play(args: argparse.Namespace) -> Path:
 
     prompt = Path(args.prompt).read_text().replace("{start}", start_instruction(args))
     (run_dir / "prompt.md").write_text(prompt)
-    agents = repo_state(args.agents, run_dir, "dominion-agents")
+    agents = repo_state(args.playbook, run_dir, "dominion-playbook")
     navigator = repo_state(args.navigator, run_dir, "dominion-navigator")
     meta = {
         "run": run_id,
@@ -159,7 +159,7 @@ def play(args: argparse.Namespace) -> Path:
         "versions": {
             "harness": meta["harness"],
             "node": command_version("node", "--version"),
-            "dominion-agents": agents,
+            "dominion-playbook": agents,
             "dominion-navigator": navigator,
         },
         "prompt_sha256": hashlib.sha256(prompt.encode()).hexdigest(),
@@ -204,7 +204,9 @@ def play(args: argparse.Namespace) -> Path:
     ]
     print(f"{run_id}: playing", flush=True)
     with (run_dir / "transcript.jsonl").open("w") as transcript, (run_dir / "claude.err").open("w") as stderr:
-        exit_code = subprocess.run(command, check=False, cwd=args.agents, stdout=transcript, stderr=stderr, timeout=args.timeout).returncode
+        exit_code = subprocess.run(
+            command, check=False, cwd=args.playbook, stdout=transcript, stderr=stderr, timeout=args.timeout
+        ).returncode
 
     result = final_result(run_dir / "transcript.jsonl")
     if result.get("result"):
@@ -235,8 +237,8 @@ def result_cell(game: dict) -> str:
     return f"{game['game']}: " + ", ".join(f"{p['name']} {p['points']}" for p in result["players"])
 
 
-def short_commit(versions: dict, name: str) -> str:
-    repo = versions.get(name) or {}
+def short_commit(versions: dict, *names: str) -> str:
+    repo = next((versions[name] for name in names if versions.get(name)), {})
     return repo.get("commit", "?")[:7] + ("*" if repo.get("dirty") else "")
 
 
@@ -251,12 +253,12 @@ def write_index() -> None:
         cost = outcome.get("cost_usd")
         rows.append(
             f"| [{run['run']}](runs/{run['run']}) | {settings.get('model', '?')} {settings.get('effort', '')} "
-            f"| {settings.get('opponent', 'bot')} | {games} | {short_commit(versions, 'dominion-agents')} | {short_commit(versions, 'dominion-navigator')} "
+            f"| {settings.get('opponent', 'bot')} | {games} | {short_commit(versions, 'dominion-playbook', 'dominion-agents')} | {short_commit(versions, 'dominion-navigator')} "
             f"| {'' if cost is None else f'${cost:.2f}'} |"
         )
     table = "\n".join(
         [
-            "| Run | Model | Opponent | Games (final VP) | dominion-agents | dominion-navigator | Cost |",
+            "| Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |",
             "| --- | --- | --- | --- | --- | --- | --- |",
             *rows,
         ]
@@ -275,7 +277,9 @@ def main() -> int:
     parser.add_argument("--kingdom", nargs="*", default=[], help="card and landscape names the kingdom must use")
     parser.add_argument("--count", type=int, default=1, help="games to play, one after another")
     parser.add_argument("--prompt", default=str(ROOT / "prompts" / "play.md"))
-    parser.add_argument("--agents", type=Path, default=Path(os.environ.get("DOMINION_AGENTS", "~/projects/dominion-agents")).expanduser())
+    parser.add_argument(
+        "--playbook", type=Path, default=Path(os.environ.get("DOMINION_PLAYBOOK", "~/projects/dominion-playbook")).expanduser()
+    )
     parser.add_argument(
         "--navigator", type=Path, default=Path(os.environ.get("DOMINION_NAVIGATOR", "~/projects/dominion-navigator")).expanduser()
     )

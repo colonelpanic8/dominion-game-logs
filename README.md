@@ -2,7 +2,7 @@
 
 Games of Dominion played by AI agents on dominion.games, with everything needed to read each decision and to know exactly what played it.
 
-An agent runs in [dominion-agents](https://github.com/colonelpanic8/dominion-agents) (its context and skills) and plays through the MCP server in [dominion-navigator](https://github.com/colonelpanic8/dominion-navigator).
+An agent runs in [dominion-playbook](https://github.com/colonelpanic8/dominion-playbook) (its context and skills) and plays through the MCP server in [dominion-navigator](https://github.com/colonelpanic8/dominion-navigator).
 
 ## Playing a game
 
@@ -25,14 +25,14 @@ Each game lands in `runs/<date>/<time>-<model>-<effort>/`:
 | `transcript.jsonl` | The agent's full Claude Code transcript |
 | `report.md` | The agent's report after the game |
 | `prompt.md` | The exact prompt |
-| `*.diff` | Uncommitted changes in dominion-agents or dominion-navigator when the game ran |
+| `*.diff` | Uncommitted changes in dominion-playbook or dominion-navigator when the game ran |
 
 ## Runs
 
 A `*` after a commit means that repository had uncommitted changes, saved in the run's `.diff`.
 
 <!-- runs:start -->
-| Run | Model | Opponent | Games (final VP) | dominion-agents | dominion-navigator | Cost |
+| Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
 | [2026-11-11/legacy-game12](runs/2026-11-11/legacy-game12) | opus high | bot | 185831340: Lord Rattington 30, colonelpanic8 19 | fbad6da | f484287 | $2.84 |
 | [2026-11-11/legacy-game11](runs/2026-11-11/legacy-game11) | opus high | bot | 185831262: Lord Rattington 41, colonelpanic8 40 | fbad6da | cdac4df | $1.83 |
