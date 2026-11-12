@@ -1,0 +1,52 @@
+{
+  "run": "2026-11-11/legacy-game11",
+  "note": "Played before the runner existed; versions are reconstructed from commit times and may be off by one merge.",
+  "settings": {
+    "model": "opus",
+    "effort": "high",
+    "opponent": "bot",
+    "bots": 1,
+    "kingdom": [],
+    "account": "colonelpanic8"
+  },
+  "versions": {
+    "harness": {
+      "name": "claude-code",
+      "version": "2.1.319"
+    },
+    "dominion-agents": {
+      "commit": "fbad6da plus uncommitted protocol/tools.md and skills/play-game/",
+      "approximate": true
+    },
+    "dominion-navigator": {
+      "commit": "cdac4df",
+      "approximate": true
+    }
+  },
+  "outcome": {
+    "cost_usd": 1.8267437000000004,
+    "duration_s": 173,
+    "agent_turns": 45,
+    "games": [
+      {
+        "game": "185831262",
+        "result": {
+          "players": [
+            {
+              "rank": 1,
+              "name": "Lord Rattington",
+              "points": 41,
+              "turns": 16
+            },
+            {
+              "rank": 2,
+              "name": "colonelpanic8",
+              "points": 40,
+              "turns": 16
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

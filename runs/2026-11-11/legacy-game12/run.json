@@ -1,0 +1,63 @@
+{
+  "run": "2026-11-11/legacy-game12",
+  "note": "Played before the runner existed; versions are reconstructed from commit times and may be off by one merge.",
+  "settings": {
+    "model": "opus",
+    "effort": "high",
+    "opponent": "bot",
+    "bots": 1,
+    "kingdom": [
+      "Steward",
+      "Workers Village",
+      "Laboratory",
+      "Militia",
+      "Remodel",
+      "Masquerade",
+      "Patrol",
+      "Cellar",
+      "Bridge",
+      "Moat"
+    ],
+    "account": "colonelpanic8"
+  },
+  "versions": {
+    "harness": {
+      "name": "claude-code",
+      "version": "2.1.319"
+    },
+    "dominion-agents": {
+      "commit": "fbad6da plus uncommitted protocol/tools.md and skills/play-game/",
+      "approximate": true
+    },
+    "dominion-navigator": {
+      "commit": "f484287",
+      "approximate": true
+    }
+  },
+  "outcome": {
+    "cost_usd": 2.8444871000000003,
+    "duration_s": 287,
+    "agent_turns": 78,
+    "games": [
+      {
+        "game": "185831340",
+        "result": {
+          "players": [
+            {
+              "rank": 1,
+              "name": "Lord Rattington",
+              "points": 30,
+              "turns": 16
+            },
+            {
+              "rank": 2,
+              "name": "colonelpanic8",
+              "points": 19,
+              "turns": 16
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
