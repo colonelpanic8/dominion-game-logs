@@ -167,8 +167,6 @@ def play(args: argparse.Namespace) -> Path:
     (run_dir / "run.json").write_text(json.dumps(run, indent=2) + "\n")
 
     server_flags = [f"--game-log-dir {run_dir}"]
-    if args.opponent == "human":
-        server_flags.append("--allow-human-opponents")
     mcp_config = {
         "mcpServers": {
             "dominion": {
