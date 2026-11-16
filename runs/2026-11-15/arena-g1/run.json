@@ -1,0 +1,174 @@
+{
+  "run": "2026-11-15/arena-g1",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g1",
+  "captured": "2026-11-16T05:24:56.024582+00:00",
+  "status": "abandoned",
+  "settings": {
+    "model": "Sonnet via Gemini vs Sol 6.1",
+    "opponent": "agent",
+    "configuration": {
+      "players": 2,
+      "kingdom": [
+        "HuntingParty",
+        "Warehouse",
+        "MerchantShip",
+        "CargoShip",
+        "GuardDog",
+        "Scheme",
+        "BorderVillage",
+        "Gatekeeper",
+        "Inventor",
+        "SilkMerchant"
+      ],
+      "landscapes": [
+        "Alliance",
+        "Avoid"
+      ],
+      "seed": 7553917309522942802,
+      "turn_limit": null,
+      "colonies": null,
+      "shelters": null
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commits": [],
+      "note": "Exact deployment revisions were not recorded for these early harness attempts; available commands and model settings are in session journals."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794790314819-13386806333d09b8",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet via Gemini",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794790314820,
+      "last_event_ms": 1794790319970
+    },
+    {
+      "id": "1794790314819-ca216905f9f8518c",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol 6.1",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794790314820,
+      "last_event_ms": 1794790374845
+    },
+    {
+      "id": "1794790324974-3dae8d2cf353a9aa",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet via Gemini",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794790324975,
+      "last_event_ms": 1794790330147
+    },
+    {
+      "id": "1794790340151-465099d8c4c7d63d",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet via Gemini",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794790340151,
+      "last_event_ms": 1794790347552
+    },
+    {
+      "id": "1794790367556-a70d79adff96324e",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet via Gemini",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794790367556,
+      "last_event_ms": 1794790377793
+    },
+    {
+      "id": "1794790417795-8b0599b2253716d2",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet via Gemini",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794790417795,
+      "last_event_ms": 1794790424330
+    }
+  ],
+  "outcome": {
+    "games": [
+      {
+        "game": "g1",
+        "result": {
+          "reason": "Resigned",
+          "players": [
+            {
+              "name": "Sonnet via Gemini",
+              "points": 3,
+              "turns": 1,
+              "rank": 2
+            },
+            {
+              "name": "Sol 6.1",
+              "points": 3,
+              "turns": 0,
+              "rank": 1
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

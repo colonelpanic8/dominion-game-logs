@@ -34,6 +34,11 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 <!-- runs:start -->
 | Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-15/arena-g5](runs/2026-11-15/arena-g5) | Argon High vs Terra  | agent | g5: Argon High 27, Terra 13 | ? | ? |  |
+| [2026-11-15/arena-g4](runs/2026-11-15/arena-g4) | Terra vs Sonnet High  | agent | g4: Terra 40, Sonnet High 23 | ? | ? |  |
+| [2026-11-15/arena-g3](runs/2026-11-15/arena-g3) | Terra vs Sonnet Low  | agent | g3: Terra 36, Sonnet Low 28 | ? | ? |  |
+| [2026-11-15/arena-g2](runs/2026-11-15/arena-g2) | Sonnet via Gemini vs Sol 6.1  | agent | g2: unfinished | ? | ? |  |
+| [2026-11-15/arena-g1](runs/2026-11-15/arena-g1) | Sonnet via Gemini vs Sol 6.1  | agent | g1: Sonnet via Gemini 3, Sol 6.1 3 | ? | ? |  |
 | [2026-11-12/005431-opus-high](runs/2026-11-12/005431-opus-high) | opus high | bot | 185832858: colonelpanic8 92, Lord Rattington 39 | fbad6da* | 4fa8d02 | $4.49 |
 | [2026-11-11/legacy-game12](runs/2026-11-11/legacy-game12) | opus high | bot | 185831340: Lord Rattington 30, colonelpanic8 19 | fbad6da | f484287 | $2.84 |
 | [2026-11-11/legacy-game11](runs/2026-11-11/legacy-game11) | opus high | bot | 185831262: Lord Rattington 41, colonelpanic8 40 | fbad6da | cdac4df | $1.83 |

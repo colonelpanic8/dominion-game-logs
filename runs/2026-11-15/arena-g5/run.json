@@ -1,0 +1,177 @@
+{
+  "run": "2026-11-15/arena-g5",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g5",
+  "captured": "2026-11-16T05:24:56.924353+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Argon High vs Terra",
+    "opponent": "agent",
+    "configuration": {
+      "players": 2,
+      "kingdom": [
+        "Catacombs",
+        "Swashbuckler",
+        "Sacrifice",
+        "Encampment",
+        "HauntedWoods",
+        "FirstMate",
+        "Rabble",
+        "Stonemason",
+        "BorderVillage",
+        "Raze"
+      ],
+      "landscapes": [
+        "Friendly",
+        "ReceiveTribute"
+      ],
+      "seed": 3718451624327102185,
+      "turn_limit": null,
+      "colonies": null,
+      "shelters": null
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commits": [
+        "bbcfd94a5baa893490529f6ef580b0c6552e18bf",
+        "72661e2193cccb05f00d47b369e340695823c85b"
+      ],
+      "note": "Server deployment revisions; exact provider commands and configurations are in each session journal. Older g1/g2 harness revisions were not recorded."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794797252954-acd378156017ef8d",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-terra",
+        "name": "Terra",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794797252954,
+      "last_event_ms": 1794798197411
+    },
+    {
+      "id": "1794797252954-ed0acebe32058a80",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "gemini-4-argon-high",
+        "name": "Argon High",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794797252954,
+      "last_event_ms": 1794798231706
+    },
+    {
+      "id": "1794798261135-4f86bf9e11de3ed8",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "gemini-4-argon-high",
+        "name": "Argon High",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794798261136,
+      "last_event_ms": 1794798879153
+    },
+    {
+      "id": "1794798261136-3052632771d57d6f",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-terra",
+        "name": "Terra",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794798261136,
+      "last_event_ms": 1794798832226
+    },
+    {
+      "id": "1794798892729-235f7cd9678d8e51",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-terra",
+        "name": "Terra",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794798892730,
+      "last_event_ms": 1794798967919
+    },
+    {
+      "id": "1794798892729-9b7545658b38d3b7",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "gemini-4-argon-high",
+        "name": "Argon High",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794798892730,
+      "last_event_ms": 1794798994061
+    }
+  ],
+  "outcome": {
+    "games": [
+      {
+        "game": "g5",
+        "result": {
+          "reason": "PilesEmpty",
+          "players": [
+            {
+              "name": "Argon High",
+              "points": 27,
+              "turns": 13,
+              "rank": 1
+            },
+            {
+              "name": "Terra",
+              "points": 13,
+              "turns": 12,
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

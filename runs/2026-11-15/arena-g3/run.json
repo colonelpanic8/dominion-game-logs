@@ -1,0 +1,101 @@
+{
+  "run": "2026-11-15/arena-g3",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g3",
+  "captured": "2026-11-16T05:24:56.583510+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Terra vs Sonnet Low",
+    "opponent": "agent",
+    "configuration": {
+      "players": 2,
+      "kingdom": [
+        "Market",
+        "Moat",
+        "Moneylender",
+        "Cellar",
+        "Remodel",
+        "Sentry",
+        "Workshop",
+        "Harbinger",
+        "Village",
+        "Smithy"
+      ],
+      "landscapes": [],
+      "seed": 15329879144957790139,
+      "turn_limit": null,
+      "colonies": false,
+      "shelters": false
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commits": [
+        "bbcfd94a5baa893490529f6ef580b0c6552e18bf"
+      ],
+      "note": "Server deployment revisions; exact provider commands and configurations are in each session journal. Older g1/g2 harness revisions were not recorded."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794795794136-5f2fbacf1ee604c9",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-low",
+        "name": "Sonnet Low",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794795794137,
+      "last_event_ms": 1794796013297
+    },
+    {
+      "id": "1794795794136-cea8be5150bf10ea",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "medium",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-terra",
+        "name": "Terra",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794795794137,
+      "last_event_ms": 1794796013199
+    }
+  ],
+  "outcome": {
+    "games": [
+      {
+        "game": "g3",
+        "result": {
+          "reason": "ProvincesGone",
+          "players": [
+            {
+              "name": "Terra",
+              "points": 36,
+              "turns": 14,
+              "rank": 1
+            },
+            {
+              "name": "Sonnet Low",
+              "points": 28,
+              "turns": 13,
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "run": "2026-11-15/arena-g4",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g4",
+  "captured": "2026-11-16T05:24:56.754774+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Terra vs Sonnet High",
+    "opponent": "agent",
+    "configuration": {
+      "players": 2,
+      "kingdom": [
+        "Crown",
+        "Swindler",
+        "Marquis",
+        "SacredGrove",
+        "Poacher",
+        "Masquerade",
+        "Town",
+        "Cemetery",
+        "Sanctuary",
+        "Clerk"
+      ],
+      "landscapes": [
+        "Foray",
+        "Annex"
+      ],
+      "seed": 13191115334934648422,
+      "turn_limit": null,
+      "colonies": null,
+      "shelters": null
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commits": [
+        "bbcfd94a5baa893490529f6ef580b0c6552e18bf"
+      ],
+      "note": "Server deployment revisions; exact provider commands and configurations are in each session journal. Older g1/g2 harness revisions were not recorded."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794796071527-2ddd70577844686e",
+      "agent": {
+        "about": null,
+        "auth_dir": "/home/imalison/.gemini",
+        "command": "/nix/store/57w76m3rycsfhyswjpngvxrvn8m984kx-antigravity-cli-1.5.5/bin/agy",
+        "effort": null,
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-sonnet-5-5-high",
+        "name": "Sonnet High",
+        "program": "antigravity",
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794796071527,
+      "last_event_ms": 1794796488098
+    },
+    {
+      "id": "1794796071527-d07bcce3c3ad0881",
+      "agent": {
+        "about": null,
+        "auth_dir": null,
+        "command": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-terra",
+        "name": "Terra",
+        "program": "codex",
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794796071527,
+      "last_event_ms": 1794796486070
+    }
+  ],
+  "outcome": {
+    "games": [
+      {
+        "game": "g4",
+        "result": {
+          "reason": "ProvincesGone",
+          "players": [
+            {
+              "name": "Terra",
+              "points": 40,
+              "turns": 15,
+              "rank": 1
+            },
+            {
+              "name": "Sonnet High",
+              "points": 23,
+              "turns": 14,
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
