@@ -1,0 +1,91 @@
+{
+  "phase": "complete",
+  "created_at": "2026-11-17T09:06:26.799281+00:00",
+  "sol_target_phi": 0.35,
+  "saved_games": 24,
+  "record": {
+    "wins": 19,
+    "losses": 5
+  },
+  "last_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 24,
+    "level": 51.29014355955845,
+    "mu": 0.91010829414313,
+    "phi": 0.36904457643433475,
+    "rank": 926,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T09:04:25.043694+00:00"
+  },
+  "pending_start_error": "HTTP 409: {\"error\":\"REJECTED: LOGIN_REQUIRED\"}",
+  "native_game": "g73",
+  "conditions": "No active official or native game, no search, no trace writer before server restart; hold blocks next native creation.",
+  "resume_sol_after_auth": true,
+  "resume_native_after_auth": true,
+  "note": "One owned-session reconnect restored socket but official start rejected LOGIN_REQUIRED; do not repeat the same expired token reconnect. Fresh service login is required. No user secret needed; existing encrypted credential is provisioned.",
+  "preservation_commit": "92da683",
+  "preserved_through_game": 24,
+  "idle_verified_at": "2026-11-17T09:38:13.539327+00:00",
+  "native_results_before_restart": [
+    "g72",
+    "g73"
+  ],
+  "native_archive_commit": "8b4a15d",
+  "completed_at": "2026-11-17T09:38:58.254288+00:00",
+  "verification": {
+    "time": "2026-11-17T09:38:58.194045+00:00",
+    "action": "Fresh provisioned-password service login, after all native/official games and trace writers finished.",
+    "accounts_verified": {
+      "sol": {
+        "account": "SolDominion",
+        "connected": true,
+        "running": false,
+        "searching": false,
+        "agent": null,
+        "error": null
+      },
+      "default": {
+        "account": "colonelpanic8",
+        "connected": true,
+        "running": false,
+        "searching": false,
+        "agent": null,
+        "error": null
+      }
+    },
+    "authoritative_completed_ids_preserved": [
+      "dominion.games:186028514",
+      "dominion.games:186029319",
+      "dominion.games:186030563",
+      "dominion.games:186031039",
+      "dominion.games:186032083",
+      "dominion.games:186032758",
+      "dominion.games:186033558",
+      "dominion.games:186034175",
+      "dominion.games:186034403",
+      "dominion.games:186034460",
+      "dominion.games:186034884",
+      "dominion.games:186034949",
+      "dominion.games:186035246",
+      "dominion.games:186035907",
+      "dominion.games:186036166",
+      "dominion.games:186039786",
+      "dominion.games:186040335",
+      "dominion.games:186041477",
+      "dominion.games:186041530",
+      "dominion.games:186041689",
+      "dominion.games:186042286",
+      "dominion.games:186042551",
+      "dominion.games:186043033",
+      "dominion.games:186043435"
+    ],
+    "rejected_start_resolution": "Cleared pending marker only after explicit LOGIN_REQUIRED response and authenticated idle/no-game/no-search verification.",
+    "server_restart_only": true,
+    "runner_pid_unchanged": true
+  },
+  "native_score": {
+    "Fable High": 0,
+    "Astra High": 2
+  }
+}
