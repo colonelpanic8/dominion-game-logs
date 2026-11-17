@@ -1,0 +1,61 @@
+{
+  "game_id": "g76",
+  "completed_at": "2026-11-17T11:15:48.931810+00:00",
+  "winner": "Fable High",
+  "result": {
+    "reason": "provinces-gone",
+    "players": [
+      {
+        "index": 0,
+        "name": "Fable High",
+        "vp": 39,
+        "rank": 1,
+        "turns": 11
+      },
+      {
+        "index": 1,
+        "name": "Astra High",
+        "vp": 8,
+        "rank": 2,
+        "turns": 10
+      }
+    ]
+  },
+  "request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 5605395824806484102,
+    "watchable": true
+  },
+  "eligible_for_score": true,
+  "model_verification": {
+    "eligible": true,
+    "finished": true,
+    "sessions": [
+      {
+        "archive": "1794912550335-d7b9d18913541daa",
+        "agent": "Fable High",
+        "models": [
+          "claude-fable-5-2"
+        ],
+        "finished": true
+      },
+      {
+        "archive": "1794912550335-da992195e0ba697b",
+        "agent": "Astra High",
+        "models": [
+          "gpt-6-astra"
+        ],
+        "finished": true
+      }
+    ],
+    "problems": []
+  }
+}

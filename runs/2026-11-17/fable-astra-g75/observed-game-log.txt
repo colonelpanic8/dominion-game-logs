@@ -1,0 +1,607 @@
+00000 Astra High starts turn 1
+00001 Astra High plays Copper
+00002 Astra High plays Copper
+00003 Astra High plays Copper
+00004 Astra High buys Sentinel
+00005 Astra High gains Sentinel
+00006 Astra High draws 5 cards
+00007 Fable High starts turn 1
+00008 Fable High plays Copper
+00009 Fable High plays Copper
+00010 Fable High plays Copper
+00011 Fable High buys Sentinel
+00012 Fable High gains Sentinel
+00013 Fable High draws 5 cards
+00014 Astra High starts turn 2
+00015 Astra High plays Copper
+00016 Astra High plays Copper
+00017 Astra High plays Copper
+00018 Astra High plays Copper
+00019 Astra High buys Silver
+00020 Astra High gains Silver
+00021 Astra High shuffles
+00022 Astra High draws 5 cards
+00023 Fable High starts turn 2
+00024 Fable High plays Copper
+00025 Fable High plays Copper
+00026 Fable High plays Copper
+00027 Fable High plays Copper
+00028 Fable High buys Silver
+00029 Fable High gains Silver
+00030 Fable High shuffles
+00031 Fable High draws 5 cards
+00032 Astra High starts turn 3
+00033 Astra High plays Copper
+00034 Astra High plays Copper
+00035 Astra High plays Copper
+00036 Astra High plays Silver
+00037 Astra High plays Copper
+00038 Astra High buys Minion
+00039 Astra High gains Minion
+00040 Astra High draws 5 cards
+00041 Fable High starts turn 3
+00042 Fable High plays Silver
+00043 Fable High plays Copper
+00044 Fable High plays Copper
+00045 Fable High plays Copper
+00046 Fable High plays Copper
+00047 Fable High buys Gold
+00048 Fable High gains Gold
+00049 Fable High draws 5 cards
+00050 Astra High starts turn 4
+00051 Astra High plays Copper
+00052 Astra High plays Copper
+00053 Astra High plays Copper
+00054 Astra High buys Church
+00055 Astra High gains Church
+00056 Astra High shuffles
+00057 Astra High draws 5 cards
+00058 Fable High starts turn 4
+00059 Fable High plays Sentinel
+00060 Fable High shuffles
+00061 Fable High looks at the top 5 cards of their deck
+00062 Fable High trashes Copper
+00063 Fable High trashes Estate
+00064 Fable High puts 3 cards back onto their deck
+00065 Fable High plays Copper
+00066 Fable High plays Copper
+00067 Fable High buys Candlestick Maker
+00068 Fable High gains Candlestick Maker
+00069 Fable High draws 5 cards
+00070 Astra High starts turn 5
+00071 Astra High plays Sentinel
+00072 Astra High looks at the top 5 cards of their deck
+00073 Astra High trashes Copper
+00074 Astra High trashes Copper
+00075 Astra High puts 3 cards back onto their deck
+00076 Astra High plays Copper
+00077 Astra High plays Copper
+00078 Astra High buys Candlestick Maker
+00079 Astra High gains Candlestick Maker
+00080 Astra High draws 5 cards
+00081 Fable High starts turn 5
+00082 Fable High plays Copper
+00083 Fable High plays Copper
+00084 Fable High plays Copper
+00085 Fable High plays Copper
+00086 Fable High plays Gold
+00087 Fable High buys Gold
+00088 Fable High gains Gold
+00089 Fable High shuffles
+00090 Fable High draws 5 cards
+00091 Astra High starts turn 6
+00092 Astra High plays Church
+00093 Astra High plays Minion
+00094 Astra High chooses +$2 (Minion)
+00095 Astra High plays Silver
+00096 Astra High plays Copper
+00097 Astra High plays Copper
+00098 Astra High buys Artist
+00099 Astra High takes 8 Debt
+00100 Astra High gains Artist
+00101 Astra High pays off 1 Debt
+00102 Astra High pays off 1 Debt
+00103 Astra High pays off 1 Debt
+00104 Astra High pays off 1 Debt
+00105 Astra High pays off 1 Debt
+00106 Astra High pays off 1 Debt
+00107 Astra High shuffles
+00108 Astra High draws 5 cards
+00109 Fable High starts turn 6
+00110 Fable High plays Candlestick Maker
+00111 Fable High takes a Coffers
+00112 Fable High plays Silver
+00113 Fable High plays Copper
+00114 Fable High plays Copper
+00115 Fable High buys Journey
+00116 Fable High draws 5 cards
+00117 Fable High starts turn 7
+00118 Fable High plays Gold
+00119 Fable High plays Copper
+00120 Fable High plays Copper
+00121 Fable High plays Copper
+00122 Fable High buys Gold
+00123 Fable High gains Gold
+00124 Fable High shuffles
+00125 Fable High draws 5 cards
+00126 Astra High starts turn 7
+00127 Astra High's Church resolves
+00128 Astra High trashes Estate
+00129 Astra High plays Sentinel
+00130 Astra High looks at the top 5 cards of their deck
+00131 Astra High trashes Copper
+00132 Astra High puts 4 cards back onto their deck
+00133 Astra High plays Copper
+00134 Astra High pays off 1 Debt
+00135 Astra High draws 5 cards
+00136 Fable High starts turn 8
+00137 Fable High plays Candlestick Maker
+00138 Fable High takes a Coffers
+00139 Fable High plays Sentinel
+00140 Fable High looks at the top 5 cards of their deck
+00141 Fable High trashes Estate
+00142 Fable High trashes Estate
+00143 Fable High puts 3 cards back onto their deck
+00144 Fable High plays Copper
+00145 Fable High plays Gold
+00146 Fable High plays Copper
+00147 Fable High buys Journey
+00148 Fable High spends a Coffers
+00149 Fable High buys Candlestick Maker
+00150 Fable High gains Candlestick Maker
+00151 Fable High draws 5 cards
+00152 Fable High starts turn 9
+00153 Fable High plays Silver
+00154 Fable High plays Copper
+00155 Fable High plays Copper
+00156 Fable High plays Copper
+00157 Fable High plays Gold
+00158 Fable High buys Gold
+00159 Fable High gains Gold
+00160 Fable High shuffles
+00161 Fable High draws 5 cards
+00162 Astra High starts turn 8
+00163 Astra High plays Candlestick Maker
+00164 Astra High takes a Coffers
+00165 Astra High plays Minion
+00166 Astra High chooses +$2 (Minion)
+00167 Astra High plays Artist
+00168 Astra High shuffles
+00169 Astra High draws 3 cards
+00170 Astra High plays Sentinel
+00171 Astra High looks at the top 4 cards of their deck
+00172 Astra High trashes Estate
+00173 Astra High trashes Estate
+00174 Astra High puts 2 cards back onto their deck
+00175 Astra High plays Silver
+00176 Astra High plays Copper
+00177 Astra High plays Copper
+00178 Astra High plays Copper
+00179 Astra High pays off 1 Debt
+00180 Astra High spends a Coffers
+00181 Astra High buys Sir Martin
+00182 Astra High gains Sir Martin
+00183 Astra High buys Astrolabe
+00184 Astra High gains Astrolabe
+00185 Astra High shuffles
+00186 Astra High draws 5 cards
+00187 Fable High starts turn 10
+00188 Fable High plays Candlestick Maker
+00189 Fable High takes a Coffers
+00190 Fable High plays Copper
+00191 Fable High plays Gold
+00192 Fable High plays Gold
+00193 Fable High plays Gold
+00194 Fable High buys Province
+00195 Fable High gains Province
+00196 Fable High spends a Coffers
+00197 Fable High spends a Coffers
+00198 Fable High buys Journey
+00199 Fable High draws 5 cards
+00200 Fable High starts turn 11
+00201 Fable High plays Candlestick Maker
+00202 Fable High takes a Coffers
+00203 Fable High plays Sentinel
+00204 Fable High shuffles
+00205 Fable High looks at the top 5 cards of their deck
+00206 Fable High trashes Copper
+00207 Fable High trashes Copper
+00208 Fable High puts 3 cards back onto their deck
+00209 Fable High plays Copper
+00210 Fable High plays Gold
+00211 Fable High plays Copper
+00212 Fable High buys Sir Bailey
+00213 Fable High gains Sir Bailey
+00214 Fable High shuffles
+00215 Fable High draws 5 cards
+00216 Astra High starts turn 9
+00217 Astra High plays Church
+00218 Astra High plays Copper
+00219 Astra High plays Astrolabe
+00220 Astra High plays Silver
+00221 Astra High plays Copper
+00222 Astra High buys Academy
+00223 Astra High buys Survivors
+00224 Astra High gains Survivors
+00225 Astra High's Academy resolves
+00226 Astra High takes 1 Villager
+00227 Astra High draws 5 cards
+00228 Fable High starts turn 12
+00229 Fable High plays Silver
+00230 Fable High plays Copper
+00231 Fable High plays Copper
+00232 Fable High plays Gold
+00233 Fable High spends a Coffers
+00234 Fable High buys Province
+00235 Fable High gains Province
+00236 Fable High draws 5 cards
+00237 Astra High starts turn 10
+00238 Astra High's Church resolves
+00239 Astra High trashes Copper
+00240 Astra High's Astrolabe resolves
+00241 Astra High gets +$1
+00242 Astra High gets +1 Buy
+00243 Astra High plays Candlestick Maker
+00244 Astra High takes a Coffers
+00245 Astra High plays Sentinel
+00246 Astra High shuffles
+00247 Astra High looks at the top 5 cards of their deck
+00248 Astra High trashes Copper
+00249 Astra High trashes Copper
+00250 Astra High puts 3 cards back onto their deck
+00251 Astra High spends 1 Villager
+00252 Astra High plays Artist
+00253 Astra High draws 4 cards
+00254 Astra High plays Minion
+00255 Astra High chooses +$2 (Minion)
+00256 Astra High plays Sir Martin
+00257 Fable High reveals Sir Bailey
+00258 Fable High reveals Copper
+00259 Fable High trashes Sir Bailey
+00260 Fable High discards Copper
+00261 Astra High trashes Sir Martin
+00262 Astra High plays Silver
+00263 Astra High plays Copper
+00264 Astra High buys Dame Josephine
+00265 Astra High gains Dame Josephine
+00266 Astra High's Academy resolves
+00267 Astra High takes 1 Villager
+00268 Astra High buys Ruined Village
+00269 Astra High gains Ruined Village
+00270 Astra High's Academy resolves
+00271 Astra High takes 1 Villager
+00272 Astra High shuffles
+00273 Astra High draws 5 cards
+00274 Fable High starts turn 13
+00275 Fable High plays Candlestick Maker
+00276 Fable High takes a Coffers
+00277 Fable High plays Gold
+00278 Fable High plays Gold
+00279 Fable High plays Gold
+00280 Fable High buys Province
+00281 Fable High gains Province
+00282 Fable High spends a Coffers
+00283 Fable High buys Candlestick Maker
+00284 Fable High gains Candlestick Maker
+00285 Fable High shuffles
+00286 Fable High draws 5 cards
+00287 Astra High starts turn 11
+00288 Astra High plays Ruined Village
+00289 Astra High plays Candlestick Maker
+00290 Astra High takes a Coffers
+00291 Astra High plays Dame Josephine
+00292 Fable High reveals Sentinel
+00293 Fable High reveals Province
+00294 Fable High trashes Sentinel
+00295 Fable High discards Province
+00296 Astra High spends 1 Villager
+00297 Astra High plays Artist
+00298 Astra High draws 4 cards
+00299 Astra High plays Church
+00300 Astra High sets aside 2 cards from their hand
+00301 Astra High plays Copper
+00302 Astra High plays Silver
+00303 Astra High spends a Coffers
+00304 Astra High spends a Coffers
+00305 Astra High buys Dame Molly
+00306 Astra High gains Dame Molly
+00307 Astra High's Academy resolves
+00308 Astra High takes 1 Villager
+00309 Astra High shuffles
+00310 Astra High draws 5 cards
+00311 Fable High starts turn 14
+00312 Fable High plays Candlestick Maker
+00313 Fable High takes a Coffers
+00314 Fable High plays Copper
+00315 Fable High plays Copper
+00316 Fable High plays Copper
+00317 Fable High spends a Coffers
+00318 Fable High buys Journey
+00319 Fable High draws 5 cards
+00320 Fable High starts turn 15
+00321 Fable High plays Candlestick Maker
+00322 Fable High takes a Coffers
+00323 Fable High plays Gold
+00324 Fable High plays Gold
+00325 Fable High plays Gold
+00326 Fable High plays Silver
+00327 Fable High buys Province
+00328 Fable High gains Province
+00329 Fable High buys Silver
+00330 Fable High gains Silver
+00331 Fable High shuffles
+00332 Fable High draws 5 cards
+00333 Astra High starts turn 12
+00334 Astra High's Church resolves
+00335 Astra High puts 2 cards they had set aside into their hand
+00336 Astra High trashes Sentinel
+00337 Astra High plays Minion
+00338 Astra High chooses +$2 (Minion)
+00339 Astra High plays Ruined Village
+00340 Astra High plays Artist
+00341 Astra High draws 4 cards
+00342 Astra High plays Dame Molly
+00343 Fable High reveals Candlestick Maker
+00344 Fable High reveals Province
+00345 Fable High discards Candlestick Maker
+00346 Fable High discards Province
+00347 Astra High plays Candlestick Maker
+00348 Astra High takes a Coffers
+00349 Astra High plays Dame Josephine
+00350 Fable High reveals Gold
+00351 Fable High reveals Silver
+00352 Fable High trashes Silver
+00353 Fable High discards Gold
+00354 Astra High plays Astrolabe
+00355 Astra High plays Copper
+00356 Astra High plays Silver
+00357 Astra High buys Death Cart
+00358 Astra High gains Death Cart
+00359 Astra High's Death Cart resolves
+00360 Astra High gains Survivors
+00361 Astra High's Academy resolves
+00362 Astra High takes 1 Villager
+00363 Astra High gains Survivors
+00364 Astra High's Academy resolves
+00365 Astra High takes 1 Villager
+00366 Astra High's Academy resolves
+00367 Astra High takes 1 Villager
+00368 Astra High spends a Coffers
+00369 Astra High buys Silver
+00370 Astra High gains Silver
+00371 Astra High buys Abandoned Mine
+00372 Astra High gains Abandoned Mine
+00373 Astra High's Academy resolves
+00374 Astra High takes 1 Villager
+00375 Astra High shuffles
+00376 Astra High draws 5 cards
+00377 Fable High starts turn 16
+00378 Fable High plays Candlestick Maker
+00379 Fable High takes a Coffers
+00380 Fable High plays Copper
+00381 Fable High plays Gold
+00382 Fable High plays Copper
+00383 Fable High buys Journey
+00384 Fable High buys Copper
+00385 Fable High gains Copper
+00386 Fable High draws 5 cards
+00387 Fable High starts turn 17
+00388 Fable High plays Candlestick Maker
+00389 Fable High takes a Coffers
+00390 Fable High plays Gold
+00391 Fable High plays Copper
+00392 Fable High spends a Coffers
+00393 Fable High buys Duchy
+00394 Fable High gains Duchy
+00395 Fable High shuffles
+00396 Fable High draws 5 cards
+00397 Astra High starts turn 13
+00398 Astra High's Astrolabe resolves
+00399 Astra High gets +$1
+00400 Astra High gets +1 Buy
+00401 Astra High plays Church
+00402 Astra High plays Death Cart
+00403 Astra High trashes Ruined Village
+00404 Astra High spends 1 Villager
+00405 Astra High plays Dame Josephine
+00406 Fable High reveals Copper
+00407 Fable High reveals Province
+00408 Fable High discards Copper
+00409 Fable High discards Province
+00410 Astra High spends 1 Villager
+00411 Astra High plays Abandoned Mine
+00412 Astra High buys Journey
+00413 Astra High buys Silver
+00414 Astra High gains Silver
+00415 Astra High draws 5 cards
+00416 Astra High starts turn 14
+00417 Astra High's Church resolves
+00418 Astra High trashes Copper
+00419 Astra High plays Dame Molly
+00420 Fable High reveals Province
+00421 Fable High reveals Candlestick Maker
+00422 Fable High discards Province
+00423 Fable High discards Candlestick Maker
+00424 Astra High plays Candlestick Maker
+00425 Astra High takes a Coffers
+00426 Astra High plays Survivors
+00427 Astra High looks at the top 2 cards of their deck
+00428 Astra High chooses to discard them (Survivors)
+00429 Astra High discards Minion
+00430 Astra High discards Survivors
+00431 Astra High plays Silver
+00432 Astra High buys Ruined Library
+00433 Astra High gains Ruined Library
+00434 Astra High's Academy resolves
+00435 Astra High takes 1 Villager
+00436 Astra High spends a Coffers
+00437 Astra High buys Artist
+00438 Astra High takes 8 Debt
+00439 Astra High gains Artist
+00440 Astra High's Academy resolves
+00441 Astra High takes 1 Villager
+00442 Astra High pays off 1 Debt
+00443 Astra High pays off 1 Debt
+00444 Astra High pays off 1 Debt
+00445 Astra High shuffles
+00446 Astra High draws 5 cards
+00447 Fable High starts turn 18
+00448 Fable High plays Silver
+00449 Fable High plays Gold
+00450 Fable High plays Copper
+00451 Fable High plays Copper
+00452 Fable High spends a Coffers
+00453 Fable High buys Province
+00454 Fable High gains Province
+00455 Fable High draws 5 cards
+00456 Astra High starts turn 15
+00457 Astra High plays Minion
+00458 Astra High chooses +$2 (Minion)
+00459 Astra High plays Survivors
+00460 Astra High looks at the top 2 cards of their deck
+00461 Astra High chooses to put them back in any order (Survivors)
+00462 Astra High puts 2 cards back onto their deck
+00463 Astra High spends 1 Villager
+00464 Astra High plays Artist
+00465 Astra High draws 3 cards
+00466 Astra High plays Candlestick Maker
+00467 Astra High takes a Coffers
+00468 Astra High plays Ruined Library
+00469 Astra High draws 1 card
+00470 Astra High spends 1 Villager
+00471 Astra High plays Church
+00472 Astra High sets aside a card from their hand
+00473 Astra High plays Silver
+00474 Astra High plays Astrolabe
+00475 Astra High pays off 1 Debt
+00476 Astra High pays off 1 Debt
+00477 Astra High pays off 1 Debt
+00478 Astra High pays off 1 Debt
+00479 Astra High pays off 1 Debt
+00480 Astra High draws 5 cards
+00481 Fable High starts turn 19
+00482 Fable High plays Candlestick Maker
+00483 Fable High takes a Coffers
+00484 Fable High plays Gold
+00485 Fable High plays Copper
+00486 Fable High plays Copper
+00487 Fable High buys Duchy
+00488 Fable High gains Duchy
+00489 Fable High shuffles
+00490 Fable High draws 5 cards
+00491 Astra High starts turn 16
+00492 Astra High's Church resolves
+00493 Astra High puts a card they had set aside into their hand
+00494 Astra High's Astrolabe resolves
+00495 Astra High gets +$1
+00496 Astra High gets +1 Buy
+00497 Astra High plays Dame Molly
+00498 Fable High reveals Candlestick Maker
+00499 Fable High reveals Duchy
+00500 Fable High trashes Duchy
+00501 Fable High discards Candlestick Maker
+00502 Astra High plays Death Cart
+00503 Astra High trashes Survivors
+00504 Astra High plays Artist
+00505 Astra High shuffles
+00506 Astra High draws 5 cards
+00507 Astra High plays Candlestick Maker
+00508 Astra High takes a Coffers
+00509 Astra High plays Dame Josephine
+00510 Fable High reveals Candlestick Maker
+00511 Fable High reveals Province
+00512 Fable High discards Candlestick Maker
+00513 Fable High discards Province
+00514 Astra High spends 1 Villager
+00515 Astra High plays Abandoned Mine
+00516 Astra High plays Silver
+00517 Astra High plays Silver
+00518 Astra High buys Province
+00519 Astra High gains Province
+00520 Astra High spends a Coffers
+00521 Astra High spends a Coffers
+00522 Astra High buys Duchy
+00523 Astra High gains Duchy
+00524 Astra High shuffles
+00525 Astra High draws 5 cards
+00526 Fable High starts turn 20
+00527 Fable High plays Candlestick Maker
+00528 Fable High takes a Coffers
+00529 Fable High plays Gold
+00530 Fable High plays Gold
+00531 Fable High plays Copper
+00532 Fable High spends a Coffers
+00533 Fable High buys Province
+00534 Fable High gains Province
+00535 Fable High draws 5 cards
+00536 Astra High starts turn 17
+00537 Astra High plays Ruined Library
+00538 Astra High draws 1 card
+00539 Astra High spends 1 Villager
+00540 Astra High plays Abandoned Mine
+00541 Astra High spends 1 Villager
+00542 Astra High plays Artist
+00543 Astra High draws 3 cards
+00544 Astra High plays Dame Josephine
+00545 Fable High reveals Province
+00546 Fable High reveals Province
+00547 Fable High discards Province
+00548 Fable High discards Province
+00549 Astra High spends 1 Villager
+00550 Astra High plays Artist
+00551 Astra High draws 3 cards
+00552 Astra High plays Candlestick Maker
+00553 Astra High takes a Coffers
+00554 Astra High plays Minion
+00555 Astra High chooses to discard their hand, +4 Cards; each other player with 5+ cards does too (Minion)
+00556 Astra High discards Silver
+00557 Astra High discards Province
+00558 Astra High discards Astrolabe
+00559 Astra High discards Survivors
+00560 Astra High discards Death Cart
+00561 Astra High draws 4 cards
+00562 Fable High discards Copper
+00563 Fable High discards Copper
+00564 Fable High discards Gold
+00565 Fable High discards Province
+00566 Fable High discards Silver
+00567 Fable High draws 4 cards
+00568 Astra High plays Dame Molly
+00569 Fable High shuffles
+00570 Fable High reveals Province
+00571 Fable High reveals Province
+00572 Fable High discards Province
+00573 Fable High discards Province
+00574 Astra High plays Church
+00575 Astra High sets aside a card from their hand
+00576 Astra High plays Silver
+00577 Astra High spends a Coffers
+00578 Astra High buys Journey
+00579 Astra High shuffles
+00580 Astra High draws 5 cards
+00581 Astra High starts turn 18
+00582 Astra High's Church resolves
+00583 Astra High puts a card they had set aside into their hand
+00584 Astra High trashes Survivors
+00585 Astra High plays Death Cart
+00586 Astra High trashes Survivors
+00587 Astra High plays Silver
+00588 Astra High buys Duchy
+00589 Astra High gains Duchy
+00590 Astra High shuffles
+00591 Astra High draws 5 cards
+00592 Fable High starts turn 21
+00593 Fable High plays Gold
+00594 Fable High plays Copper
+00595 Fable High plays Copper
+00596 Fable High buys Journey
+00597 Fable High draws 5 cards
+00598 Fable High starts turn 22
+00599 Fable High plays Silver
+00600 Fable High plays Copper
+00601 Fable High plays Gold
+00602 Fable High spends a Coffers
+00603 Fable High spends a Coffers
+00604 Fable High buys Province
+00605 Fable High gains Province
+00606 Fable High draws 5 cards

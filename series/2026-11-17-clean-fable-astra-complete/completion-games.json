@@ -1,0 +1,26 @@
+{
+  "running_games": [],
+  "highest_native_game": 76,
+  "series_games": [
+    {
+      "game_id": "g72",
+      "running": false
+    },
+    {
+      "game_id": "g73",
+      "running": false
+    },
+    {
+      "game_id": "g74",
+      "running": false
+    },
+    {
+      "game_id": "g75",
+      "running": false
+    },
+    {
+      "game_id": "g76",
+      "running": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "captured": "2026-11-17T11:17:01.711884+00:00",
+  "games": [
+    {
+      "run": "2026-11-17/fable-astra-g74",
+      "game_id": "g74",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 458,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/fable-astra-g75",
+      "game_id": "g75",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 607,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/fable-astra-g76",
+      "game_id": "g76",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 416,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "score": {
+    "Fable High": 3,
+    "Astra High": 2
+  },
+  "status": "Complete: Fable High wins 3-2; coordinator exited successfully, no extra game created; monitoring schedule disabled.",
+  "playbook": "686351798394ee507cefcc58a5a67891e224c416",
+  "application": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "models_verified": true
+}

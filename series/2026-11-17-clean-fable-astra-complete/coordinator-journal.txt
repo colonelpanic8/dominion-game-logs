@@ -1,0 +1,47 @@
+Nov 17 00:25:18 jimi-hendnix systemd[2435]: Started [systemd-run] /run/current-system/sw/bin/python3 /home/imalison/.local/share/dominion/automation/best_of_series.py /home/imalison/.config/dominion/series/fable-astra-bo5-20261117-clean.toml.
+Nov 17 00:25:18 jimi-hendnix python3[72421]: 2026-11-17T08:25:18.490587+00:00 Started g72: Fable High first, Astra High second
+Nov 17 00:50:13 jimi-hendnix python3[72421]: 2026-11-17T08:50:13.159680+00:00 Coordinator stopped; active agents were left to finish
+Nov 17 00:50:13 jimi-hendnix python3[72421]: Traceback (most recent call last):
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/home/imalison/.local/share/dominion/automation/best_of_series.py", line 102, in model_check
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     event = json.loads(line)
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/nix/store/4168xqs4l5jbfc7xyi9zrhdhszx0pnlb-python3-3.13.16/lib/python3.13/json/__init__.py", line 352, in loads
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     return _default_decoder.decode(s)
+Nov 17 00:50:13 jimi-hendnix python3[72421]:            ~~~~~~~~~~~~~~~~~~~~~~~^^^
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/nix/store/4168xqs4l5jbfc7xyi9zrhdhszx0pnlb-python3-3.13.16/lib/python3.13/json/decoder.py", line 345, in decode
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+Nov 17 00:50:13 jimi-hendnix python3[72421]:                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/nix/store/4168xqs4l5jbfc7xyi9zrhdhszx0pnlb-python3-3.13.16/lib/python3.13/json/decoder.py", line 363, in raw_decode
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     raise JSONDecodeError("Expecting value", s, err.value) from None
+Nov 17 00:50:13 jimi-hendnix python3[72421]: json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Nov 17 00:50:13 jimi-hendnix python3[72421]: During handling of the above exception, another exception occurred:
+Nov 17 00:50:13 jimi-hendnix python3[72421]: Traceback (most recent call last):
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/home/imalison/.local/share/dominion/automation/best_of_series.py", line 263, in <module>
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     BestOfSeries(tomllib.load(handle)).run()
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/home/imalison/.local/share/dominion/automation/best_of_series.py", line 250, in run
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     while not self.tick():
+Nov 17 00:50:13 jimi-hendnix python3[72421]:               ~~~~~~~~~^^
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/home/imalison/.local/share/dominion/automation/best_of_series.py", line 171, in tick
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     model_check = self.model_check(active)
+Nov 17 00:50:13 jimi-hendnix python3[72421]:   File "/home/imalison/.local/share/dominion/automation/best_of_series.py", line 105, in model_check
+Nov 17 00:50:13 jimi-hendnix python3[72421]:     raise RuntimeError("Malformed complete archive record")
+Nov 17 00:50:13 jimi-hendnix python3[72421]: RuntimeError: Malformed complete archive record
+Nov 17 00:50:13 jimi-hendnix systemd[2435]: dominion-fable-astra-bo5-20261117-clean.service: Main process exited, code=exited, status=1/FAILURE
+Nov 17 00:50:13 jimi-hendnix systemd[2435]: dominion-fable-astra-bo5-20261117-clean.service: Failed with result 'exit-code'.
+Nov 17 00:50:13 jimi-hendnix systemd[2435]: dominion-fable-astra-bo5-20261117-clean.service: Consumed 10.016s CPU time over 24min 54.880s wall clock time, 25.1M memory peak.
+Nov 17 00:57:22 jimi-hendnix systemd[2435]: Started [systemd-run] /run/current-system/sw/bin/python3 /home/imalison/.local/share/dominion/automation/best_of_series.py /home/imalison/.config/dominion/series/fable-astra-bo5-20261117-clean.toml.
+Nov 17 01:00:05 jimi-hendnix python3[116480]: 2026-11-17T09:00:05.440599+00:00 Finished g72; score={'Fable High': 0, 'Astra High': 1}, winner=Astra High
+Nov 17 01:00:05 jimi-hendnix python3[116480]: 2026-11-17T09:00:05.522418+00:00 Started g73: Astra High first, Fable High second
+Nov 17 01:35:22 jimi-hendnix python3[116480]: 2026-11-17T09:35:22.724247+00:00 Finished g73; score={'Fable High': 0, 'Astra High': 2}, winner=Astra High
+Nov 17 01:38:13 jimi-hendnix systemd[2435]: Stopping [systemd-run] /run/current-system/sw/bin/python3 /home/imalison/.local/share/dominion/automation/best_of_series.py /home/imalison/.config/dominion/series/fable-astra-bo5-20261117-clean.toml...
+Nov 17 01:38:13 jimi-hendnix systemd[2435]: Stopped [systemd-run] /run/current-system/sw/bin/python3 /home/imalison/.local/share/dominion/automation/best_of_series.py /home/imalison/.config/dominion/series/fable-astra-bo5-20261117-clean.toml.
+Nov 17 01:38:13 jimi-hendnix systemd[2435]: dominion-fable-astra-bo5-20261117-clean.service: Consumed 21.880s CPU time over 40min 51.491s wall clock time, 50.5M memory peak, 22.4M memory swap peak.
+Nov 17 01:38:58 jimi-hendnix systemd[2435]: Started [systemd-run] /run/current-system/sw/bin/python3 /home/imalison/.local/share/dominion/automation/best_of_series.py /home/imalison/.config/dominion/series/fable-astra-bo5-20261117-clean.toml.
+Nov 17 01:38:58 jimi-hendnix python3[200681]: 2026-11-17T09:38:58.415981+00:00 Started g74: Fable High first, Astra High second
+Nov 17 02:14:54 jimi-hendnix python3[200681]: 2026-11-17T10:14:54.765839+00:00 Finished g74; score={'Fable High': 1, 'Astra High': 2}, winner=Fable High
+Nov 17 02:14:54 jimi-hendnix python3[200681]: 2026-11-17T10:14:54.792574+00:00 Started g75: Astra High first, Fable High second
+Nov 17 02:49:10 jimi-hendnix python3[200681]: 2026-11-17T10:49:10.308223+00:00 Finished g75; score={'Fable High': 2, 'Astra High': 2}, winner=Fable High
+Nov 17 02:49:10 jimi-hendnix python3[200681]: 2026-11-17T10:49:10.338324+00:00 Started g76: Fable High first, Astra High second
+Nov 17 03:15:48 jimi-hendnix python3[200681]: 2026-11-17T11:15:48.932885+00:00 Finished g76; score={'Fable High': 3, 'Astra High': 2}, winner=Fable High
+Nov 17 03:15:48 jimi-hendnix python3[200681]: 2026-11-17T11:15:48.933031+00:00 Best-of-five complete: Fable High; {'Fable High': 3, 'Astra High': 2}
+Nov 17 03:15:48 jimi-hendnix systemd[2435]: dominion-fable-astra-bo5-20261117-clean.service: Consumed 52.211s CPU time over 1h 36min 50.688s wall clock time, 52.1M memory peak.

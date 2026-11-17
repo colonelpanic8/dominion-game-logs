@@ -1,0 +1,156 @@
+{
+  "winner": "Fable High",
+  "score": {
+    "Fable High": 3,
+    "Astra High": 2
+  },
+  "games": [
+    {
+      "game_id": "g72",
+      "winner": "Astra High",
+      "eligible_for_score": true,
+      "run": "../../runs/2026-11-17/fable-astra-g72",
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794903918486-f6fec1405a27333e",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794903918486-fc3f20bde0e69b58",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "game_id": "g73",
+      "winner": "Astra High",
+      "eligible_for_score": true,
+      "run": "../../runs/2026-11-17/fable-astra-g73",
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794906005517-e513fad29919bad3",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794906005517-fa7047d222eed7ec",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "game_id": "g74",
+      "winner": "Fable High",
+      "eligible_for_score": true,
+      "run": "../../runs/2026-11-17/fable-astra-g74",
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794908338413-4d26d958fb6ab956",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794908338413-6b5d0f1ff09ed7b5",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "game_id": "g75",
+      "winner": "Fable High",
+      "eligible_for_score": true,
+      "run": "../../runs/2026-11-17/fable-astra-g75",
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794910494789-1f0b7547f44447ea",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794910494789-281dfa7018773680",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "game_id": "g76",
+      "winner": "Fable High",
+      "eligible_for_score": true,
+      "run": "../../runs/2026-11-17/fable-astra-g76",
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794912550335-d7b9d18913541daa",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794912550335-da992195e0ba697b",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    }
+  ],
+  "prior_snapshot": "../2026-11-17-clean-fable-astra-before-session-refresh",
+  "coverage": "g72/g73 immutable runs were published in 8b4a15d. This snapshot appends g74/g75/g76 and final series metadata. All matching sessions including retries are included in the respective run. Public final-watch plus requested seed and exact seat configurations are retained instead of credential-bearing engine saves."
+}

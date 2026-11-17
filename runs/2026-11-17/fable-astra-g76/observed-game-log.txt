@@ -1,0 +1,416 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High buys Silver
+00005 Fable High gains Silver
+00006 Fable High draws 5 cards
+00007 Astra High starts turn 1
+00008 Astra High plays Cursed Gold
+00009 Astra High gains Curse
+00010 Astra High plays Copper
+00011 Astra High plays Copper
+00012 Astra High plays Copper
+00013 Astra High buys Recruiter
+00014 Astra High gains Recruiter
+00015 Astra High draws 5 cards
+00016 Fable High starts turn 2
+00017 Fable High plays Copper
+00018 Fable High plays Copper
+00019 Fable High plays Cursed Gold
+00020 Fable High gains Curse
+00021 Fable High plays Copper
+00022 Fable High buys Recruiter
+00023 Fable High gains Recruiter
+00024 Fable High shuffles
+00025 Fable High draws 5 cards
+00026 Astra High starts turn 2
+00027 Astra High plays Copper
+00028 Astra High plays Copper
+00029 Astra High plays Copper
+00030 Astra High buys Cargo Ship
+00031 Astra High gains Cargo Ship
+00032 Astra High shuffles
+00033 Astra High draws 5 cards
+00034 Fable High starts turn 3
+00035 Fable High plays Silver
+00036 Fable High plays Copper
+00037 Fable High plays Copper
+00038 Fable High plays Copper
+00039 Fable High buys Governor
+00040 Fable High gains Governor
+00041 Fable High draws 5 cards
+00042 Astra High starts turn 3
+00043 Astra High plays Copper
+00044 Astra High plays Copper
+00045 Astra High plays Copper
+00046 Astra High buys City Gate
+00047 Astra High draws 5 cards
+00048 Fable High starts turn 4
+00049 Fable High plays Recruiter
+00050 Fable High draws 2 cards
+00051 Fable High trashes Estate
+00052 Fable High takes 2 Villagers
+00053 Fable High plays Copper
+00054 Fable High plays Cursed Gold
+00055 Fable High gains Curse
+00056 Fable High plays Copper
+00057 Fable High plays Copper
+00058 Fable High buys Governor
+00059 Fable High gains Governor
+00060 Fable High shuffles
+00061 Fable High draws 5 cards
+00062 Astra High starts turn 4
+00063 Astra High's City Gate resolves
+00064 Astra High draws 1 card
+00065 Astra High puts a card from their hand onto their deck
+00066 Astra High plays Recruiter
+00067 Astra High draws 2 cards
+00068 Astra High trashes Estate
+00069 Astra High takes 2 Villagers
+00070 Astra High spends 1 Villager
+00071 Astra High plays Cargo Ship
+00072 Astra High plays Copper
+00073 Astra High plays Cursed Gold
+00074 Astra High gains Curse
+00075 Astra High buys Governor
+00076 Astra High gains Governor
+00077 Astra High's Cargo Ship resolves
+00078 Astra High sets aside Governor
+00079 Astra High shuffles
+00080 Astra High draws 5 cards
+00081 Fable High starts turn 5
+00082 Fable High plays Recruiter
+00083 Fable High draws 2 cards
+00084 Fable High trashes Estate
+00085 Fable High takes 2 Villagers
+00086 Fable High plays Copper
+00087 Fable High plays Copper
+00088 Fable High plays Copper
+00089 Fable High plays Copper
+00090 Fable High plays Copper
+00091 Fable High buys Recruiter
+00092 Fable High gains Recruiter
+00093 Fable High draws 5 cards
+00094 Astra High starts turn 5
+00095 Astra High's Cargo Ship resolves
+00096 Astra High puts Governor they had set aside into their hand
+00097 Astra High's City Gate resolves
+00098 Astra High draws 1 card
+00099 Astra High puts a card from their hand onto their deck
+00100 Astra High plays Governor
+00101 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00102 Astra High draws 3 cards
+00103 Fable High draws 1 card
+00104 Astra High plays Copper
+00105 Astra High plays Copper
+00106 Astra High plays Copper
+00107 Astra High plays Copper
+00108 Astra High plays Copper
+00109 Astra High buys Recruiter
+00110 Astra High gains Recruiter
+00111 Astra High shuffles
+00112 Astra High draws 5 cards
+00113 Fable High starts turn 6
+00114 Fable High plays Governor
+00115 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00116 Fable High shuffles
+00117 Fable High draws 3 cards
+00118 Astra High draws 1 card
+00119 Fable High plays Governor
+00120 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00121 Fable High draws 3 cards
+00122 Astra High draws 1 card
+00123 Fable High plays Silver
+00124 Fable High plays Copper
+00125 Fable High plays Copper
+00126 Fable High plays Copper
+00127 Fable High buys Governor
+00128 Fable High gains Governor
+00129 Fable High shuffles
+00130 Fable High draws 5 cards
+00131 Astra High starts turn 6
+00132 Astra High's City Gate resolves
+00133 Astra High draws 1 card
+00134 Astra High puts a card from their hand onto their deck
+00135 Astra High plays Recruiter
+00136 Astra High draws 2 cards
+00137 Astra High trashes Estate
+00138 Astra High takes 2 Villagers
+00139 Astra High plays Cursed Gold
+00140 Astra High gains Curse
+00141 Astra High plays Copper
+00142 Astra High plays Copper
+00143 Astra High plays Copper
+00144 Astra High plays Copper
+00145 Astra High buys Governor
+00146 Astra High gains Governor
+00147 Astra High draws 5 cards
+00148 Fable High starts turn 7
+00149 Fable High plays Recruiter
+00150 Fable High draws 2 cards
+00151 Fable High trashes Curse
+00152 Fable High spends 1 Villager
+00153 Fable High plays Governor
+00154 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00155 Fable High draws 3 cards
+00156 Astra High draws 1 card
+00157 Fable High plays Governor
+00158 Fable High chooses to gain a Gold (others a Silver) (Governor)
+00159 Fable High gains Gold
+00160 Astra High gains Silver
+00161 Fable High plays Governor
+00162 Fable High chooses to gain a Gold (others a Silver) (Governor)
+00163 Fable High gains Gold
+00164 Astra High gains Silver
+00165 Fable High plays Recruiter
+00166 Fable High draws 2 cards
+00167 Fable High trashes Curse
+00168 Fable High plays Copper
+00169 Fable High plays Copper
+00170 Fable High plays Silver
+00171 Fable High plays Copper
+00172 Fable High buys Governor
+00173 Fable High gains Governor
+00174 Fable High shuffles
+00175 Fable High draws 5 cards
+00176 Astra High starts turn 7
+00177 Astra High's City Gate resolves
+00178 Astra High shuffles
+00179 Astra High draws 1 card
+00180 Astra High puts a card from their hand onto their deck
+00181 Astra High plays Governor
+00182 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00183 Astra High draws 3 cards
+00184 Fable High draws 1 card
+00185 Astra High plays Recruiter
+00186 Astra High draws 2 cards
+00187 Astra High trashes Cursed Gold
+00188 Astra High takes 4 Villagers
+00189 Astra High spends 1 Villager
+00190 Astra High plays Cargo Ship
+00191 Astra High plays Copper
+00192 Astra High plays Copper
+00193 Astra High plays Copper
+00194 Astra High plays Silver
+00195 Astra High plays Copper
+00196 Astra High plays Copper
+00197 Astra High buys Governor
+00198 Astra High gains Governor
+00199 Astra High's Cargo Ship resolves
+00200 Astra High sets aside Governor
+00201 Astra High draws 5 cards
+00202 Fable High starts turn 8
+00203 Fable High plays Governor
+00204 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00205 Fable High draws 3 cards
+00206 Astra High draws 1 card
+00207 Fable High plays Governor
+00208 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00209 Fable High draws 3 cards
+00210 Astra High draws 1 card
+00211 Fable High plays Recruiter
+00212 Fable High draws 2 cards
+00213 Fable High trashes Estate
+00214 Fable High takes 2 Villagers
+00215 Fable High spends 1 Villager
+00216 Fable High plays Governor
+00217 Fable High chooses to trash a card, gain one costing exactly $2 more (others $1 more) (Governor)
+00218 Fable High trashes Gold
+00219 Fable High gains Province
+00220 Astra High trashes Curse
+00221 Fable High plays Governor
+00222 Fable High chooses to gain a Gold (others a Silver) (Governor)
+00223 Fable High gains Gold
+00224 Astra High gains Silver
+00225 Fable High plays Copper
+00226 Fable High plays Cursed Gold
+00227 Fable High gains Curse
+00228 Fable High plays Copper
+00229 Fable High plays Copper
+00230 Fable High plays Copper
+00231 Fable High plays Copper
+00232 Fable High plays Silver
+00233 Fable High buys Province
+00234 Fable High gains Province
+00235 Fable High shuffles
+00236 Fable High draws 5 cards
+00237 Astra High starts turn 8
+00238 Astra High's Cargo Ship resolves
+00239 Astra High puts Governor they had set aside into their hand
+00240 Astra High's City Gate resolves
+00241 Astra High shuffles
+00242 Astra High draws 1 card
+00243 Astra High puts a card from their hand onto their deck
+00244 Astra High plays Governor
+00245 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00246 Astra High draws 3 cards
+00247 Fable High draws 1 card
+00248 Astra High plays Recruiter
+00249 Astra High draws 2 cards
+00250 Astra High trashes Curse
+00251 Astra High spends 1 Villager
+00252 Astra High plays Governor
+00253 Astra High chooses to trash a card, gain one costing exactly $2 more (others $1 more) (Governor)
+00254 Astra High trashes Silver
+00255 Astra High gains Governor
+00256 Astra High plays Governor
+00257 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00258 Astra High draws 3 cards
+00259 Fable High draws 1 card
+00260 Astra High plays Copper
+00261 Astra High plays Copper
+00262 Astra High plays Copper
+00263 Astra High plays Silver
+00264 Astra High plays Copper
+00265 Astra High plays Copper
+00266 Astra High plays Copper
+00267 Astra High buys Governor
+00268 Astra High gains Governor
+00269 Astra High shuffles
+00270 Astra High draws 5 cards
+00271 Fable High starts turn 9
+00272 Fable High plays Governor
+00273 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00274 Fable High draws 3 cards
+00275 Astra High draws 1 card
+00276 Fable High plays Recruiter
+00277 Fable High draws 2 cards
+00278 Fable High trashes Curse
+00279 Fable High spends 1 Villager
+00280 Fable High plays Governor
+00281 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00282 Fable High draws 3 cards
+00283 Astra High draws 1 card
+00284 Fable High plays Governor
+00285 Fable High chooses to trash a card, gain one costing exactly $2 more (others $1 more) (Governor)
+00286 Fable High trashes Gold
+00287 Fable High gains Province
+00288 Astra High trashes Curse
+00289 Fable High plays Copper
+00290 Fable High plays Cursed Gold
+00291 Fable High gains Curse
+00292 Fable High plays Copper
+00293 Fable High plays Copper
+00294 Fable High plays Copper
+00295 Fable High plays Copper
+00296 Fable High buys Province
+00297 Fable High gains Province
+00298 Fable High shuffles
+00299 Fable High draws 5 cards
+00300 Astra High starts turn 9
+00301 Astra High's City Gate resolves
+00302 Astra High draws 1 card
+00303 Astra High puts a card from their hand onto their deck
+00304 Astra High plays Governor
+00305 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00306 Astra High draws 3 cards
+00307 Fable High draws 1 card
+00308 Astra High plays Recruiter
+00309 Astra High draws 2 cards
+00310 Astra High trashes Copper
+00311 Astra High spends 1 Villager
+00312 Astra High plays Governor
+00313 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00314 Astra High draws 3 cards
+00315 Fable High draws 1 card
+00316 Astra High plays Governor
+00317 Astra High chooses to gain a Gold (others a Silver) (Governor)
+00318 Astra High gains Gold
+00319 Fable High gains Silver
+00320 Astra High plays Recruiter
+00321 Astra High draws 2 cards
+00322 Astra High trashes Silver
+00323 Astra High takes 3 Villagers
+00324 Astra High spends 1 Villager
+00325 Astra High plays Governor
+00326 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00327 Astra High shuffles
+00328 Astra High draws 2 cards
+00329 Fable High draws 1 card
+00330 Astra High plays Governor
+00331 Astra High chooses to trash a card, gain one costing exactly $2 more (others $1 more) (Governor)
+00332 Astra High trashes Silver
+00333 Astra High gains Duchy
+00334 Fable High trashes Curse
+00335 Astra High plays Cargo Ship
+00336 Astra High plays Copper
+00337 Astra High plays Copper
+00338 Astra High plays Copper
+00339 Astra High plays Copper
+00340 Astra High plays Copper
+00341 Astra High plays Gold
+00342 Astra High buys Province
+00343 Astra High gains Province
+00344 Astra High's Cargo Ship resolves
+00345 Astra High sets aside Province
+00346 Astra High shuffles
+00347 Astra High draws 5 cards
+00348 Fable High starts turn 10
+00349 Fable High plays Governor
+00350 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00351 Fable High draws 3 cards
+00352 Astra High draws 1 card
+00353 Fable High plays Recruiter
+00354 Fable High draws 2 cards
+00355 Fable High trashes Silver
+00356 Fable High takes 3 Villagers
+00357 Fable High spends 1 Villager
+00358 Fable High plays Governor
+00359 Fable High chooses to trash a card, gain one costing exactly $2 more (others $1 more) (Governor)
+00360 Fable High trashes Gold
+00361 Fable High gains Province
+00362 Astra High trashes Copper
+00363 Fable High plays Copper
+00364 Fable High plays Copper
+00365 Fable High plays Copper
+00366 Fable High plays Cursed Gold
+00367 Fable High gains Curse
+00368 Fable High plays Copper
+00369 Fable High plays Copper
+00370 Fable High buys Province
+00371 Fable High gains Province
+00372 Fable High draws 5 cards
+00373 Astra High starts turn 10
+00374 Astra High's Cargo Ship resolves
+00375 Astra High puts Province they had set aside into their hand
+00376 Astra High's City Gate resolves
+00377 Astra High draws 1 card
+00378 Astra High puts a card from their hand onto their deck
+00379 Astra High plays Recruiter
+00380 Astra High draws 2 cards
+00381 Astra High trashes Copper
+00382 Astra High spends 1 Villager
+00383 Astra High plays Governor
+00384 Astra High chooses +3 Cards (others +1 Card) (Governor)
+00385 Astra High draws 3 cards
+00386 Fable High draws 1 card
+00387 Astra High plays Copper
+00388 Astra High plays Copper
+00389 Astra High plays Gold
+00390 Astra High buys Displace
+00391 Astra High gains Displace
+00392 Astra High shuffles
+00393 Astra High draws 5 cards
+00394 Fable High starts turn 11
+00395 Fable High plays Governor
+00396 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00397 Fable High shuffles
+00398 Fable High draws 3 cards
+00399 Astra High draws 1 card
+00400 Fable High plays Governor
+00401 Fable High chooses +3 Cards (others +1 Card) (Governor)
+00402 Fable High draws 3 cards
+00403 Astra High draws 1 card
+00404 Fable High plays Recruiter
+00405 Fable High draws 2 cards
+00406 Fable High trashes Curse
+00407 Fable High plays Copper
+00408 Fable High plays Silver
+00409 Fable High plays Copper
+00410 Fable High plays Copper
+00411 Fable High plays Cursed Gold
+00412 Fable High gains Curse
+00413 Fable High buys Province
+00414 Fable High gains Province
+00415 Fable High draws 5 cards

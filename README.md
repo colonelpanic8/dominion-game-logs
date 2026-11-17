@@ -48,6 +48,9 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 | [2026-11-17/sol-high-186043435](runs/2026-11-17/sol-high-186043435) | gpt-6.1-sol high | human | 186043435: thepilferer 4, SolDominion 18 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186043033](runs/2026-11-17/sol-high-186043033) | gpt-6.1-sol high | human | 186043033: SolDominion 30, Kaityo_777 28 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186042551](runs/2026-11-17/sol-high-186042551) | gpt-6.1-sol high | human | 186042551: wyan 34, SolDominion 46 | e565fe8 | ? |  |
+| [2026-11-17/fable-astra-g76](runs/2026-11-17/fable-astra-g76) | Fable High vs Astra High high | agent | g76: Fable High 39, Astra High 8 | 6863517 | ? |  |
+| [2026-11-17/fable-astra-g75](runs/2026-11-17/fable-astra-g75) | Fable High vs Astra High high | agent | g75: Astra High 14, Fable High 45 | 6863517 | ? |  |
+| [2026-11-17/fable-astra-g74](runs/2026-11-17/fable-astra-g74) | Fable High vs Astra High high | agent | g74: Fable High 46, Astra High 34 | 6863517 | ? |  |
 | [2026-11-17/fable-astra-g73](runs/2026-11-17/fable-astra-g73) | Fable High vs Astra High high | agent | g73: Astra High 36, Fable High 27 | 6863517 | ? |  |
 | [2026-11-17/fable-astra-g72](runs/2026-11-17/fable-astra-g72) | Fable High vs Astra High high | agent | g72: Fable High 35, Astra High 37 | 6863517 | ? |  |
 | [2026-11-16/sol-high-186042286](runs/2026-11-16/sol-high-186042286) | gpt-6.1-sol high | human | 186042286: 34msms 49, SolDominion 15 | e565fe8 | ? |  |
