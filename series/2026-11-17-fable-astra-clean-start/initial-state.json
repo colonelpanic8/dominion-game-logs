@@ -1,0 +1,82 @@
+{
+  "created_at": "2026-11-17T08:23:01.166997+00:00",
+  "phase": "playing",
+  "completed": [],
+  "active_game": "g72",
+  "creation_pending": false,
+  "score": {
+    "Fable High": 0,
+    "Astra High": 0
+  },
+  "previous_attempt": "fable-astra-bo5-20261116",
+  "user_adjudication": "Start a fresh best-of-five. Prior mixed-model games and technical forfeit retained separately and do not count here.",
+  "playbook_revision": "686351798394ee507cefcc58a5a67891e224c416",
+  "application_revision": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "updated_at": "2026-11-17T08:26:39.054962+00:00",
+  "agents": [
+    "Fable High",
+    "Astra High"
+  ],
+  "best_of": 5,
+  "wins_needed": 3,
+  "pending_request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 13205529954211679146,
+    "watchable": true
+  },
+  "active_request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 13205529954211679146,
+    "watchable": true
+  },
+  "current_turn": {
+    "number": 1,
+    "player": 0,
+    "activePlayer": "Fable High",
+    "yourTurn": false,
+    "phase": "buy",
+    "actions": 1,
+    "buys": 1,
+    "coins": 0,
+    "potions": 0
+  },
+  "model_verification": {
+    "eligible": true,
+    "finished": false,
+    "sessions": [
+      {
+        "archive": "1794903918486-f6fec1405a27333e",
+        "agent": "Astra High",
+        "models": [
+          "gpt-6-astra"
+        ],
+        "finished": false
+      },
+      {
+        "archive": "1794903918486-fc3f20bde0e69b58",
+        "agent": "Fable High",
+        "models": [
+          "claude-fable-5-2"
+        ],
+        "finished": false
+      }
+    ],
+    "problems": []
+  }
+}
