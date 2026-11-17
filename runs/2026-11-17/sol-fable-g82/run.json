@@ -1,0 +1,227 @@
+{
+  "run": "2026-11-17/sol-fable-g82",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g82",
+  "official_game_id": null,
+  "series_game_number": 6,
+  "captured": "2026-11-17T20:45:59.713791+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Sol High vs Fable High",
+    "effort": "high",
+    "opponent": "agent",
+    "players": 2,
+    "rated": false,
+    "configuration": {
+      "players": 2,
+      "names": [
+        "Fable High",
+        "Sol High"
+      ],
+      "agents": [
+        "Fable High",
+        "Sol High"
+      ],
+      "seed": 16208182309453505578,
+      "watchable": true
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "note": "Verified live revised playbook and exact requested profiles; actual native model messages independently checked."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794945877529-72f87855ee847a79",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Soothsayer",
+          "Forge",
+          "Oasis",
+          "Herald",
+          "DeathCart",
+          "Fortress",
+          "Hamlet",
+          "GoldMine",
+          "TreasureTrove",
+          "Galleria"
+        ],
+        "landscapes": [
+          "SaltTheEarth",
+          "Journey"
+        ],
+        "players": 2,
+        "seed": 16208182309453505578,
+        "shelters": null,
+        "turn_limit": null
+      },
+      "started_ms": 1794945877530,
+      "last_event_ms": 1794948021780,
+      "files": [
+        {
+          "file": "sessions/1794945877529-72f87855ee847a79/interactions.jsonl.gz",
+          "source_sha256": "0f20f3aae2b6c368dab821bf64b765855d74c94fdd9d2d20b9f807684c67011f",
+          "source_bytes": 7309312
+        },
+        {
+          "file": "sessions/1794945877529-72f87855ee847a79/network.jsonl.gz",
+          "source_sha256": "fbfc1911b3e6866fed49c78e50f7aefaf584801f47f4b88489a277c471cc8ac4",
+          "source_bytes": 165
+        },
+        {
+          "file": "sessions/1794945877529-72f87855ee847a79/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794945877529-72f87855ee847a79/response-000001.stdout.jsonl.gz",
+          "source_sha256": "71120127b03c4de67c17bd27413a86e033e565ffc83b47fdc3f5c46a7fe45587",
+          "source_bytes": 5575541
+        },
+        {
+          "file": "sessions/1794945877529-72f87855ee847a79/transcript.jsonl.gz",
+          "source_sha256": "19335ab43c2b69f1a5dbf56737da7236bd57ef985e07071b51487dabf592671a",
+          "source_bytes": 1281620
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 203
+      },
+      "direct_request_models": [],
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": false,
+          "stop_reason": "end_turn"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    },
+    {
+      "id": "1794945877529-98ce688a2d4e1611",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Soothsayer",
+          "Forge",
+          "Oasis",
+          "Herald",
+          "DeathCart",
+          "Fortress",
+          "Hamlet",
+          "GoldMine",
+          "TreasureTrove",
+          "Galleria"
+        ],
+        "landscapes": [
+          "SaltTheEarth",
+          "Journey"
+        ],
+        "players": 2,
+        "seed": 16208182309453505578,
+        "shelters": null,
+        "turn_limit": null
+      },
+      "started_ms": 1794945877530,
+      "last_event_ms": 1794948020686,
+      "files": [
+        {
+          "file": "sessions/1794945877529-98ce688a2d4e1611/interactions.jsonl.gz",
+          "source_sha256": "1ababc501f8cad3438cb2cb8d8768a3ef00b5c9009ece9ba7a72b0c39af0bc5b",
+          "source_bytes": 8727139
+        },
+        {
+          "file": "sessions/1794945877529-98ce688a2d4e1611/transcript.jsonl.gz",
+          "source_sha256": "acbf0592d77f7e251f9ae337c00e58bcb95362f24761d00badadbe269d7c12e0",
+          "source_bytes": 166888
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {},
+      "direct_request_models": [
+        "gpt-6.1-sol"
+      ],
+      "cli_results": [],
+      "actual_model_note": "Empty model counts for direct OpenAI: model is recorded in agent specification and direct_request events."
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 646,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "g82",
+        "result": {
+          "reason": "colonies-gone",
+          "players": [
+            {
+              "index": 0,
+              "name": "Fable High",
+              "vp": 35,
+              "rank": 2,
+              "turns": 18,
+              "points": 35
+            },
+            {
+              "index": 1,
+              "name": "Sol High",
+              "vp": 41,
+              "rank": 1,
+              "turns": 18,
+              "points": 41
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-17-sol-fable-seven/README.md"
+}

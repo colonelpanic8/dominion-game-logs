@@ -1,0 +1,481 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High buys Silver
+00005 Fable High gains Silver
+00006 Fable High draws 5 cards
+00007 Sol High starts turn 1
+00008 Sol High plays Copper
+00009 Sol High plays Copper
+00010 Sol High plays Copper
+00011 Sol High plays Copper
+00012 Sol High plays Copper
+00013 Sol High buys Sanctuary
+00014 Sol High gains Sanctuary
+00015 Sol High's Defiled Shrine resolves
+00016 1 VP token removed from the Sanctuary pile
+00017 Sol High draws 5 cards
+00018 Fable High starts turn 2
+00019 Fable High plays Copper
+00020 Fable High plays Copper
+00021 Fable High plays Copper
+00022 Fable High plays Copper
+00023 Fable High buys Silver
+00024 Fable High gains Silver
+00025 Fable High shuffles
+00026 Fable High draws 5 cards
+00027 Sol High starts turn 2
+00028 Sol High plays Copper
+00029 Sol High plays Copper
+00030 Sol High buys Coin of the Realm
+00031 Sol High gains Coin of the Realm
+00032 Sol High shuffles
+00033 Sol High draws 5 cards
+00034 Fable High starts turn 3
+00035 Fable High plays Copper
+00036 Fable High plays Silver
+00037 Fable High plays Copper
+00038 Fable High buys Silver
+00039 Fable High gains Silver
+00040 Fable High draws 5 cards
+00041 Sol High starts turn 3
+00042 Sol High plays Coin of the Realm
+00043 Sol High puts Coin of the Realm from play on their Tavern mat
+00044 Sol High plays Copper
+00045 Sol High plays Copper
+00046 Sol High buys Silver
+00047 Sol High gains Silver
+00048 Sol High draws 5 cards
+00049 Fable High starts turn 4
+00050 Fable High plays Copper
+00051 Fable High plays Copper
+00052 Fable High plays Copper
+00053 Fable High plays Copper
+00054 Fable High plays Copper
+00055 Fable High buys Sanctuary
+00056 Fable High gains Sanctuary
+00057 Fable High's Defiled Shrine resolves
+00058 1 VP token removed from the Sanctuary pile
+00059 Fable High shuffles
+00060 Fable High draws 5 cards
+00061 Sol High starts turn 4
+00062 Sol High plays Sanctuary
+00063 Sol High draws 1 card
+00064 Sol High puts Estate from their hand on their Exile mat
+00065 Sol High plays Copper
+00066 Sol High plays Copper
+00067 Sol High plays Copper
+00068 Sol High plays Copper
+00069 Sol High buys Poacher
+00070 Sol High gains Poacher
+00071 Sol High's Defiled Shrine resolves
+00072 1 VP token removed from the Poacher pile
+00073 Sol High buys Curse
+00074 Sol High gains Curse
+00075 Sol High's Defiled Shrine resolves
+00076 Sol High takes 3 VP tokens
+00077 Sol High shuffles
+00078 Sol High draws 5 cards
+00079 Fable High starts turn 5
+00080 Fable High plays Silver
+00081 Fable High plays Copper
+00082 Fable High plays Copper
+00083 Fable High buys Silver
+00084 Fable High gains Silver
+00085 Fable High draws 5 cards
+00086 Sol High starts turn 5
+00087 Sol High plays Sanctuary
+00088 Sol High draws 1 card
+00089 Sol High puts Copper from their hand on their Exile mat
+00090 Sol High plays Poacher
+00091 Sol High draws 1 card
+00092 Sol High plays Copper
+00093 Sol High plays Silver
+00094 Sol High plays Copper
+00095 Sol High plays Copper
+00096 Sol High buys Tragic Hero
+00097 Sol High gains Tragic Hero
+00098 Sol High's Defiled Shrine resolves
+00099 1 VP token removed from the Tragic Hero pile
+00100 Sol High draws 5 cards
+00101 Fable High starts turn 6
+00102 Fable High plays Copper
+00103 Fable High plays Copper
+00104 Fable High plays Copper
+00105 Fable High plays Silver
+00106 Fable High plays Silver
+00107 Fable High buys Mining Road
+00108 Fable High gains Mining Road
+00109 Fable High's Defiled Shrine resolves
+00110 1 VP token removed from the Mining Road pile
+00111 Fable High shuffles
+00112 Fable High draws 5 cards
+00113 Sol High starts turn 6
+00114 Sol High plays Copper
+00115 Sol High plays Copper
+00116 Sol High buys Snake Witch
+00117 Sol High gains Snake Witch
+00118 Sol High's Defiled Shrine resolves
+00119 1 VP token removed from the Snake Witch pile
+00120 Sol High shuffles
+00121 Sol High draws 5 cards
+00122 Fable High starts turn 7
+00123 Fable High plays Sanctuary
+00124 Fable High draws 1 card
+00125 Fable High puts Estate from their hand on their Exile mat
+00126 Fable High plays Copper
+00127 Fable High plays Copper
+00128 Fable High plays Silver
+00129 Fable High plays Copper
+00130 Fable High buys Gold Mine
+00131 Fable High gains Gold Mine
+00132 Fable High's Defiled Shrine resolves
+00133 1 VP token removed from the Gold Mine pile
+00134 Fable High buys Curse
+00135 Fable High gains Curse
+00136 Fable High's Defiled Shrine resolves
+00137 Fable High takes 4 VP tokens
+00138 Fable High draws 5 cards
+00139 Sol High starts turn 7
+00140 Sol High plays Copper
+00141 Sol High plays Copper
+00142 Sol High plays Copper
+00143 Sol High plays Copper
+00144 Sol High buys Poacher
+00145 Sol High gains Poacher
+00146 Sol High's Defiled Shrine resolves
+00147 1 VP token removed from the Poacher pile
+00148 Sol High draws 5 cards
+00149 Fable High starts turn 8
+00150 Fable High plays Mining Road
+00151 Fable High plays Silver
+00152 Fable High plays Silver
+00153 Fable High plays Copper
+00154 Fable High buys Gold
+00155 Fable High gains Gold
+00156 Fable High's Mining Road resolves
+00157 Fable High plays Gold
+00158 Fable High buys Poacher
+00159 Fable High gains Poacher
+00160 Fable High draws 5 cards
+00161 Sol High starts turn 8
+00162 Sol High plays Tragic Hero
+00163 Sol High draws 3 cards
+00164 Sol High's Coin of the Realm resolves
+00165 Sol High calls Coin of the Realm
+00166 Sol High gets +2 Actions
+00167 Sol High plays Poacher
+00168 Sol High draws 1 card
+00169 Sol High plays Snake Witch
+00170 Sol High shuffles
+00171 Sol High draws 1 card
+00172 Sol High plays Sanctuary
+00173 Sol High draws 1 card
+00174 Sol High puts Curse from their hand on their Exile mat
+00175 Sol High plays Copper
+00176 Sol High plays Copper
+00177 Sol High plays Silver
+00178 Sol High plays Copper
+00179 Sol High buys Sanctuary
+00180 Sol High gains Sanctuary
+00181 Sol High shuffles
+00182 Sol High draws 5 cards
+00183 Fable High starts turn 9
+00184 Fable High plays Silver
+00185 Fable High plays Copper
+00186 Fable High plays Copper
+00187 Fable High plays Copper
+00188 Fable High buys Sanctuary
+00189 Fable High gains Sanctuary
+00190 Fable High shuffles
+00191 Fable High draws 5 cards
+00192 Sol High starts turn 9
+00193 Sol High plays Poacher
+00194 Sol High draws 1 card
+00195 Sol High plays Copper
+00196 Sol High plays Copper
+00197 Sol High plays Copper
+00198 Sol High buys Poacher
+00199 Sol High gains Poacher
+00200 Sol High draws 5 cards
+00201 Fable High starts turn 10
+00202 Fable High plays Copper
+00203 Fable High plays Copper
+00204 Fable High plays Silver
+00205 Fable High plays Copper
+00206 Fable High buys Mining Road
+00207 Fable High gains Mining Road
+00208 Fable High's Defiled Shrine resolves
+00209 1 VP token removed from the Mining Road pile
+00210 Fable High draws 5 cards
+00211 Sol High starts turn 10
+00212 Sol High plays Poacher
+00213 Sol High draws 1 card
+00214 Sol High plays Sanctuary
+00215 Sol High draws 1 card
+00216 Sol High puts Copper from their hand on their Exile mat
+00217 Sol High plays Snake Witch
+00218 Sol High draws 1 card
+00219 Sol High reveals their hand: Coin of the Realm, Silver, Tragic Hero, Copper
+00220 Sol High returns Snake Witch from play to the Snake Witch pile
+00221 Fable High gains Curse
+00222 Sol High plays Tragic Hero
+00223 Sol High shuffles
+00224 Sol High draws 3 cards
+00225 Sol High plays Coin of the Realm
+00226 Sol High puts Coin of the Realm from play on their Tavern mat
+00227 Sol High plays Silver
+00228 Sol High plays Copper
+00229 Sol High plays Copper
+00230 Sol High plays Copper
+00231 Sol High buys Tragic Hero
+00232 Sol High gains Tragic Hero
+00233 Sol High's Defiled Shrine resolves
+00234 1 VP token removed from the Tragic Hero pile
+00235 Sol High buys Snake Witch
+00236 Sol High gains Snake Witch
+00237 Sol High's Defiled Shrine resolves
+00238 1 VP token removed from the Snake Witch pile
+00239 Sol High buys Curse
+00240 Sol High gains Curse
+00241 Sol High's Defiled Shrine resolves
+00242 Sol High takes 4 VP tokens
+00243 Sol High draws 5 cards
+00244 Fable High starts turn 11
+00245 Fable High plays Sanctuary
+00246 Fable High draws 1 card
+00247 Fable High puts Estate from their hand on their Exile mat
+00248 Fable High plays Sanctuary
+00249 Fable High draws 1 card
+00250 Fable High plays Mining Road
+00251 Fable High plays Copper
+00252 Fable High plays Copper
+00253 Fable High plays Silver
+00254 Fable High buys Gold
+00255 Fable High gains Gold
+00256 Fable High's Mining Road resolves
+00257 Fable High plays Gold
+00258 Fable High buys Silver
+00259 Fable High gains Silver
+00260 Fable High draws 5 cards
+00261 Sol High starts turn 11
+00262 Sol High plays Poacher
+00263 Sol High draws 1 card
+00264 Sol High plays Poacher
+00265 Sol High shuffles
+00266 Sol High draws 1 card
+00267 Sol High plays Sanctuary
+00268 Sol High draws 1 card
+00269 Sol High puts Estate from their hand on their Exile mat
+00270 Sol High plays Sanctuary
+00271 Sol High draws 1 card
+00272 Sol High puts Estate from their hand on their Exile mat
+00273 Sol High plays Copper
+00274 Sol High plays Copper
+00275 Sol High plays Silver
+00276 Sol High buys Mining Road
+00277 Sol High gains Mining Road
+00278 Sol High draws 5 cards
+00279 Fable High starts turn 12
+00280 Fable High plays Poacher
+00281 Fable High draws 1 card
+00282 Fable High plays Gold Mine
+00283 Fable High draws 1 card
+00284 Fable High plays Copper
+00285 Fable High plays Silver
+00286 Fable High plays Gold
+00287 Fable High plays Silver
+00288 Fable High buys Province
+00289 Fable High gains Province
+00290 Fable High shuffles
+00291 Fable High draws 5 cards
+00292 Sol High starts turn 12
+00293 Sol High plays Poacher
+00294 Sol High draws 1 card
+00295 Sol High plays Tragic Hero
+00296 Sol High shuffles
+00297 Sol High draws 3 cards
+00298 Sol High's Coin of the Realm resolves
+00299 Sol High calls Coin of the Realm
+00300 Sol High gets +2 Actions
+00301 Sol High plays Snake Witch
+00302 Sol High draws 1 card
+00303 Sol High plays Sanctuary
+00304 Sol High draws 1 card
+00305 Sol High puts Curse from their hand on their Exile mat
+00306 Sol High plays Tragic Hero
+00307 Sol High draws 3 cards
+00308 Sol High trashes Tragic Hero
+00309 Sol High gains Gold
+00310 Sol High plays Mining Road
+00311 Sol High plays Poacher
+00312 Sol High draws 1 card
+00313 Sol High plays Poacher
+00314 Sol High draws 1 card
+00315 Sol High plays Sanctuary
+00316 Sol High shuffles
+00317 Sol High draws 1 card
+00318 Sol High puts Copper from their hand on their Exile mat
+00319 Sol High plays Copper
+00320 Sol High plays Copper
+00321 Sol High plays Copper
+00322 Sol High plays Copper
+00323 Sol High plays Silver
+00324 Sol High plays Gold
+00325 Sol High buys Citadel
+00326 Sol High buys Tragic Hero
+00327 Sol High gains Tragic Hero
+00328 Sol High shuffles
+00329 Sol High draws 5 cards
+00330 Fable High starts turn 13
+00331 Fable High plays Poacher
+00332 Fable High draws 1 card
+00333 Fable High plays Mining Road
+00334 Fable High plays Copper
+00335 Fable High plays Copper
+00336 Fable High plays Gold
+00337 Fable High plays Copper
+00338 Fable High buys Silver
+00339 Fable High gains Silver
+00340 Fable High's Mining Road resolves
+00341 Fable High plays Silver
+00342 Fable High buys Province
+00343 Fable High gains Province
+00344 Fable High draws 5 cards
+00345 Sol High starts turn 13
+00346 Sol High plays Poacher
+00347 Sol High draws 1 card
+00348 Sol High's Citadel resolves
+00349 Sol High plays Poacher
+00350 Sol High draws 1 card
+00351 Sol High plays Mining Road
+00352 Sol High plays Tragic Hero
+00353 Sol High draws 3 cards
+00354 Sol High plays Sanctuary
+00355 Sol High draws 1 card
+00356 Sol High puts Copper from their hand on their Exile mat
+00357 Sol High plays Sanctuary
+00358 Sol High draws 1 card
+00359 Sol High puts Copper from their hand on their Exile mat
+00360 Sol High plays Snake Witch
+00361 Sol High draws 1 card
+00362 Sol High reveals their hand: Silver, Gold, Tragic Hero, Copper, Poacher
+00363 Sol High returns Snake Witch from play to the Snake Witch pile
+00364 Fable High gains Curse
+00365 Sol High plays Poacher
+00366 Sol High draws 1 card
+00367 Sol High plays Tragic Hero
+00368 Sol High draws 2 cards
+00369 Sol High plays Silver
+00370 Sol High plays Gold
+00371 Sol High plays Copper
+00372 Sol High plays Copper
+00373 Sol High plays Coin of the Realm
+00374 Sol High puts Coin of the Realm from play on their Tavern mat
+00375 Sol High buys Gold
+00376 Sol High gains Gold
+00377 Sol High's Mining Road resolves
+00378 Sol High plays Gold
+00379 Sol High buys Province
+00380 Sol High gains Province
+00381 Sol High buys Snake Witch
+00382 Sol High gains Snake Witch
+00383 Sol High shuffles
+00384 Sol High draws 5 cards
+00385 Fable High starts turn 14
+00386 Fable High plays Mining Road
+00387 Fable High plays Gold Mine
+00388 Fable High draws 1 card
+00389 Fable High plays Silver
+00390 Fable High plays Gold
+00391 Fable High plays Silver
+00392 Fable High plays Copper
+00393 Fable High buys Province
+00394 Fable High gains Province
+00395 Fable High buys Estate
+00396 Fable High gains Estate
+00397 Fable High draws 5 cards
+00398 Sol High starts turn 14
+00399 Sol High plays Poacher
+00400 Sol High draws 1 card
+00401 Sol High's Citadel resolves
+00402 Sol High plays Poacher
+00403 Sol High draws 1 card
+00404 Sol High plays Sanctuary
+00405 Sol High draws 1 card
+00406 Sol High puts Province from their hand on their Exile mat
+00407 Sol High plays Snake Witch
+00408 Sol High draws 1 card
+00409 Sol High reveals their hand: Gold, Sanctuary, Tragic Hero, Poacher, Silver
+00410 Sol High returns Snake Witch from play to the Snake Witch pile
+00411 Fable High gains Curse
+00412 Sol High plays Poacher
+00413 Sol High draws 1 card
+00414 Sol High plays Tragic Hero
+00415 Sol High draws 3 cards
+00416 Sol High plays Sanctuary
+00417 Sol High draws 1 card
+00418 Sol High plays Mining Road
+00419 Sol High plays Tragic Hero
+00420 Sol High draws 1 card
+00421 Sol High's Coin of the Realm resolves
+00422 Sol High calls Coin of the Realm
+00423 Sol High gets +2 Actions
+00424 Sol High plays Poacher
+00425 Sol High plays Gold
+00426 Sol High plays Silver
+00427 Sol High plays Copper
+00428 Sol High plays Gold
+00429 Sol High plays Copper
+00430 Sol High buys Province
+00431 Sol High gains Province
+00432 Sol High buys Province
+00433 Sol High gains Province
+00434 Sol High shuffles
+00435 Sol High draws 5 cards
+00436 Fable High starts turn 15
+00437 Fable High plays Sanctuary
+00438 Fable High draws 1 card
+00439 Fable High puts Curse from their hand on their Exile mat
+00440 Fable High plays Copper
+00441 Fable High plays Copper
+00442 Fable High buys Estate
+00443 Fable High gains Estate
+00444 Fable High draws 5 cards
+00445 Sol High starts turn 15
+00446 Sol High plays Poacher
+00447 Sol High draws 1 card
+00448 Sol High's Citadel resolves
+00449 Sol High plays Poacher
+00450 Sol High draws 1 card
+00451 Sol High plays Poacher
+00452 Sol High draws 1 card
+00453 Sol High plays Mining Road
+00454 Sol High plays Tragic Hero
+00455 Sol High draws 3 cards
+00456 Sol High plays Poacher
+00457 Sol High draws 1 card
+00458 Sol High plays Tragic Hero
+00459 Sol High draws 3 cards
+00460 Sol High trashes Tragic Hero
+00461 Sol High gains Gold
+00462 Sol High's Mining Road resolves
+00463 Sol High plays Gold
+00464 Sol High plays Silver
+00465 Sol High plays Gold
+00466 Sol High plays Coin of the Realm
+00467 Sol High puts Coin of the Realm from play on their Tavern mat
+00468 Sol High plays Gold
+00469 Sol High plays Copper
+00470 Sol High plays Copper
+00471 Sol High buys Province
+00472 Sol High gains Province
+00473 Sol High buys Province
+00474 Sol High gains Province
+00475 Sol High buys Estate
+00476 Sol High gains Estate
+00477 Sol High buys Estate
+00478 Sol High gains Estate
+00479 Sol High shuffles
+00480 Sol High draws 5 cards

@@ -1,0 +1,5021 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g82",
+      "running": false,
+      "result": {
+        "reason": "colonies-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 35,
+            "rank": 2,
+            "turns": 18
+          },
+          {
+            "index": 1,
+            "name": "Sol High",
+            "vp": 41,
+            "rank": 1,
+            "turns": 18
+          }
+        ]
+      },
+      "kingdom": [
+        "Soothsayer",
+        "Forge",
+        "Oasis",
+        "Herald",
+        "Death Cart",
+        "Fortress",
+        "Hamlet",
+        "Gold Mine",
+        "Treasure Trove",
+        "Galleria"
+      ],
+      "landscapes": [
+        "Salt the Earth",
+        "Journey"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Fable High",
+        "vp": 35,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Colony": 1,
+            "Copper": 1,
+            "Forge": 2,
+            "Gold": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 24,
+          "known": {
+            "Copper": 5,
+            "Curse": 1,
+            "Duchy": 1,
+            "Estate": 2,
+            "Forge": 1,
+            "Gold": 5,
+            "Gold Mine": 1,
+            "Hamlet": 1,
+            "Province": 1,
+            "Silver": 3,
+            "Soothsayer": 2,
+            "Treasure Trove": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 13,
+          "known": {
+            "Colony": 1,
+            "Copper": 3,
+            "Curse": 1,
+            "Gold": 5,
+            "Gold Mine": 1,
+            "Hamlet": 1,
+            "Province": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Colony": 2,
+            "Copper": 9,
+            "Curse": 2,
+            "Duchy": 1,
+            "Estate": 2,
+            "Forge": 3,
+            "Gold": 11,
+            "Gold Mine": 2,
+            "Hamlet": 2,
+            "Province": 2,
+            "Silver": 3,
+            "Soothsayer": 2,
+            "Treasure Trove": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 25,
+        "counters": {
+          "extraTurnsTaken": 7
+        }
+      },
+      {
+        "index": 1,
+        "name": "Sol High",
+        "vp": 41,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Colony": 2,
+            "Hamlet": 1,
+            "Herald": 2
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 8,
+          "known": {
+            "Colony": 1,
+            "Fortress": 3,
+            "Hamlet": 2,
+            "Herald": 1,
+            "Platinum": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 7,
+          "known": {
+            "Colony": 1,
+            "Forge": 1,
+            "Galleria": 1,
+            "Herald": 3,
+            "Platinum": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Colony": 4,
+            "Forge": 1,
+            "Fortress": 3,
+            "Galleria": 1,
+            "Hamlet": 3,
+            "Herald": 6,
+            "Platinum": 2
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "vpTokens": 1
+        },
+        "turnsTaken": 21,
+        "counters": {
+          "extraTurnsTaken": 3
+        }
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 42,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 34,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 15,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Platinum",
+        "count": 10,
+        "cost": {
+          "coins": 9
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Platinum",
+              "count": 12
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 8,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 6,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Colony",
+        "count": 0,
+        "cost": {
+          "coins": 11
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Colony",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 1,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Soothsayer",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Attack"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Soothsayer",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Forge",
+        "count": 6,
+        "cost": {
+          "coins": 7
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Forge",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Oasis",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Oasis",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Herald",
+        "count": 4,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Herald",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Death Cart",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Looter"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Death Cart",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Fortress",
+        "count": 7,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Fortress",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Hamlet",
+        "count": 4,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Hamlet",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold Mine",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold Mine",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Treasure Trove",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Treasure"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Treasure Trove",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Galleria",
+        "count": 9,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Galleria",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Ruins",
+        "count": 10,
+        "top": "Ruined Library",
+        "members": [
+          "Abandoned Mine",
+          "Ruined Library",
+          "Ruined Market",
+          "Ruined Village",
+          "Survivors"
+        ],
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Action",
+          "Ruins"
+        ],
+        "structure": {
+          "kind": "shuffled",
+          "cards": [
+            {
+              "card": "Abandoned Mine",
+              "count": 10
+            },
+            {
+              "card": "Ruined Library",
+              "count": 10
+            },
+            {
+              "card": "Ruined Market",
+              "count": 10
+            },
+            {
+              "card": "Ruined Village",
+              "count": 10
+            },
+            {
+              "card": "Survivors",
+              "count": 10
+            }
+          ],
+          "sampleSize": 10
+        }
+      }
+    ],
+    "nonSupply": [],
+    "landscapes": [
+      {
+        "card": "Salt the Earth",
+        "kind": "event",
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Journey",
+        "kind": "event",
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Event"
+        ]
+      }
+    ],
+    "trash": {
+      "count": 33,
+      "known": {
+        "Colony": 2,
+        "Copper": 9,
+        "Curse": 7,
+        "Estate": 4,
+        "Gold": 4,
+        "Gold Mine": 1,
+        "Hamlet": 1,
+        "Silver": 3,
+        "Soothsayer": 1,
+        "Treasure Trove": 1
+      },
+      "unknown": 0
+    },
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 2,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 3,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 4,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 5,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 6,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 7,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 1"
+      },
+      {
+        "seq": 8,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 9,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 10,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 11,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High buys Silver"
+      },
+      {
+        "seq": 12,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 13,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 14,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 15,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 16,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 17,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 18,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 19,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 20,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 21,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 22,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 23,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 2"
+      },
+      {
+        "seq": 24,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 25,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 26,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 27,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 28,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 29,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 30,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 31,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 32,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 33,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 34,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 35,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 36,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 37,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 38,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 39,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 3"
+      },
+      {
+        "seq": 40,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 41,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 42,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 43,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 44,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High buys Silver"
+      },
+      {
+        "seq": 45,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 46,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 47,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 48,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 49,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 50,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 51,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 52,
+        "type": "bought",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High buys Soothsayer"
+      },
+      {
+        "seq": 53,
+        "type": "gained",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High gains Soothsayer"
+      },
+      {
+        "seq": 54,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 55,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 56,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 4"
+      },
+      {
+        "seq": 57,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 58,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 59,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 60,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High puts Copper back onto their deck"
+      },
+      {
+        "seq": 61,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 62,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 63,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 64,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 65,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 66,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 67,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 68,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 69,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 70,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 71,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 72,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 73,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 74,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 75,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 76,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 5"
+      },
+      {
+        "seq": 77,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 78,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 79,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 80,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High puts Copper back onto their deck"
+      },
+      {
+        "seq": 81,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 82,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 83,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 84,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 85,
+        "type": "bought",
+        "player": 1,
+        "card": "Soothsayer",
+        "text": "Sol High buys Soothsayer"
+      },
+      {
+        "seq": 86,
+        "type": "gained",
+        "player": 1,
+        "card": "Soothsayer",
+        "text": "Sol High gains Soothsayer"
+      },
+      {
+        "seq": 87,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 88,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 89,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 90,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 91,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 92,
+        "type": "bought",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High buys Soothsayer"
+      },
+      {
+        "seq": 93,
+        "type": "gained",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High gains Soothsayer"
+      },
+      {
+        "seq": 94,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 95,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 96,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 6"
+      },
+      {
+        "seq": 97,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 98,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 99,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 100,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 101,
+        "type": "bought",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High buys Galleria"
+      },
+      {
+        "seq": 102,
+        "type": "gained",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High gains Galleria"
+      },
+      {
+        "seq": 103,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 104,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 105,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 106,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 107,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 108,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 109,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 110,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 111,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 112,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 113,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 114,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 115,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 116,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 117,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 118,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 119,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 120,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High buys Gold Mine"
+      },
+      {
+        "seq": 121,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High gains Gold Mine"
+      },
+      {
+        "seq": 122,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 123,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 7"
+      },
+      {
+        "seq": 124,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 125,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 126,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 127,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High puts Copper back onto their deck"
+      },
+      {
+        "seq": 128,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 129,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 130,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 131,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High puts Copper back onto their deck"
+      },
+      {
+        "seq": 132,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 133,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 134,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 135,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 136,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Journey",
+        "text": "Sol High buys Journey"
+      },
+      {
+        "seq": 137,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 138,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 8"
+      },
+      {
+        "seq": 139,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 140,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 141,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 142,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 143,
+        "type": "bought",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High buys Forge"
+      },
+      {
+        "seq": 144,
+        "type": "gained",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High gains Forge"
+      },
+      {
+        "seq": 145,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 146,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 147,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 148,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 149,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 150,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 151,
+        "type": "bought",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High buys Treasure Trove"
+      },
+      {
+        "seq": 152,
+        "type": "gained",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High gains Treasure Trove"
+      },
+      {
+        "seq": 153,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 154,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 155,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 9"
+      },
+      {
+        "seq": 156,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 157,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 158,
+        "type": "revealed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High reveals Curse"
+      },
+      {
+        "seq": 159,
+        "type": "moved",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High puts Curse back onto their deck"
+      },
+      {
+        "seq": 160,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 161,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 162,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 163,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High puts Copper back onto their deck"
+      },
+      {
+        "seq": 164,
+        "type": "played",
+        "player": 1,
+        "card": "Soothsayer",
+        "text": "Sol High plays Soothsayer"
+      },
+      {
+        "seq": 165,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 166,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Fable High gains Curse"
+      },
+      {
+        "seq": 167,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 168,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 169,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 170,
+        "type": "bought",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High buys Hamlet"
+      },
+      {
+        "seq": 171,
+        "type": "gained",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High gains Hamlet"
+      },
+      {
+        "seq": 172,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 173,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 174,
+        "type": "played",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High plays Gold Mine"
+      },
+      {
+        "seq": 175,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 176,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 177,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 178,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 179,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 180,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 181,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 182,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 183,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 184,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 185,
+        "type": "bought",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High buys Hamlet"
+      },
+      {
+        "seq": 186,
+        "type": "gained",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High gains Hamlet"
+      },
+      {
+        "seq": 187,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 188,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 189,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 190,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 191,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 192,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 193,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 194,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 195,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 196,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 197,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High buys Gold Mine"
+      },
+      {
+        "seq": 198,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High gains Gold Mine"
+      },
+      {
+        "seq": 199,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 200,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 10"
+      },
+      {
+        "seq": 201,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 202,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 203,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 204,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 205,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 206,
+        "type": "bought",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High buys Fortress"
+      },
+      {
+        "seq": 207,
+        "type": "gained",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High gains Fortress"
+      },
+      {
+        "seq": 208,
+        "type": "resolved",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High's Galleria resolves"
+      },
+      {
+        "seq": 209,
+        "type": "bonus",
+        "player": 1,
+        "text": "Sol High gets +1 Buy"
+      },
+      {
+        "seq": 210,
+        "type": "bought",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High buys Fortress"
+      },
+      {
+        "seq": 211,
+        "type": "gained",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High gains Fortress"
+      },
+      {
+        "seq": 212,
+        "type": "resolved",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High's Galleria resolves"
+      },
+      {
+        "seq": 213,
+        "type": "bonus",
+        "player": 1,
+        "text": "Sol High gets +1 Buy"
+      },
+      {
+        "seq": 214,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 215,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 216,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 12"
+      },
+      {
+        "seq": 217,
+        "type": "played",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High plays Treasure Trove"
+      },
+      {
+        "seq": 218,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 219,
+        "type": "gained",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High gains Copper"
+      },
+      {
+        "seq": 220,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 221,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 222,
+        "type": "bought",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High buys Treasure Trove"
+      },
+      {
+        "seq": 223,
+        "type": "gained",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High gains Treasure Trove"
+      },
+      {
+        "seq": 224,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 225,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 226,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 11"
+      },
+      {
+        "seq": 227,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 228,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 229,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 230,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 231,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 232,
+        "type": "gained",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High gains Hamlet"
+      },
+      {
+        "seq": 233,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 234,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 13"
+      },
+      {
+        "seq": 235,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 236,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 237,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 238,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 239,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 240,
+        "type": "bought",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High buys Forge"
+      },
+      {
+        "seq": 241,
+        "type": "gained",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High gains Forge"
+      },
+      {
+        "seq": 242,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 243,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 12"
+      },
+      {
+        "seq": 244,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 245,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 246,
+        "type": "discarded",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 247,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 248,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 249,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 250,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 251,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 252,
+        "type": "overpaid",
+        "player": 1,
+        "text": "Sol High overpays $1"
+      },
+      {
+        "seq": 253,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 254,
+        "type": "resolved",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High's Galleria resolves"
+      },
+      {
+        "seq": 255,
+        "type": "bonus",
+        "player": 1,
+        "text": "Sol High gets +1 Buy"
+      },
+      {
+        "seq": 256,
+        "type": "resolved",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High's Herald resolves"
+      },
+      {
+        "seq": 257,
+        "type": "top-decked",
+        "player": 1,
+        "text": "Sol High puts a card onto their deck"
+      },
+      {
+        "seq": 258,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Journey",
+        "text": "Sol High buys Journey"
+      },
+      {
+        "seq": 259,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 260,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 13"
+      },
+      {
+        "seq": 261,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 262,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 263,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 264,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 265,
+        "type": "gained",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High gains Hamlet"
+      },
+      {
+        "seq": 266,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 267,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 14"
+      },
+      {
+        "seq": 268,
+        "type": "played",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High plays Hamlet"
+      },
+      {
+        "seq": 269,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 270,
+        "type": "discarded",
+        "player": 0,
+        "card": "Curse",
+        "text": "Fable High discards Curse"
+      },
+      {
+        "seq": 271,
+        "type": "played",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High plays Gold Mine"
+      },
+      {
+        "seq": 272,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 273,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 274,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 275,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 276,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 277,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 278,
+        "type": "played",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High plays Treasure Trove"
+      },
+      {
+        "seq": 279,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 280,
+        "type": "gained",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High gains Copper"
+      },
+      {
+        "seq": 281,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 282,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 283,
+        "type": "bought",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High buys Hamlet"
+      },
+      {
+        "seq": 284,
+        "type": "gained",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High gains Hamlet"
+      },
+      {
+        "seq": 285,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 286,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 15"
+      },
+      {
+        "seq": 287,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 288,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 289,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 290,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 291,
+        "type": "bought",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High buys Forge"
+      },
+      {
+        "seq": 292,
+        "type": "gained",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High gains Forge"
+      },
+      {
+        "seq": 293,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 294,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 14"
+      },
+      {
+        "seq": 295,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 296,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 297,
+        "type": "revealed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High reveals Fortress"
+      },
+      {
+        "seq": 298,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 299,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 300,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 301,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 302,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 303,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 304,
+        "type": "moved",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High puts Estate back onto their deck"
+      },
+      {
+        "seq": 305,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 306,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 307,
+        "type": "discarded",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High discards Curse"
+      },
+      {
+        "seq": 308,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 309,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 310,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 311,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 312,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 313,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 314,
+        "type": "trashed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High trashes Silver"
+      },
+      {
+        "seq": 315,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 316,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High gains Gold Mine"
+      },
+      {
+        "seq": 317,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 318,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 16"
+      },
+      {
+        "seq": 319,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 320,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 321,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 322,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 323,
+        "type": "played",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High plays Treasure Trove"
+      },
+      {
+        "seq": 324,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 325,
+        "type": "gained",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High gains Copper"
+      },
+      {
+        "seq": 326,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 327,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 328,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 329,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 330,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 17"
+      },
+      {
+        "seq": 331,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 332,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 333,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 334,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 335,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 336,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 337,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 338,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 15"
+      },
+      {
+        "seq": 339,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 340,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 341,
+        "type": "discarded",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High discards Curse"
+      },
+      {
+        "seq": 342,
+        "type": "played",
+        "player": 1,
+        "card": "Soothsayer",
+        "text": "Sol High plays Soothsayer"
+      },
+      {
+        "seq": 343,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 344,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Fable High gains Curse"
+      },
+      {
+        "seq": 345,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 346,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 347,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 348,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High reveals Silver"
+      },
+      {
+        "seq": 349,
+        "type": "moved",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High puts Silver back onto their deck"
+      },
+      {
+        "seq": 350,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 351,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 352,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 353,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 354,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 355,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 356,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 357,
+        "type": "overpaid",
+        "player": 1,
+        "text": "Sol High overpays $1"
+      },
+      {
+        "seq": 358,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 359,
+        "type": "resolved",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High's Galleria resolves"
+      },
+      {
+        "seq": 360,
+        "type": "bonus",
+        "player": 1,
+        "text": "Sol High gets +1 Buy"
+      },
+      {
+        "seq": 361,
+        "type": "resolved",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High's Herald resolves"
+      },
+      {
+        "seq": 362,
+        "type": "top-decked",
+        "player": 1,
+        "text": "Sol High puts a card onto their deck"
+      },
+      {
+        "seq": 363,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Journey",
+        "text": "Sol High buys Journey"
+      },
+      {
+        "seq": 364,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 365,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 366,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 16"
+      },
+      {
+        "seq": 367,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 368,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 369,
+        "type": "revealed",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High reveals Gold Mine"
+      },
+      {
+        "seq": 370,
+        "type": "played",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High plays Gold Mine"
+      },
+      {
+        "seq": 371,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 372,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 373,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 374,
+        "type": "revealed",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High reveals Herald"
+      },
+      {
+        "seq": 375,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 376,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 377,
+        "type": "revealed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High reveals Fortress"
+      },
+      {
+        "seq": 378,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 379,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 380,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 381,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 382,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 383,
+        "type": "trashed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High trashes Fortress"
+      },
+      {
+        "seq": 384,
+        "type": "trashed",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High trashes Hamlet"
+      },
+      {
+        "seq": 385,
+        "type": "resolved",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High's Fortress resolves"
+      },
+      {
+        "seq": 386,
+        "type": "moved",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High puts Fortress from the trash into their hand"
+      },
+      {
+        "seq": 387,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 388,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 389,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 390,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 391,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 392,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 393,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 394,
+        "type": "overpaid",
+        "player": 1,
+        "text": "Sol High overpays $1"
+      },
+      {
+        "seq": 395,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 396,
+        "type": "resolved",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High's Herald resolves"
+      },
+      {
+        "seq": 397,
+        "type": "top-decked",
+        "player": 1,
+        "text": "Sol High puts a card onto their deck"
+      },
+      {
+        "seq": 398,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 399,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 400,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 18"
+      },
+      {
+        "seq": 401,
+        "type": "played",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High plays Gold Mine"
+      },
+      {
+        "seq": 402,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 403,
+        "type": "played",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High plays Forge"
+      },
+      {
+        "seq": 404,
+        "type": "trashed",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High trashes Gold"
+      },
+      {
+        "seq": 405,
+        "type": "trashed",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High trashes Treasure Trove"
+      },
+      {
+        "seq": 406,
+        "type": "gained",
+        "player": 0,
+        "card": "Colony",
+        "text": "Fable High gains Colony"
+      },
+      {
+        "seq": 407,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 408,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 409,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 410,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 411,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 412,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 19"
+      },
+      {
+        "seq": 413,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 414,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 415,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 416,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 417,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 418,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 419,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 420,
+        "type": "bought",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High buys Forge"
+      },
+      {
+        "seq": 421,
+        "type": "gained",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High gains Forge"
+      },
+      {
+        "seq": 422,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 423,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 17"
+      },
+      {
+        "seq": 424,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 425,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 426,
+        "type": "revealed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High reveals Fortress"
+      },
+      {
+        "seq": 427,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 428,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 429,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 430,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 431,
+        "type": "revealed",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High reveals Gold"
+      },
+      {
+        "seq": 432,
+        "type": "moved",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High puts Gold back onto their deck"
+      },
+      {
+        "seq": 433,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 434,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 435,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 436,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 437,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 438,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 439,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 440,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 441,
+        "type": "revealed",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High reveals Gold Mine"
+      },
+      {
+        "seq": 442,
+        "type": "played",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High plays Gold Mine"
+      },
+      {
+        "seq": 443,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 444,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 445,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 446,
+        "type": "revealed",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High reveals Forge"
+      },
+      {
+        "seq": 447,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 448,
+        "type": "trashed",
+        "player": 1,
+        "card": "Soothsayer",
+        "text": "Sol High trashes Soothsayer"
+      },
+      {
+        "seq": 449,
+        "type": "trashed",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High trashes Gold"
+      },
+      {
+        "seq": 450,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 451,
+        "type": "gained",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High gains Colony"
+      },
+      {
+        "seq": 452,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 453,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 454,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 455,
+        "type": "revealed",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High reveals Colony"
+      },
+      {
+        "seq": 456,
+        "type": "moved",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High puts Colony back onto their deck"
+      },
+      {
+        "seq": 457,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 458,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 459,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 460,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 461,
+        "type": "bought",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High buys Platinum"
+      },
+      {
+        "seq": 462,
+        "type": "gained",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High gains Platinum"
+      },
+      {
+        "seq": 463,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 464,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 465,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 20"
+      },
+      {
+        "seq": 466,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 467,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 468,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 469,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 470,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 471,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 472,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 473,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 18"
+      },
+      {
+        "seq": 474,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 475,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 476,
+        "type": "revealed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High reveals Curse"
+      },
+      {
+        "seq": 477,
+        "type": "moved",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High puts Curse back onto their deck"
+      },
+      {
+        "seq": 478,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 479,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 480,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High reveals Silver"
+      },
+      {
+        "seq": 481,
+        "type": "moved",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High puts Silver back onto their deck"
+      },
+      {
+        "seq": 482,
+        "type": "played",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High plays Gold Mine"
+      },
+      {
+        "seq": 483,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 484,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 485,
+        "type": "trashed",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High trashes Gold"
+      },
+      {
+        "seq": 486,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 487,
+        "type": "trashed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Sol High trashes Silver"
+      },
+      {
+        "seq": 488,
+        "type": "gained",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High gains Platinum"
+      },
+      {
+        "seq": 489,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 490,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 21"
+      },
+      {
+        "seq": 491,
+        "type": "played",
+        "player": 0,
+        "card": "Soothsayer",
+        "text": "Fable High plays Soothsayer"
+      },
+      {
+        "seq": 492,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 493,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 494,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 495,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 496,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 497,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 498,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 499,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 500,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 501,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 22"
+      },
+      {
+        "seq": 502,
+        "type": "played",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High plays Gold Mine"
+      },
+      {
+        "seq": 503,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 504,
+        "type": "played",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High plays Hamlet"
+      },
+      {
+        "seq": 505,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 506,
+        "type": "played",
+        "player": 0,
+        "card": "Forge",
+        "text": "Fable High plays Forge"
+      },
+      {
+        "seq": 507,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 508,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 509,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 510,
+        "type": "trashed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High trashes Silver"
+      },
+      {
+        "seq": 511,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 512,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 513,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 19"
+      },
+      {
+        "seq": 514,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 515,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 516,
+        "type": "revealed",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High reveals Hamlet"
+      },
+      {
+        "seq": 517,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 518,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 519,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 520,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 521,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 522,
+        "type": "revealed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High reveals Curse"
+      },
+      {
+        "seq": 523,
+        "type": "moved",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High puts Curse back onto their deck"
+      },
+      {
+        "seq": 524,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 525,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 526,
+        "type": "revealed",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High reveals Herald"
+      },
+      {
+        "seq": 527,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 528,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 529,
+        "type": "revealed",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High reveals Platinum"
+      },
+      {
+        "seq": 530,
+        "type": "moved",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High puts Platinum back onto their deck"
+      },
+      {
+        "seq": 531,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 532,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 533,
+        "type": "discarded",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High discards Colony"
+      },
+      {
+        "seq": 534,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 535,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 536,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 537,
+        "type": "trashed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High trashes Fortress"
+      },
+      {
+        "seq": 538,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 539,
+        "type": "resolved",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High's Fortress resolves"
+      },
+      {
+        "seq": 540,
+        "type": "moved",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High puts Fortress from the trash into their hand"
+      },
+      {
+        "seq": 541,
+        "type": "gained",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High gains Fortress"
+      },
+      {
+        "seq": 542,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 543,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 544,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 545,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 546,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 547,
+        "type": "revealed",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High reveals Fortress"
+      },
+      {
+        "seq": 548,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 549,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 550,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 551,
+        "type": "played",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High plays Platinum"
+      },
+      {
+        "seq": 552,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 553,
+        "type": "played",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High plays Platinum"
+      },
+      {
+        "seq": 554,
+        "type": "bought",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High buys Colony"
+      },
+      {
+        "seq": 555,
+        "type": "gained",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High gains Colony"
+      },
+      {
+        "seq": 556,
+        "type": "bought",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High buys Herald"
+      },
+      {
+        "seq": 557,
+        "type": "overpaid",
+        "player": 1,
+        "text": "Sol High overpays $1"
+      },
+      {
+        "seq": 558,
+        "type": "gained",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High gains Herald"
+      },
+      {
+        "seq": 559,
+        "type": "resolved",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High's Galleria resolves"
+      },
+      {
+        "seq": 560,
+        "type": "bonus",
+        "player": 1,
+        "text": "Sol High gets +1 Buy"
+      },
+      {
+        "seq": 561,
+        "type": "resolved",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High's Herald resolves"
+      },
+      {
+        "seq": 562,
+        "type": "top-decked",
+        "player": 1,
+        "text": "Sol High puts a card onto their deck"
+      },
+      {
+        "seq": 563,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 564,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 565,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 23"
+      },
+      {
+        "seq": 566,
+        "type": "played",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High plays Hamlet"
+      },
+      {
+        "seq": 567,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 568,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 569,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 570,
+        "type": "played",
+        "player": 0,
+        "card": "Treasure Trove",
+        "text": "Fable High plays Treasure Trove"
+      },
+      {
+        "seq": 571,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 572,
+        "type": "gained",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High gains Copper"
+      },
+      {
+        "seq": 573,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 574,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 575,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 576,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 577,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 578,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 579,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 20"
+      },
+      {
+        "seq": 580,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 581,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 582,
+        "type": "revealed",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High reveals Herald"
+      },
+      {
+        "seq": 583,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 584,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 585,
+        "type": "revealed",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High reveals Herald"
+      },
+      {
+        "seq": 586,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 587,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 588,
+        "type": "revealed",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High reveals Herald"
+      },
+      {
+        "seq": 589,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 590,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 591,
+        "type": "revealed",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High reveals Hamlet"
+      },
+      {
+        "seq": 592,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 593,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 594,
+        "type": "discarded",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High discards Colony"
+      },
+      {
+        "seq": 595,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 596,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 597,
+        "type": "revealed",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High reveals Hamlet"
+      },
+      {
+        "seq": 598,
+        "type": "played",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High plays Hamlet"
+      },
+      {
+        "seq": 599,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 600,
+        "type": "played",
+        "player": 1,
+        "card": "Fortress",
+        "text": "Sol High plays Fortress"
+      },
+      {
+        "seq": 601,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 602,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 603,
+        "type": "trashed",
+        "player": 1,
+        "card": "Gold Mine",
+        "text": "Sol High trashes Gold Mine"
+      },
+      {
+        "seq": 604,
+        "type": "trashed",
+        "player": 1,
+        "card": "Gold",
+        "text": "Sol High trashes Gold"
+      },
+      {
+        "seq": 605,
+        "type": "gained",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High gains Colony"
+      },
+      {
+        "seq": 606,
+        "type": "played",
+        "player": 1,
+        "card": "Galleria",
+        "text": "Sol High plays Galleria"
+      },
+      {
+        "seq": 607,
+        "type": "played",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High plays Platinum"
+      },
+      {
+        "seq": 608,
+        "type": "played",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High plays Platinum"
+      },
+      {
+        "seq": 609,
+        "type": "bought",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High buys Colony"
+      },
+      {
+        "seq": 610,
+        "type": "gained",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High gains Colony"
+      },
+      {
+        "seq": 611,
+        "type": "bought",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High buys Hamlet"
+      },
+      {
+        "seq": 612,
+        "type": "gained",
+        "player": 1,
+        "card": "Hamlet",
+        "text": "Sol High gains Hamlet"
+      },
+      {
+        "seq": 613,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 614,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 615,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 24"
+      },
+      {
+        "seq": 616,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 617,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 618,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 619,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Journey",
+        "text": "Fable High buys Journey"
+      },
+      {
+        "seq": 620,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 621,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 25"
+      },
+      {
+        "seq": 622,
+        "type": "played",
+        "player": 0,
+        "card": "Gold Mine",
+        "text": "Fable High plays Gold Mine"
+      },
+      {
+        "seq": 623,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 624,
+        "type": "played",
+        "player": 0,
+        "card": "Hamlet",
+        "text": "Fable High plays Hamlet"
+      },
+      {
+        "seq": 625,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 626,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 627,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 628,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 629,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 630,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 631,
+        "type": "bought",
+        "player": 0,
+        "card": "Colony",
+        "text": "Fable High buys Colony"
+      },
+      {
+        "seq": 632,
+        "type": "gained",
+        "player": 0,
+        "card": "Colony",
+        "text": "Fable High gains Colony"
+      },
+      {
+        "seq": 633,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 634,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Sol High starts turn 21"
+      },
+      {
+        "seq": 635,
+        "type": "played",
+        "player": 1,
+        "card": "Herald",
+        "text": "Sol High plays Herald"
+      },
+      {
+        "seq": 636,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 637,
+        "type": "revealed",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High reveals Forge"
+      },
+      {
+        "seq": 638,
+        "type": "played",
+        "player": 1,
+        "card": "Forge",
+        "text": "Sol High plays Forge"
+      },
+      {
+        "seq": 639,
+        "type": "trashed",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High trashes Colony"
+      },
+      {
+        "seq": 640,
+        "type": "gained",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High gains Colony"
+      },
+      {
+        "seq": 641,
+        "type": "played",
+        "player": 1,
+        "card": "Platinum",
+        "text": "Sol High plays Platinum"
+      },
+      {
+        "seq": 642,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Salt the Earth",
+        "text": "Sol High buys Salt the Earth"
+      },
+      {
+        "seq": 643,
+        "type": "counter",
+        "player": 1,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 644,
+        "type": "trashed",
+        "player": 1,
+        "card": "Colony",
+        "text": "Sol High trashes Colony"
+      },
+      {
+        "seq": 645,
+        "type": "drew",
+        "player": 1,
+        "text": "Sol High draws 5 cards"
+      }
+    ]
+  },
+  "version": 240,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": "Gold"
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": "Galleria"
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      },
+      {
+        "name": "Sol High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 1,
+    "now": 1794948030257
+  }
+}

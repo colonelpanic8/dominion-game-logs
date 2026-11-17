@@ -1,0 +1,5069 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g79",
+      "running": false,
+      "result": {
+        "reason": "piles-empty",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 55,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 35,
+            "rank": 2,
+            "turns": 13
+          }
+        ]
+      },
+      "kingdom": [
+        "Sculptor",
+        "Artist",
+        "Sentry",
+        "Merchant Camp",
+        "Carnival",
+        "Bard",
+        "Collection",
+        "Courier",
+        "Beggar",
+        "Importer"
+      ],
+      "landscapes": [
+        "Seaway",
+        "Way of the Mouse",
+        "Crafters' Guild"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Sol High",
+        "vp": 55,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Beggar": 2,
+            "Copper": 1,
+            "Merchant Camp": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 35,
+          "known": {
+            "Artist": 2,
+            "Beggar": 5,
+            "Carnival": 3,
+            "Collection": 4,
+            "Copper": 2,
+            "Courier": 2,
+            "Estate": 1,
+            "Importer": 7,
+            "Merchant Camp": 2,
+            "Province": 1,
+            "Sculptor": 2,
+            "Sentry": 2,
+            "Silver": 2
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Artist": 2,
+            "Beggar": 7,
+            "Carnival": 3,
+            "Collection": 4,
+            "Copper": 3,
+            "Courier": 2,
+            "Estate": 1,
+            "Importer": 7,
+            "Merchant Camp": 3,
+            "Province": 1,
+            "Sculptor": 2,
+            "Sentry": 2,
+            "Silver": 3
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "favors": 1,
+          "vpTokens": 48
+        },
+        "turnsTaken": 14,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 35,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Artist": 1,
+            "Beggar": 1,
+            "Duchy": 2,
+            "Sentry": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 11,
+          "known": {
+            "Beggar": 1,
+            "Collection": 4,
+            "Copper": 3,
+            "Estate": 2,
+            "Importer": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 21,
+          "known": {
+            "Artist": 1,
+            "Beggar": 1,
+            "Collection": 2,
+            "Copper": 6,
+            "Courier": 1,
+            "Duchy": 2,
+            "Estate": 1,
+            "Importer": 2,
+            "Merchant Camp": 2,
+            "Province": 1,
+            "Silver": 2
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Artist": 2,
+            "Beggar": 3,
+            "Collection": 6,
+            "Copper": 9,
+            "Courier": 1,
+            "Duchy": 4,
+            "Estate": 3,
+            "Importer": 3,
+            "Merchant Camp": 2,
+            "Province": 1,
+            "Sentry": 1,
+            "Silver": 2
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "favors": 1,
+          "debt": 8,
+          "vpTokens": 14
+        },
+        "turnsTaken": 13,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 43,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 35,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 30,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 8,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 4,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 6,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 10,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Sculptor",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Sculptor",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Artist",
+        "count": 6,
+        "cost": {
+          "coins": 0,
+          "debt": 8
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Artist",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Sentry",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Sentry",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Merchant Camp",
+        "count": 5,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Merchant Camp",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Carnival",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Carnival",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Bard",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Fate"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Bard",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Collection",
+        "count": 0,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Treasure"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Collection",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Courier",
+        "count": 7,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Courier",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Beggar",
+        "count": 0,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action",
+          "Reaction"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Beggar",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Importer",
+        "count": 0,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Duration",
+          "Liaison"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Importer",
+              "count": 10
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Will-o'-Wisp",
+        "count": 12,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Action",
+          "Spirit"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Will-o'-Wisp",
+              "count": 12
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Seaway",
+        "kind": "event",
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Way of the Mouse",
+        "kind": "way",
+        "types": [
+          "Way"
+        ]
+      },
+      {
+        "card": "Crafters' Guild",
+        "kind": "ally",
+        "types": [
+          "Ally"
+        ]
+      }
+    ],
+    "trash": {
+      "count": 7,
+      "known": {
+        "Copper": 5,
+        "Estate": 2
+      },
+      "unknown": 0
+    },
+    "boons": {
+      "count": 12,
+      "discard": []
+    },
+    "notes": [
+      {
+        "source": "Way of the Mouse",
+        "card": "Fishmonger",
+        "count": 0,
+        "setup": "set-aside"
+      }
+    ],
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "resolved",
+        "player": 0,
+        "card": "Crafters' Guild",
+        "text": "Sol High's Crafters' Guild resolves"
+      },
+      {
+        "seq": 2,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High spends 2 Favors"
+      },
+      {
+        "seq": 3,
+        "type": "gained",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High gains Courier onto their deck"
+      },
+      {
+        "seq": 4,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 5,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 6,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 7,
+        "type": "bought",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High buys Importer"
+      },
+      {
+        "seq": 8,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 9,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 10,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 11,
+        "type": "resolved",
+        "player": 1,
+        "card": "Crafters' Guild",
+        "text": "Fable High's Crafters' Guild resolves"
+      },
+      {
+        "seq": 12,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 13,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver onto their deck"
+      },
+      {
+        "seq": 14,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 15,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 16,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 17,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 18,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 19,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 20,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 2"
+      },
+      {
+        "seq": 21,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 22,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 23,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High discards Copper"
+      },
+      {
+        "seq": 24,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 25,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 26,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 27,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 28,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High buys Silver"
+      },
+      {
+        "seq": 29,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 30,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 31,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 32,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 33,
+        "type": "resolved",
+        "player": 1,
+        "card": "Crafters' Guild",
+        "text": "Fable High's Crafters' Guild resolves"
+      },
+      {
+        "seq": 34,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 35,
+        "type": "gained",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High gains Importer onto their deck"
+      },
+      {
+        "seq": 36,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 37,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 38,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 39,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 40,
+        "type": "bought",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Fable High buys Sentry"
+      },
+      {
+        "seq": 41,
+        "type": "gained",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Fable High gains Sentry"
+      },
+      {
+        "seq": 42,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 43,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 44,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 3"
+      },
+      {
+        "seq": 45,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 46,
+        "type": "gained",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High gains Sentry"
+      },
+      {
+        "seq": 47,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 48,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 49,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 50,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 51,
+        "type": "bought",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High buys Sentry"
+      },
+      {
+        "seq": 52,
+        "type": "gained",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High gains Sentry"
+      },
+      {
+        "seq": 53,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 54,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 55,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 56,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 57,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 58,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 59,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 60,
+        "type": "bought",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High buys Collection"
+      },
+      {
+        "seq": 61,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 62,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 63,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 4"
+      },
+      {
+        "seq": 64,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 65,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 66,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High discards Copper"
+      },
+      {
+        "seq": 67,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 68,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 69,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 70,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 71,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 72,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 73,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 74,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 75,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 76,
+        "type": "bought",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High buys Importer"
+      },
+      {
+        "seq": 77,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 78,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 79,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 80,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 81,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 82,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 83,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 84,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 85,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 86,
+        "type": "bought",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High buys Importer"
+      },
+      {
+        "seq": 87,
+        "type": "gained",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High gains Importer"
+      },
+      {
+        "seq": 88,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 89,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 90,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 5"
+      },
+      {
+        "seq": 91,
+        "type": "resolved",
+        "player": 0,
+        "card": "Crafters' Guild",
+        "text": "Sol High's Crafters' Guild resolves"
+      },
+      {
+        "seq": 92,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High spends 2 Favors"
+      },
+      {
+        "seq": 93,
+        "type": "gained",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High gains Merchant Camp onto their deck"
+      },
+      {
+        "seq": 94,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 95,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 96,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 97,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 98,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 99,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 100,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 101,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 102,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 103,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 104,
+        "type": "bought",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High buys Carnival"
+      },
+      {
+        "seq": 105,
+        "type": "gained",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High gains Carnival"
+      },
+      {
+        "seq": 106,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 107,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 108,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 109,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 110,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 111,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 112,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 113,
+        "type": "looked",
+        "player": 1,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 114,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 115,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts a card back onto their deck"
+      },
+      {
+        "seq": 116,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 117,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 118,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 119,
+        "type": "bought",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High buys Merchant Camp"
+      },
+      {
+        "seq": 120,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High gains Merchant Camp"
+      },
+      {
+        "seq": 121,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 122,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 123,
+        "type": "bought",
+        "player": 1,
+        "card": "Artist",
+        "text": "Fable High buys Artist"
+      },
+      {
+        "seq": 124,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 8 Debt"
+      },
+      {
+        "seq": 125,
+        "type": "gained",
+        "player": 1,
+        "card": "Artist",
+        "text": "Fable High gains Artist"
+      },
+      {
+        "seq": 126,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 127,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 128,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 129,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 6"
+      },
+      {
+        "seq": 130,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 131,
+        "type": "gained",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High gains Collection"
+      },
+      {
+        "seq": 132,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 133,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 134,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 135,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 136,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 137,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 138,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 139,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 140,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 141,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 142,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 143,
+        "type": "revealed",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High reveals Courier"
+      },
+      {
+        "seq": 144,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High reveals Silver"
+      },
+      {
+        "seq": 145,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 146,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 147,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Copper, Silver, Courier from the top of their deck into their hand"
+      },
+      {
+        "seq": 148,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High discards Copper"
+      },
+      {
+        "seq": 149,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 150,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 151,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 152,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 153,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 154,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 155,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 156,
+        "type": "bought",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High buys Collection"
+      },
+      {
+        "seq": 157,
+        "type": "gained",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High gains Collection"
+      },
+      {
+        "seq": 158,
+        "type": "bought",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High buys Merchant Camp"
+      },
+      {
+        "seq": 159,
+        "type": "gained",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High gains Merchant Camp"
+      },
+      {
+        "seq": 160,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 161,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 162,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 163,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 164,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 165,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 166,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 167,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 168,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 169,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 170,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 171,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 172,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 173,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 174,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 175,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 176,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 177,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 178,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 179,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 180,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 181,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 7"
+      },
+      {
+        "seq": 182,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 183,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 184,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 185,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 186,
+        "type": "bought",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High buys Artist"
+      },
+      {
+        "seq": 187,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 8 Debt"
+      },
+      {
+        "seq": 188,
+        "type": "gained",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High gains Artist"
+      },
+      {
+        "seq": 189,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 190,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 191,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 192,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 193,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 194,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 195,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 196,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 197,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 198,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 199,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 200,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 201,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 202,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 203,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 204,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 205,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 206,
+        "type": "bought",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High buys Importer"
+      },
+      {
+        "seq": 207,
+        "type": "gained",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High gains Importer"
+      },
+      {
+        "seq": 208,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 209,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 210,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 8"
+      },
+      {
+        "seq": 211,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 212,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 213,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 214,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High discards Copper"
+      },
+      {
+        "seq": 215,
+        "type": "played",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High plays Artist"
+      },
+      {
+        "seq": 216,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 3 cards"
+      },
+      {
+        "seq": 217,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 218,
+        "type": "revealed",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High reveals Importer"
+      },
+      {
+        "seq": 219,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 220,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High reveals Sentry"
+      },
+      {
+        "seq": 221,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High reveals Sentry"
+      },
+      {
+        "seq": 222,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Copper, Sentry, Importer from the top of their deck into their hand"
+      },
+      {
+        "seq": 223,
+        "type": "discarded",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High discards Sentry"
+      },
+      {
+        "seq": 224,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 225,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 226,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 227,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 228,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 229,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 230,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 231,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 232,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 233,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 234,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 235,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 236,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 237,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 238,
+        "type": "bought",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High buys Collection"
+      },
+      {
+        "seq": 239,
+        "type": "gained",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High gains Collection"
+      },
+      {
+        "seq": 240,
+        "type": "bought",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High buys Artist"
+      },
+      {
+        "seq": 241,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 8 Debt"
+      },
+      {
+        "seq": 242,
+        "type": "gained",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High gains Artist"
+      },
+      {
+        "seq": 243,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 244,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 245,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 246,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 247,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 248,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 249,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 250,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 251,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 252,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 253,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 254,
+        "type": "bought",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High buys Collection"
+      },
+      {
+        "seq": 255,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 256,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 257,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 9"
+      },
+      {
+        "seq": 258,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 259,
+        "type": "gained",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High gains Collection"
+      },
+      {
+        "seq": 260,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 261,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 262,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 263,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 264,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 265,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 266,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 267,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 268,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 269,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 270,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 271,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 272,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 273,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 274,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 275,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 276,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 277,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 278,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 279,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 280,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 281,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 282,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 283,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 284,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 285,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 286,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 287,
+        "type": "looked",
+        "player": 1,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 288,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 289,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 290,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 291,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 292,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 293,
+        "type": "bought",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High buys Collection"
+      },
+      {
+        "seq": 294,
+        "type": "gained",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High gains Collection"
+      },
+      {
+        "seq": 295,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 296,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 297,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 298,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 10"
+      },
+      {
+        "seq": 299,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 300,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 301,
+        "type": "revealed",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High reveals Collection"
+      },
+      {
+        "seq": 302,
+        "type": "revealed",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High reveals Importer"
+      },
+      {
+        "seq": 303,
+        "type": "revealed",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High reveals Collection"
+      },
+      {
+        "seq": 304,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 305,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Copper, Collection, Importer from the top of their deck into their hand"
+      },
+      {
+        "seq": 306,
+        "type": "discarded",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High discards Collection"
+      },
+      {
+        "seq": 307,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 308,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 309,
+        "type": "discarded",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High discards Artist"
+      },
+      {
+        "seq": 310,
+        "type": "played",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High plays Artist"
+      },
+      {
+        "seq": 311,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 312,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 313,
+        "type": "played",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High plays Artist"
+      },
+      {
+        "seq": 314,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 3 cards"
+      },
+      {
+        "seq": 315,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 316,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 317,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 318,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 319,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 320,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 321,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 322,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 323,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 324,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 325,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 326,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 327,
+        "type": "bought",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High buys Carnival"
+      },
+      {
+        "seq": 328,
+        "type": "gained",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High gains Carnival"
+      },
+      {
+        "seq": 329,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 330,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 331,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 332,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 333,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 334,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 335,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 336,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 337,
+        "type": "bought",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High buys Merchant Camp"
+      },
+      {
+        "seq": 338,
+        "type": "gained",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High gains Merchant Camp"
+      },
+      {
+        "seq": 339,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 340,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 341,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 342,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 343,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 344,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 345,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 346,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 347,
+        "type": "bought",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High buys Importer"
+      },
+      {
+        "seq": 348,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 349,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 350,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 351,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 352,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 353,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 354,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 355,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 356,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 357,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 358,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 359,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 360,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 361,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 362,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 363,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 364,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 365,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 366,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 367,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 368,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 369,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 370,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 371,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 372,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 373,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 374,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 375,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 376,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 377,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 378,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 379,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 380,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 381,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 382,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 11"
+      },
+      {
+        "seq": 383,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 384,
+        "type": "gained",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High gains Sculptor"
+      },
+      {
+        "seq": 385,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 386,
+        "type": "gained",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High gains Courier"
+      },
+      {
+        "seq": 387,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 388,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 389,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 390,
+        "type": "discarded",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High discards Beggar"
+      },
+      {
+        "seq": 391,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 392,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 393,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 394,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 395,
+        "type": "discarded",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High discards Importer"
+      },
+      {
+        "seq": 396,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 397,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 398,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 399,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 400,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 401,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 402,
+        "type": "bought",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High buys Carnival"
+      },
+      {
+        "seq": 403,
+        "type": "gained",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High gains Carnival"
+      },
+      {
+        "seq": 404,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 405,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 406,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 407,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 408,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 409,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 410,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 411,
+        "type": "played",
+        "player": 1,
+        "card": "Artist",
+        "text": "Fable High plays Artist"
+      },
+      {
+        "seq": 412,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 413,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 414,
+        "type": "played",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High plays Importer"
+      },
+      {
+        "seq": 415,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 416,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 417,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 418,
+        "type": "bought",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High buys Beggar"
+      },
+      {
+        "seq": 419,
+        "type": "gained",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High gains Beggar"
+      },
+      {
+        "seq": 420,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 421,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 422,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 423,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 424,
+        "type": "bought",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High buys Beggar"
+      },
+      {
+        "seq": 425,
+        "type": "gained",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High gains Beggar"
+      },
+      {
+        "seq": 426,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 427,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 428,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 429,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 430,
+        "type": "bought",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High buys Beggar"
+      },
+      {
+        "seq": 431,
+        "type": "gained",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High gains Beggar"
+      },
+      {
+        "seq": 432,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 433,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 434,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 435,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 436,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 437,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 438,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 439,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 440,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 12"
+      },
+      {
+        "seq": 441,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 442,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 443,
+        "type": "revealed",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High reveals Collection"
+      },
+      {
+        "seq": 444,
+        "type": "revealed",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High reveals Merchant Camp"
+      },
+      {
+        "seq": 445,
+        "type": "revealed",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High reveals Carnival"
+      },
+      {
+        "seq": 446,
+        "type": "revealed",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High reveals Collection"
+      },
+      {
+        "seq": 447,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Collection, Carnival, Merchant Camp from the top of their deck into their hand"
+      },
+      {
+        "seq": 448,
+        "type": "discarded",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High discards Collection"
+      },
+      {
+        "seq": 449,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 450,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 451,
+        "type": "discarded",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High discards Artist"
+      },
+      {
+        "seq": 452,
+        "type": "played",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High plays Sculptor"
+      },
+      {
+        "seq": 453,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver to their hand"
+      },
+      {
+        "seq": 454,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Villager"
+      },
+      {
+        "seq": 455,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High spends 1 Villager"
+      },
+      {
+        "seq": 456,
+        "type": "played",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High plays Artist"
+      },
+      {
+        "seq": 457,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 458,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 459,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 460,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 461,
+        "type": "revealed",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High reveals Importer"
+      },
+      {
+        "seq": 462,
+        "type": "revealed",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High reveals Importer"
+      },
+      {
+        "seq": 463,
+        "type": "revealed",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High reveals Merchant Camp"
+      },
+      {
+        "seq": 464,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 465,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Copper, Importer, Merchant Camp from the top of their deck into their hand"
+      },
+      {
+        "seq": 466,
+        "type": "discarded",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High discards Importer"
+      },
+      {
+        "seq": 467,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 468,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 469,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 470,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 471,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 472,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 473,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 474,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 475,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 476,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 477,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 478,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 479,
+        "type": "bought",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High buys Sculptor"
+      },
+      {
+        "seq": 480,
+        "type": "gained",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High gains Sculptor"
+      },
+      {
+        "seq": 481,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 482,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 483,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 484,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 485,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 486,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 487,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 488,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 489,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 490,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 491,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 492,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 493,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 494,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 12"
+      },
+      {
+        "seq": 495,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 496,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 497,
+        "type": "resolved",
+        "player": 1,
+        "card": "Importer",
+        "text": "Fable High's Importer resolves"
+      },
+      {
+        "seq": 498,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 499,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 500,
+        "type": "played",
+        "player": 1,
+        "card": "Beggar",
+        "text": "Fable High plays Beggar"
+      },
+      {
+        "seq": 501,
+        "type": "gained",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High gains Copper to their hand"
+      },
+      {
+        "seq": 502,
+        "type": "gained",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High gains Copper to their hand"
+      },
+      {
+        "seq": 503,
+        "type": "gained",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High gains Copper to their hand"
+      },
+      {
+        "seq": 504,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 505,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 506,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 507,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 508,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 509,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 510,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 511,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 512,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 513,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 13"
+      },
+      {
+        "seq": 514,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 515,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 516,
+        "type": "resolved",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High's Importer resolves"
+      },
+      {
+        "seq": 517,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 518,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 519,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 520,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 521,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 522,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 523,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 524,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 525,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High reveals Sentry"
+      },
+      {
+        "seq": 526,
+        "type": "revealed",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High reveals Collection"
+      },
+      {
+        "seq": 527,
+        "type": "revealed",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High reveals Artist"
+      },
+      {
+        "seq": 528,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 529,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Province, Sentry, Collection, Artist from the top of their deck into their hand"
+      },
+      {
+        "seq": 530,
+        "type": "played",
+        "player": 0,
+        "card": "Artist",
+        "text": "Sol High plays Artist"
+      },
+      {
+        "seq": 531,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 532,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Sol High plays Sentry"
+      },
+      {
+        "seq": 533,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 534,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 535,
+        "type": "discarded",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High discards Importer"
+      },
+      {
+        "seq": 536,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts a card back onto their deck"
+      },
+      {
+        "seq": 537,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 538,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 539,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 540,
+        "type": "discarded",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High discards Carnival"
+      },
+      {
+        "seq": 541,
+        "type": "played",
+        "player": 0,
+        "card": "Carnival",
+        "text": "Sol High plays Carnival"
+      },
+      {
+        "seq": 542,
+        "type": "revealed",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High reveals Courier"
+      },
+      {
+        "seq": 543,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High reveals Sculptor"
+      },
+      {
+        "seq": 544,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High reveals Copper"
+      },
+      {
+        "seq": 545,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High reveals Sculptor"
+      },
+      {
+        "seq": 546,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts Copper, Sculptor, Courier from the top of their deck into their hand"
+      },
+      {
+        "seq": 547,
+        "type": "discarded",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High discards Sculptor"
+      },
+      {
+        "seq": 548,
+        "type": "played",
+        "player": 0,
+        "card": "Courier",
+        "text": "Sol High plays Courier"
+      },
+      {
+        "seq": 549,
+        "type": "looked",
+        "player": 0,
+        "text": "Sol High looks at the top card of their deck"
+      },
+      {
+        "seq": 550,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 551,
+        "type": "played",
+        "player": 0,
+        "card": "Sculptor",
+        "text": "Sol High plays Sculptor"
+      },
+      {
+        "seq": 552,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver to their hand"
+      },
+      {
+        "seq": 553,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Villager"
+      },
+      {
+        "seq": 554,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High spends 1 Villager"
+      },
+      {
+        "seq": 555,
+        "type": "played",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High plays Beggar"
+      },
+      {
+        "seq": 556,
+        "type": "used-way",
+        "player": 0,
+        "card": "Way of the Mouse",
+        "text": "Sol High uses Way of the Mouse for Beggar"
+      },
+      {
+        "seq": 557,
+        "type": "played",
+        "player": 0,
+        "card": "Fishmonger",
+        "text": "Sol High plays Fishmonger"
+      },
+      {
+        "seq": 558,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 559,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 560,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 561,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 562,
+        "type": "played",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High plays Collection"
+      },
+      {
+        "seq": 563,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 564,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 565,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 566,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 567,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 568,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 569,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 570,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 571,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 572,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 573,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 574,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 575,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 576,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 577,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 578,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 579,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 580,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 581,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 582,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 583,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 584,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 585,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 586,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 587,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 588,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 589,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 590,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 591,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 592,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 593,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 594,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 595,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 596,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 597,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 598,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 599,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 600,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 601,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 602,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 603,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 604,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 605,
+        "type": "bought",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High buys Beggar"
+      },
+      {
+        "seq": 606,
+        "type": "gained",
+        "player": 0,
+        "card": "Beggar",
+        "text": "Sol High gains Beggar"
+      },
+      {
+        "seq": 607,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 608,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 609,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 610,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 611,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 612,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 613,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 614,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 615,
+        "type": "bought",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High buys Importer"
+      },
+      {
+        "seq": 616,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 617,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 618,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 619,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 620,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 621,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 622,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 623,
+        "type": "resolved",
+        "player": 0,
+        "card": "Collection",
+        "text": "Sol High's Collection resolves"
+      },
+      {
+        "seq": 624,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 VP token"
+      },
+      {
+        "seq": 625,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High's Merchant Camp resolves"
+      },
+      {
+        "seq": 626,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 627,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 628,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 13"
+      },
+      {
+        "seq": 629,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 630,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 631,
+        "type": "played",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High plays Collection"
+      },
+      {
+        "seq": 632,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 633,
+        "type": "bought",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High buys Merchant Camp"
+      },
+      {
+        "seq": 634,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Fable High gains Merchant Camp"
+      },
+      {
+        "seq": 635,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 636,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 637,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 638,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 639,
+        "type": "bought",
+        "player": 1,
+        "card": "Courier",
+        "text": "Fable High buys Courier"
+      },
+      {
+        "seq": 640,
+        "type": "gained",
+        "player": 1,
+        "card": "Courier",
+        "text": "Fable High gains Courier"
+      },
+      {
+        "seq": 641,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 642,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 643,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 644,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 645,
+        "type": "bought",
+        "player": 1,
+        "card": "Artist",
+        "text": "Fable High buys Artist"
+      },
+      {
+        "seq": 646,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 8 Debt"
+      },
+      {
+        "seq": 647,
+        "type": "gained",
+        "player": 1,
+        "card": "Artist",
+        "text": "Fable High gains Artist"
+      },
+      {
+        "seq": 648,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 649,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 650,
+        "type": "resolved",
+        "player": 1,
+        "card": "Collection",
+        "text": "Fable High's Collection resolves"
+      },
+      {
+        "seq": 651,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 1 VP token"
+      },
+      {
+        "seq": 652,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 653,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 14"
+      },
+      {
+        "seq": 654,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Sol High plays Merchant Camp"
+      },
+      {
+        "seq": 655,
+        "type": "played",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High plays Importer"
+      },
+      {
+        "seq": 656,
+        "type": "used-way",
+        "player": 0,
+        "card": "Way of the Mouse",
+        "text": "Sol High uses Way of the Mouse for Importer"
+      },
+      {
+        "seq": 657,
+        "type": "played",
+        "player": 0,
+        "card": "Fishmonger",
+        "text": "Sol High plays Fishmonger"
+      },
+      {
+        "seq": 658,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 659,
+        "type": "bought",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High buys Importer"
+      },
+      {
+        "seq": 660,
+        "type": "gained",
+        "player": 0,
+        "card": "Importer",
+        "text": "Sol High gains Importer"
+      },
+      {
+        "seq": 661,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 662,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      }
+    ]
+  },
+  "version": 324,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": null
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": "Estate"
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Sol High",
+        "kind": "bot"
+      },
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 0,
+    "now": 1794941199069
+  }
+}

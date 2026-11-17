@@ -1,0 +1,663 @@
+00000 Sol High starts turn 1
+00001 Sol High's Crafters' Guild resolves
+00002 Sol High spends 2 Favors
+00003 Sol High gains Courier onto their deck
+00004 Sol High plays Copper
+00005 Sol High plays Copper
+00006 Sol High plays Copper
+00007 Sol High buys Importer
+00008 Sol High gains Importer
+00009 Sol High draws 5 cards
+00010 Fable High starts turn 1
+00011 Fable High's Crafters' Guild resolves
+00012 Fable High spends 2 Favors
+00013 Fable High gains Silver onto their deck
+00014 Fable High plays Copper
+00015 Fable High plays Copper
+00016 Fable High plays Copper
+00017 Fable High buys Silver
+00018 Fable High gains Silver
+00019 Fable High draws 5 cards
+00020 Sol High starts turn 2
+00021 Sol High plays Courier
+00022 Sol High looks at the top card of their deck
+00023 Sol High discards Copper
+00024 Sol High plays Importer
+00025 Sol High plays Copper
+00026 Sol High plays Copper
+00027 Sol High plays Copper
+00028 Sol High buys Silver
+00029 Sol High gains Silver
+00030 Sol High shuffles
+00031 Sol High draws 5 cards
+00032 Fable High starts turn 2
+00033 Fable High's Crafters' Guild resolves
+00034 Fable High spends 2 Favors
+00035 Fable High gains Importer onto their deck
+00036 Fable High plays Silver
+00037 Fable High plays Copper
+00038 Fable High plays Copper
+00039 Fable High plays Copper
+00040 Fable High buys Sentry
+00041 Fable High gains Sentry
+00042 Fable High shuffles
+00043 Fable High draws 5 cards
+00044 Sol High starts turn 3
+00045 Sol High's Importer resolves
+00046 Sol High gains Sentry
+00047 Sol High plays Copper
+00048 Sol High plays Copper
+00049 Sol High plays Copper
+00050 Sol High plays Silver
+00051 Sol High buys Sentry
+00052 Sol High gains Sentry
+00053 Sol High draws 5 cards
+00054 Fable High starts turn 3
+00055 Fable High plays Importer
+00056 Fable High plays Copper
+00057 Fable High plays Silver
+00058 Fable High plays Copper
+00059 Fable High plays Silver
+00060 Fable High buys Collection
+00061 Fable High gains Collection
+00062 Fable High draws 5 cards
+00063 Sol High starts turn 4
+00064 Sol High plays Courier
+00065 Sol High looks at the top card of their deck
+00066 Sol High discards Copper
+00067 Sol High plays Sentry
+00068 Sol High draws 1 card
+00069 Sol High shuffles
+00070 Sol High looks at the top 2 cards of their deck
+00071 Sol High trashes Copper
+00072 Sol High puts a card back onto their deck
+00073 Sol High plays Copper
+00074 Sol High plays Copper
+00075 Sol High plays Copper
+00076 Sol High buys Importer
+00077 Sol High gains Importer
+00078 Sol High draws 5 cards
+00079 Fable High starts turn 4
+00080 Fable High's Importer resolves
+00081 Fable High gains Collection
+00082 Fable High plays Copper
+00083 Fable High plays Copper
+00084 Fable High plays Copper
+00085 Fable High plays Copper
+00086 Fable High buys Importer
+00087 Fable High gains Importer
+00088 Fable High shuffles
+00089 Fable High draws 5 cards
+00090 Sol High starts turn 5
+00091 Sol High's Crafters' Guild resolves
+00092 Sol High spends 2 Favors
+00093 Sol High gains Merchant Camp onto their deck
+00094 Sol High plays Sentry
+00095 Sol High draws 1 card
+00096 Sol High looks at the top 2 cards of their deck
+00097 Sol High trashes Estate
+00098 Sol High trashes Copper
+00099 Sol High plays Merchant Camp
+00100 Sol High plays Importer
+00101 Sol High plays Silver
+00102 Sol High plays Copper
+00103 Sol High plays Copper
+00104 Sol High buys Carnival
+00105 Sol High gains Carnival
+00106 Sol High's Merchant Camp resolves
+00107 Sol High puts Merchant Camp onto their deck
+00108 Sol High shuffles
+00109 Sol High draws 5 cards
+00110 Fable High starts turn 5
+00111 Fable High plays Sentry
+00112 Fable High draws 1 card
+00113 Fable High looks at the top 2 cards of their deck
+00114 Fable High trashes Copper
+00115 Fable High puts a card back onto their deck
+00116 Fable High plays Importer
+00117 Fable High plays Copper
+00118 Fable High plays Collection
+00119 Fable High buys Merchant Camp
+00120 Fable High gains Merchant Camp
+00121 Fable High's Collection resolves
+00122 Fable High takes 1 VP token
+00123 Fable High buys Artist
+00124 Fable High takes 8 Debt
+00125 Fable High gains Artist
+00126 Fable High's Collection resolves
+00127 Fable High takes 1 VP token
+00128 Fable High draws 5 cards
+00129 Sol High starts turn 6
+00130 Sol High's Importer resolves
+00131 Sol High gains Collection
+00132 Sol High plays Sentry
+00133 Sol High draws 1 card
+00134 Sol High looks at the top 2 cards of their deck
+00135 Sol High trashes Copper
+00136 Sol High puts a card back onto their deck
+00137 Sol High plays Sentry
+00138 Sol High draws 1 card
+00139 Sol High looks at the top 2 cards of their deck
+00140 Sol High puts 2 cards back onto their deck
+00141 Sol High plays Merchant Camp
+00142 Sol High plays Carnival
+00143 Sol High reveals Courier
+00144 Sol High reveals Silver
+00145 Sol High reveals Copper
+00146 Sol High reveals Copper
+00147 Sol High puts Copper, Silver, Courier from the top of their deck into their hand
+00148 Sol High discards Copper
+00149 Sol High plays Courier
+00150 Sol High looks at the top card of their deck
+00151 Sol High discards Estate
+00152 Sol High plays Collection
+00153 Sol High plays Copper
+00154 Sol High plays Silver
+00155 Sol High plays Copper
+00156 Sol High buys Collection
+00157 Sol High gains Collection
+00158 Sol High buys Merchant Camp
+00159 Sol High gains Merchant Camp
+00160 Sol High's Collection resolves
+00161 Sol High takes 1 VP token
+00162 Sol High's Merchant Camp resolves
+00163 Sol High puts Merchant Camp onto their deck
+00164 Sol High shuffles
+00165 Sol High draws 5 cards
+00166 Fable High starts turn 6
+00167 Fable High's Importer resolves
+00168 Fable High gains Collection
+00169 Fable High plays Importer
+00170 Fable High plays Silver
+00171 Fable High plays Collection
+00172 Fable High plays Copper
+00173 Fable High plays Copper
+00174 Fable High pays off 1 Debt
+00175 Fable High pays off 1 Debt
+00176 Fable High pays off 1 Debt
+00177 Fable High pays off 1 Debt
+00178 Fable High pays off 1 Debt
+00179 Fable High pays off 1 Debt
+00180 Fable High draws 5 cards
+00181 Sol High starts turn 7
+00182 Sol High plays Merchant Camp
+00183 Sol High plays Merchant Camp
+00184 Sol High plays Copper
+00185 Sol High plays Silver
+00186 Sol High buys Artist
+00187 Sol High takes 8 Debt
+00188 Sol High gains Artist
+00189 Sol High pays off 1 Debt
+00190 Sol High pays off 1 Debt
+00191 Sol High pays off 1 Debt
+00192 Sol High pays off 1 Debt
+00193 Sol High pays off 1 Debt
+00194 Sol High's Merchant Camp resolves
+00195 Sol High puts Merchant Camp onto their deck
+00196 Sol High draws 5 cards
+00197 Fable High starts turn 7
+00198 Fable High's Importer resolves
+00199 Fable High gains Collection
+00200 Fable High plays Copper
+00201 Fable High plays Silver
+00202 Fable High plays Copper
+00203 Fable High plays Copper
+00204 Fable High pays off 1 Debt
+00205 Fable High pays off 1 Debt
+00206 Fable High buys Importer
+00207 Fable High gains Importer
+00208 Fable High shuffles
+00209 Fable High draws 5 cards
+00210 Sol High starts turn 8
+00211 Sol High plays Merchant Camp
+00212 Sol High plays Courier
+00213 Sol High looks at the top card of their deck
+00214 Sol High discards Copper
+00215 Sol High plays Artist
+00216 Sol High draws 3 cards
+00217 Sol High plays Carnival
+00218 Sol High reveals Importer
+00219 Sol High reveals Copper
+00220 Sol High reveals Sentry
+00221 Sol High reveals Sentry
+00222 Sol High puts Copper, Sentry, Importer from the top of their deck into their hand
+00223 Sol High discards Sentry
+00224 Sol High plays Sentry
+00225 Sol High shuffles
+00226 Sol High draws 1 card
+00227 Sol High looks at the top 2 cards of their deck
+00228 Sol High puts 2 cards back onto their deck
+00229 Sol High plays Importer
+00230 Sol High pays off 1 Debt
+00231 Sol High pays off 1 Debt
+00232 Sol High plays Collection
+00233 Sol High plays Collection
+00234 Sol High plays Copper
+00235 Sol High plays Copper
+00236 Sol High plays Copper
+00237 Sol High pays off 1 Debt
+00238 Sol High buys Collection
+00239 Sol High gains Collection
+00240 Sol High buys Artist
+00241 Sol High takes 8 Debt
+00242 Sol High gains Artist
+00243 Sol High's Collection resolves
+00244 Sol High takes 1 VP token
+00245 Sol High's Collection resolves
+00246 Sol High takes 1 VP token
+00247 Sol High pays off 1 Debt
+00248 Sol High draws 5 cards
+00249 Fable High starts turn 8
+00250 Fable High plays Copper
+00251 Fable High plays Copper
+00252 Fable High plays Copper
+00253 Fable High plays Collection
+00254 Fable High buys Collection
+00255 Fable High gains Collection
+00256 Fable High draws 5 cards
+00257 Sol High starts turn 9
+00258 Sol High's Importer resolves
+00259 Sol High gains Collection
+00260 Sol High plays Sentry
+00261 Sol High shuffles
+00262 Sol High draws 1 card
+00263 Sol High looks at the top 2 cards of their deck
+00264 Sol High trashes Copper
+00265 Sol High puts a card back onto their deck
+00266 Sol High plays Sentry
+00267 Sol High draws 1 card
+00268 Sol High looks at the top 2 cards of their deck
+00269 Sol High trashes Estate
+00270 Sol High puts a card back onto their deck
+00271 Sol High plays Merchant Camp
+00272 Sol High plays Merchant Camp
+00273 Sol High plays Silver
+00274 Sol High plays Copper
+00275 Sol High pays off 1 Debt
+00276 Sol High pays off 1 Debt
+00277 Sol High pays off 1 Debt
+00278 Sol High pays off 1 Debt
+00279 Sol High pays off 1 Debt
+00280 Sol High's Merchant Camp resolves
+00281 Sol High puts Merchant Camp onto their deck
+00282 Sol High draws 5 cards
+00283 Fable High starts turn 9
+00284 Fable High plays Merchant Camp
+00285 Fable High plays Sentry
+00286 Fable High draws 1 card
+00287 Fable High looks at the top 2 cards of their deck
+00288 Fable High puts 2 cards back onto their deck
+00289 Fable High plays Importer
+00290 Fable High plays Copper
+00291 Fable High plays Silver
+00292 Fable High plays Copper
+00293 Fable High buys Collection
+00294 Fable High gains Collection
+00295 Fable High's Merchant Camp resolves
+00296 Fable High puts Merchant Camp onto their deck
+00297 Fable High draws 5 cards
+00298 Sol High starts turn 10
+00299 Sol High plays Merchant Camp
+00300 Sol High plays Carnival
+00301 Sol High reveals Collection
+00302 Sol High reveals Importer
+00303 Sol High reveals Collection
+00304 Sol High reveals Copper
+00305 Sol High puts Copper, Collection, Importer from the top of their deck into their hand
+00306 Sol High discards Collection
+00307 Sol High plays Courier
+00308 Sol High looks at the top card of their deck
+00309 Sol High discards Artist
+00310 Sol High plays Artist
+00311 Sol High shuffles
+00312 Sol High draws 4 cards
+00313 Sol High plays Artist
+00314 Sol High draws 3 cards
+00315 Sol High plays Merchant Camp
+00316 Sol High plays Importer
+00317 Sol High plays Importer
+00318 Sol High plays Collection
+00319 Sol High plays Copper
+00320 Sol High plays Collection
+00321 Sol High plays Copper
+00322 Sol High plays Collection
+00323 Sol High plays Collection
+00324 Sol High plays Silver
+00325 Sol High pays off 1 Debt
+00326 Sol High pays off 1 Debt
+00327 Sol High buys Carnival
+00328 Sol High gains Carnival
+00329 Sol High's Collection resolves
+00330 Sol High takes 1 VP token
+00331 Sol High's Collection resolves
+00332 Sol High takes 1 VP token
+00333 Sol High's Collection resolves
+00334 Sol High takes 1 VP token
+00335 Sol High's Collection resolves
+00336 Sol High takes 1 VP token
+00337 Sol High buys Merchant Camp
+00338 Sol High gains Merchant Camp
+00339 Sol High's Collection resolves
+00340 Sol High takes 1 VP token
+00341 Sol High's Collection resolves
+00342 Sol High takes 1 VP token
+00343 Sol High's Collection resolves
+00344 Sol High takes 1 VP token
+00345 Sol High's Collection resolves
+00346 Sol High takes 1 VP token
+00347 Sol High buys Importer
+00348 Sol High gains Importer
+00349 Sol High's Collection resolves
+00350 Sol High takes 1 VP token
+00351 Sol High's Collection resolves
+00352 Sol High takes 1 VP token
+00353 Sol High's Collection resolves
+00354 Sol High takes 1 VP token
+00355 Sol High's Collection resolves
+00356 Sol High takes 1 VP token
+00357 Sol High buys Beggar
+00358 Sol High gains Beggar
+00359 Sol High's Collection resolves
+00360 Sol High takes 1 VP token
+00361 Sol High's Collection resolves
+00362 Sol High takes 1 VP token
+00363 Sol High's Collection resolves
+00364 Sol High takes 1 VP token
+00365 Sol High's Collection resolves
+00366 Sol High takes 1 VP token
+00367 Sol High's Merchant Camp resolves
+00368 Sol High puts Merchant Camp onto their deck
+00369 Sol High shuffles
+00370 Sol High draws 5 cards
+00371 Fable High starts turn 10
+00372 Fable High's Importer resolves
+00373 Fable High gains Duchy
+00374 Fable High plays Merchant Camp
+00375 Fable High plays Collection
+00376 Fable High plays Silver
+00377 Fable High buys Duchy
+00378 Fable High gains Duchy
+00379 Fable High's Merchant Camp resolves
+00380 Fable High puts Merchant Camp onto their deck
+00381 Fable High draws 5 cards
+00382 Sol High starts turn 11
+00383 Sol High's Importer resolves
+00384 Sol High gains Sculptor
+00385 Sol High's Importer resolves
+00386 Sol High gains Courier
+00387 Sol High plays Sentry
+00388 Sol High draws 1 card
+00389 Sol High looks at the top 2 cards of their deck
+00390 Sol High discards Beggar
+00391 Sol High puts a card back onto their deck
+00392 Sol High plays Sentry
+00393 Sol High draws 1 card
+00394 Sol High looks at the top 2 cards of their deck
+00395 Sol High discards Importer
+00396 Sol High puts a card back onto their deck
+00397 Sol High plays Merchant Camp
+00398 Sol High plays Merchant Camp
+00399 Sol High plays Copper
+00400 Sol High plays Collection
+00401 Sol High plays Copper
+00402 Sol High buys Carnival
+00403 Sol High gains Carnival
+00404 Sol High's Collection resolves
+00405 Sol High takes 1 VP token
+00406 Sol High's Merchant Camp resolves
+00407 Sol High puts Merchant Camp onto their deck
+00408 Sol High draws 5 cards
+00409 Fable High starts turn 11
+00410 Fable High plays Merchant Camp
+00411 Fable High plays Artist
+00412 Fable High draws 2 cards
+00413 Fable High plays Importer
+00414 Fable High plays Importer
+00415 Fable High plays Copper
+00416 Fable High plays Collection
+00417 Fable High plays Collection
+00418 Fable High buys Beggar
+00419 Fable High gains Beggar
+00420 Fable High's Collection resolves
+00421 Fable High takes 1 VP token
+00422 Fable High's Collection resolves
+00423 Fable High takes 1 VP token
+00424 Fable High buys Beggar
+00425 Fable High gains Beggar
+00426 Fable High's Collection resolves
+00427 Fable High takes 1 VP token
+00428 Fable High's Collection resolves
+00429 Fable High takes 1 VP token
+00430 Fable High buys Beggar
+00431 Fable High gains Beggar
+00432 Fable High's Collection resolves
+00433 Fable High takes 1 VP token
+00434 Fable High's Collection resolves
+00435 Fable High takes 1 VP token
+00436 Fable High's Merchant Camp resolves
+00437 Fable High puts Merchant Camp onto their deck
+00438 Fable High shuffles
+00439 Fable High draws 5 cards
+00440 Sol High starts turn 12
+00441 Sol High plays Merchant Camp
+00442 Sol High plays Carnival
+00443 Sol High reveals Collection
+00444 Sol High reveals Merchant Camp
+00445 Sol High reveals Carnival
+00446 Sol High reveals Collection
+00447 Sol High puts Collection, Carnival, Merchant Camp from the top of their deck into their hand
+00448 Sol High discards Collection
+00449 Sol High plays Courier
+00450 Sol High looks at the top card of their deck
+00451 Sol High discards Artist
+00452 Sol High plays Sculptor
+00453 Sol High gains Silver to their hand
+00454 Sol High takes 1 Villager
+00455 Sol High spends 1 Villager
+00456 Sol High plays Artist
+00457 Sol High shuffles
+00458 Sol High draws 5 cards
+00459 Sol High plays Merchant Camp
+00460 Sol High plays Carnival
+00461 Sol High reveals Importer
+00462 Sol High reveals Importer
+00463 Sol High reveals Merchant Camp
+00464 Sol High reveals Copper
+00465 Sol High puts Copper, Importer, Merchant Camp from the top of their deck into their hand
+00466 Sol High discards Importer
+00467 Sol High plays Merchant Camp
+00468 Sol High plays Importer
+00469 Sol High plays Importer
+00470 Sol High plays Collection
+00471 Sol High plays Collection
+00472 Sol High plays Silver
+00473 Sol High plays Copper
+00474 Sol High plays Silver
+00475 Sol High plays Copper
+00476 Sol High plays Copper
+00477 Sol High buys Province
+00478 Sol High gains Province
+00479 Sol High buys Sculptor
+00480 Sol High gains Sculptor
+00481 Sol High's Collection resolves
+00482 Sol High takes 1 VP token
+00483 Sol High's Collection resolves
+00484 Sol High takes 1 VP token
+00485 Sol High buys Beggar
+00486 Sol High gains Beggar
+00487 Sol High's Collection resolves
+00488 Sol High takes 1 VP token
+00489 Sol High's Collection resolves
+00490 Sol High takes 1 VP token
+00491 Sol High's Merchant Camp resolves
+00492 Sol High puts Merchant Camp onto their deck
+00493 Sol High draws 5 cards
+00494 Fable High starts turn 12
+00495 Fable High's Importer resolves
+00496 Fable High gains Duchy
+00497 Fable High's Importer resolves
+00498 Fable High gains Duchy
+00499 Fable High plays Merchant Camp
+00500 Fable High plays Beggar
+00501 Fable High gains Copper to their hand
+00502 Fable High gains Copper to their hand
+00503 Fable High gains Copper to their hand
+00504 Fable High plays Copper
+00505 Fable High plays Copper
+00506 Fable High plays Silver
+00507 Fable High plays Copper
+00508 Fable High plays Copper
+00509 Fable High plays Copper
+00510 Fable High buys Province
+00511 Fable High gains Province
+00512 Fable High draws 5 cards
+00513 Sol High starts turn 13
+00514 Sol High's Importer resolves
+00515 Sol High gains Importer
+00516 Sol High's Importer resolves
+00517 Sol High gains Importer
+00518 Sol High plays Sentry
+00519 Sol High draws 1 card
+00520 Sol High looks at the top 2 cards of their deck
+00521 Sol High puts 2 cards back onto their deck
+00522 Sol High plays Merchant Camp
+00523 Sol High plays Carnival
+00524 Sol High shuffles
+00525 Sol High reveals Sentry
+00526 Sol High reveals Collection
+00527 Sol High reveals Artist
+00528 Sol High reveals Province
+00529 Sol High puts Province, Sentry, Collection, Artist from the top of their deck into their hand
+00530 Sol High plays Artist
+00531 Sol High draws 4 cards
+00532 Sol High plays Sentry
+00533 Sol High draws 1 card
+00534 Sol High looks at the top 2 cards of their deck
+00535 Sol High discards Importer
+00536 Sol High puts a card back onto their deck
+00537 Sol High plays Merchant Camp
+00538 Sol High plays Courier
+00539 Sol High looks at the top card of their deck
+00540 Sol High discards Carnival
+00541 Sol High plays Carnival
+00542 Sol High reveals Courier
+00543 Sol High reveals Sculptor
+00544 Sol High reveals Copper
+00545 Sol High reveals Sculptor
+00546 Sol High puts Copper, Sculptor, Courier from the top of their deck into their hand
+00547 Sol High discards Sculptor
+00548 Sol High plays Courier
+00549 Sol High looks at the top card of their deck
+00550 Sol High discards Estate
+00551 Sol High plays Sculptor
+00552 Sol High gains Silver to their hand
+00553 Sol High takes 1 Villager
+00554 Sol High spends 1 Villager
+00555 Sol High plays Beggar
+00556 Sol High uses Way of the Mouse for Beggar
+00557 Sol High plays Fishmonger
+00558 Sol High plays Collection
+00559 Sol High plays Collection
+00560 Sol High plays Collection
+00561 Sol High plays Silver
+00562 Sol High plays Collection
+00563 Sol High plays Copper
+00564 Sol High plays Silver
+00565 Sol High buys Beggar
+00566 Sol High gains Beggar
+00567 Sol High's Collection resolves
+00568 Sol High takes 1 VP token
+00569 Sol High's Collection resolves
+00570 Sol High takes 1 VP token
+00571 Sol High's Collection resolves
+00572 Sol High takes 1 VP token
+00573 Sol High's Collection resolves
+00574 Sol High takes 1 VP token
+00575 Sol High buys Beggar
+00576 Sol High gains Beggar
+00577 Sol High's Collection resolves
+00578 Sol High takes 1 VP token
+00579 Sol High's Collection resolves
+00580 Sol High takes 1 VP token
+00581 Sol High's Collection resolves
+00582 Sol High takes 1 VP token
+00583 Sol High's Collection resolves
+00584 Sol High takes 1 VP token
+00585 Sol High buys Beggar
+00586 Sol High gains Beggar
+00587 Sol High's Collection resolves
+00588 Sol High takes 1 VP token
+00589 Sol High's Collection resolves
+00590 Sol High takes 1 VP token
+00591 Sol High's Collection resolves
+00592 Sol High takes 1 VP token
+00593 Sol High's Collection resolves
+00594 Sol High takes 1 VP token
+00595 Sol High buys Beggar
+00596 Sol High gains Beggar
+00597 Sol High's Collection resolves
+00598 Sol High takes 1 VP token
+00599 Sol High's Collection resolves
+00600 Sol High takes 1 VP token
+00601 Sol High's Collection resolves
+00602 Sol High takes 1 VP token
+00603 Sol High's Collection resolves
+00604 Sol High takes 1 VP token
+00605 Sol High buys Beggar
+00606 Sol High gains Beggar
+00607 Sol High's Collection resolves
+00608 Sol High takes 1 VP token
+00609 Sol High's Collection resolves
+00610 Sol High takes 1 VP token
+00611 Sol High's Collection resolves
+00612 Sol High takes 1 VP token
+00613 Sol High's Collection resolves
+00614 Sol High takes 1 VP token
+00615 Sol High buys Importer
+00616 Sol High gains Importer
+00617 Sol High's Collection resolves
+00618 Sol High takes 1 VP token
+00619 Sol High's Collection resolves
+00620 Sol High takes 1 VP token
+00621 Sol High's Collection resolves
+00622 Sol High takes 1 VP token
+00623 Sol High's Collection resolves
+00624 Sol High takes 1 VP token
+00625 Sol High's Merchant Camp resolves
+00626 Sol High puts Merchant Camp onto their deck
+00627 Sol High draws 5 cards
+00628 Fable High starts turn 13
+00629 Fable High plays Copper
+00630 Fable High plays Collection
+00631 Fable High plays Collection
+00632 Fable High plays Silver
+00633 Fable High buys Merchant Camp
+00634 Fable High gains Merchant Camp
+00635 Fable High's Collection resolves
+00636 Fable High takes 1 VP token
+00637 Fable High's Collection resolves
+00638 Fable High takes 1 VP token
+00639 Fable High buys Courier
+00640 Fable High gains Courier
+00641 Fable High's Collection resolves
+00642 Fable High takes 1 VP token
+00643 Fable High's Collection resolves
+00644 Fable High takes 1 VP token
+00645 Fable High buys Artist
+00646 Fable High takes 8 Debt
+00647 Fable High gains Artist
+00648 Fable High's Collection resolves
+00649 Fable High takes 1 VP token
+00650 Fable High's Collection resolves
+00651 Fable High takes 1 VP token
+00652 Fable High draws 5 cards
+00653 Sol High starts turn 14
+00654 Sol High plays Merchant Camp
+00655 Sol High plays Importer
+00656 Sol High uses Way of the Mouse for Importer
+00657 Sol High plays Fishmonger
+00658 Sol High plays Copper
+00659 Sol High buys Importer
+00660 Sol High gains Importer
+00661 Sol High shuffles
+00662 Sol High draws 5 cards

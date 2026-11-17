@@ -1,0 +1,3624 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 2,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 4,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 5,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 6,
+    "type": "bought",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High buys Kitsune"
+  },
+  {
+    "seq": 7,
+    "type": "gained",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High gains Kitsune"
+  },
+  {
+    "seq": 8,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 9,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 1"
+  },
+  {
+    "seq": 10,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 11,
+    "type": "played",
+    "player": 1,
+    "card": "Lucky Coin",
+    "text": "Fable High plays Lucky Coin"
+  },
+  {
+    "seq": 12,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 13,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 14,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 15,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 16,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 17,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 18,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 2"
+  },
+  {
+    "seq": 19,
+    "type": "played",
+    "player": 0,
+    "card": "Lucky Coin",
+    "text": "Sol High plays Lucky Coin"
+  },
+  {
+    "seq": 20,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 21,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 22,
+    "type": "bought",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High buys Ratcatcher"
+  },
+  {
+    "seq": 23,
+    "type": "gained",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High gains Ratcatcher"
+  },
+  {
+    "seq": 24,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 25,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 26,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 2"
+  },
+  {
+    "seq": 27,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 28,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 29,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 30,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 31,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 32,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 33,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 34,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 3"
+  },
+  {
+    "seq": 35,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 36,
+    "type": "counter",
+    "text": "1 Sun token removed from Enlightenment"
+  },
+  {
+    "seq": 37,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 38,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 39,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 40,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 41,
+    "type": "bought",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High buys Kitsune"
+  },
+  {
+    "seq": 42,
+    "type": "gained",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High gains Kitsune"
+  },
+  {
+    "seq": 43,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 44,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 3"
+  },
+  {
+    "seq": 45,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 46,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 47,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 48,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 49,
+    "type": "bought",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High buys Kitsune"
+  },
+  {
+    "seq": 50,
+    "type": "gained",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High gains Kitsune"
+  },
+  {
+    "seq": 51,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 52,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 4"
+  },
+  {
+    "seq": 53,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 54,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 55,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 56,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 57,
+    "type": "bought",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High buys Scheme"
+  },
+  {
+    "seq": 58,
+    "type": "gained",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High gains Scheme"
+  },
+  {
+    "seq": 59,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 60,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 61,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 4"
+  },
+  {
+    "seq": 62,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 63,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 64,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 65,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 66,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 67,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 68,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 69,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 5"
+  },
+  {
+    "seq": 70,
+    "type": "played",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High plays Ratcatcher"
+  },
+  {
+    "seq": 71,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 72,
+    "type": "moved",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High puts Ratcatcher from play on their Tavern mat"
+  },
+  {
+    "seq": 73,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 74,
+    "type": "counter",
+    "text": "1 Sun token removed from Enlightenment"
+  },
+  {
+    "seq": 75,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 76,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 77,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 78,
+    "type": "played",
+    "player": 0,
+    "card": "Lucky Coin",
+    "text": "Sol High plays Lucky Coin"
+  },
+  {
+    "seq": 79,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 80,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 81,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 82,
+    "type": "bought",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High buys Apprentice"
+  },
+  {
+    "seq": 83,
+    "type": "gained",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High gains Apprentice"
+  },
+  {
+    "seq": 84,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 85,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 5"
+  },
+  {
+    "seq": 86,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 87,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 88,
+    "type": "played",
+    "player": 1,
+    "card": "Lucky Coin",
+    "text": "Fable High plays Lucky Coin"
+  },
+  {
+    "seq": 89,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 90,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 91,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 92,
+    "type": "bought",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High buys Bank"
+  },
+  {
+    "seq": 93,
+    "type": "gained",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High gains Bank"
+  },
+  {
+    "seq": 94,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 95,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 6"
+  },
+  {
+    "seq": 96,
+    "type": "resolved",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High's Ratcatcher resolves"
+  },
+  {
+    "seq": 97,
+    "type": "called",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High calls Ratcatcher"
+  },
+  {
+    "seq": 98,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 99,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 100,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 101,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 102,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 103,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 104,
+    "type": "bought",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High buys Supplies"
+  },
+  {
+    "seq": 105,
+    "type": "gained",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High gains Supplies"
+  },
+  {
+    "seq": 106,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 107,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High puts Ratcatcher onto their deck"
+  },
+  {
+    "seq": 108,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 109,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 110,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 6"
+  },
+  {
+    "seq": 111,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 112,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 113,
+    "type": "bought",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High buys Ratcatcher"
+  },
+  {
+    "seq": 114,
+    "type": "gained",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High gains Ratcatcher"
+  },
+  {
+    "seq": 115,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 116,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 7"
+  },
+  {
+    "seq": 117,
+    "type": "played",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High plays Ratcatcher"
+  },
+  {
+    "seq": 118,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 119,
+    "type": "moved",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High puts Ratcatcher from play on their Tavern mat"
+  },
+  {
+    "seq": 120,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 121,
+    "type": "counter",
+    "text": "1 Sun token removed from Enlightenment"
+  },
+  {
+    "seq": 122,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 123,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 124,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 125,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 126,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 127,
+    "type": "played",
+    "player": 0,
+    "card": "Lucky Coin",
+    "text": "Sol High plays Lucky Coin"
+  },
+  {
+    "seq": 128,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 129,
+    "type": "bought",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High buys Falconer"
+  },
+  {
+    "seq": 130,
+    "type": "gained",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High gains Falconer"
+  },
+  {
+    "seq": 131,
+    "type": "resolved",
+    "player": 0,
+    "card": "Nearby",
+    "text": "Sol High's Nearby resolves"
+  },
+  {
+    "seq": 132,
+    "type": "bonus",
+    "player": 0,
+    "text": "Sol High gets +1 Buy"
+  },
+  {
+    "seq": 133,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 134,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 7"
+  },
+  {
+    "seq": 135,
+    "type": "played",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High plays Kitsune"
+  },
+  {
+    "seq": 136,
+    "type": "counter",
+    "text": "1 Sun token removed from Enlightenment"
+  },
+  {
+    "seq": 137,
+    "type": "chosen",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 138,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Sol High gains Curse"
+  },
+  {
+    "seq": 139,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 140,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 141,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 142,
+    "type": "bought",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High buys Kitsune"
+  },
+  {
+    "seq": 143,
+    "type": "gained",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High gains Kitsune"
+  },
+  {
+    "seq": 144,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 145,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 146,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 8"
+  },
+  {
+    "seq": 147,
+    "type": "resolved",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High's Ratcatcher resolves"
+  },
+  {
+    "seq": 148,
+    "type": "called",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High calls Ratcatcher"
+  },
+  {
+    "seq": 149,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 150,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 151,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 152,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 153,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 154,
+    "type": "counter",
+    "text": "1 Sun token removed from Enlightenment"
+  },
+  {
+    "seq": 155,
+    "type": "received",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High receives Enlightenment"
+  },
+  {
+    "seq": 156,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 157,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 158,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 159,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 160,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 161,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 162,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 163,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 164,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 165,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 166,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 167,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 168,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 169,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 170,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 171,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 172,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 173,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 174,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 175,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 176,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 177,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 178,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 179,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 180,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 181,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 182,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 183,
+    "type": "bought",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High buys Apprentice"
+  },
+  {
+    "seq": 184,
+    "type": "gained",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High gains Apprentice"
+  },
+  {
+    "seq": 185,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 186,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High puts Apprentice onto their deck"
+  },
+  {
+    "seq": 187,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 188,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 8"
+  },
+  {
+    "seq": 189,
+    "type": "played",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High plays Ratcatcher"
+  },
+  {
+    "seq": 190,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 191,
+    "type": "moved",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High puts Ratcatcher from play on their Tavern mat"
+  },
+  {
+    "seq": 192,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 193,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 194,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 195,
+    "type": "bought",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 196,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 197,
+    "type": "resolved",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High's Falconer resolves"
+  },
+  {
+    "seq": 198,
+    "type": "played",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High plays Falconer"
+  },
+  {
+    "seq": 199,
+    "type": "gained",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High gains Supplies to their hand"
+  },
+  {
+    "seq": 200,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 201,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 9"
+  },
+  {
+    "seq": 202,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 203,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 204,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 205,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 206,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 207,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 208,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 209,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 210,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 211,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 212,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 213,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 214,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 215,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 216,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 217,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 218,
+    "type": "played",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High plays Ratcatcher"
+  },
+  {
+    "seq": 219,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 220,
+    "type": "moved",
+    "player": 0,
+    "card": "Ratcatcher",
+    "text": "Sol High puts Ratcatcher from play on their Tavern mat"
+  },
+  {
+    "seq": 221,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 222,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 223,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 224,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 225,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 226,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 227,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 228,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 229,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 230,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 231,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 232,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 233,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 234,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 235,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 236,
+    "type": "trashed",
+    "player": 0,
+    "card": "Lucky Coin",
+    "text": "Sol High trashes Lucky Coin"
+  },
+  {
+    "seq": 237,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 4 cards"
+  },
+  {
+    "seq": 238,
+    "type": "played",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High plays Falconer"
+  },
+  {
+    "seq": 239,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver to their hand"
+  },
+  {
+    "seq": 240,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 241,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 242,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 243,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 244,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 245,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 246,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 247,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 248,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 249,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 250,
+    "type": "bought",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High buys Bank"
+  },
+  {
+    "seq": 251,
+    "type": "gained",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High gains Bank"
+  },
+  {
+    "seq": 252,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 253,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High puts Apprentice onto their deck"
+  },
+  {
+    "seq": 254,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 255,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 256,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 9"
+  },
+  {
+    "seq": 257,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 258,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 259,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 260,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 261,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 262,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 263,
+    "type": "played",
+    "player": 1,
+    "card": "Lucky Coin",
+    "text": "Fable High plays Lucky Coin"
+  },
+  {
+    "seq": 264,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 265,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 266,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 267,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 268,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 269,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 270,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 271,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 272,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 273,
+    "type": "played",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High plays Bank"
+  },
+  {
+    "seq": 274,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 275,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 276,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 277,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 10"
+  },
+  {
+    "seq": 278,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 279,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 280,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 281,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 282,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 283,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 284,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 285,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 286,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 287,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 288,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 289,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 290,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 291,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 292,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 293,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 294,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 295,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 296,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 297,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High trashes Silver"
+  },
+  {
+    "seq": 298,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 299,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 300,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High trashes Silver"
+  },
+  {
+    "seq": 301,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 302,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 303,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 304,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 305,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 306,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 307,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 308,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 309,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 310,
+    "type": "played",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High plays Falconer"
+  },
+  {
+    "seq": 311,
+    "type": "gained",
+    "player": 0,
+    "card": "Fool",
+    "text": "Sol High gains Fool to their hand"
+  },
+  {
+    "seq": 312,
+    "type": "played",
+    "player": 0,
+    "card": "Fool",
+    "text": "Sol High plays Fool"
+  },
+  {
+    "seq": 313,
+    "type": "received",
+    "player": 0,
+    "card": "Lost in the Woods",
+    "text": "Sol High receives Lost in the Woods"
+  },
+  {
+    "seq": 314,
+    "type": "chosen",
+    "player": 0,
+    "card": "Fool",
+    "text": "Sol High chooses the Wind's Gift (Fool)"
+  },
+  {
+    "seq": 315,
+    "type": "received",
+    "player": 0,
+    "card": "The Wind's Gift",
+    "text": "Sol High receives The Wind's Gift"
+  },
+  {
+    "seq": 316,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 317,
+    "type": "discarded",
+    "player": 0,
+    "card": "Curse",
+    "text": "Sol High discards Curse"
+  },
+  {
+    "seq": 318,
+    "type": "discarded",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 319,
+    "type": "chosen",
+    "player": 0,
+    "card": "Fool",
+    "text": "Sol High chooses the Flame's Gift (Fool)"
+  },
+  {
+    "seq": 320,
+    "type": "received",
+    "player": 0,
+    "card": "The Flame's Gift",
+    "text": "Sol High receives The Flame's Gift"
+  },
+  {
+    "seq": 321,
+    "type": "received",
+    "player": 0,
+    "card": "The Forest's Gift",
+    "text": "Sol High receives The Forest's Gift"
+  },
+  {
+    "seq": 322,
+    "type": "bonus",
+    "player": 0,
+    "text": "Sol High gets +1 Buy"
+  },
+  {
+    "seq": 323,
+    "type": "bonus",
+    "player": 0,
+    "text": "Sol High gets +$1"
+  },
+  {
+    "seq": 324,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 325,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 326,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 327,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 328,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 329,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 330,
+    "type": "played",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High plays Bank"
+  },
+  {
+    "seq": 331,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 332,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 333,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 334,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 335,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 336,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High puts Bank onto their deck"
+  },
+  {
+    "seq": 337,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 338,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 339,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 10"
+  },
+  {
+    "seq": 340,
+    "type": "played",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High plays Kitsune"
+  },
+  {
+    "seq": 341,
+    "type": "chosen",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 342,
+    "type": "played",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High plays Kitsune"
+  },
+  {
+    "seq": 343,
+    "type": "chosen",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High chooses +$2; each other player gains a Curse (Kitsune)"
+  },
+  {
+    "seq": 344,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Sol High gains Curse"
+  },
+  {
+    "seq": 345,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 346,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 347,
+    "type": "bought",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High buys Bank"
+  },
+  {
+    "seq": 348,
+    "type": "gained",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High gains Bank"
+  },
+  {
+    "seq": 349,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 350,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 351,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 11"
+  },
+  {
+    "seq": 352,
+    "type": "resolved",
+    "player": 0,
+    "card": "Lost in the Woods",
+    "text": "Sol High's Lost in the Woods resolves"
+  },
+  {
+    "seq": 353,
+    "type": "discarded",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 354,
+    "type": "received",
+    "player": 0,
+    "card": "The River's Gift",
+    "text": "Sol High receives The River's Gift"
+  },
+  {
+    "seq": 355,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 356,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 357,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 358,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 359,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 360,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 361,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 362,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 363,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 364,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 365,
+    "type": "trashed",
+    "player": 0,
+    "card": "Fool",
+    "text": "Sol High trashes Fool"
+  },
+  {
+    "seq": 366,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 367,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 368,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 369,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 370,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 371,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 372,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 373,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 374,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 375,
+    "type": "played",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High plays Falconer"
+  },
+  {
+    "seq": 376,
+    "type": "gained",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High gains Scheme to their hand"
+  },
+  {
+    "seq": 377,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 378,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 379,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 380,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; to gain a Silver (Kitsune)"
+  },
+  {
+    "seq": 381,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 382,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 383,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 384,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 385,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 386,
+    "type": "played",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High plays Bank"
+  },
+  {
+    "seq": 387,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 388,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 389,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 390,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High puts Bank onto their deck"
+  },
+  {
+    "seq": 391,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 392,
+    "type": "resolved",
+    "player": 0,
+    "card": "The River's Gift",
+    "text": "Sol High's The River's Gift resolves"
+  },
+  {
+    "seq": 393,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 394,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 11"
+  },
+  {
+    "seq": 395,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 396,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 397,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 398,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 399,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 400,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 401,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 402,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 403,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 404,
+    "type": "played",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High plays Kitsune"
+  },
+  {
+    "seq": 405,
+    "type": "chosen",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 406,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 407,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 408,
+    "type": "played",
+    "player": 1,
+    "card": "Bank",
+    "text": "Fable High plays Bank"
+  },
+  {
+    "seq": 409,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 410,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 411,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 412,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 12"
+  },
+  {
+    "seq": 413,
+    "type": "resolved",
+    "player": 0,
+    "card": "Lost in the Woods",
+    "text": "Sol High's Lost in the Woods resolves"
+  },
+  {
+    "seq": 414,
+    "type": "discarded",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 415,
+    "type": "received",
+    "player": 0,
+    "card": "The Earth's Gift",
+    "text": "Sol High receives The Earth's Gift"
+  },
+  {
+    "seq": 416,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 417,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 418,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 419,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 420,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 421,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 422,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 423,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 424,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 425,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 426,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 427,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 428,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 429,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 430,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 431,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 432,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High trashes Silver"
+  },
+  {
+    "seq": 433,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 434,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 435,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 436,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 437,
+    "type": "trashed",
+    "player": 0,
+    "card": "Curse",
+    "text": "Sol High trashes Curse"
+  },
+  {
+    "seq": 438,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 439,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; to gain a Silver (Kitsune)"
+  },
+  {
+    "seq": 440,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 441,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 442,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 443,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 444,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 445,
+    "type": "played",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High plays Bank"
+  },
+  {
+    "seq": 446,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 447,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 448,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 449,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High puts Bank onto their deck"
+  },
+  {
+    "seq": 450,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 451,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High puts Apprentice onto their deck"
+  },
+  {
+    "seq": 452,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 453,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 12"
+  },
+  {
+    "seq": 454,
+    "type": "resolved",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High's Ratcatcher resolves"
+  },
+  {
+    "seq": 455,
+    "type": "called",
+    "player": 1,
+    "card": "Ratcatcher",
+    "text": "Fable High calls Ratcatcher"
+  },
+  {
+    "seq": 456,
+    "type": "trashed",
+    "player": 1,
+    "card": "Curse",
+    "text": "Fable High trashes Curse"
+  },
+  {
+    "seq": 457,
+    "type": "played",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High plays Kitsune"
+  },
+  {
+    "seq": 458,
+    "type": "chosen",
+    "player": 1,
+    "card": "Kitsune",
+    "text": "Fable High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 459,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 460,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 461,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 462,
+    "type": "bought",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Fable High buys Duchy"
+  },
+  {
+    "seq": 463,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 464,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 465,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 13"
+  },
+  {
+    "seq": 466,
+    "type": "resolved",
+    "player": 0,
+    "card": "Lost in the Woods",
+    "text": "Sol High's Lost in the Woods resolves"
+  },
+  {
+    "seq": 467,
+    "type": "discarded",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 468,
+    "type": "received",
+    "player": 0,
+    "card": "The Swamp's Gift",
+    "text": "Sol High receives The Swamp's Gift"
+  },
+  {
+    "seq": 469,
+    "type": "gained",
+    "player": 0,
+    "card": "Will-o'-Wisp",
+    "text": "Sol High gains Will-o'-Wisp"
+  },
+  {
+    "seq": 470,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 471,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 472,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 473,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 474,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 475,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 476,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 477,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 478,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 479,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 480,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 481,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 482,
+    "type": "played",
+    "player": 0,
+    "card": "Apprentice",
+    "text": "Sol High plays Apprentice"
+  },
+  {
+    "seq": 483,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High trashes Silver"
+  },
+  {
+    "seq": 484,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 485,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 486,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 487,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 488,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 489,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 490,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 491,
+    "type": "played",
+    "player": 0,
+    "card": "Falconer",
+    "text": "Sol High plays Falconer"
+  },
+  {
+    "seq": 492,
+    "type": "gained",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High gains Scheme to their hand"
+  },
+  {
+    "seq": 493,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 494,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 495,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 496,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 497,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 498,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 499,
+    "type": "resolved",
+    "player": 0,
+    "card": "Enlightenment",
+    "text": "Sol High's Enlightenment resolves"
+  },
+  {
+    "seq": 500,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 501,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 502,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 503,
+    "type": "played",
+    "player": 0,
+    "card": "Supplies",
+    "text": "Sol High plays Supplies"
+  },
+  {
+    "seq": 504,
+    "type": "gained",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High gains Horse onto their deck"
+  },
+  {
+    "seq": 505,
+    "type": "played",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High plays Bank"
+  },
+  {
+    "seq": 506,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 507,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 508,
+    "type": "resolved",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High's Scheme resolves"
+  },
+  {
+    "seq": 509,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High puts Bank onto their deck"
+  },
+  {
+    "seq": 510,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 511,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 13"
+  },
+  {
+    "seq": 512,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 513,
+    "type": "resolved",
+    "player": 1,
+    "card": "Enlightenment",
+    "text": "Fable High's Enlightenment resolves"
+  },
+  {
+    "seq": 514,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 515,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 516,
+    "type": "bought",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High buys Estate"
+  },
+  {
+    "seq": 517,
+    "type": "gained",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High gains Estate"
+  },
+  {
+    "seq": 518,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 519,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Sol High starts turn 14"
+  },
+  {
+    "seq": 520,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 521,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 522,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 523,
+    "type": "played",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 524,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 525,
+    "type": "moved",
+    "player": 0,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 526,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 527,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 528,
+    "type": "played",
+    "player": 0,
+    "card": "Scheme",
+    "text": "Sol High plays Scheme"
+  },
+  {
+    "seq": 529,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 530,
+    "type": "played",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High plays Kitsune"
+  },
+  {
+    "seq": 531,
+    "type": "chosen",
+    "player": 0,
+    "card": "Kitsune",
+    "text": "Sol High chooses +$2; +2 Actions (Kitsune)"
+  },
+  {
+    "seq": 532,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 533,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 534,
+    "type": "played",
+    "player": 0,
+    "card": "Bank",
+    "text": "Sol High plays Bank"
+  },
+  {
+    "seq": 535,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 536,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 537,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 538,
+    "type": "drew",
+    "player": 0,
+    "text": "Sol High draws 5 cards"
+  }
+]

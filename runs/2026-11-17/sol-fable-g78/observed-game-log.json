@@ -1,0 +1,3206 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 2,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 4,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 5,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 6,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 7,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 1"
+  },
+  {
+    "seq": 8,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 9,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 10,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 11,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 12,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 13,
+    "type": "bought",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High buys Sanctuary"
+  },
+  {
+    "seq": 14,
+    "type": "gained",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High gains Sanctuary"
+  },
+  {
+    "seq": 15,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 16,
+    "type": "counter",
+    "text": "1 VP token removed from the Sanctuary pile"
+  },
+  {
+    "seq": 17,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 18,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 2"
+  },
+  {
+    "seq": 19,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 20,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 21,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 22,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 23,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 24,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 25,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 26,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 27,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 2"
+  },
+  {
+    "seq": 28,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 29,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 30,
+    "type": "bought",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High buys Coin of the Realm"
+  },
+  {
+    "seq": 31,
+    "type": "gained",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High gains Coin of the Realm"
+  },
+  {
+    "seq": 32,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 33,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 34,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 3"
+  },
+  {
+    "seq": 35,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 36,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 37,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 38,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 39,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 40,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 41,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 3"
+  },
+  {
+    "seq": 42,
+    "type": "played",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High plays Coin of the Realm"
+  },
+  {
+    "seq": 43,
+    "type": "moved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High puts Coin of the Realm from play on their Tavern mat"
+  },
+  {
+    "seq": 44,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 45,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 46,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High buys Silver"
+  },
+  {
+    "seq": 47,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 48,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 49,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 4"
+  },
+  {
+    "seq": 50,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 51,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 52,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 53,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 54,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 55,
+    "type": "bought",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High buys Sanctuary"
+  },
+  {
+    "seq": 56,
+    "type": "gained",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High gains Sanctuary"
+  },
+  {
+    "seq": 57,
+    "type": "resolved",
+    "player": 0,
+    "card": "Defiled Shrine",
+    "text": "Fable High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 58,
+    "type": "counter",
+    "text": "1 VP token removed from the Sanctuary pile"
+  },
+  {
+    "seq": 59,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 60,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 61,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 4"
+  },
+  {
+    "seq": 62,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 63,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 64,
+    "type": "moved",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High puts Estate from their hand on their Exile mat"
+  },
+  {
+    "seq": 65,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 66,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 67,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 68,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 69,
+    "type": "bought",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High buys Poacher"
+  },
+  {
+    "seq": 70,
+    "type": "gained",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High gains Poacher"
+  },
+  {
+    "seq": 71,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 72,
+    "type": "counter",
+    "text": "1 VP token removed from the Poacher pile"
+  },
+  {
+    "seq": 73,
+    "type": "bought",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High buys Curse"
+  },
+  {
+    "seq": 74,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High gains Curse"
+  },
+  {
+    "seq": 75,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 76,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 3 VP tokens"
+  },
+  {
+    "seq": 77,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 78,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 79,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 5"
+  },
+  {
+    "seq": 80,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 81,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 82,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 83,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 84,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 85,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 86,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 5"
+  },
+  {
+    "seq": 87,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 88,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 89,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High puts Copper from their hand on their Exile mat"
+  },
+  {
+    "seq": 90,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 91,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 92,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 93,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 94,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 95,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 96,
+    "type": "bought",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High buys Tragic Hero"
+  },
+  {
+    "seq": 97,
+    "type": "gained",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High gains Tragic Hero"
+  },
+  {
+    "seq": 98,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 99,
+    "type": "counter",
+    "text": "1 VP token removed from the Tragic Hero pile"
+  },
+  {
+    "seq": 100,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 101,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 6"
+  },
+  {
+    "seq": 102,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 103,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 104,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 105,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 106,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 107,
+    "type": "bought",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High buys Mining Road"
+  },
+  {
+    "seq": 108,
+    "type": "gained",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High gains Mining Road"
+  },
+  {
+    "seq": 109,
+    "type": "resolved",
+    "player": 0,
+    "card": "Defiled Shrine",
+    "text": "Fable High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 110,
+    "type": "counter",
+    "text": "1 VP token removed from the Mining Road pile"
+  },
+  {
+    "seq": 111,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 112,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 113,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 6"
+  },
+  {
+    "seq": 114,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 115,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 116,
+    "type": "bought",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High buys Snake Witch"
+  },
+  {
+    "seq": 117,
+    "type": "gained",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High gains Snake Witch"
+  },
+  {
+    "seq": 118,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 119,
+    "type": "counter",
+    "text": "1 VP token removed from the Snake Witch pile"
+  },
+  {
+    "seq": 120,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 121,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 122,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 7"
+  },
+  {
+    "seq": 123,
+    "type": "played",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High plays Sanctuary"
+  },
+  {
+    "seq": 124,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 125,
+    "type": "moved",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High puts Estate from their hand on their Exile mat"
+  },
+  {
+    "seq": 126,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 127,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 128,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 129,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 130,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold Mine",
+    "text": "Fable High buys Gold Mine"
+  },
+  {
+    "seq": 131,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold Mine",
+    "text": "Fable High gains Gold Mine"
+  },
+  {
+    "seq": 132,
+    "type": "resolved",
+    "player": 0,
+    "card": "Defiled Shrine",
+    "text": "Fable High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 133,
+    "type": "counter",
+    "text": "1 VP token removed from the Gold Mine pile"
+  },
+  {
+    "seq": 134,
+    "type": "bought",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High buys Curse"
+  },
+  {
+    "seq": 135,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 136,
+    "type": "resolved",
+    "player": 0,
+    "card": "Defiled Shrine",
+    "text": "Fable High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 137,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 4 VP tokens"
+  },
+  {
+    "seq": 138,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 139,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 7"
+  },
+  {
+    "seq": 140,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 141,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 142,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 143,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 144,
+    "type": "bought",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High buys Poacher"
+  },
+  {
+    "seq": 145,
+    "type": "gained",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High gains Poacher"
+  },
+  {
+    "seq": 146,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 147,
+    "type": "counter",
+    "text": "1 VP token removed from the Poacher pile"
+  },
+  {
+    "seq": 148,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 149,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 8"
+  },
+  {
+    "seq": 150,
+    "type": "played",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High plays Mining Road"
+  },
+  {
+    "seq": 151,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 152,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 153,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 154,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 155,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 156,
+    "type": "resolved",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High's Mining Road resolves"
+  },
+  {
+    "seq": 157,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 158,
+    "type": "bought",
+    "player": 0,
+    "card": "Poacher",
+    "text": "Fable High buys Poacher"
+  },
+  {
+    "seq": 159,
+    "type": "gained",
+    "player": 0,
+    "card": "Poacher",
+    "text": "Fable High gains Poacher"
+  },
+  {
+    "seq": 160,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 161,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 8"
+  },
+  {
+    "seq": 162,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 163,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 164,
+    "type": "resolved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High's Coin of the Realm resolves"
+  },
+  {
+    "seq": 165,
+    "type": "called",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High calls Coin of the Realm"
+  },
+  {
+    "seq": 166,
+    "type": "bonus",
+    "player": 1,
+    "text": "Sol High gets +2 Actions"
+  },
+  {
+    "seq": 167,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 168,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 169,
+    "type": "played",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High plays Snake Witch"
+  },
+  {
+    "seq": 170,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 171,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 172,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 173,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 174,
+    "type": "moved",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High puts Curse from their hand on their Exile mat"
+  },
+  {
+    "seq": 175,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 176,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 177,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 178,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 179,
+    "type": "bought",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High buys Sanctuary"
+  },
+  {
+    "seq": 180,
+    "type": "gained",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High gains Sanctuary"
+  },
+  {
+    "seq": 181,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 182,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 183,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 9"
+  },
+  {
+    "seq": 184,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 185,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 186,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 187,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 188,
+    "type": "bought",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High buys Sanctuary"
+  },
+  {
+    "seq": 189,
+    "type": "gained",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High gains Sanctuary"
+  },
+  {
+    "seq": 190,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 191,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 192,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 9"
+  },
+  {
+    "seq": 193,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 194,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 195,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 196,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 197,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 198,
+    "type": "bought",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High buys Poacher"
+  },
+  {
+    "seq": 199,
+    "type": "gained",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High gains Poacher"
+  },
+  {
+    "seq": 200,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 201,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 10"
+  },
+  {
+    "seq": 202,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 203,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 204,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 205,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 206,
+    "type": "bought",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High buys Mining Road"
+  },
+  {
+    "seq": 207,
+    "type": "gained",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High gains Mining Road"
+  },
+  {
+    "seq": 208,
+    "type": "resolved",
+    "player": 0,
+    "card": "Defiled Shrine",
+    "text": "Fable High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 209,
+    "type": "counter",
+    "text": "1 VP token removed from the Mining Road pile"
+  },
+  {
+    "seq": 210,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 211,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 10"
+  },
+  {
+    "seq": 212,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 213,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 214,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 215,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 216,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High puts Copper from their hand on their Exile mat"
+  },
+  {
+    "seq": 217,
+    "type": "played",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High plays Snake Witch"
+  },
+  {
+    "seq": 218,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 219,
+    "type": "revealed-hand",
+    "player": 1,
+    "text": "Sol High reveals their hand: Coin of the Realm, Silver, Tragic Hero, Copper"
+  },
+  {
+    "seq": 220,
+    "type": "moved",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High returns Snake Witch from play to the Snake Witch pile"
+  },
+  {
+    "seq": 221,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 222,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 223,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 224,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 225,
+    "type": "played",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High plays Coin of the Realm"
+  },
+  {
+    "seq": 226,
+    "type": "moved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High puts Coin of the Realm from play on their Tavern mat"
+  },
+  {
+    "seq": 227,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 228,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 229,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 230,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 231,
+    "type": "bought",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High buys Tragic Hero"
+  },
+  {
+    "seq": 232,
+    "type": "gained",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High gains Tragic Hero"
+  },
+  {
+    "seq": 233,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 234,
+    "type": "counter",
+    "text": "1 VP token removed from the Tragic Hero pile"
+  },
+  {
+    "seq": 235,
+    "type": "bought",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High buys Snake Witch"
+  },
+  {
+    "seq": 236,
+    "type": "gained",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High gains Snake Witch"
+  },
+  {
+    "seq": 237,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 238,
+    "type": "counter",
+    "text": "1 VP token removed from the Snake Witch pile"
+  },
+  {
+    "seq": 239,
+    "type": "bought",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High buys Curse"
+  },
+  {
+    "seq": 240,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High gains Curse"
+  },
+  {
+    "seq": 241,
+    "type": "resolved",
+    "player": 1,
+    "card": "Defiled Shrine",
+    "text": "Sol High's Defiled Shrine resolves"
+  },
+  {
+    "seq": 242,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 4 VP tokens"
+  },
+  {
+    "seq": 243,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 244,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 11"
+  },
+  {
+    "seq": 245,
+    "type": "played",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High plays Sanctuary"
+  },
+  {
+    "seq": 246,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 247,
+    "type": "moved",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High puts Estate from their hand on their Exile mat"
+  },
+  {
+    "seq": 248,
+    "type": "played",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High plays Sanctuary"
+  },
+  {
+    "seq": 249,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 250,
+    "type": "played",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High plays Mining Road"
+  },
+  {
+    "seq": 251,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 252,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 253,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 254,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 255,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 256,
+    "type": "resolved",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High's Mining Road resolves"
+  },
+  {
+    "seq": 257,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 258,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 259,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 260,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 261,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 11"
+  },
+  {
+    "seq": 262,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 263,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 264,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 265,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 266,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 267,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 268,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 269,
+    "type": "moved",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High puts Estate from their hand on their Exile mat"
+  },
+  {
+    "seq": 270,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 271,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 272,
+    "type": "moved",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High puts Estate from their hand on their Exile mat"
+  },
+  {
+    "seq": 273,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 274,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 275,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 276,
+    "type": "bought",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High buys Mining Road"
+  },
+  {
+    "seq": 277,
+    "type": "gained",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High gains Mining Road"
+  },
+  {
+    "seq": 278,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 279,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 12"
+  },
+  {
+    "seq": 280,
+    "type": "played",
+    "player": 0,
+    "card": "Poacher",
+    "text": "Fable High plays Poacher"
+  },
+  {
+    "seq": 281,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 282,
+    "type": "played",
+    "player": 0,
+    "card": "Gold Mine",
+    "text": "Fable High plays Gold Mine"
+  },
+  {
+    "seq": 283,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 284,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 285,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 286,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 287,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 288,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 289,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 290,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 291,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 292,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 12"
+  },
+  {
+    "seq": 293,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 294,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 295,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 296,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 297,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 298,
+    "type": "resolved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High's Coin of the Realm resolves"
+  },
+  {
+    "seq": 299,
+    "type": "called",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High calls Coin of the Realm"
+  },
+  {
+    "seq": 300,
+    "type": "bonus",
+    "player": 1,
+    "text": "Sol High gets +2 Actions"
+  },
+  {
+    "seq": 301,
+    "type": "played",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High plays Snake Witch"
+  },
+  {
+    "seq": 302,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 303,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 304,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 305,
+    "type": "moved",
+    "player": 1,
+    "card": "Curse",
+    "text": "Sol High puts Curse from their hand on their Exile mat"
+  },
+  {
+    "seq": 306,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 307,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 308,
+    "type": "trashed",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High trashes Tragic Hero"
+  },
+  {
+    "seq": 309,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High gains Gold"
+  },
+  {
+    "seq": 310,
+    "type": "played",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High plays Mining Road"
+  },
+  {
+    "seq": 311,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 312,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 313,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 314,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 315,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 316,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 317,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 318,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High puts Copper from their hand on their Exile mat"
+  },
+  {
+    "seq": 319,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 320,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 321,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 322,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 323,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 324,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 325,
+    "type": "bought-landscape",
+    "player": 1,
+    "card": "Citadel",
+    "text": "Sol High buys Citadel"
+  },
+  {
+    "seq": 326,
+    "type": "bought",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High buys Tragic Hero"
+  },
+  {
+    "seq": 327,
+    "type": "gained",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High gains Tragic Hero"
+  },
+  {
+    "seq": 328,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 329,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 330,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 13"
+  },
+  {
+    "seq": 331,
+    "type": "played",
+    "player": 0,
+    "card": "Poacher",
+    "text": "Fable High plays Poacher"
+  },
+  {
+    "seq": 332,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 333,
+    "type": "played",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High plays Mining Road"
+  },
+  {
+    "seq": 334,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 335,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 336,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 337,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 338,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 339,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 340,
+    "type": "resolved",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High's Mining Road resolves"
+  },
+  {
+    "seq": 341,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 342,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 343,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 344,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 345,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 13"
+  },
+  {
+    "seq": 346,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 347,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 348,
+    "type": "resolved",
+    "player": 1,
+    "card": "Citadel",
+    "text": "Sol High's Citadel resolves"
+  },
+  {
+    "seq": 349,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 350,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 351,
+    "type": "played",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High plays Mining Road"
+  },
+  {
+    "seq": 352,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 353,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 354,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 355,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 356,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High puts Copper from their hand on their Exile mat"
+  },
+  {
+    "seq": 357,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 358,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 359,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High puts Copper from their hand on their Exile mat"
+  },
+  {
+    "seq": 360,
+    "type": "played",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High plays Snake Witch"
+  },
+  {
+    "seq": 361,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 362,
+    "type": "revealed-hand",
+    "player": 1,
+    "text": "Sol High reveals their hand: Silver, Gold, Tragic Hero, Copper, Poacher"
+  },
+  {
+    "seq": 363,
+    "type": "moved",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High returns Snake Witch from play to the Snake Witch pile"
+  },
+  {
+    "seq": 364,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 365,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 366,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 367,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 368,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 369,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 370,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 371,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 372,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 373,
+    "type": "played",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High plays Coin of the Realm"
+  },
+  {
+    "seq": 374,
+    "type": "moved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High puts Coin of the Realm from play on their Tavern mat"
+  },
+  {
+    "seq": 375,
+    "type": "bought",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High buys Gold"
+  },
+  {
+    "seq": 376,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High gains Gold"
+  },
+  {
+    "seq": 377,
+    "type": "resolved",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High's Mining Road resolves"
+  },
+  {
+    "seq": 378,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 379,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 380,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 381,
+    "type": "bought",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High buys Snake Witch"
+  },
+  {
+    "seq": 382,
+    "type": "gained",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High gains Snake Witch"
+  },
+  {
+    "seq": 383,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 384,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 385,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 14"
+  },
+  {
+    "seq": 386,
+    "type": "played",
+    "player": 0,
+    "card": "Mining Road",
+    "text": "Fable High plays Mining Road"
+  },
+  {
+    "seq": 387,
+    "type": "played",
+    "player": 0,
+    "card": "Gold Mine",
+    "text": "Fable High plays Gold Mine"
+  },
+  {
+    "seq": 388,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 389,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 390,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 391,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 392,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 393,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 394,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 395,
+    "type": "bought",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High buys Estate"
+  },
+  {
+    "seq": 396,
+    "type": "gained",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High gains Estate"
+  },
+  {
+    "seq": 397,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 398,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 14"
+  },
+  {
+    "seq": 399,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 400,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 401,
+    "type": "resolved",
+    "player": 1,
+    "card": "Citadel",
+    "text": "Sol High's Citadel resolves"
+  },
+  {
+    "seq": 402,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 403,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 404,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 405,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 406,
+    "type": "moved",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High puts Province from their hand on their Exile mat"
+  },
+  {
+    "seq": 407,
+    "type": "played",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High plays Snake Witch"
+  },
+  {
+    "seq": 408,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 409,
+    "type": "revealed-hand",
+    "player": 1,
+    "text": "Sol High reveals their hand: Gold, Sanctuary, Tragic Hero, Poacher, Silver"
+  },
+  {
+    "seq": 410,
+    "type": "moved",
+    "player": 1,
+    "card": "Snake Witch",
+    "text": "Sol High returns Snake Witch from play to the Snake Witch pile"
+  },
+  {
+    "seq": 411,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High gains Curse"
+  },
+  {
+    "seq": 412,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 413,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 414,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 415,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 416,
+    "type": "played",
+    "player": 1,
+    "card": "Sanctuary",
+    "text": "Sol High plays Sanctuary"
+  },
+  {
+    "seq": 417,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 418,
+    "type": "played",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High plays Mining Road"
+  },
+  {
+    "seq": 419,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 420,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 421,
+    "type": "resolved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High's Coin of the Realm resolves"
+  },
+  {
+    "seq": 422,
+    "type": "called",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High calls Coin of the Realm"
+  },
+  {
+    "seq": 423,
+    "type": "bonus",
+    "player": 1,
+    "text": "Sol High gets +2 Actions"
+  },
+  {
+    "seq": 424,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 425,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 426,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 427,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 428,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 429,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 430,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 431,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 432,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 433,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 434,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 435,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 436,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 15"
+  },
+  {
+    "seq": 437,
+    "type": "played",
+    "player": 0,
+    "card": "Sanctuary",
+    "text": "Fable High plays Sanctuary"
+  },
+  {
+    "seq": 438,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 439,
+    "type": "moved",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High puts Curse from their hand on their Exile mat"
+  },
+  {
+    "seq": 440,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 441,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 442,
+    "type": "bought",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High buys Estate"
+  },
+  {
+    "seq": 443,
+    "type": "gained",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High gains Estate"
+  },
+  {
+    "seq": 444,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 445,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 15"
+  },
+  {
+    "seq": 446,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 447,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 448,
+    "type": "resolved",
+    "player": 1,
+    "card": "Citadel",
+    "text": "Sol High's Citadel resolves"
+  },
+  {
+    "seq": 449,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 450,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 451,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 452,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 453,
+    "type": "played",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High plays Mining Road"
+  },
+  {
+    "seq": 454,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 455,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 456,
+    "type": "played",
+    "player": 1,
+    "card": "Poacher",
+    "text": "Sol High plays Poacher"
+  },
+  {
+    "seq": 457,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 458,
+    "type": "played",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High plays Tragic Hero"
+  },
+  {
+    "seq": 459,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 460,
+    "type": "trashed",
+    "player": 1,
+    "card": "Tragic Hero",
+    "text": "Sol High trashes Tragic Hero"
+  },
+  {
+    "seq": 461,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High gains Gold"
+  },
+  {
+    "seq": 462,
+    "type": "resolved",
+    "player": 1,
+    "card": "Mining Road",
+    "text": "Sol High's Mining Road resolves"
+  },
+  {
+    "seq": 463,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 464,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 465,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 466,
+    "type": "played",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High plays Coin of the Realm"
+  },
+  {
+    "seq": 467,
+    "type": "moved",
+    "player": 1,
+    "card": "Coin of the Realm",
+    "text": "Sol High puts Coin of the Realm from play on their Tavern mat"
+  },
+  {
+    "seq": 468,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Sol High plays Gold"
+  },
+  {
+    "seq": 469,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 470,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 471,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 472,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 473,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 474,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 475,
+    "type": "bought",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High buys Estate"
+  },
+  {
+    "seq": 476,
+    "type": "gained",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High gains Estate"
+  },
+  {
+    "seq": 477,
+    "type": "bought",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High buys Estate"
+  },
+  {
+    "seq": 478,
+    "type": "gained",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High gains Estate"
+  },
+  {
+    "seq": 479,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 480,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  }
+]

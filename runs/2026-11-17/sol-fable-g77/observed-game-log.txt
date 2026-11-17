@@ -1,0 +1,584 @@
+00000 Sol High starts turn 1
+00001 Sol High plays Copper
+00002 Sol High plays Copper
+00003 Sol High plays Copper
+00004 Sol High plays Copper
+00005 Sol High buys Market Square
+00006 Sol High gains Market Square
+00007 Sol High draws 5 cards
+00008 Fable High starts turn 1
+00009 Fable High plays Copper
+00010 Fable High plays Copper
+00011 Fable High buys Pawn
+00012 Fable High gains Pawn
+00013 Fable High draws 5 cards
+00014 Sol High starts turn 2
+00015 Sol High plays Copper
+00016 Sol High plays Copper
+00017 Sol High plays Copper
+00018 Sol High buys Donate
+00019 Sol High takes 8 Debt
+00020 Sol High pays off 1 Debt
+00021 Sol High pays off 1 Debt
+00022 Sol High pays off 1 Debt
+00023 Sol High shuffles
+00024 Sol High draws 5 cards
+00025 Fable High starts turn 2
+00026 Fable High plays Copper
+00027 Fable High plays Copper
+00028 Fable High plays Copper
+00029 Fable High plays Copper
+00030 Fable High plays Copper
+00031 Fable High buys Market Square
+00032 Fable High gains Market Square
+00033 Fable High shuffles
+00034 Fable High draws 5 cards
+00035 Sol High starts turn 3
+00036 Sol High's Donate resolves
+00037 Sol High puts 6 cards from their deck into their hand
+00038 Sol High trashes Copper
+00039 Sol High trashes Copper
+00040 Sol High trashes Estate
+00041 Sol High trashes Estate
+00042 Sol High trashes Copper
+00043 Sol High trashes Estate
+00044 Sol High's Market Square resolves
+00045 Sol High discards Market Square
+00046 Sol High gains Gold
+00047 Sol High sets aside 2 cards from their discard pile
+00048 Sol High puts 4 cards from their hand into their discard pile
+00049 Sol High shuffles
+00050 Sol High puts 2 cards they had set aside into their discard pile
+00051 Sol High shuffles
+00052 Sol High draws 5 cards
+00053 Sol High plays Market Square
+00054 Sol High draws 1 card
+00055 Sol High plays Copper
+00056 Sol High plays Copper
+00057 Sol High plays Copper
+00058 Sol High plays Copper
+00059 Sol High plays Gold
+00060 Sol High pays off 1 Debt
+00061 Sol High pays off 1 Debt
+00062 Sol High pays off 1 Debt
+00063 Sol High pays off 1 Debt
+00064 Sol High pays off 1 Debt
+00065 Sol High buys Pawn
+00066 Sol High gains Pawn
+00067 Sol High shuffles
+00068 Sol High draws 5 cards
+00069 Fable High starts turn 3
+00070 Fable High plays Pawn
+00071 Fable High chooses +1 Buy; +$1 (Pawn)
+00072 Fable High plays Copper
+00073 Fable High plays Copper
+00074 Fable High plays Copper
+00075 Fable High buys Market Square
+00076 Fable High gains Market Square
+00077 Fable High buys Donate
+00078 Fable High takes 8 Debt
+00079 Fable High pays off 1 Debt
+00080 Fable High draws 5 cards
+00081 Sol High starts turn 4
+00082 Sol High plays Gold
+00083 Sol High plays Copper
+00084 Sol High plays Copper
+00085 Sol High plays Copper
+00086 Sol High plays Copper
+00087 Sol High buys Tea House
+00088 Sol High gains Tea House
+00089 Sol High shuffles
+00090 Sol High draws 5 cards
+00091 Fable High starts turn 4
+00092 Fable High's Donate resolves
+00093 Fable High puts 2 cards from their deck into their hand
+00094 Fable High puts 6 cards from their discard pile into their hand
+00095 Fable High trashes Estate
+00096 Fable High trashes Copper
+00097 Fable High trashes Copper
+00098 Fable High trashes Estate
+00099 Fable High trashes Copper
+00100 Fable High trashes Copper
+00101 Fable High trashes Estate
+00102 Fable High's Market Square resolves
+00103 Fable High discards Market Square
+00104 Fable High gains Gold
+00105 Fable High's Market Square resolves
+00106 Fable High discards Market Square
+00107 Fable High gains Gold
+00108 Fable High sets aside 4 cards from their discard pile
+00109 Fable High puts 4 cards from their hand into their discard pile
+00110 Fable High shuffles
+00111 Fable High puts 4 cards they had set aside into their discard pile
+00112 Fable High shuffles
+00113 Fable High draws 5 cards
+00114 Fable High plays Market Square
+00115 Fable High draws 1 card
+00116 Fable High plays Market Square
+00117 Fable High draws 1 card
+00118 Fable High plays Pawn
+00119 Fable High chooses +1 Card; +$1 (Pawn)
+00120 Fable High draws 1 card
+00121 Fable High plays Copper
+00122 Fable High plays Copper
+00123 Fable High plays Copper
+00124 Fable High plays Gold
+00125 Fable High plays Gold
+00126 Fable High pays off 1 Debt
+00127 Fable High pays off 1 Debt
+00128 Fable High pays off 1 Debt
+00129 Fable High pays off 1 Debt
+00130 Fable High pays off 1 Debt
+00131 Fable High pays off 1 Debt
+00132 Fable High pays off 1 Debt
+00133 Fable High buys Market Square
+00134 Fable High gains Market Square
+00135 Fable High shuffles
+00136 Fable High draws 5 cards
+00137 Sol High starts turn 5
+00138 Sol High plays Tea House
+00139 1 Sun token removed from Kind Emperor
+00140 Sol High draws 1 card
+00141 Sol High plays Market Square
+00142 Sol High draws 1 card
+00143 Sol High plays Pawn
+00144 Sol High chooses +1 Card; +$1 (Pawn)
+00145 Sol High draws 1 card
+00146 Sol High plays Copper
+00147 Sol High plays Copper
+00148 Sol High plays Copper
+00149 Sol High plays Copper
+00150 Sol High plays Gold
+00151 Sol High buys First Mate
+00152 Sol High gains First Mate
+00153 Sol High buys Village Green
+00154 Sol High gains Village Green
+00155 Sol High shuffles
+00156 Sol High draws 5 cards
+00157 Fable High starts turn 5
+00158 Fable High plays Market Square
+00159 Fable High draws 1 card
+00160 Fable High plays Copper
+00161 Fable High plays Copper
+00162 Fable High plays Gold
+00163 Fable High buys Siren
+00164 Fable High gains Siren
+00165 Fable High's Siren resolves
+00166 Fable High trashes Market Square
+00167 Fable High's Market Square resolves
+00168 Fable High discards Market Square
+00169 Fable High gains Gold
+00170 Fable High buys Pawn
+00171 Fable High gains Pawn
+00172 Fable High shuffles
+00173 Fable High draws 5 cards
+00174 Sol High starts turn 6
+00175 Sol High plays First Mate
+00176 Sol High plays Tea House
+00177 1 Sun token removed from Kind Emperor
+00178 Sol High draws 1 card
+00179 Sol High draws 2 cards
+00180 Sol High plays Market Square
+00181 Sol High draws 1 card
+00182 Sol High plays Pawn
+00183 Sol High chooses +1 Card; +1 Action (Pawn)
+00184 Sol High draws 1 card
+00185 Sol High plays Village Green
+00186 Sol High chooses at the start of their next turn (Village Green)
+00187 Sol High plays Copper
+00188 Sol High plays Copper
+00189 Sol High plays Copper
+00190 Sol High plays Copper
+00191 Sol High plays Gold
+00192 Sol High buys Maroon
+00193 Sol High gains Maroon
+00194 Sol High buys Tea House
+00195 Sol High gains Tea House
+00196 Sol High shuffles
+00197 Sol High draws 5 cards
+00198 Fable High starts turn 6
+00199 Fable High plays Pawn
+00200 Fable High chooses +1 Card; +1 Action (Pawn)
+00201 Fable High draws 1 card
+00202 Fable High plays Market Square
+00203 Fable High draws 1 card
+00204 Fable High plays Market Square
+00205 Fable High draws 1 card
+00206 Fable High plays Pawn
+00207 Fable High chooses +1 Card; +1 Action (Pawn)
+00208 Fable High draws 1 card
+00209 Fable High plays Gold
+00210 Fable High plays Copper
+00211 Fable High plays Copper
+00212 Fable High plays Gold
+00213 Fable High plays Copper
+00214 Fable High buys Market Square
+00215 Fable High gains Market Square
+00216 Fable High buys Market Square
+00217 Fable High gains Market Square
+00218 Fable High buys Market Square
+00219 Fable High gains Market Square
+00220 Fable High shuffles
+00221 Fable High draws 5 cards
+00222 Sol High starts turn 7
+00223 Sol High's Village Green resolves
+00224 Sol High gets +2 Actions
+00225 Sol High draws 1 card
+00226 Sol High plays Tea House
+00227 1 Sun token removed from Kind Emperor
+00228 Sol High draws 1 card
+00229 Sol High plays Maroon
+00230 Sol High trashes Copper
+00231 Sol High's Market Square resolves
+00232 Sol High discards Market Square
+00233 Sol High gains Gold
+00234 Sol High draws 2 cards
+00235 Sol High plays Tea House
+00236 1 Sun token removed from Kind Emperor
+00237 Sol High draws 1 card
+00238 Sol High plays Pawn
+00239 Sol High chooses +1 Action; +1 Buy (Pawn)
+00240 Sol High plays First Mate
+00241 Sol High draws 1 card
+00242 Sol High shuffles
+00243 Sol High draws 2 cards
+00244 Sol High plays Market Square
+00245 Sol High plays Gold
+00246 Sol High plays Copper
+00247 Sol High plays Copper
+00248 Sol High plays Copper
+00249 Sol High plays Gold
+00250 Sol High buys Tea House
+00251 Sol High gains Tea House
+00252 Sol High buys Tea House
+00253 Sol High gains Tea House
+00254 Sol High buys Market Square
+00255 Sol High gains Market Square
+00256 Sol High shuffles
+00257 Sol High draws 5 cards
+00258 Fable High starts turn 7
+00259 Fable High plays Pawn
+00260 Fable High chooses +1 Card; +1 Action (Pawn)
+00261 Fable High draws 1 card
+00262 Fable High plays Market Square
+00263 Fable High draws 1 card
+00264 Fable High plays Pawn
+00265 Fable High chooses +1 Card; +1 Action (Pawn)
+00266 Fable High draws 1 card
+00267 Fable High plays Market Square
+00268 Fable High draws 1 card
+00269 Fable High plays Siren
+00270 Sol High gains Curse
+00271 Fable High plays Gold
+00272 Fable High plays Gold
+00273 Fable High plays Copper
+00274 Fable High plays Copper
+00275 Fable High buys Market Square
+00276 Fable High gains Market Square
+00277 Fable High buys Market Square
+00278 Fable High gains Market Square
+00279 Fable High buys Pawn
+00280 Fable High gains Pawn
+00281 Fable High draws 5 cards
+00282 Sol High starts turn 8
+00283 Sol High plays Tea House
+00284 1 Sun token removed from Kind Emperor
+00285 Sol High receives Kind Emperor
+00286 Sol High gains First Mate to their hand
+00287 Sol High draws 1 card
+00288 Sol High plays Village Green
+00289 Sol High chooses now (Village Green)
+00290 Sol High draws 1 card
+00291 Sol High plays Market Square
+00292 Sol High draws 1 card
+00293 Sol High plays Pawn
+00294 Sol High chooses +1 Card; +1 Action (Pawn)
+00295 Sol High draws 1 card
+00296 Sol High plays Maroon
+00297 Sol High trashes Copper
+00298 Sol High's Market Square resolves
+00299 Sol High discards Market Square
+00300 Sol High gains Gold
+00301 Sol High draws 2 cards
+00302 Sol High plays First Mate
+00303 Sol High plays Tea House
+00304 Sol High draws 1 card
+00305 Sol High plays Tea House
+00306 Sol High draws 1 card
+00307 Sol High plays Tea House
+00308 Sol High draws 1 card
+00309 Sol High draws 1 card
+00310 Sol High shuffles
+00311 Sol High draws 1 card
+00312 Sol High plays Market Square
+00313 Sol High draws 1 card
+00314 Sol High plays First Mate
+00315 Sol High draws 1 card
+00316 Sol High plays Copper
+00317 Sol High plays Copper
+00318 Sol High plays Gold
+00319 Sol High plays Gold
+00320 Sol High plays Gold
+00321 Sol High buys Province
+00322 Sol High gains Province
+00323 Sol High buys Province
+00324 Sol High gains Province
+00325 Sol High shuffles
+00326 Sol High draws 5 cards
+00327 Fable High starts turn 8
+00328 Fable High's Kind Emperor resolves
+00329 Fable High gains Siren to their hand
+00330 Fable High's Siren resolves
+00331 Fable High trashes Market Square
+00332 Fable High's Market Square resolves
+00333 Fable High discards Market Square
+00334 Fable High gains Gold
+00335 Fable High's Market Square resolves
+00336 Fable High discards Market Square
+00337 Fable High gains Gold
+00338 Fable High's Siren resolves
+00339 Fable High shuffles
+00340 Fable High draws 5 cards
+00341 Fable High plays Market Square
+00342 Fable High draws 1 card
+00343 Fable High plays Market Square
+00344 Fable High draws 1 card
+00345 Fable High plays Market Square
+00346 Fable High draws 1 card
+00347 Fable High plays Market Square
+00348 Fable High draws 1 card
+00349 Fable High plays Pawn
+00350 Fable High chooses +1 Card; +1 Action (Pawn)
+00351 Fable High draws 1 card
+00352 Fable High plays Market Square
+00353 Fable High draws 1 card
+00354 Fable High plays Pawn
+00355 Fable High chooses +1 Card; +1 Action (Pawn)
+00356 Fable High draws 1 card
+00357 Fable High plays Market Square
+00358 Fable High draws 1 card
+00359 Fable High plays Pawn
+00360 Fable High chooses +1 Card; +1 Action (Pawn)
+00361 Fable High draws 1 card
+00362 Fable High plays Siren
+00363 Sol High gains Curse
+00364 Fable High plays Gold
+00365 Fable High plays Copper
+00366 Fable High plays Gold
+00367 Fable High plays Copper
+00368 Fable High plays Copper
+00369 Fable High plays Gold
+00370 Fable High plays Gold
+00371 Fable High buys Province
+00372 Fable High gains Province
+00373 Fable High buys Duchy
+00374 Fable High gains Duchy
+00375 Fable High buys Pawn
+00376 Fable High gains Pawn
+00377 Fable High shuffles
+00378 Fable High draws 5 cards
+00379 Sol High starts turn 9
+00380 Sol High's Kind Emperor resolves
+00381 Sol High gains Village Green to their hand
+00382 Sol High plays First Mate
+00383 Sol High plays Village Green
+00384 Sol High chooses now (Village Green)
+00385 Sol High draws 1 card
+00386 Sol High draws 1 card
+00387 Sol High plays Maroon
+00388 Sol High trashes Curse
+00389 Sol High's Market Square resolves
+00390 Sol High discards Market Square
+00391 Sol High gains Gold
+00392 Sol High draws 2 cards
+00393 Sol High plays Tea House
+00394 Sol High draws 1 card
+00395 Sol High plays Village Green
+00396 Sol High chooses now (Village Green)
+00397 Sol High draws 1 card
+00398 Sol High plays Market Square
+00399 Sol High draws 1 card
+00400 Sol High plays Tea House
+00401 Sol High draws 1 card
+00402 Sol High plays Gold
+00403 Sol High plays Copper
+00404 Sol High plays Copper
+00405 Sol High buys Province
+00406 Sol High gains Province
+00407 Sol High draws 5 cards
+00408 Fable High starts turn 9
+00409 Fable High's Siren resolves
+00410 Fable High draws 3 cards
+00411 Fable High's Kind Emperor resolves
+00412 Fable High gains Swamp Shacks to their hand
+00413 Fable High plays Market Square
+00414 Fable High draws 1 card
+00415 Fable High plays Market Square
+00416 Fable High draws 1 card
+00417 Fable High plays Market Square
+00418 Fable High draws 1 card
+00419 Fable High plays Pawn
+00420 Fable High chooses +1 Card; +1 Action (Pawn)
+00421 Fable High draws 1 card
+00422 Fable High plays Pawn
+00423 Fable High chooses +1 Card; +1 Action (Pawn)
+00424 Fable High draws 1 card
+00425 Fable High plays Swamp Shacks
+00426 Fable High draws 2 cards
+00427 Fable High plays Market Square
+00428 Fable High draws 1 card
+00429 Fable High plays Pawn
+00430 Fable High chooses +1 Card; +$1 (Pawn)
+00431 Fable High draws 1 card
+00432 Fable High plays Siren
+00433 Sol High gains Curse
+00434 Fable High plays Gold
+00435 Fable High plays Gold
+00436 Fable High plays Gold
+00437 Fable High plays Copper
+00438 Fable High plays Copper
+00439 Fable High plays Gold
+00440 Fable High plays Copper
+00441 Fable High buys Province
+00442 Fable High gains Province
+00443 Fable High buys Duchy
+00444 Fable High gains Duchy
+00445 Fable High buys Pawn
+00446 Fable High gains Pawn
+00447 Fable High shuffles
+00448 Fable High draws 5 cards
+00449 Sol High starts turn 10
+00450 Sol High's Kind Emperor resolves
+00451 Sol High gains Swamp Shacks to their hand
+00452 Sol High plays Tea House
+00453 Sol High draws 1 card
+00454 Sol High plays First Mate
+00455 Sol High plays Pawn
+00456 Sol High chooses +1 Action; +$1 (Pawn)
+00457 Sol High shuffles
+00458 Sol High draws 2 cards
+00459 Sol High plays Tea House
+00460 Sol High draws 1 card
+00461 Sol High plays Swamp Shacks
+00462 Sol High draws 1 card
+00463 Sol High plays Market Square
+00464 Sol High draws 1 card
+00465 Sol High plays Gold
+00466 Sol High plays Gold
+00467 Sol High plays Gold
+00468 Sol High plays Gold
+00469 Sol High buys Duchy
+00470 Sol High gains Duchy
+00471 Sol High buys Duchy
+00472 Sol High gains Duchy
+00473 Sol High draws 5 cards
+00474 Fable High starts turn 10
+00475 Fable High's Siren resolves
+00476 Fable High draws 3 cards
+00477 Fable High's Kind Emperor resolves
+00478 Fable High gains Swamp Shacks to their hand
+00479 Fable High plays Market Square
+00480 Fable High draws 1 card
+00481 Fable High plays Market Square
+00482 Fable High draws 1 card
+00483 Fable High plays Pawn
+00484 Fable High chooses +1 Card; +1 Action (Pawn)
+00485 Fable High draws 1 card
+00486 Fable High plays Pawn
+00487 Fable High chooses +1 Card; +1 Action (Pawn)
+00488 Fable High draws 1 card
+00489 Fable High plays Market Square
+00490 Fable High draws 1 card
+00491 Fable High plays Pawn
+00492 Fable High chooses +1 Card; +1 Action (Pawn)
+00493 Fable High draws 1 card
+00494 Fable High plays Swamp Shacks
+00495 Fable High draws 2 cards
+00496 Fable High plays Market Square
+00497 Fable High draws 1 card
+00498 Fable High plays Market Square
+00499 Fable High draws 1 card
+00500 Fable High plays Swamp Shacks
+00501 Fable High draws 3 cards
+00502 Fable High plays Pawn
+00503 Fable High chooses +1 Card; +$1 (Pawn)
+00504 Fable High draws 1 card
+00505 Fable High plays Pawn
+00506 Fable High chooses +1 Card; +$1 (Pawn)
+00507 Fable High draws 1 card
+00508 Fable High plays Market Square
+00509 Fable High draws 1 card
+00510 Fable High plays Siren
+00511 Sol High gains Curse
+00512 Fable High plays Gold
+00513 Fable High plays Gold
+00514 Fable High plays Gold
+00515 Fable High plays Copper
+00516 Fable High plays Gold
+00517 Fable High plays Gold
+00518 Fable High plays Copper
+00519 Fable High buys Province
+00520 Fable High gains Province
+00521 Fable High buys Province
+00522 Fable High gains Province
+00523 Fable High buys Estate
+00524 Fable High gains Estate
+00525 Fable High shuffles
+00526 Fable High draws 5 cards
+00527 Sol High starts turn 11
+00528 Sol High's Kind Emperor resolves
+00529 Sol High gains Village Green to their hand
+00530 Sol High plays Village Green
+00531 Sol High chooses now (Village Green)
+00532 Sol High draws 1 card
+00533 Sol High plays Maroon
+00534 Sol High trashes Village Green
+00535 Sol High's Market Square resolves
+00536 Sol High discards Market Square
+00537 Sol High gains Gold
+00538 Sol High draws 6 cards
+00539 Sol High plays Tea House
+00540 Sol High shuffles
+00541 Sol High draws 1 card
+00542 Sol High plays First Mate
+00543 Sol High plays Village Green
+00544 Sol High chooses now (Village Green)
+00545 Sol High draws 1 card
+00546 Sol High plays Tea House
+00547 Sol High draws 1 card
+00548 Sol High plays Copper
+00549 Sol High plays Copper
+00550 Sol High plays Gold
+00551 Sol High buys Duchy
+00552 Sol High gains Duchy
+00553 Sol High draws 5 cards
+00554 Fable High starts turn 11
+00555 Fable High's Siren resolves
+00556 Fable High draws 3 cards
+00557 Fable High's Kind Emperor resolves
+00558 Fable High gains Swamp Shacks to their hand
+00559 Fable High plays Market Square
+00560 Fable High draws 1 card
+00561 Fable High plays Market Square
+00562 Fable High draws 1 card
+00563 Fable High plays Market Square
+00564 Fable High draws 1 card
+00565 Fable High plays Market Square
+00566 Fable High draws 1 card
+00567 Fable High plays Market Square
+00568 Fable High draws 1 card
+00569 Fable High plays Swamp Shacks
+00570 Fable High draws 2 cards
+00571 Fable High plays Pawn
+00572 Fable High chooses +1 Action; +$1 (Pawn)
+00573 Fable High plays Pawn
+00574 Fable High chooses +1 Action; +$1 (Pawn)
+00575 Fable High plays Siren
+00576 Sol High gains Curse
+00577 Fable High plays Copper
+00578 Fable High plays Copper
+00579 Fable High plays Gold
+00580 Fable High plays Copper
+00581 Fable High buys Province
+00582 Fable High gains Province
+00583 Fable High draws 5 cards

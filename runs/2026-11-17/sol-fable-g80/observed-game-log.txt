@@ -1,0 +1,750 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High plays Copper
+00005 Fable High buys Trader
+00006 Fable High gains Trader
+00007 Fable High's Pious resolves
+00008 Fable High trashes Estate
+00009 Fable High draws 5 cards
+00010 Sol High starts turn 1
+00011 Sol High's Peaceful Cult resolves
+00012 Sol High spends 1 Favor
+00013 Sol High trashes Estate
+00014 Sol High plays Copper
+00015 Sol High plays Copper
+00016 Sol High plays Copper
+00017 Sol High buys Silver
+00018 Sol High gains Silver
+00019 Sol High draws 5 cards
+00020 Fable High starts turn 2
+00021 Fable High's Peaceful Cult resolves
+00022 Fable High spends 1 Favor
+00023 Fable High trashes Estate
+00024 Fable High plays Copper
+00025 Fable High plays Copper
+00026 Fable High plays Copper
+00027 Fable High buys Silver
+00028 Fable High gains Silver
+00029 Fable High shuffles
+00030 Fable High draws 5 cards
+00031 Sol High starts turn 2
+00032 Sol High plays Copper
+00033 Sol High plays Copper
+00034 Sol High plays Copper
+00035 Sol High plays Copper
+00036 Sol High buys Trader
+00037 Sol High gains Trader
+00038 Sol High's Pious resolves
+00039 Sol High trashes Estate
+00040 Sol High shuffles
+00041 Sol High draws 5 cards
+00042 Fable High starts turn 3
+00043 Fable High plays Copper
+00044 Fable High plays Copper
+00045 Fable High plays Copper
+00046 Fable High plays Copper
+00047 Fable High buys Trader
+00048 Fable High gains Trader
+00049 Fable High's Pious resolves
+00050 Fable High trashes Estate
+00051 Fable High draws 5 cards
+00052 Sol High starts turn 3
+00053 Sol High plays Silver
+00054 Sol High plays Copper
+00055 Sol High plays Copper
+00056 Sol High plays Copper
+00057 Sol High buys Sir Destry
+00058 Sol High gains Sir Destry
+00059 Sol High draws 5 cards
+00060 Fable High starts turn 4
+00061 Fable High plays Trader
+00062 Fable High uses Way of the Seal for Trader
+00063 Fable High plays Copper
+00064 Fable High plays Copper
+00065 Fable High plays Silver
+00066 Fable High plays Copper
+00067 Fable High buys Contract
+00068 Fable High gains Contract
+00069 Fable High's Way of the Seal resolves
+00070 Fable High puts Contract onto their deck
+00071 Fable High shuffles
+00072 Fable High draws 5 cards
+00073 Sol High starts turn 4
+00074 Sol High plays Trader
+00075 Sol High uses Way of the Seal for Trader
+00076 Sol High plays Copper
+00077 Sol High plays Copper
+00078 Sol High plays Copper
+00079 Sol High plays Copper
+00080 Sol High buys Contract
+00081 Sol High gains Contract
+00082 Sol High's Way of the Seal resolves
+00083 Sol High puts Contract onto their deck
+00084 Sol High shuffles
+00085 Sol High draws 5 cards
+00086 Fable High starts turn 5
+00087 Fable High plays Trader
+00088 Fable High trashes Copper
+00089 Fable High plays Contract
+00090 Fable High takes 1 Favor
+00091 Fable High plays Silver
+00092 Fable High plays Copper
+00093 Fable High buys Contract
+00094 Fable High gains Contract
+00095 Fable High draws 5 cards
+00096 Sol High starts turn 5
+00097 Sol High plays Sir Destry
+00098 Sol High draws 2 cards
+00099 Fable High shuffles
+00100 Fable High reveals Copper
+00101 Fable High reveals Contract
+00102 Fable High trashes Contract
+00103 Fable High discards Copper
+00104 Sol High plays Contract
+00105 Sol High takes 1 Favor
+00106 Sol High plays Copper
+00107 Sol High plays Copper
+00108 Sol High plays Copper
+00109 Sol High plays Copper
+00110 Sol High plays Copper
+00111 Sol High buys Laboratory
+00112 Sol High gains Laboratory
+00113 Sol High draws 5 cards
+00114 Fable High starts turn 6
+00115 Fable High plays Trader
+00116 Fable High uses Way of the Seal for Trader
+00117 Fable High plays Copper
+00118 Fable High plays Copper
+00119 Fable High plays Copper
+00120 Fable High plays Copper
+00121 Fable High buys Contract
+00122 Fable High gains Contract
+00123 Fable High's Way of the Seal resolves
+00124 Fable High puts Contract onto their deck
+00125 Fable High draws 5 cards
+00126 Sol High starts turn 6
+00127 Sol High plays Trader
+00128 Sol High uses Way of the Seal for Trader
+00129 Sol High's Peaceful Cult resolves
+00130 Sol High spends 1 Favor
+00131 Sol High trashes Estate
+00132 Sol High plays Copper
+00133 Sol High plays Silver
+00134 Sol High plays Copper
+00135 Sol High buys Laboratory
+00136 Sol High gains Laboratory
+00137 Sol High's Way of the Seal resolves
+00138 Sol High puts Laboratory onto their deck
+00139 Sol High shuffles
+00140 Sol High draws 5 cards
+00141 Fable High starts turn 7
+00142 Fable High plays Trader
+00143 Fable High uses Way of the Seal for Trader
+00144 Fable High's Peaceful Cult resolves
+00145 Fable High spends 1 Favor
+00146 Fable High trashes Copper
+00147 Fable High plays Contract
+00148 Fable High takes 1 Favor
+00149 Fable High plays Contract
+00150 Fable High takes 1 Favor
+00151 Fable High plays Silver
+00152 Fable High buys Grand Market
+00153 Fable High gains Grand Market
+00154 Fable High's Way of the Seal resolves
+00155 Fable High puts Grand Market onto their deck
+00156 Fable High shuffles
+00157 Fable High draws 5 cards
+00158 Sol High starts turn 7
+00159 Sol High plays Laboratory
+00160 Sol High draws 2 cards
+00161 Sol High plays Trader
+00162 Sol High trashes Copper
+00163 Sol High plays Copper
+00164 Sol High plays Copper
+00165 Sol High plays Copper
+00166 Sol High plays Contract
+00167 Sol High takes 1 Favor
+00168 Sol High buys Contract
+00169 Sol High gains Contract
+00170 Sol High draws 5 cards
+00171 Fable High starts turn 8
+00172 Fable High plays Grand Market
+00173 Fable High draws 1 card
+00174 Fable High plays Trader
+00175 Fable High uses Way of the Seal for Trader
+00176 Fable High plays Copper
+00177 Fable High plays Copper
+00178 Fable High plays Copper
+00179 Fable High plays Copper
+00180 Fable High buys Sir Martin
+00181 Fable High gains Sir Martin
+00182 Fable High buys Silver
+00183 Fable High gains Silver
+00184 Fable High draws 5 cards
+00185 Sol High starts turn 8
+00186 Sol High plays Sir Destry
+00187 Sol High shuffles
+00188 Sol High draws 2 cards
+00189 Fable High shuffles
+00190 Fable High reveals Grand Market
+00191 Fable High reveals Sir Martin
+00192 Fable High trashes Sir Martin
+00193 Fable High discards Grand Market
+00194 Sol High trashes Sir Destry
+00195 Sol High's Peaceful Cult resolves
+00196 Sol High spends 1 Favor
+00197 Sol High trashes Copper
+00198 Sol High plays Copper
+00199 Sol High plays Copper
+00200 Sol High plays Silver
+00201 Sol High plays Copper
+00202 Sol High buys Dame Sylvia
+00203 Sol High gains Dame Sylvia
+00204 Sol High draws 5 cards
+00205 Fable High starts turn 9
+00206 Fable High plays Trader
+00207 Fable High uses Way of the Seal for Trader
+00208 Fable High's Peaceful Cult resolves
+00209 Fable High spends 1 Favor
+00210 Fable High trashes Copper
+00211 Fable High plays Contract
+00212 Fable High takes 1 Favor
+00213 Fable High plays Silver
+00214 Fable High plays Contract
+00215 Fable High takes 1 Favor
+00216 Fable High buys Sir Vander
+00217 Fable High gains Sir Vander
+00218 Fable High's Way of the Seal resolves
+00219 Fable High puts Sir Vander onto their deck
+00220 Fable High draws 5 cards
+00221 Sol High starts turn 9
+00222 Sol High plays Laboratory
+00223 Sol High shuffles
+00224 Sol High draws 2 cards
+00225 Sol High plays Trader
+00226 Sol High uses Way of the Seal for Trader
+00227 Sol High plays Contract
+00228 Sol High takes 1 Favor
+00229 Sol High plays Contract
+00230 Sol High takes 1 Favor
+00231 Sol High plays Silver
+00232 Sol High buys Grand Market
+00233 Sol High gains Grand Market
+00234 Sol High's Way of the Seal resolves
+00235 Sol High puts Grand Market onto their deck
+00236 Sol High draws 5 cards
+00237 Fable High starts turn 10
+00238 Fable High plays Sir Vander
+00239 Sol High shuffles
+00240 Sol High reveals Copper
+00241 Sol High reveals Copper
+00242 Sol High discards Copper
+00243 Sol High discards Copper
+00244 Fable High's Peaceful Cult resolves
+00245 Fable High spends 1 Favor
+00246 Fable High trashes Copper
+00247 Fable High plays Silver
+00248 Fable High plays Copper
+00249 Fable High buys Silver
+00250 Fable High gains Silver
+00251 Fable High shuffles
+00252 Fable High draws 5 cards
+00253 Sol High starts turn 10
+00254 Sol High plays Laboratory
+00255 Sol High draws 2 cards
+00256 Sol High plays Grand Market
+00257 Sol High draws 1 card
+00258 Sol High plays Dame Sylvia
+00259 Fable High reveals Trader
+00260 Fable High reveals Silver
+00261 Fable High trashes Trader
+00262 Fable High discards Silver
+00263 Sol High's Peaceful Cult resolves
+00264 Sol High spends 2 Favors
+00265 Sol High trashes Copper
+00266 Sol High trashes Copper
+00267 Sol High plays Contract
+00268 Sol High takes 1 Favor
+00269 Sol High sets aside Trader
+00270 Sol High plays Silver
+00271 Sol High buys Grand Market
+00272 Sol High gains Grand Market
+00273 Sol High shuffles
+00274 Sol High draws 5 cards
+00275 Fable High starts turn 11
+00276 Fable High plays Grand Market
+00277 Fable High draws 1 card
+00278 Fable High plays Sir Vander
+00279 Sol High reveals Copper
+00280 Sol High reveals Grand Market
+00281 Sol High trashes Grand Market
+00282 Sol High discards Copper
+00283 Fable High's Peaceful Cult resolves
+00284 Fable High spends 2 Favors
+00285 Fable High trashes Copper
+00286 Fable High trashes Copper
+00287 Fable High plays Contract
+00288 Fable High takes 1 Favor
+00289 Fable High plays Copper
+00290 Fable High buys Dame Josephine
+00291 Fable High gains Dame Josephine
+00292 Fable High shuffles
+00293 Fable High draws 5 cards
+00294 Sol High starts turn 11
+00295 Sol High's Contract resolves
+00296 Sol High plays Trader
+00297 Sol High trashes Copper
+00298 Sol High plays Laboratory
+00299 Sol High draws 2 cards
+00300 Sol High plays Laboratory
+00301 Sol High shuffles
+00302 Sol High draws 2 cards
+00303 Sol High plays Grand Market
+00304 Sol High plays Dame Sylvia
+00305 Fable High reveals Dame Josephine
+00306 Fable High reveals Grand Market
+00307 Fable High trashes Dame Josephine
+00308 Fable High discards Grand Market
+00309 Sol High trashes Dame Sylvia
+00310 Sol High's Peaceful Cult resolves
+00311 Sol High spends 1 Favor
+00312 Sol High trashes Copper
+00313 Sol High plays Contract
+00314 Sol High takes 1 Favor
+00315 Sol High plays Silver
+00316 Sol High plays Copper
+00317 Sol High buys Dame Natalie
+00318 Sol High gains Dame Natalie
+00319 Sol High buys Tide Pools
+00320 Sol High gains Tide Pools
+00321 Sol High shuffles
+00322 Sol High draws 5 cards
+00323 Fable High starts turn 12
+00324 Fable High plays Trader
+00325 Fable High uses Way of the Seal for Trader
+00326 Fable High plays Contract
+00327 Fable High takes 1 Favor
+00328 Fable High plays Silver
+00329 Fable High plays Silver
+00330 Fable High plays Contract
+00331 Fable High takes 1 Favor
+00332 Fable High buys Sir Bailey
+00333 Fable High gains Sir Bailey
+00334 Fable High's Way of the Seal resolves
+00335 Fable High puts Sir Bailey onto their deck
+00336 Fable High shuffles
+00337 Fable High draws 5 cards
+00338 Sol High starts turn 12
+00339 Sol High plays Laboratory
+00340 Sol High draws 2 cards
+00341 Sol High plays Tide Pools
+00342 Sol High draws 3 cards
+00343 Sol High plays Grand Market
+00344 Sol High plays Dame Natalie
+00345 Sol High gains Silver
+00346 Fable High reveals Silver
+00347 Fable High reveals Contract
+00348 Fable High trashes Silver
+00349 Fable High discards Contract
+00350 Sol High's Peaceful Cult resolves
+00351 Sol High spends 1 Favor
+00352 Sol High trashes Copper
+00353 Sol High plays Contract
+00354 Sol High takes 1 Favor
+00355 Sol High sets aside Laboratory
+00356 Sol High plays Contract
+00357 Sol High takes 1 Favor
+00358 Sol High plays Silver
+00359 Sol High buys Sir Michael
+00360 Sol High gains Sir Michael
+00361 Sol High buys Silver
+00362 Sol High gains Silver
+00363 Sol High shuffles
+00364 Sol High draws 5 cards
+00365 Fable High starts turn 13
+00366 Fable High plays Grand Market
+00367 Fable High draws 1 card
+00368 Fable High plays Sir Bailey
+00369 Fable High draws 1 card
+00370 Sol High reveals Contract
+00371 Sol High reveals Grand Market
+00372 Sol High trashes Contract
+00373 Sol High discards Grand Market
+00374 Fable High plays Sir Vander
+00375 Sol High reveals Dame Natalie
+00376 Sol High reveals Laboratory
+00377 Sol High trashes Dame Natalie
+00378 Sol High discards Laboratory
+00379 Fable High trashes Sir Vander
+00380 Fable High's Sir Vander resolves
+00381 Fable High gains Gold
+00382 Fable High's Peaceful Cult resolves
+00383 Fable High spends 1 Favor
+00384 Fable High trashes Copper
+00385 Fable High plays Silver
+00386 Fable High plays Silver
+00387 Fable High plays Contract
+00388 Fable High takes 1 Favor
+00389 Fable High buys Dame Molly
+00390 Fable High gains Dame Molly
+00391 Fable High buys Silver
+00392 Fable High gains Silver
+00393 Fable High shuffles
+00394 Fable High draws 5 cards
+00395 Sol High starts turn 13
+00396 Sol High's Contract resolves
+00397 Sol High plays Laboratory
+00398 Sol High shuffles
+00399 Sol High draws 2 cards
+00400 Sol High's Tide Pools resolves
+00401 Sol High discards Trader
+00402 Sol High discards Silver
+00403 Sol High plays Laboratory
+00404 Sol High shuffles
+00405 Sol High draws 2 cards
+00406 Sol High plays Grand Market
+00407 Sol High plays Trader
+00408 Sol High uses Way of the Seal for Trader
+00409 Sol High plays Sir Michael
+00410 Fable High discards Trader
+00411 Fable High discards Contract
+00412 Fable High reveals Silver
+00413 Fable High reveals Silver
+00414 Fable High trashes Silver
+00415 Fable High discards Silver
+00416 Sol High plays Silver
+00417 Sol High plays Silver
+00418 Sol High plays Silver
+00419 Sol High buys Dame Anna
+00420 Sol High gains Dame Anna
+00421 Sol High's Way of the Seal resolves
+00422 Sol High puts Dame Anna onto their deck
+00423 Sol High buys Tide Pools
+00424 Sol High gains Tide Pools
+00425 Sol High's Way of the Seal resolves
+00426 Sol High puts Tide Pools onto their deck
+00427 Sol High shuffles
+00428 Sol High draws 5 cards
+00429 Fable High starts turn 14
+00430 Fable High plays Grand Market
+00431 Fable High draws 1 card
+00432 Fable High plays Sir Bailey
+00433 Fable High draws 1 card
+00434 Sol High reveals Laboratory
+00435 Sol High reveals Sir Michael
+00436 Sol High trashes Sir Michael
+00437 Sol High discards Laboratory
+00438 Fable High trashes Sir Bailey
+00439 Fable High plays Dame Molly
+00440 Sol High reveals Grand Market
+00441 Sol High reveals Trader
+00442 Sol High trashes Trader
+00443 Sol High discards Grand Market
+00444 Fable High plays Gold
+00445 Fable High plays Silver
+00446 Fable High buys Grand Market
+00447 Fable High gains Grand Market
+00448 Fable High shuffles
+00449 Fable High draws 5 cards
+00450 Sol High starts turn 14
+00451 Sol High plays Laboratory
+00452 Sol High draws 2 cards
+00453 Sol High plays Tide Pools
+00454 Sol High shuffles
+00455 Sol High draws 3 cards
+00456 Sol High plays Grand Market
+00457 Sol High plays Dame Anna
+00458 Fable High reveals Grand Market
+00459 Fable High reveals Gold
+00460 Fable High trashes Gold
+00461 Fable High discards Grand Market
+00462 Sol High plays Contract
+00463 Sol High takes 1 Favor
+00464 Sol High sets aside Laboratory
+00465 Sol High plays Silver
+00466 Sol High plays Silver
+00467 Sol High plays Silver
+00468 Sol High buys Cursed Village
+00469 Sol High gains Cursed Village
+00470 Sol High's Cursed Village resolves
+00471 Sol High receives Greed
+00472 Sol High gains Copper onto their deck
+00473 Sol High buys Livery
+00474 Sol High gains Livery
+00475 Sol High shuffles
+00476 Sol High draws 5 cards
+00477 Fable High starts turn 15
+00478 Fable High plays Grand Market
+00479 Fable High draws 1 card
+00480 Fable High plays Dame Molly
+00481 Sol High reveals Tide Pools
+00482 Sol High reveals Cursed Village
+00483 Sol High trashes Tide Pools
+00484 Sol High discards Cursed Village
+00485 Fable High plays Trader
+00486 Fable High uses Way of the Seal for Trader
+00487 Fable High plays Contract
+00488 Fable High takes 1 Favor
+00489 Fable High plays Silver
+00490 Fable High plays Silver
+00491 Fable High buys Grand Market
+00492 Fable High gains Grand Market
+00493 Fable High's Way of the Seal resolves
+00494 Fable High puts Grand Market onto their deck
+00495 Fable High buys Silver
+00496 Fable High gains Silver
+00497 Fable High shuffles
+00498 Fable High draws 5 cards
+00499 Sol High starts turn 15
+00500 Sol High's Contract resolves
+00501 Sol High plays Laboratory
+00502 Sol High draws 2 cards
+00503 Sol High's Tide Pools resolves
+00504 Sol High discards Copper
+00505 Sol High discards Silver
+00506 Sol High plays Livery
+00507 Sol High plays Laboratory
+00508 Sol High shuffles
+00509 Sol High draws 2 cards
+00510 Sol High plays Grand Market
+00511 Sol High draws 1 card
+00512 Sol High plays Dame Anna
+00513 Sol High trashes Copper
+00514 Fable High reveals Contract
+00515 Fable High reveals Silver
+00516 Fable High trashes Silver
+00517 Fable High discards Contract
+00518 Sol High plays Silver
+00519 Sol High plays Silver
+00520 Sol High plays Silver
+00521 Sol High buys Grand Market
+00522 Sol High gains Grand Market
+00523 Sol High's Livery resolves
+00524 Sol High gains Horse
+00525 Sol High buys Livery
+00526 Sol High gains Livery
+00527 Sol High's Livery resolves
+00528 Sol High gains Horse
+00529 Sol High shuffles
+00530 Sol High draws 5 cards
+00531 Fable High starts turn 16
+00532 Fable High plays Grand Market
+00533 Fable High draws 1 card
+00534 Fable High plays Grand Market
+00535 Fable High draws 1 card
+00536 Fable High plays Dame Molly
+00537 Sol High reveals Laboratory
+00538 Sol High reveals Tide Pools
+00539 Sol High trashes Tide Pools
+00540 Sol High discards Laboratory
+00541 Fable High plays Trader
+00542 Fable High uses Way of the Seal for Trader
+00543 Fable High plays Contract
+00544 Fable High takes 1 Favor
+00545 Fable High plays Silver
+00546 Fable High plays Silver
+00547 Fable High buys Province
+00548 Fable High gains Province
+00549 Fable High buys Silver
+00550 Fable High gains Silver
+00551 Fable High's Way of the Seal resolves
+00552 Fable High puts Silver onto their deck
+00553 Fable High shuffles
+00554 Fable High draws 5 cards
+00555 Sol High starts turn 16
+00556 Sol High plays Cursed Village
+00557 Sol High draws 2 cards
+00558 Sol High plays Horse
+00559 Sol High draws 2 cards
+00560 Sol High returns Horse from play to the Horse pile
+00561 Sol High plays Laboratory
+00562 Sol High draws 2 cards
+00563 Sol High plays Horse
+00564 Sol High draws 2 cards
+00565 Sol High returns Horse from play to the Horse pile
+00566 Sol High plays Grand Market
+00567 Sol High shuffles
+00568 Sol High draws 1 card
+00569 Sol High plays Grand Market
+00570 Sol High plays Livery
+00571 Sol High plays Livery
+00572 Sol High plays Contract
+00573 Sol High takes 1 Favor
+00574 Sol High sets aside Dame Anna
+00575 Sol High plays Silver
+00576 Sol High plays Silver
+00577 Sol High plays Silver
+00578 Sol High buys Province
+00579 Sol High gains Province
+00580 Sol High's Livery resolves
+00581 Sol High gains Horse
+00582 Sol High's Livery resolves
+00583 Sol High gains Horse
+00584 Sol High buys Province
+00585 Sol High gains Province
+00586 Sol High's Livery resolves
+00587 Sol High gains Horse
+00588 Sol High's Livery resolves
+00589 Sol High gains Horse
+00590 Sol High buys Estate
+00591 Sol High gains Estate
+00592 Sol High shuffles
+00593 Sol High draws 5 cards
+00594 Fable High starts turn 17
+00595 Fable High plays Grand Market
+00596 Fable High draws 1 card
+00597 Fable High plays Grand Market
+00598 Fable High draws 1 card
+00599 Fable High plays Trader
+00600 Fable High uses Way of the Seal for Trader
+00601 Fable High plays Silver
+00602 Fable High plays Contract
+00603 Fable High takes 1 Favor
+00604 Fable High plays Contract
+00605 Fable High takes 1 Favor
+00606 Fable High buys Province
+00607 Fable High gains Province
+00608 Fable High buys Silver
+00609 Fable High gains Silver
+00610 Fable High's Way of the Seal resolves
+00611 Fable High puts Silver onto their deck
+00612 Fable High draws 5 cards
+00613 Sol High starts turn 17
+00614 Sol High's Contract resolves
+00615 Sol High plays Dame Anna
+00616 Fable High shuffles
+00617 Fable High reveals Silver
+00618 Fable High reveals Province
+00619 Fable High trashes Silver
+00620 Fable High discards Province
+00621 Sol High plays Laboratory
+00622 Sol High draws 2 cards
+00623 Sol High plays Cursed Village
+00624 Sol High draws 1 card
+00625 Sol High plays Laboratory
+00626 Sol High draws 2 cards
+00627 Sol High plays Horse
+00628 Sol High draws 2 cards
+00629 Sol High returns Horse from play to the Horse pile
+00630 Sol High plays Horse
+00631 Sol High draws 2 cards
+00632 Sol High returns Horse from play to the Horse pile
+00633 Sol High plays Grand Market
+00634 Sol High draws 1 card
+00635 Sol High plays Grand Market
+00636 Sol High draws 1 card
+00637 Sol High plays Horse
+00638 Sol High draws 1 card
+00639 Sol High returns Horse from play to the Horse pile
+00640 Sol High plays Livery
+00641 Sol High plays Livery
+00642 Sol High plays Silver
+00643 Sol High plays Silver
+00644 Sol High plays Silver
+00645 Sol High buys Province
+00646 Sol High gains Province
+00647 Sol High's Livery resolves
+00648 Sol High gains Horse
+00649 Sol High's Livery resolves
+00650 Sol High gains Horse
+00651 Sol High buys Province
+00652 Sol High gains Province
+00653 Sol High's Livery resolves
+00654 Sol High gains Horse
+00655 Sol High's Livery resolves
+00656 Sol High gains Horse
+00657 Sol High shuffles
+00658 Sol High draws 5 cards
+00659 Fable High starts turn 18
+00660 Fable High plays Grand Market
+00661 Fable High draws 1 card
+00662 Fable High plays Grand Market
+00663 Fable High draws 1 card
+00664 Fable High plays Dame Molly
+00665 Sol High reveals Contract
+00666 Sol High reveals Laboratory
+00667 Sol High trashes Contract
+00668 Sol High discards Laboratory
+00669 Fable High plays Trader
+00670 Fable High uses Way of the Seal for Trader
+00671 Fable High plays Silver
+00672 Fable High plays Silver
+00673 Fable High plays Silver
+00674 Fable High buys Duchy
+00675 Fable High gains Duchy
+00676 Fable High buys Duchy
+00677 Fable High gains Duchy
+00678 Fable High shuffles
+00679 Fable High draws 5 cards
+00680 Sol High starts turn 18
+00681 Sol High plays Laboratory
+00682 Sol High draws 2 cards
+00683 Sol High plays Horse
+00684 Sol High draws 2 cards
+00685 Sol High returns Horse from play to the Horse pile
+00686 Sol High plays Grand Market
+00687 Sol High draws 1 card
+00688 Sol High plays Horse
+00689 Sol High draws 2 cards
+00690 Sol High returns Horse from play to the Horse pile
+00691 Sol High plays Horse
+00692 Sol High draws 2 cards
+00693 Sol High returns Horse from play to the Horse pile
+00694 Sol High plays Grand Market
+00695 Sol High draws 1 card
+00696 Sol High plays Horse
+00697 Sol High draws 2 cards
+00698 Sol High returns Horse from play to the Horse pile
+00699 Sol High plays Livery
+00700 Sol High plays Silver
+00701 Sol High plays Silver
+00702 Sol High plays Silver
+00703 Sol High buys Province
+00704 Sol High gains Province
+00705 Sol High's Livery resolves
+00706 Sol High gains Horse
+00707 Sol High buys Duchy
+00708 Sol High gains Duchy
+00709 Sol High's Livery resolves
+00710 Sol High gains Horse
+00711 Sol High shuffles
+00712 Sol High draws 5 cards
+00713 Fable High starts turn 19
+00714 Fable High plays Grand Market
+00715 Fable High draws 1 card
+00716 Fable High plays Grand Market
+00717 Fable High draws 1 card
+00718 Fable High plays Dame Molly
+00719 Sol High reveals Horse
+00720 Sol High reveals Province
+00721 Sol High trashes Horse
+00722 Sol High discards Province
+00723 Fable High plays Contract
+00724 Fable High takes 1 Favor
+00725 Fable High plays Contract
+00726 Fable High takes 1 Favor
+00727 Fable High plays Silver
+00728 Fable High buys Duchy
+00729 Fable High gains Duchy
+00730 Fable High buys Duchy
+00731 Fable High gains Duchy
+00732 Fable High draws 5 cards
+00733 Sol High starts turn 19
+00734 Sol High plays Cursed Village
+00735 Sol High draws 2 cards
+00736 Sol High plays Laboratory
+00737 Sol High draws 2 cards
+00738 Sol High plays Grand Market
+00739 Sol High draws 1 card
+00740 Sol High plays Grand Market
+00741 Sol High draws 1 card
+00742 Sol High plays Livery
+00743 Sol High plays Dame Anna
+00744 Sol High uses Way of the Seal for Dame Anna
+00745 Sol High buys Province
+00746 Sol High gains Province
+00747 Sol High's Livery resolves
+00748 Sol High gains Horse
+00749 Sol High draws 5 cards

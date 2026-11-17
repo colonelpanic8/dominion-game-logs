@@ -1,0 +1,646 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High buys Silver
+00005 Fable High gains Silver
+00006 Fable High draws 5 cards
+00007 Sol High starts turn 1
+00008 Sol High plays Copper
+00009 Sol High plays Copper
+00010 Sol High plays Copper
+00011 Sol High buys Silver
+00012 Sol High gains Silver
+00013 Sol High draws 5 cards
+00014 Fable High starts turn 2
+00015 Fable High plays Copper
+00016 Fable High plays Copper
+00017 Fable High plays Copper
+00018 Fable High plays Copper
+00019 Fable High buys Silver
+00020 Fable High gains Silver
+00021 Fable High shuffles
+00022 Fable High draws 5 cards
+00023 Sol High starts turn 2
+00024 Sol High plays Copper
+00025 Sol High plays Copper
+00026 Sol High plays Copper
+00027 Sol High plays Copper
+00028 Sol High buys Herald
+00029 Sol High gains Herald
+00030 Sol High shuffles
+00031 Sol High draws 5 cards
+00032 Fable High starts turn 3
+00033 Fable High plays Copper
+00034 Fable High plays Copper
+00035 Fable High plays Silver
+00036 Fable High buys Silver
+00037 Fable High gains Silver
+00038 Fable High draws 5 cards
+00039 Sol High starts turn 3
+00040 Sol High plays Copper
+00041 Sol High plays Copper
+00042 Sol High plays Copper
+00043 Sol High plays Copper
+00044 Sol High buys Silver
+00045 Sol High gains Silver
+00046 Sol High draws 5 cards
+00047 Fable High starts turn 4
+00048 Fable High plays Silver
+00049 Fable High plays Copper
+00050 Fable High plays Copper
+00051 Fable High plays Copper
+00052 Fable High buys Soothsayer
+00053 Fable High gains Soothsayer
+00054 Fable High shuffles
+00055 Fable High draws 5 cards
+00056 Sol High starts turn 4
+00057 Sol High plays Herald
+00058 Sol High draws 1 card
+00059 Sol High reveals Copper
+00060 Sol High puts Copper back onto their deck
+00061 Sol High plays Copper
+00062 Sol High plays Silver
+00063 Sol High plays Copper
+00064 Sol High buys Herald
+00065 Sol High gains Herald
+00066 Sol High shuffles
+00067 Sol High draws 5 cards
+00068 Fable High starts turn 5
+00069 Fable High plays Copper
+00070 Fable High plays Copper
+00071 Fable High plays Copper
+00072 Fable High plays Copper
+00073 Fable High buys Silver
+00074 Fable High gains Silver
+00075 Fable High draws 5 cards
+00076 Sol High starts turn 5
+00077 Sol High plays Herald
+00078 Sol High draws 1 card
+00079 Sol High reveals Copper
+00080 Sol High puts Copper back onto their deck
+00081 Sol High plays Copper
+00082 Sol High plays Copper
+00083 Sol High plays Copper
+00084 Sol High plays Silver
+00085 Sol High buys Soothsayer
+00086 Sol High gains Soothsayer
+00087 Sol High draws 5 cards
+00088 Fable High starts turn 6
+00089 Fable High plays Copper
+00090 Fable High plays Silver
+00091 Fable High plays Silver
+00092 Fable High buys Soothsayer
+00093 Fable High gains Soothsayer
+00094 Fable High shuffles
+00095 Fable High draws 5 cards
+00096 Sol High starts turn 6
+00097 Sol High plays Copper
+00098 Sol High plays Silver
+00099 Sol High plays Copper
+00100 Sol High plays Copper
+00101 Sol High buys Galleria
+00102 Sol High gains Galleria
+00103 Sol High shuffles
+00104 Sol High draws 5 cards
+00105 Fable High starts turn 7
+00106 Fable High plays Soothsayer
+00107 Fable High gains Gold
+00108 Sol High gains Curse
+00109 Sol High draws 1 card
+00110 Fable High plays Silver
+00111 Fable High plays Copper
+00112 Fable High plays Copper
+00113 Fable High buys Journey
+00114 Fable High draws 5 cards
+00115 Fable High starts turn 8
+00116 Fable High plays Silver
+00117 Fable High plays Copper
+00118 Fable High plays Copper
+00119 Fable High plays Copper
+00120 Fable High buys Gold Mine
+00121 Fable High gains Gold Mine
+00122 Fable High draws 5 cards
+00123 Sol High starts turn 7
+00124 Sol High plays Herald
+00125 Sol High draws 1 card
+00126 Sol High reveals Copper
+00127 Sol High puts Copper back onto their deck
+00128 Sol High plays Herald
+00129 Sol High draws 1 card
+00130 Sol High reveals Copper
+00131 Sol High puts Copper back onto their deck
+00132 Sol High plays Copper
+00133 Sol High plays Copper
+00134 Sol High plays Copper
+00135 Sol High plays Copper
+00136 Sol High buys Journey
+00137 Sol High draws 5 cards
+00138 Sol High starts turn 8
+00139 Sol High plays Galleria
+00140 Sol High plays Copper
+00141 Sol High plays Silver
+00142 Sol High plays Copper
+00143 Sol High buys Forge
+00144 Sol High gains Forge
+00145 Sol High shuffles
+00146 Sol High draws 5 cards
+00147 Fable High starts turn 9
+00148 Fable High plays Copper
+00149 Fable High plays Silver
+00150 Fable High plays Silver
+00151 Fable High buys Treasure Trove
+00152 Fable High gains Treasure Trove
+00153 Fable High shuffles
+00154 Fable High draws 5 cards
+00155 Sol High starts turn 9
+00156 Sol High plays Herald
+00157 Sol High draws 1 card
+00158 Sol High reveals Curse
+00159 Sol High puts Curse back onto their deck
+00160 Sol High plays Herald
+00161 Sol High draws 1 card
+00162 Sol High reveals Copper
+00163 Sol High puts Copper back onto their deck
+00164 Sol High plays Soothsayer
+00165 Sol High gains Gold
+00166 Fable High gains Curse
+00167 Fable High draws 1 card
+00168 Sol High plays Silver
+00169 Sol High plays Copper
+00170 Sol High buys Hamlet
+00171 Sol High gains Hamlet
+00172 Sol High draws 5 cards
+00173 Fable High starts turn 10
+00174 Fable High plays Gold Mine
+00175 Fable High draws 1 card
+00176 Fable High plays Soothsayer
+00177 Fable High gains Gold
+00178 Sol High gains Curse
+00179 Sol High draws 1 card
+00180 Fable High plays Copper
+00181 Fable High plays Copper
+00182 Fable High plays Silver
+00183 Fable High plays Gold
+00184 Fable High buys Journey
+00185 Fable High buys Hamlet
+00186 Fable High gains Hamlet
+00187 Fable High draws 5 cards
+00188 Fable High starts turn 11
+00189 Fable High plays Soothsayer
+00190 Fable High gains Gold
+00191 Sol High gains Curse
+00192 Sol High draws 1 card
+00193 Fable High plays Silver
+00194 Fable High plays Copper
+00195 Fable High plays Copper
+00196 Fable High plays Silver
+00197 Fable High buys Gold Mine
+00198 Fable High gains Gold Mine
+00199 Fable High draws 5 cards
+00200 Sol High starts turn 10
+00201 Sol High plays Galleria
+00202 Sol High plays Copper
+00203 Sol High plays Silver
+00204 Sol High plays Copper
+00205 Sol High plays Copper
+00206 Sol High buys Fortress
+00207 Sol High gains Fortress
+00208 Sol High's Galleria resolves
+00209 Sol High gets +1 Buy
+00210 Sol High buys Fortress
+00211 Sol High gains Fortress
+00212 Sol High's Galleria resolves
+00213 Sol High gets +1 Buy
+00214 Sol High shuffles
+00215 Sol High draws 5 cards
+00216 Fable High starts turn 12
+00217 Fable High plays Treasure Trove
+00218 Fable High gains Gold
+00219 Fable High gains Copper
+00220 Fable High plays Copper
+00221 Fable High plays Silver
+00222 Fable High buys Treasure Trove
+00223 Fable High gains Treasure Trove
+00224 Fable High shuffles
+00225 Fable High draws 5 cards
+00226 Sol High starts turn 11
+00227 Sol High plays Forge
+00228 Sol High trashes Copper
+00229 Sol High trashes Copper
+00230 Sol High trashes Copper
+00231 Sol High trashes Estate
+00232 Sol High gains Hamlet
+00233 Sol High draws 5 cards
+00234 Fable High starts turn 13
+00235 Fable High plays Copper
+00236 Fable High plays Copper
+00237 Fable High plays Silver
+00238 Fable High plays Gold
+00239 Fable High plays Copper
+00240 Fable High buys Forge
+00241 Fable High gains Forge
+00242 Fable High draws 5 cards
+00243 Sol High starts turn 12
+00244 Sol High plays Hamlet
+00245 Sol High draws 1 card
+00246 Sol High discards Estate
+00247 Sol High plays Galleria
+00248 Sol High plays Copper
+00249 Sol High plays Gold
+00250 Sol High plays Silver
+00251 Sol High buys Herald
+00252 Sol High overpays $1
+00253 Sol High gains Herald
+00254 Sol High's Galleria resolves
+00255 Sol High gets +1 Buy
+00256 Sol High's Herald resolves
+00257 Sol High puts a card onto their deck
+00258 Sol High buys Journey
+00259 Sol High draws 5 cards
+00260 Sol High starts turn 13
+00261 Sol High plays Forge
+00262 Sol High trashes Curse
+00263 Sol High trashes Copper
+00264 Sol High trashes Estate
+00265 Sol High gains Hamlet
+00266 Sol High draws 5 cards
+00267 Fable High starts turn 14
+00268 Fable High plays Hamlet
+00269 Fable High draws 1 card
+00270 Fable High discards Curse
+00271 Fable High plays Gold Mine
+00272 Fable High draws 1 card
+00273 Fable High plays Soothsayer
+00274 Fable High gains Gold
+00275 Sol High gains Curse
+00276 Sol High draws 1 card
+00277 Fable High plays Copper
+00278 Fable High plays Treasure Trove
+00279 Fable High gains Gold
+00280 Fable High gains Copper
+00281 Fable High plays Gold
+00282 Fable High buys Journey
+00283 Fable High buys Hamlet
+00284 Fable High gains Hamlet
+00285 Fable High draws 5 cards
+00286 Fable High starts turn 15
+00287 Fable High plays Gold
+00288 Fable High plays Silver
+00289 Fable High plays Copper
+00290 Fable High plays Copper
+00291 Fable High buys Forge
+00292 Fable High gains Forge
+00293 Fable High draws 5 cards
+00294 Sol High starts turn 14
+00295 Sol High plays Herald
+00296 Sol High draws 1 card
+00297 Sol High reveals Fortress
+00298 Sol High plays Fortress
+00299 Sol High draws 1 card
+00300 Sol High plays Herald
+00301 Sol High shuffles
+00302 Sol High draws 1 card
+00303 Sol High reveals Estate
+00304 Sol High puts Estate back onto their deck
+00305 Sol High plays Hamlet
+00306 Sol High draws 1 card
+00307 Sol High discards Curse
+00308 Sol High plays Fortress
+00309 Sol High draws 1 card
+00310 Sol High plays Forge
+00311 Sol High trashes Copper
+00312 Sol High trashes Copper
+00313 Sol High trashes Curse
+00314 Sol High trashes Silver
+00315 Sol High trashes Estate
+00316 Sol High gains Gold Mine
+00317 Sol High draws 5 cards
+00318 Fable High starts turn 16
+00319 Fable High plays Soothsayer
+00320 Fable High gains Gold
+00321 Sol High gains Curse
+00322 Sol High draws 1 card
+00323 Fable High plays Treasure Trove
+00324 Fable High gains Gold
+00325 Fable High gains Copper
+00326 Fable High plays Copper
+00327 Fable High plays Silver
+00328 Fable High buys Journey
+00329 Fable High draws 5 cards
+00330 Fable High starts turn 17
+00331 Fable High plays Copper
+00332 Fable High plays Silver
+00333 Fable High plays Gold
+00334 Fable High buys Gold
+00335 Fable High gains Gold
+00336 Fable High shuffles
+00337 Fable High draws 5 cards
+00338 Sol High starts turn 15
+00339 Sol High plays Hamlet
+00340 Sol High draws 1 card
+00341 Sol High discards Curse
+00342 Sol High plays Soothsayer
+00343 Sol High gains Gold
+00344 Fable High gains Curse
+00345 Fable High draws 1 card
+00346 Sol High plays Herald
+00347 Sol High draws 1 card
+00348 Sol High reveals Silver
+00349 Sol High puts Silver back onto their deck
+00350 Sol High plays Hamlet
+00351 Sol High draws 1 card
+00352 Sol High plays Galleria
+00353 Sol High plays Gold
+00354 Sol High plays Copper
+00355 Sol High plays Silver
+00356 Sol High buys Herald
+00357 Sol High overpays $1
+00358 Sol High gains Herald
+00359 Sol High's Galleria resolves
+00360 Sol High gets +1 Buy
+00361 Sol High's Herald resolves
+00362 Sol High puts a card onto their deck
+00363 Sol High buys Journey
+00364 Sol High shuffles
+00365 Sol High draws 5 cards
+00366 Sol High starts turn 16
+00367 Sol High plays Herald
+00368 Sol High draws 1 card
+00369 Sol High reveals Gold Mine
+00370 Sol High plays Gold Mine
+00371 Sol High draws 1 card
+00372 Sol High plays Herald
+00373 Sol High draws 1 card
+00374 Sol High reveals Herald
+00375 Sol High plays Herald
+00376 Sol High draws 1 card
+00377 Sol High reveals Fortress
+00378 Sol High plays Fortress
+00379 Sol High plays Forge
+00380 Sol High trashes Curse
+00381 Sol High trashes Curse
+00382 Sol High trashes Curse
+00383 Sol High trashes Fortress
+00384 Sol High trashes Hamlet
+00385 Sol High's Fortress resolves
+00386 Sol High puts Fortress from the trash into their hand
+00387 Sol High gains Gold
+00388 Sol High plays Fortress
+00389 Sol High shuffles
+00390 Sol High draws 1 card
+00391 Sol High plays Gold
+00392 Sol High plays Gold
+00393 Sol High buys Herald
+00394 Sol High overpays $1
+00395 Sol High gains Herald
+00396 Sol High's Herald resolves
+00397 Sol High puts a card onto their deck
+00398 Sol High shuffles
+00399 Sol High draws 5 cards
+00400 Fable High starts turn 18
+00401 Fable High plays Gold Mine
+00402 Fable High draws 1 card
+00403 Fable High plays Forge
+00404 Fable High trashes Gold
+00405 Fable High trashes Treasure Trove
+00406 Fable High gains Colony
+00407 Fable High plays Silver
+00408 Fable High plays Copper
+00409 Fable High plays Copper
+00410 Fable High buys Journey
+00411 Fable High draws 5 cards
+00412 Fable High starts turn 19
+00413 Fable High plays Soothsayer
+00414 Fable High gains Gold
+00415 Sol High gains Curse
+00416 Sol High draws 1 card
+00417 Fable High plays Gold
+00418 Fable High plays Gold
+00419 Fable High plays Copper
+00420 Fable High buys Forge
+00421 Fable High gains Forge
+00422 Fable High draws 5 cards
+00423 Sol High starts turn 17
+00424 Sol High plays Herald
+00425 Sol High draws 1 card
+00426 Sol High reveals Fortress
+00427 Sol High plays Fortress
+00428 Sol High draws 1 card
+00429 Sol High plays Herald
+00430 Sol High draws 1 card
+00431 Sol High reveals Gold
+00432 Sol High puts Gold back onto their deck
+00433 Sol High plays Hamlet
+00434 Sol High draws 1 card
+00435 Sol High plays Hamlet
+00436 Sol High draws 1 card
+00437 Sol High plays Fortress
+00438 Sol High draws 1 card
+00439 Sol High plays Herald
+00440 Sol High draws 1 card
+00441 Sol High reveals Gold Mine
+00442 Sol High plays Gold Mine
+00443 Sol High draws 1 card
+00444 Sol High plays Herald
+00445 Sol High draws 1 card
+00446 Sol High reveals Forge
+00447 Sol High plays Forge
+00448 Sol High trashes Soothsayer
+00449 Sol High trashes Gold
+00450 Sol High trashes Copper
+00451 Sol High gains Colony
+00452 Sol High plays Herald
+00453 Sol High shuffles
+00454 Sol High draws 1 card
+00455 Sol High reveals Colony
+00456 Sol High puts Colony back onto their deck
+00457 Sol High plays Galleria
+00458 Sol High plays Gold
+00459 Sol High plays Silver
+00460 Sol High plays Gold
+00461 Sol High buys Platinum
+00462 Sol High gains Platinum
+00463 Sol High shuffles
+00464 Sol High draws 5 cards
+00465 Fable High starts turn 20
+00466 Fable High plays Gold
+00467 Fable High plays Gold
+00468 Fable High plays Gold
+00469 Fable High plays Copper
+00470 Fable High buys Province
+00471 Fable High gains Province
+00472 Fable High draws 5 cards
+00473 Sol High starts turn 18
+00474 Sol High plays Herald
+00475 Sol High draws 1 card
+00476 Sol High reveals Curse
+00477 Sol High puts Curse back onto their deck
+00478 Sol High plays Herald
+00479 Sol High draws 1 card
+00480 Sol High reveals Silver
+00481 Sol High puts Silver back onto their deck
+00482 Sol High plays Gold Mine
+00483 Sol High draws 1 card
+00484 Sol High plays Forge
+00485 Sol High trashes Gold
+00486 Sol High trashes Curse
+00487 Sol High trashes Silver
+00488 Sol High gains Platinum
+00489 Sol High draws 5 cards
+00490 Fable High starts turn 21
+00491 Fable High plays Soothsayer
+00492 Fable High gains Gold
+00493 Sol High gains Curse
+00494 Sol High draws 1 card
+00495 Fable High plays Copper
+00496 Fable High plays Silver
+00497 Fable High plays Silver
+00498 Fable High plays Copper
+00499 Fable High buys Journey
+00500 Fable High draws 5 cards
+00501 Fable High starts turn 22
+00502 Fable High plays Gold Mine
+00503 Fable High draws 1 card
+00504 Fable High plays Hamlet
+00505 Fable High draws 1 card
+00506 Fable High plays Forge
+00507 Fable High trashes Copper
+00508 Fable High trashes Estate
+00509 Fable High trashes Copper
+00510 Fable High trashes Silver
+00511 Fable High gains Duchy
+00512 Fable High draws 5 cards
+00513 Sol High starts turn 19
+00514 Sol High plays Herald
+00515 Sol High draws 1 card
+00516 Sol High reveals Hamlet
+00517 Sol High plays Hamlet
+00518 Sol High draws 1 card
+00519 Sol High plays Herald
+00520 Sol High draws 1 card
+00521 Sol High shuffles
+00522 Sol High reveals Curse
+00523 Sol High puts Curse back onto their deck
+00524 Sol High plays Herald
+00525 Sol High draws 1 card
+00526 Sol High reveals Herald
+00527 Sol High plays Herald
+00528 Sol High draws 1 card
+00529 Sol High reveals Platinum
+00530 Sol High puts Platinum back onto their deck
+00531 Sol High plays Hamlet
+00532 Sol High draws 1 card
+00533 Sol High discards Colony
+00534 Sol High plays Fortress
+00535 Sol High draws 1 card
+00536 Sol High plays Forge
+00537 Sol High trashes Fortress
+00538 Sol High trashes Curse
+00539 Sol High's Fortress resolves
+00540 Sol High puts Fortress from the trash into their hand
+00541 Sol High gains Fortress
+00542 Sol High plays Fortress
+00543 Sol High draws 1 card
+00544 Sol High plays Herald
+00545 Sol High draws 1 card
+00546 Sol High shuffles
+00547 Sol High reveals Fortress
+00548 Sol High plays Fortress
+00549 Sol High draws 1 card
+00550 Sol High plays Galleria
+00551 Sol High plays Platinum
+00552 Sol High plays Gold
+00553 Sol High plays Platinum
+00554 Sol High buys Colony
+00555 Sol High gains Colony
+00556 Sol High buys Herald
+00557 Sol High overpays $1
+00558 Sol High gains Herald
+00559 Sol High's Galleria resolves
+00560 Sol High gets +1 Buy
+00561 Sol High's Herald resolves
+00562 Sol High puts a card onto their deck
+00563 Sol High shuffles
+00564 Sol High draws 5 cards
+00565 Fable High starts turn 23
+00566 Fable High plays Hamlet
+00567 Fable High draws 1 card
+00568 Fable High discards Estate
+00569 Fable High plays Gold
+00570 Fable High plays Treasure Trove
+00571 Fable High gains Gold
+00572 Fable High gains Copper
+00573 Fable High plays Copper
+00574 Fable High plays Gold
+00575 Fable High buys Province
+00576 Fable High gains Province
+00577 Fable High shuffles
+00578 Fable High draws 5 cards
+00579 Sol High starts turn 20
+00580 Sol High plays Herald
+00581 Sol High draws 1 card
+00582 Sol High reveals Herald
+00583 Sol High plays Herald
+00584 Sol High draws 1 card
+00585 Sol High reveals Herald
+00586 Sol High plays Herald
+00587 Sol High draws 1 card
+00588 Sol High reveals Herald
+00589 Sol High plays Herald
+00590 Sol High draws 1 card
+00591 Sol High reveals Hamlet
+00592 Sol High plays Hamlet
+00593 Sol High draws 1 card
+00594 Sol High discards Colony
+00595 Sol High plays Herald
+00596 Sol High draws 1 card
+00597 Sol High reveals Hamlet
+00598 Sol High plays Hamlet
+00599 Sol High draws 1 card
+00600 Sol High plays Fortress
+00601 Sol High draws 1 card
+00602 Sol High plays Forge
+00603 Sol High trashes Gold Mine
+00604 Sol High trashes Gold
+00605 Sol High gains Colony
+00606 Sol High plays Galleria
+00607 Sol High plays Platinum
+00608 Sol High plays Platinum
+00609 Sol High buys Colony
+00610 Sol High gains Colony
+00611 Sol High buys Hamlet
+00612 Sol High gains Hamlet
+00613 Sol High shuffles
+00614 Sol High draws 5 cards
+00615 Fable High starts turn 24
+00616 Fable High plays Gold
+00617 Fable High plays Copper
+00618 Fable High plays Gold
+00619 Fable High buys Journey
+00620 Fable High draws 5 cards
+00621 Fable High starts turn 25
+00622 Fable High plays Gold Mine
+00623 Fable High draws 1 card
+00624 Fable High plays Hamlet
+00625 Fable High draws 1 card
+00626 Fable High plays Copper
+00627 Fable High plays Gold
+00628 Fable High plays Copper
+00629 Fable High plays Gold
+00630 Fable High plays Gold
+00631 Fable High buys Colony
+00632 Fable High gains Colony
+00633 Fable High draws 5 cards
+00634 Sol High starts turn 21
+00635 Sol High plays Herald
+00636 Sol High draws 1 card
+00637 Sol High reveals Forge
+00638 Sol High plays Forge
+00639 Sol High trashes Colony
+00640 Sol High gains Colony
+00641 Sol High plays Platinum
+00642 Sol High buys Salt the Earth
+00643 Sol High takes 1 VP token
+00644 Sol High trashes Colony
+00645 Sol High draws 5 cards

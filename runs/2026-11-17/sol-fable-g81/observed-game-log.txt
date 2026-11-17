@@ -1,0 +1,539 @@
+00000 Sol High starts turn 1
+00001 Sol High plays Copper
+00002 Sol High plays Copper
+00003 Sol High plays Copper
+00004 Sol High plays Copper
+00005 Sol High plays Copper
+00006 Sol High buys Kitsune
+00007 Sol High gains Kitsune
+00008 Sol High draws 5 cards
+00009 Fable High starts turn 1
+00010 Fable High plays Copper
+00011 Fable High plays Lucky Coin
+00012 Fable High gains Silver
+00013 Fable High plays Copper
+00014 Fable High plays Copper
+00015 Fable High buys Silver
+00016 Fable High gains Silver
+00017 Fable High draws 5 cards
+00018 Sol High starts turn 2
+00019 Sol High plays Lucky Coin
+00020 Sol High gains Silver
+00021 Sol High plays Copper
+00022 Sol High buys Ratcatcher
+00023 Sol High gains Ratcatcher
+00024 Sol High shuffles
+00025 Sol High draws 5 cards
+00026 Fable High starts turn 2
+00027 Fable High plays Copper
+00028 Fable High plays Copper
+00029 Fable High plays Copper
+00030 Fable High buys Silver
+00031 Fable High gains Silver
+00032 Fable High shuffles
+00033 Fable High draws 5 cards
+00034 Sol High starts turn 3
+00035 Sol High plays Kitsune
+00036 1 Sun token removed from Enlightenment
+00037 Sol High chooses +$2; each other player gains a Curse (Kitsune)
+00038 Fable High gains Curse
+00039 Sol High plays Silver
+00040 Sol High plays Copper
+00041 Sol High buys Kitsune
+00042 Sol High gains Kitsune
+00043 Sol High draws 5 cards
+00044 Fable High starts turn 3
+00045 Fable High plays Copper
+00046 Fable High plays Copper
+00047 Fable High plays Silver
+00048 Fable High plays Copper
+00049 Fable High buys Kitsune
+00050 Fable High gains Kitsune
+00051 Fable High draws 5 cards
+00052 Sol High starts turn 4
+00053 Sol High plays Copper
+00054 Sol High plays Copper
+00055 Sol High plays Copper
+00056 Sol High plays Copper
+00057 Sol High buys Scheme
+00058 Sol High gains Scheme
+00059 Sol High shuffles
+00060 Sol High draws 5 cards
+00061 Fable High starts turn 4
+00062 Fable High plays Silver
+00063 Fable High plays Copper
+00064 Fable High plays Copper
+00065 Fable High buys Silver
+00066 Fable High gains Silver
+00067 Fable High shuffles
+00068 Fable High draws 5 cards
+00069 Sol High starts turn 5
+00070 Sol High plays Ratcatcher
+00071 Sol High draws 1 card
+00072 Sol High puts Ratcatcher from play on their Tavern mat
+00073 Sol High plays Kitsune
+00074 1 Sun token removed from Enlightenment
+00075 Sol High chooses +$2; each other player gains a Curse (Kitsune)
+00076 Fable High gains Curse
+00077 Sol High plays Copper
+00078 Sol High plays Lucky Coin
+00079 Sol High gains Silver
+00080 Sol High plays Copper
+00081 Sol High plays Copper
+00082 Sol High buys Apprentice
+00083 Sol High gains Apprentice
+00084 Sol High draws 5 cards
+00085 Fable High starts turn 5
+00086 Fable High plays Silver
+00087 Fable High plays Copper
+00088 Fable High plays Lucky Coin
+00089 Fable High gains Silver
+00090 Fable High plays Silver
+00091 Fable High plays Copper
+00092 Fable High buys Bank
+00093 Fable High gains Bank
+00094 Fable High draws 5 cards
+00095 Sol High starts turn 6
+00096 Sol High's Ratcatcher resolves
+00097 Sol High calls Ratcatcher
+00098 Sol High trashes Estate
+00099 Sol High plays Scheme
+00100 Sol High draws 1 card
+00101 Sol High plays Copper
+00102 Sol High plays Copper
+00103 Sol High plays Silver
+00104 Sol High buys Supplies
+00105 Sol High gains Supplies
+00106 Sol High's Scheme resolves
+00107 Sol High puts Ratcatcher onto their deck
+00108 Sol High shuffles
+00109 Sol High draws 5 cards
+00110 Fable High starts turn 6
+00111 Fable High plays Copper
+00112 Fable High plays Copper
+00113 Fable High buys Ratcatcher
+00114 Fable High gains Ratcatcher
+00115 Fable High draws 5 cards
+00116 Sol High starts turn 7
+00117 Sol High plays Ratcatcher
+00118 Sol High draws 1 card
+00119 Sol High puts Ratcatcher from play on their Tavern mat
+00120 Sol High plays Kitsune
+00121 1 Sun token removed from Enlightenment
+00122 Sol High chooses +$2; each other player gains a Curse (Kitsune)
+00123 Fable High gains Curse
+00124 Sol High plays Copper
+00125 Sol High plays Supplies
+00126 Sol High gains Horse onto their deck
+00127 Sol High plays Lucky Coin
+00128 Sol High gains Silver
+00129 Sol High buys Falconer
+00130 Sol High gains Falconer
+00131 Sol High's Nearby resolves
+00132 Sol High gets +1 Buy
+00133 Sol High draws 5 cards
+00134 Fable High starts turn 7
+00135 Fable High plays Kitsune
+00136 1 Sun token removed from Enlightenment
+00137 Fable High chooses +$2; each other player gains a Curse (Kitsune)
+00138 Sol High gains Curse
+00139 Fable High plays Silver
+00140 Fable High plays Copper
+00141 Fable High plays Copper
+00142 Fable High buys Kitsune
+00143 Fable High gains Kitsune
+00144 Fable High shuffles
+00145 Fable High draws 5 cards
+00146 Sol High starts turn 8
+00147 Sol High's Ratcatcher resolves
+00148 Sol High calls Ratcatcher
+00149 Sol High trashes Copper
+00150 Sol High plays Horse
+00151 Sol High draws 2 cards
+00152 Sol High returns Horse from play to the Horse pile
+00153 Sol High plays Kitsune
+00154 1 Sun token removed from Enlightenment
+00155 Sol High receives Enlightenment
+00156 Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)
+00157 Fable High gains Curse
+00158 Sol High plays Copper
+00159 Sol High's Enlightenment resolves
+00160 Sol High draws 1 card
+00161 Sol High plays Copper
+00162 Sol High's Enlightenment resolves
+00163 Sol High draws 1 card
+00164 Sol High plays Scheme
+00165 Sol High draws 1 card
+00166 Sol High plays Copper
+00167 Sol High's Enlightenment resolves
+00168 Sol High draws 1 card
+00169 Sol High plays Apprentice
+00170 Sol High trashes Estate
+00171 Sol High shuffles
+00172 Sol High draws 2 cards
+00173 Sol High plays Copper
+00174 Sol High's Enlightenment resolves
+00175 Sol High draws 1 card
+00176 Sol High plays Silver
+00177 Sol High's Enlightenment resolves
+00178 Sol High draws 1 card
+00179 Sol High plays Silver
+00180 Sol High plays Silver
+00181 Sol High plays Supplies
+00182 Sol High gains Horse onto their deck
+00183 Sol High buys Apprentice
+00184 Sol High gains Apprentice
+00185 Sol High's Scheme resolves
+00186 Sol High puts Apprentice onto their deck
+00187 Sol High draws 5 cards
+00188 Fable High starts turn 8
+00189 Fable High plays Ratcatcher
+00190 Fable High draws 1 card
+00191 Fable High puts Ratcatcher from play on their Tavern mat
+00192 Fable High plays Silver
+00193 Fable High plays Silver
+00194 Fable High plays Silver
+00195 Fable High buys Gold
+00196 Fable High gains Gold
+00197 Sol High's Falconer resolves
+00198 Sol High plays Falconer
+00199 Sol High gains Supplies to their hand
+00200 Fable High draws 5 cards
+00201 Sol High starts turn 9
+00202 Sol High plays Horse
+00203 Sol High draws 2 cards
+00204 Sol High returns Horse from play to the Horse pile
+00205 Sol High plays Copper
+00206 Sol High's Enlightenment resolves
+00207 Sol High shuffles
+00208 Sol High draws 1 card
+00209 Sol High plays Apprentice
+00210 Sol High trashes Estate
+00211 Sol High draws 2 cards
+00212 Sol High plays Copper
+00213 Sol High's Enlightenment resolves
+00214 Sol High draws 1 card
+00215 Sol High plays Copper
+00216 Sol High's Enlightenment resolves
+00217 Sol High draws 1 card
+00218 Sol High plays Ratcatcher
+00219 Sol High draws 1 card
+00220 Sol High puts Ratcatcher from play on their Tavern mat
+00221 Sol High plays Copper
+00222 Sol High's Enlightenment resolves
+00223 Sol High draws 1 card
+00224 Sol High plays Kitsune
+00225 Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)
+00226 Fable High gains Curse
+00227 Sol High plays Silver
+00228 Sol High's Enlightenment resolves
+00229 Sol High draws 1 card
+00230 Sol High plays Copper
+00231 Sol High's Enlightenment resolves
+00232 Sol High draws 1 card
+00233 Sol High plays Scheme
+00234 Sol High draws 1 card
+00235 Sol High plays Apprentice
+00236 Sol High trashes Lucky Coin
+00237 Sol High draws 4 cards
+00238 Sol High plays Falconer
+00239 Sol High gains Silver to their hand
+00240 Sol High plays Kitsune
+00241 Sol High chooses +$2; each other player gains a Curse (Kitsune)
+00242 Fable High gains Curse
+00243 Sol High plays Supplies
+00244 Sol High gains Horse onto their deck
+00245 Sol High plays Supplies
+00246 Sol High gains Horse onto their deck
+00247 Sol High plays Silver
+00248 Sol High plays Silver
+00249 Sol High plays Silver
+00250 Sol High buys Bank
+00251 Sol High gains Bank
+00252 Sol High's Scheme resolves
+00253 Sol High puts Apprentice onto their deck
+00254 Sol High shuffles
+00255 Sol High draws 5 cards
+00256 Fable High starts turn 9
+00257 Fable High plays Copper
+00258 Fable High's Enlightenment resolves
+00259 Fable High draws 1 card
+00260 Fable High plays Copper
+00261 Fable High's Enlightenment resolves
+00262 Fable High draws 1 card
+00263 Fable High plays Lucky Coin
+00264 Fable High's Enlightenment resolves
+00265 Fable High draws 1 card
+00266 Fable High plays Silver
+00267 Fable High's Enlightenment resolves
+00268 Fable High draws 1 card
+00269 Fable High plays Copper
+00270 Fable High's Enlightenment resolves
+00271 Fable High draws 1 card
+00272 Fable High plays Copper
+00273 Fable High plays Bank
+00274 Fable High buys Province
+00275 Fable High gains Province
+00276 Fable High draws 5 cards
+00277 Sol High starts turn 10
+00278 Sol High plays Horse
+00279 Sol High draws 2 cards
+00280 Sol High returns Horse from play to the Horse pile
+00281 Sol High plays Horse
+00282 Sol High draws 2 cards
+00283 Sol High returns Horse from play to the Horse pile
+00284 Sol High plays Copper
+00285 Sol High's Enlightenment resolves
+00286 Sol High draws 1 card
+00287 Sol High plays Copper
+00288 Sol High's Enlightenment resolves
+00289 Sol High draws 1 card
+00290 Sol High plays Copper
+00291 Sol High's Enlightenment resolves
+00292 Sol High draws 1 card
+00293 Sol High plays Copper
+00294 Sol High's Enlightenment resolves
+00295 Sol High draws 1 card
+00296 Sol High plays Apprentice
+00297 Sol High trashes Silver
+00298 Sol High draws 3 cards
+00299 Sol High plays Apprentice
+00300 Sol High trashes Silver
+00301 Sol High draws 3 cards
+00302 Sol High plays Scheme
+00303 Sol High draws 1 card
+00304 Sol High plays Kitsune
+00305 Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)
+00306 Fable High gains Curse
+00307 Sol High plays Kitsune
+00308 Sol High chooses +2 Actions; each other player gains a Curse (Kitsune)
+00309 Fable High gains Curse
+00310 Sol High plays Falconer
+00311 Sol High gains Fool to their hand
+00312 Sol High plays Fool
+00313 Sol High receives Lost in the Woods
+00314 Sol High chooses the Wind's Gift (Fool)
+00315 Sol High receives The Wind's Gift
+00316 Sol High draws 1 card
+00317 Sol High discards Curse
+00318 Sol High discards Copper
+00319 Sol High chooses the Flame's Gift (Fool)
+00320 Sol High receives The Flame's Gift
+00321 Sol High receives The Forest's Gift
+00322 Sol High gets +1 Buy
+00323 Sol High gets +$1
+00324 Sol High plays Supplies
+00325 Sol High gains Horse onto their deck
+00326 Sol High plays Silver
+00327 Sol High plays Silver
+00328 Sol High plays Supplies
+00329 Sol High gains Horse onto their deck
+00330 Sol High plays Bank
+00331 Sol High buys Province
+00332 Sol High gains Province
+00333 Sol High buys Province
+00334 Sol High gains Province
+00335 Sol High's Scheme resolves
+00336 Sol High puts Bank onto their deck
+00337 Sol High shuffles
+00338 Sol High draws 5 cards
+00339 Fable High starts turn 10
+00340 Fable High plays Kitsune
+00341 Fable High chooses +$2; +2 Actions (Kitsune)
+00342 Fable High plays Kitsune
+00343 Fable High chooses +$2; each other player gains a Curse (Kitsune)
+00344 Sol High gains Curse
+00345 Fable High plays Silver
+00346 Fable High plays Copper
+00347 Fable High buys Bank
+00348 Fable High gains Bank
+00349 Fable High shuffles
+00350 Fable High draws 5 cards
+00351 Sol High starts turn 11
+00352 Sol High's Lost in the Woods resolves
+00353 Sol High discards Copper
+00354 Sol High receives The River's Gift
+00355 Sol High plays Horse
+00356 Sol High draws 2 cards
+00357 Sol High returns Horse from play to the Horse pile
+00358 Sol High plays Horse
+00359 Sol High draws 2 cards
+00360 Sol High returns Horse from play to the Horse pile
+00361 Sol High plays Copper
+00362 Sol High's Enlightenment resolves
+00363 Sol High draws 1 card
+00364 Sol High plays Apprentice
+00365 Sol High trashes Fool
+00366 Sol High draws 3 cards
+00367 Sol High plays Copper
+00368 Sol High's Enlightenment resolves
+00369 Sol High draws 1 card
+00370 Sol High plays Silver
+00371 Sol High's Enlightenment resolves
+00372 Sol High draws 1 card
+00373 Sol High plays Kitsune
+00374 Sol High chooses +$2; +2 Actions (Kitsune)
+00375 Sol High plays Falconer
+00376 Sol High gains Scheme to their hand
+00377 Sol High plays Scheme
+00378 Sol High draws 1 card
+00379 Sol High plays Kitsune
+00380 Sol High chooses +$2; to gain a Silver (Kitsune)
+00381 Sol High gains Silver
+00382 Sol High plays Supplies
+00383 Sol High gains Horse onto their deck
+00384 Sol High plays Supplies
+00385 Sol High gains Horse onto their deck
+00386 Sol High plays Bank
+00387 Sol High buys Province
+00388 Sol High gains Province
+00389 Sol High's Scheme resolves
+00390 Sol High puts Bank onto their deck
+00391 Sol High draws 5 cards
+00392 Sol High's The River's Gift resolves
+00393 Sol High draws 1 card
+00394 Fable High starts turn 11
+00395 Fable High plays Copper
+00396 Fable High's Enlightenment resolves
+00397 Fable High draws 1 card
+00398 Fable High plays Copper
+00399 Fable High's Enlightenment resolves
+00400 Fable High draws 1 card
+00401 Fable High plays Copper
+00402 Fable High's Enlightenment resolves
+00403 Fable High draws 1 card
+00404 Fable High plays Kitsune
+00405 Fable High chooses +$2; +2 Actions (Kitsune)
+00406 Fable High plays Silver
+00407 Fable High plays Silver
+00408 Fable High plays Bank
+00409 Fable High buys Province
+00410 Fable High gains Province
+00411 Fable High draws 5 cards
+00412 Sol High starts turn 12
+00413 Sol High's Lost in the Woods resolves
+00414 Sol High discards Copper
+00415 Sol High receives The Earth's Gift
+00416 Sol High plays Horse
+00417 Sol High draws 2 cards
+00418 Sol High returns Horse from play to the Horse pile
+00419 Sol High plays Copper
+00420 Sol High's Enlightenment resolves
+00421 Sol High draws 1 card
+00422 Sol High plays Horse
+00423 Sol High shuffles
+00424 Sol High draws 2 cards
+00425 Sol High returns Horse from play to the Horse pile
+00426 Sol High plays Scheme
+00427 Sol High draws 1 card
+00428 Sol High plays Copper
+00429 Sol High's Enlightenment resolves
+00430 Sol High draws 1 card
+00431 Sol High plays Apprentice
+00432 Sol High trashes Silver
+00433 Sol High draws 3 cards
+00434 Sol High plays Scheme
+00435 Sol High draws 1 card
+00436 Sol High plays Apprentice
+00437 Sol High trashes Curse
+00438 Sol High plays Kitsune
+00439 Sol High chooses +$2; to gain a Silver (Kitsune)
+00440 Sol High gains Silver
+00441 Sol High plays Supplies
+00442 Sol High gains Horse onto their deck
+00443 Sol High plays Supplies
+00444 Sol High gains Horse onto their deck
+00445 Sol High plays Bank
+00446 Sol High buys Province
+00447 Sol High gains Province
+00448 Sol High's Scheme resolves
+00449 Sol High puts Bank onto their deck
+00450 Sol High's Scheme resolves
+00451 Sol High puts Apprentice onto their deck
+00452 Sol High draws 5 cards
+00453 Fable High starts turn 12
+00454 Fable High's Ratcatcher resolves
+00455 Fable High calls Ratcatcher
+00456 Fable High trashes Curse
+00457 Fable High plays Kitsune
+00458 Fable High chooses +$2; +2 Actions (Kitsune)
+00459 Fable High plays Copper
+00460 Fable High plays Copper
+00461 Fable High plays Silver
+00462 Fable High buys Duchy
+00463 Fable High gains Duchy
+00464 Fable High draws 5 cards
+00465 Sol High starts turn 13
+00466 Sol High's Lost in the Woods resolves
+00467 Sol High discards Copper
+00468 Sol High receives The Swamp's Gift
+00469 Sol High gains Will-o'-Wisp
+00470 Sol High plays Horse
+00471 Sol High draws 2 cards
+00472 Sol High returns Horse from play to the Horse pile
+00473 Sol High plays Horse
+00474 Sol High draws 2 cards
+00475 Sol High returns Horse from play to the Horse pile
+00476 Sol High plays Copper
+00477 Sol High's Enlightenment resolves
+00478 Sol High draws 1 card
+00479 Sol High plays Copper
+00480 Sol High's Enlightenment resolves
+00481 Sol High draws 1 card
+00482 Sol High plays Apprentice
+00483 Sol High trashes Silver
+00484 Sol High shuffles
+00485 Sol High draws 3 cards
+00486 Sol High plays Copper
+00487 Sol High's Enlightenment resolves
+00488 Sol High draws 1 card
+00489 Sol High plays Kitsune
+00490 Sol High chooses +$2; +2 Actions (Kitsune)
+00491 Sol High plays Falconer
+00492 Sol High gains Scheme to their hand
+00493 Sol High plays Scheme
+00494 Sol High draws 1 card
+00495 Sol High plays Copper
+00496 Sol High's Enlightenment resolves
+00497 Sol High draws 1 card
+00498 Sol High plays Silver
+00499 Sol High's Enlightenment resolves
+00500 Sol High draws 1 card
+00501 Sol High plays Supplies
+00502 Sol High gains Horse onto their deck
+00503 Sol High plays Supplies
+00504 Sol High gains Horse onto their deck
+00505 Sol High plays Bank
+00506 Sol High buys Province
+00507 Sol High gains Province
+00508 Sol High's Scheme resolves
+00509 Sol High puts Bank onto their deck
+00510 Sol High draws 5 cards
+00511 Fable High starts turn 13
+00512 Fable High plays Copper
+00513 Fable High's Enlightenment resolves
+00514 Fable High draws 1 card
+00515 Fable High plays Silver
+00516 Fable High buys Estate
+00517 Fable High gains Estate
+00518 Fable High draws 5 cards
+00519 Sol High starts turn 14
+00520 Sol High plays Horse
+00521 Sol High draws 2 cards
+00522 Sol High returns Horse from play to the Horse pile
+00523 Sol High plays Horse
+00524 Sol High draws 2 cards
+00525 Sol High returns Horse from play to the Horse pile
+00526 Sol High plays Scheme
+00527 Sol High draws 1 card
+00528 Sol High plays Scheme
+00529 Sol High draws 1 card
+00530 Sol High plays Kitsune
+00531 Sol High chooses +$2; +2 Actions (Kitsune)
+00532 Sol High plays Copper
+00533 Sol High plays Silver
+00534 Sol High plays Bank
+00535 Sol High buys Province
+00536 Sol High gains Province
+00537 Sol High shuffles
+00538 Sol High draws 5 cards

@@ -1,0 +1,227 @@
+{
+  "run": "2026-11-17/sol-fable-g79",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g79",
+  "official_game_id": null,
+  "series_game_number": 3,
+  "captured": "2026-11-17T20:45:59.713791+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Sol High vs Fable High",
+    "effort": "high",
+    "opponent": "agent",
+    "players": 2,
+    "rated": false,
+    "configuration": {
+      "players": 2,
+      "names": [
+        "Sol High",
+        "Fable High"
+      ],
+      "agents": [
+        "Sol High",
+        "Fable High"
+      ],
+      "seed": 139624630334329308,
+      "watchable": true
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "note": "Verified live revised playbook and exact requested profiles; actual native model messages independently checked."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794938795464-70c02851c6c9153d",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Sculptor",
+          "Artist",
+          "Sentry",
+          "MerchantCamp",
+          "Carnival",
+          "Bard",
+          "Collection",
+          "Courier",
+          "Beggar",
+          "Importer"
+        ],
+        "landscapes": [
+          "Seaway",
+          "WayOfTheMouse"
+        ],
+        "players": 2,
+        "seed": 139624630334329308,
+        "shelters": null,
+        "turn_limit": null
+      },
+      "started_ms": 1794938795465,
+      "last_event_ms": 1794941197719,
+      "files": [
+        {
+          "file": "sessions/1794938795464-70c02851c6c9153d/interactions.jsonl.gz",
+          "source_sha256": "2413b783458bd36b29d383722d596eea87cfda66f4216f413640a0ffc511ec6d",
+          "source_bytes": 7166947
+        },
+        {
+          "file": "sessions/1794938795464-70c02851c6c9153d/network.jsonl.gz",
+          "source_sha256": "fbfc1911b3e6866fed49c78e50f7aefaf584801f47f4b88489a277c471cc8ac4",
+          "source_bytes": 165
+        },
+        {
+          "file": "sessions/1794938795464-70c02851c6c9153d/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794938795464-70c02851c6c9153d/response-000001.stdout.jsonl.gz",
+          "source_sha256": "4ee321005376c61e0d4540a2785686a11f17efc12e7badfa1b3c047d615f741a",
+          "source_bytes": 5326355
+        },
+        {
+          "file": "sessions/1794938795464-70c02851c6c9153d/transcript.jsonl.gz",
+          "source_sha256": "3f2aff325836113dfb840e060458d281d3c721381a338961297bff0c60b496fd",
+          "source_bytes": 1210658
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 210
+      },
+      "direct_request_models": [],
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": false,
+          "stop_reason": "end_turn"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    },
+    {
+      "id": "1794938795464-7e33b20d6af606a6",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Sculptor",
+          "Artist",
+          "Sentry",
+          "MerchantCamp",
+          "Carnival",
+          "Bard",
+          "Collection",
+          "Courier",
+          "Beggar",
+          "Importer"
+        ],
+        "landscapes": [
+          "Seaway",
+          "WayOfTheMouse"
+        ],
+        "players": 2,
+        "seed": 139624630334329308,
+        "shelters": null,
+        "turn_limit": null
+      },
+      "started_ms": 1794938795465,
+      "last_event_ms": 1794941198389,
+      "files": [
+        {
+          "file": "sessions/1794938795464-7e33b20d6af606a6/interactions.jsonl.gz",
+          "source_sha256": "50a9c63f9520fa7c509c14a49d4e52d5ebad30f406fb53cdc1043dc2cb3edc38",
+          "source_bytes": 17111476
+        },
+        {
+          "file": "sessions/1794938795464-7e33b20d6af606a6/transcript.jsonl.gz",
+          "source_sha256": "ef2d63ae87eea66d049e2d3cf84fff61902460d011331da3af1a4b0fbd856444",
+          "source_bytes": 190019
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {},
+      "direct_request_models": [
+        "gpt-6.1-sol"
+      ],
+      "cli_results": [],
+      "actual_model_note": "Empty model counts for direct OpenAI: model is recorded in agent specification and direct_request events."
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 663,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "g79",
+        "result": {
+          "reason": "piles-empty",
+          "players": [
+            {
+              "index": 0,
+              "name": "Sol High",
+              "vp": 55,
+              "rank": 1,
+              "turns": 14,
+              "points": 55
+            },
+            {
+              "index": 1,
+              "name": "Fable High",
+              "vp": 35,
+              "rank": 2,
+              "turns": 13,
+              "points": 35
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-17-sol-fable-seven/README.md"
+}

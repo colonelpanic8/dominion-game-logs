@@ -1,0 +1,5048 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 2,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 4,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 5,
+    "type": "bought",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High buys Trader"
+  },
+  {
+    "seq": 6,
+    "type": "gained",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High gains Trader"
+  },
+  {
+    "seq": 7,
+    "type": "resolved",
+    "player": 0,
+    "card": "Pious",
+    "text": "Fable High's Pious resolves"
+  },
+  {
+    "seq": 8,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 9,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 10,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 1"
+  },
+  {
+    "seq": 11,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 12,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 1 Favor"
+  },
+  {
+    "seq": 13,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 14,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 15,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 16,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 17,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High buys Silver"
+  },
+  {
+    "seq": 18,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 19,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 20,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 2"
+  },
+  {
+    "seq": 21,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 22,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 1 Favor"
+  },
+  {
+    "seq": 23,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 24,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 25,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 26,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 27,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 28,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 29,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 30,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 31,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 2"
+  },
+  {
+    "seq": 32,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 33,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 34,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 35,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 36,
+    "type": "bought",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High buys Trader"
+  },
+  {
+    "seq": 37,
+    "type": "gained",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High gains Trader"
+  },
+  {
+    "seq": 38,
+    "type": "resolved",
+    "player": 1,
+    "card": "Pious",
+    "text": "Sol High's Pious resolves"
+  },
+  {
+    "seq": 39,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 40,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 41,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 42,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 3"
+  },
+  {
+    "seq": 43,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 44,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 45,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 46,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 47,
+    "type": "bought",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High buys Trader"
+  },
+  {
+    "seq": 48,
+    "type": "gained",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High gains Trader"
+  },
+  {
+    "seq": 49,
+    "type": "resolved",
+    "player": 0,
+    "card": "Pious",
+    "text": "Fable High's Pious resolves"
+  },
+  {
+    "seq": 50,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 51,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 52,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 3"
+  },
+  {
+    "seq": 53,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 54,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 55,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 56,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 57,
+    "type": "bought",
+    "player": 1,
+    "card": "Sir Destry",
+    "text": "Sol High buys Sir Destry"
+  },
+  {
+    "seq": 58,
+    "type": "gained",
+    "player": 1,
+    "card": "Sir Destry",
+    "text": "Sol High gains Sir Destry"
+  },
+  {
+    "seq": 59,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 60,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 4"
+  },
+  {
+    "seq": 61,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 62,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 63,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 64,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 65,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 66,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 67,
+    "type": "bought",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High buys Contract"
+  },
+  {
+    "seq": 68,
+    "type": "gained",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High gains Contract"
+  },
+  {
+    "seq": 69,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 70,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High puts Contract onto their deck"
+  },
+  {
+    "seq": 71,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 72,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 73,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 4"
+  },
+  {
+    "seq": 74,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 75,
+    "type": "used-way",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 76,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 77,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 78,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 79,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 80,
+    "type": "bought",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High buys Contract"
+  },
+  {
+    "seq": 81,
+    "type": "gained",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High gains Contract"
+  },
+  {
+    "seq": 82,
+    "type": "resolved",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High's Way of the Seal resolves"
+  },
+  {
+    "seq": 83,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High puts Contract onto their deck"
+  },
+  {
+    "seq": 84,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 85,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 86,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 5"
+  },
+  {
+    "seq": 87,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 88,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 89,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 90,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 91,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 92,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 93,
+    "type": "bought",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High buys Contract"
+  },
+  {
+    "seq": 94,
+    "type": "gained",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High gains Contract"
+  },
+  {
+    "seq": 95,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 96,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 5"
+  },
+  {
+    "seq": 97,
+    "type": "played",
+    "player": 1,
+    "card": "Sir Destry",
+    "text": "Sol High plays Sir Destry"
+  },
+  {
+    "seq": 98,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 99,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 100,
+    "type": "revealed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 101,
+    "type": "revealed",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High reveals Contract"
+  },
+  {
+    "seq": 102,
+    "type": "trashed",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High trashes Contract"
+  },
+  {
+    "seq": 103,
+    "type": "discarded",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High discards Copper"
+  },
+  {
+    "seq": 104,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 105,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 106,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 107,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 108,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 109,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 110,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 111,
+    "type": "bought",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High buys Laboratory"
+  },
+  {
+    "seq": 112,
+    "type": "gained",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High gains Laboratory"
+  },
+  {
+    "seq": 113,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 114,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 6"
+  },
+  {
+    "seq": 115,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 116,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 117,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 118,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 119,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 120,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 121,
+    "type": "bought",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High buys Contract"
+  },
+  {
+    "seq": 122,
+    "type": "gained",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High gains Contract"
+  },
+  {
+    "seq": 123,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 124,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High puts Contract onto their deck"
+  },
+  {
+    "seq": 125,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 126,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 6"
+  },
+  {
+    "seq": 127,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 128,
+    "type": "used-way",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 129,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 130,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 1 Favor"
+  },
+  {
+    "seq": 131,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High trashes Estate"
+  },
+  {
+    "seq": 132,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 133,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 134,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 135,
+    "type": "bought",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High buys Laboratory"
+  },
+  {
+    "seq": 136,
+    "type": "gained",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High gains Laboratory"
+  },
+  {
+    "seq": 137,
+    "type": "resolved",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High's Way of the Seal resolves"
+  },
+  {
+    "seq": 138,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High puts Laboratory onto their deck"
+  },
+  {
+    "seq": 139,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 140,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 141,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 7"
+  },
+  {
+    "seq": 142,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 143,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 144,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 145,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 1 Favor"
+  },
+  {
+    "seq": 146,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 147,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 148,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 149,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 150,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 151,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 152,
+    "type": "bought",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High buys Grand Market"
+  },
+  {
+    "seq": 153,
+    "type": "gained",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High gains Grand Market"
+  },
+  {
+    "seq": 154,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 155,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High puts Grand Market onto their deck"
+  },
+  {
+    "seq": 156,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 157,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 158,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 7"
+  },
+  {
+    "seq": 159,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 160,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 161,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 162,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 163,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 164,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 165,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 166,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 167,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 168,
+    "type": "bought",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High buys Contract"
+  },
+  {
+    "seq": 169,
+    "type": "gained",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High gains Contract"
+  },
+  {
+    "seq": 170,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 171,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 8"
+  },
+  {
+    "seq": 172,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 173,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 174,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 175,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 176,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 177,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 178,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 179,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 180,
+    "type": "bought",
+    "player": 0,
+    "card": "Sir Martin",
+    "text": "Fable High buys Sir Martin"
+  },
+  {
+    "seq": 181,
+    "type": "gained",
+    "player": 0,
+    "card": "Sir Martin",
+    "text": "Fable High gains Sir Martin"
+  },
+  {
+    "seq": 182,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 183,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 184,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 185,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 8"
+  },
+  {
+    "seq": 186,
+    "type": "played",
+    "player": 1,
+    "card": "Sir Destry",
+    "text": "Sol High plays Sir Destry"
+  },
+  {
+    "seq": 187,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 188,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 189,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 190,
+    "type": "revealed",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High reveals Grand Market"
+  },
+  {
+    "seq": 191,
+    "type": "revealed",
+    "player": 0,
+    "card": "Sir Martin",
+    "text": "Fable High reveals Sir Martin"
+  },
+  {
+    "seq": 192,
+    "type": "trashed",
+    "player": 0,
+    "card": "Sir Martin",
+    "text": "Fable High trashes Sir Martin"
+  },
+  {
+    "seq": 193,
+    "type": "discarded",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High discards Grand Market"
+  },
+  {
+    "seq": 194,
+    "type": "trashed",
+    "player": 1,
+    "card": "Sir Destry",
+    "text": "Sol High trashes Sir Destry"
+  },
+  {
+    "seq": 195,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 196,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 1 Favor"
+  },
+  {
+    "seq": 197,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 198,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 199,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 200,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 201,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 202,
+    "type": "bought",
+    "player": 1,
+    "card": "Dame Sylvia",
+    "text": "Sol High buys Dame Sylvia"
+  },
+  {
+    "seq": 203,
+    "type": "gained",
+    "player": 1,
+    "card": "Dame Sylvia",
+    "text": "Sol High gains Dame Sylvia"
+  },
+  {
+    "seq": 204,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 205,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 9"
+  },
+  {
+    "seq": 206,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 207,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 208,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 209,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 1 Favor"
+  },
+  {
+    "seq": 210,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 211,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 212,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 213,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 214,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 215,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 216,
+    "type": "bought",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High buys Sir Vander"
+  },
+  {
+    "seq": 217,
+    "type": "gained",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High gains Sir Vander"
+  },
+  {
+    "seq": 218,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 219,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High puts Sir Vander onto their deck"
+  },
+  {
+    "seq": 220,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 221,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 9"
+  },
+  {
+    "seq": 222,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 223,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 224,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 225,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 226,
+    "type": "used-way",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 227,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 228,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 229,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 230,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 231,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 232,
+    "type": "bought",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High buys Grand Market"
+  },
+  {
+    "seq": 233,
+    "type": "gained",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High gains Grand Market"
+  },
+  {
+    "seq": 234,
+    "type": "resolved",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High's Way of the Seal resolves"
+  },
+  {
+    "seq": 235,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High puts Grand Market onto their deck"
+  },
+  {
+    "seq": 236,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 237,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 10"
+  },
+  {
+    "seq": 238,
+    "type": "played",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High plays Sir Vander"
+  },
+  {
+    "seq": 239,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 240,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High reveals Copper"
+  },
+  {
+    "seq": 241,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High reveals Copper"
+  },
+  {
+    "seq": 242,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 243,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 244,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 245,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 1 Favor"
+  },
+  {
+    "seq": 246,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 247,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 248,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 249,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 250,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 251,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 252,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 253,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 10"
+  },
+  {
+    "seq": 254,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 255,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 256,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 257,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 258,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Sylvia",
+    "text": "Sol High plays Dame Sylvia"
+  },
+  {
+    "seq": 259,
+    "type": "revealed",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High reveals Trader"
+  },
+  {
+    "seq": 260,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 261,
+    "type": "trashed",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High trashes Trader"
+  },
+  {
+    "seq": 262,
+    "type": "discarded",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High discards Silver"
+  },
+  {
+    "seq": 263,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 264,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 2 Favors"
+  },
+  {
+    "seq": 265,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 266,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 267,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 268,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 269,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High sets aside Trader"
+  },
+  {
+    "seq": 270,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 271,
+    "type": "bought",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High buys Grand Market"
+  },
+  {
+    "seq": 272,
+    "type": "gained",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High gains Grand Market"
+  },
+  {
+    "seq": 273,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 274,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 275,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 11"
+  },
+  {
+    "seq": 276,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 277,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 278,
+    "type": "played",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High plays Sir Vander"
+  },
+  {
+    "seq": 279,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High reveals Copper"
+  },
+  {
+    "seq": 280,
+    "type": "revealed",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High reveals Grand Market"
+  },
+  {
+    "seq": 281,
+    "type": "trashed",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High trashes Grand Market"
+  },
+  {
+    "seq": 282,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 283,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 284,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 2 Favors"
+  },
+  {
+    "seq": 285,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 286,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 287,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 288,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 289,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 290,
+    "type": "bought",
+    "player": 0,
+    "card": "Dame Josephine",
+    "text": "Fable High buys Dame Josephine"
+  },
+  {
+    "seq": 291,
+    "type": "gained",
+    "player": 0,
+    "card": "Dame Josephine",
+    "text": "Fable High gains Dame Josephine"
+  },
+  {
+    "seq": 292,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 293,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 294,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 11"
+  },
+  {
+    "seq": 295,
+    "type": "resolved",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High's Contract resolves"
+  },
+  {
+    "seq": 296,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 297,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 298,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 299,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 300,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 301,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 302,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 303,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 304,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Sylvia",
+    "text": "Sol High plays Dame Sylvia"
+  },
+  {
+    "seq": 305,
+    "type": "revealed",
+    "player": 0,
+    "card": "Dame Josephine",
+    "text": "Fable High reveals Dame Josephine"
+  },
+  {
+    "seq": 306,
+    "type": "revealed",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High reveals Grand Market"
+  },
+  {
+    "seq": 307,
+    "type": "trashed",
+    "player": 0,
+    "card": "Dame Josephine",
+    "text": "Fable High trashes Dame Josephine"
+  },
+  {
+    "seq": 308,
+    "type": "discarded",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High discards Grand Market"
+  },
+  {
+    "seq": 309,
+    "type": "trashed",
+    "player": 1,
+    "card": "Dame Sylvia",
+    "text": "Sol High trashes Dame Sylvia"
+  },
+  {
+    "seq": 310,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 311,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 1 Favor"
+  },
+  {
+    "seq": 312,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 313,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 314,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 315,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 316,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High plays Copper"
+  },
+  {
+    "seq": 317,
+    "type": "bought",
+    "player": 1,
+    "card": "Dame Natalie",
+    "text": "Sol High buys Dame Natalie"
+  },
+  {
+    "seq": 318,
+    "type": "gained",
+    "player": 1,
+    "card": "Dame Natalie",
+    "text": "Sol High gains Dame Natalie"
+  },
+  {
+    "seq": 319,
+    "type": "bought",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High buys Tide Pools"
+  },
+  {
+    "seq": 320,
+    "type": "gained",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High gains Tide Pools"
+  },
+  {
+    "seq": 321,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 322,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 323,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 12"
+  },
+  {
+    "seq": 324,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 325,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 326,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 327,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 328,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 329,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 330,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 331,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 332,
+    "type": "bought",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High buys Sir Bailey"
+  },
+  {
+    "seq": 333,
+    "type": "gained",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High gains Sir Bailey"
+  },
+  {
+    "seq": 334,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 335,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High puts Sir Bailey onto their deck"
+  },
+  {
+    "seq": 336,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 337,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 338,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 12"
+  },
+  {
+    "seq": 339,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 340,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 341,
+    "type": "played",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High plays Tide Pools"
+  },
+  {
+    "seq": 342,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 343,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 344,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Natalie",
+    "text": "Sol High plays Dame Natalie"
+  },
+  {
+    "seq": 345,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 346,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 347,
+    "type": "revealed",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High reveals Contract"
+  },
+  {
+    "seq": 348,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High trashes Silver"
+  },
+  {
+    "seq": 349,
+    "type": "discarded",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High discards Contract"
+  },
+  {
+    "seq": 350,
+    "type": "resolved",
+    "player": 1,
+    "card": "Peaceful Cult",
+    "text": "Sol High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 351,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High spends 1 Favor"
+  },
+  {
+    "seq": 352,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 353,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 354,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 355,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High sets aside Laboratory"
+  },
+  {
+    "seq": 356,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 357,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 358,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 359,
+    "type": "bought",
+    "player": 1,
+    "card": "Sir Michael",
+    "text": "Sol High buys Sir Michael"
+  },
+  {
+    "seq": 360,
+    "type": "gained",
+    "player": 1,
+    "card": "Sir Michael",
+    "text": "Sol High gains Sir Michael"
+  },
+  {
+    "seq": 361,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High buys Silver"
+  },
+  {
+    "seq": 362,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High gains Silver"
+  },
+  {
+    "seq": 363,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 364,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 365,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 13"
+  },
+  {
+    "seq": 366,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 367,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 368,
+    "type": "played",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High plays Sir Bailey"
+  },
+  {
+    "seq": 369,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 370,
+    "type": "revealed",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High reveals Contract"
+  },
+  {
+    "seq": 371,
+    "type": "revealed",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High reveals Grand Market"
+  },
+  {
+    "seq": 372,
+    "type": "trashed",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High trashes Contract"
+  },
+  {
+    "seq": 373,
+    "type": "discarded",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High discards Grand Market"
+  },
+  {
+    "seq": 374,
+    "type": "played",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High plays Sir Vander"
+  },
+  {
+    "seq": 375,
+    "type": "revealed",
+    "player": 1,
+    "card": "Dame Natalie",
+    "text": "Sol High reveals Dame Natalie"
+  },
+  {
+    "seq": 376,
+    "type": "revealed",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High reveals Laboratory"
+  },
+  {
+    "seq": 377,
+    "type": "trashed",
+    "player": 1,
+    "card": "Dame Natalie",
+    "text": "Sol High trashes Dame Natalie"
+  },
+  {
+    "seq": 378,
+    "type": "discarded",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High discards Laboratory"
+  },
+  {
+    "seq": 379,
+    "type": "trashed",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High trashes Sir Vander"
+  },
+  {
+    "seq": 380,
+    "type": "resolved",
+    "player": 0,
+    "card": "Sir Vander",
+    "text": "Fable High's Sir Vander resolves"
+  },
+  {
+    "seq": 381,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 382,
+    "type": "resolved",
+    "player": 0,
+    "card": "Peaceful Cult",
+    "text": "Fable High's Peaceful Cult resolves"
+  },
+  {
+    "seq": 383,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends 1 Favor"
+  },
+  {
+    "seq": 384,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 385,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 386,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 387,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 388,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 389,
+    "type": "bought",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High buys Dame Molly"
+  },
+  {
+    "seq": 390,
+    "type": "gained",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High gains Dame Molly"
+  },
+  {
+    "seq": 391,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 392,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 393,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 394,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 395,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 13"
+  },
+  {
+    "seq": 396,
+    "type": "resolved",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High's Contract resolves"
+  },
+  {
+    "seq": 397,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 398,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 399,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 400,
+    "type": "resolved",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High's Tide Pools resolves"
+  },
+  {
+    "seq": 401,
+    "type": "discarded",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High discards Trader"
+  },
+  {
+    "seq": 402,
+    "type": "discarded",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High discards Silver"
+  },
+  {
+    "seq": 403,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 404,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 405,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 406,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 407,
+    "type": "played",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High plays Trader"
+  },
+  {
+    "seq": 408,
+    "type": "used-way",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 409,
+    "type": "played",
+    "player": 1,
+    "card": "Sir Michael",
+    "text": "Sol High plays Sir Michael"
+  },
+  {
+    "seq": 410,
+    "type": "discarded",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High discards Trader"
+  },
+  {
+    "seq": 411,
+    "type": "discarded",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High discards Contract"
+  },
+  {
+    "seq": 412,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 413,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 414,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High trashes Silver"
+  },
+  {
+    "seq": 415,
+    "type": "discarded",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High discards Silver"
+  },
+  {
+    "seq": 416,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 417,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 418,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 419,
+    "type": "bought",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High buys Dame Anna"
+  },
+  {
+    "seq": 420,
+    "type": "gained",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High gains Dame Anna"
+  },
+  {
+    "seq": 421,
+    "type": "resolved",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High's Way of the Seal resolves"
+  },
+  {
+    "seq": 422,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High puts Dame Anna onto their deck"
+  },
+  {
+    "seq": 423,
+    "type": "bought",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High buys Tide Pools"
+  },
+  {
+    "seq": 424,
+    "type": "gained",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High gains Tide Pools"
+  },
+  {
+    "seq": 425,
+    "type": "resolved",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High's Way of the Seal resolves"
+  },
+  {
+    "seq": 426,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High puts Tide Pools onto their deck"
+  },
+  {
+    "seq": 427,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 428,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 429,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 14"
+  },
+  {
+    "seq": 430,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 431,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 432,
+    "type": "played",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High plays Sir Bailey"
+  },
+  {
+    "seq": 433,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 434,
+    "type": "revealed",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High reveals Laboratory"
+  },
+  {
+    "seq": 435,
+    "type": "revealed",
+    "player": 1,
+    "card": "Sir Michael",
+    "text": "Sol High reveals Sir Michael"
+  },
+  {
+    "seq": 436,
+    "type": "trashed",
+    "player": 1,
+    "card": "Sir Michael",
+    "text": "Sol High trashes Sir Michael"
+  },
+  {
+    "seq": 437,
+    "type": "discarded",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High discards Laboratory"
+  },
+  {
+    "seq": 438,
+    "type": "trashed",
+    "player": 0,
+    "card": "Sir Bailey",
+    "text": "Fable High trashes Sir Bailey"
+  },
+  {
+    "seq": 439,
+    "type": "played",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High plays Dame Molly"
+  },
+  {
+    "seq": 440,
+    "type": "revealed",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High reveals Grand Market"
+  },
+  {
+    "seq": 441,
+    "type": "revealed",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High reveals Trader"
+  },
+  {
+    "seq": 442,
+    "type": "trashed",
+    "player": 1,
+    "card": "Trader",
+    "text": "Sol High trashes Trader"
+  },
+  {
+    "seq": 443,
+    "type": "discarded",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High discards Grand Market"
+  },
+  {
+    "seq": 444,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 445,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 446,
+    "type": "bought",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High buys Grand Market"
+  },
+  {
+    "seq": 447,
+    "type": "gained",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High gains Grand Market"
+  },
+  {
+    "seq": 448,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 449,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 450,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 14"
+  },
+  {
+    "seq": 451,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 452,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 453,
+    "type": "played",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High plays Tide Pools"
+  },
+  {
+    "seq": 454,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 455,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 3 cards"
+  },
+  {
+    "seq": 456,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 457,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High plays Dame Anna"
+  },
+  {
+    "seq": 458,
+    "type": "revealed",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High reveals Grand Market"
+  },
+  {
+    "seq": 459,
+    "type": "revealed",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High reveals Gold"
+  },
+  {
+    "seq": 460,
+    "type": "trashed",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High trashes Gold"
+  },
+  {
+    "seq": 461,
+    "type": "discarded",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High discards Grand Market"
+  },
+  {
+    "seq": 462,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 463,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 464,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High sets aside Laboratory"
+  },
+  {
+    "seq": 465,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 466,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 467,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 468,
+    "type": "bought",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High buys Cursed Village"
+  },
+  {
+    "seq": 469,
+    "type": "gained",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High gains Cursed Village"
+  },
+  {
+    "seq": 470,
+    "type": "resolved",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High's Cursed Village resolves"
+  },
+  {
+    "seq": 471,
+    "type": "received",
+    "player": 1,
+    "card": "Greed",
+    "text": "Sol High receives Greed"
+  },
+  {
+    "seq": 472,
+    "type": "gained",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High gains Copper onto their deck"
+  },
+  {
+    "seq": 473,
+    "type": "bought",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High buys Livery"
+  },
+  {
+    "seq": 474,
+    "type": "gained",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High gains Livery"
+  },
+  {
+    "seq": 475,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 476,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 477,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 15"
+  },
+  {
+    "seq": 478,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 479,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 480,
+    "type": "played",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High plays Dame Molly"
+  },
+  {
+    "seq": 481,
+    "type": "revealed",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High reveals Tide Pools"
+  },
+  {
+    "seq": 482,
+    "type": "revealed",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High reveals Cursed Village"
+  },
+  {
+    "seq": 483,
+    "type": "trashed",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High trashes Tide Pools"
+  },
+  {
+    "seq": 484,
+    "type": "discarded",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High discards Cursed Village"
+  },
+  {
+    "seq": 485,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 486,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 487,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 488,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 489,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 490,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 491,
+    "type": "bought",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High buys Grand Market"
+  },
+  {
+    "seq": 492,
+    "type": "gained",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High gains Grand Market"
+  },
+  {
+    "seq": 493,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 494,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High puts Grand Market onto their deck"
+  },
+  {
+    "seq": 495,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 496,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 497,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 498,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 499,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 15"
+  },
+  {
+    "seq": 500,
+    "type": "resolved",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High's Contract resolves"
+  },
+  {
+    "seq": 501,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 502,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 503,
+    "type": "resolved",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High's Tide Pools resolves"
+  },
+  {
+    "seq": 504,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High discards Copper"
+  },
+  {
+    "seq": 505,
+    "type": "discarded",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High discards Silver"
+  },
+  {
+    "seq": 506,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 507,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 508,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 509,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 510,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 511,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 512,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High plays Dame Anna"
+  },
+  {
+    "seq": 513,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Sol High trashes Copper"
+  },
+  {
+    "seq": 514,
+    "type": "revealed",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High reveals Contract"
+  },
+  {
+    "seq": 515,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 516,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High trashes Silver"
+  },
+  {
+    "seq": 517,
+    "type": "discarded",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High discards Contract"
+  },
+  {
+    "seq": 518,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 519,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 520,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 521,
+    "type": "bought",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High buys Grand Market"
+  },
+  {
+    "seq": 522,
+    "type": "gained",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High gains Grand Market"
+  },
+  {
+    "seq": 523,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 524,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 525,
+    "type": "bought",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High buys Livery"
+  },
+  {
+    "seq": 526,
+    "type": "gained",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High gains Livery"
+  },
+  {
+    "seq": 527,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 528,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 529,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 530,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 531,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 16"
+  },
+  {
+    "seq": 532,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 533,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 534,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 535,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 536,
+    "type": "played",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High plays Dame Molly"
+  },
+  {
+    "seq": 537,
+    "type": "revealed",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High reveals Laboratory"
+  },
+  {
+    "seq": 538,
+    "type": "revealed",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High reveals Tide Pools"
+  },
+  {
+    "seq": 539,
+    "type": "trashed",
+    "player": 1,
+    "card": "Tide Pools",
+    "text": "Sol High trashes Tide Pools"
+  },
+  {
+    "seq": 540,
+    "type": "discarded",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High discards Laboratory"
+  },
+  {
+    "seq": 541,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 542,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 543,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 544,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 545,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 546,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 547,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 548,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 549,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 550,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 551,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 552,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High puts Silver onto their deck"
+  },
+  {
+    "seq": 553,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 554,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 555,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 16"
+  },
+  {
+    "seq": 556,
+    "type": "played",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High plays Cursed Village"
+  },
+  {
+    "seq": 557,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 558,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 559,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 560,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 561,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 562,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 563,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 564,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 565,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 566,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 567,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 568,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 569,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 570,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 571,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 572,
+    "type": "played",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High plays Contract"
+  },
+  {
+    "seq": 573,
+    "type": "counter",
+    "player": 1,
+    "text": "Sol High takes 1 Favor"
+  },
+  {
+    "seq": 574,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High sets aside Dame Anna"
+  },
+  {
+    "seq": 575,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 576,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 577,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 578,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 579,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 580,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 581,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 582,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 583,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 584,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 585,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 586,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 587,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 588,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 589,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 590,
+    "type": "bought",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High buys Estate"
+  },
+  {
+    "seq": 591,
+    "type": "gained",
+    "player": 1,
+    "card": "Estate",
+    "text": "Sol High gains Estate"
+  },
+  {
+    "seq": 592,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 593,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 594,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 17"
+  },
+  {
+    "seq": 595,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 596,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 597,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 598,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 599,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 600,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 601,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 602,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 603,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 604,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 605,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 606,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 607,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 608,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 609,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 610,
+    "type": "resolved",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High's Way of the Seal resolves"
+  },
+  {
+    "seq": 611,
+    "type": "top-decked",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High puts Silver onto their deck"
+  },
+  {
+    "seq": 612,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 613,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 17"
+  },
+  {
+    "seq": 614,
+    "type": "resolved",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High's Contract resolves"
+  },
+  {
+    "seq": 615,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High plays Dame Anna"
+  },
+  {
+    "seq": 616,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 617,
+    "type": "revealed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 618,
+    "type": "revealed",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High reveals Province"
+  },
+  {
+    "seq": 619,
+    "type": "trashed",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High trashes Silver"
+  },
+  {
+    "seq": 620,
+    "type": "discarded",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High discards Province"
+  },
+  {
+    "seq": 621,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 622,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 623,
+    "type": "played",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High plays Cursed Village"
+  },
+  {
+    "seq": 624,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 625,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 626,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 627,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 628,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 629,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 630,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 631,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 632,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 633,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 634,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 635,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 636,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 637,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 638,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 639,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 640,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 641,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 642,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 643,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 644,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 645,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 646,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 647,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 648,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 649,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 650,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 651,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 652,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 653,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 654,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 655,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 656,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 657,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 658,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 659,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 18"
+  },
+  {
+    "seq": 660,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 661,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 662,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 663,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 664,
+    "type": "played",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High plays Dame Molly"
+  },
+  {
+    "seq": 665,
+    "type": "revealed",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High reveals Contract"
+  },
+  {
+    "seq": 666,
+    "type": "revealed",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High reveals Laboratory"
+  },
+  {
+    "seq": 667,
+    "type": "trashed",
+    "player": 1,
+    "card": "Contract",
+    "text": "Sol High trashes Contract"
+  },
+  {
+    "seq": 668,
+    "type": "discarded",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High discards Laboratory"
+  },
+  {
+    "seq": 669,
+    "type": "played",
+    "player": 0,
+    "card": "Trader",
+    "text": "Fable High plays Trader"
+  },
+  {
+    "seq": 670,
+    "type": "used-way",
+    "player": 0,
+    "card": "Way of the Seal",
+    "text": "Fable High uses Way of the Seal for Trader"
+  },
+  {
+    "seq": 671,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 672,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 673,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 674,
+    "type": "bought",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High buys Duchy"
+  },
+  {
+    "seq": 675,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 676,
+    "type": "bought",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High buys Duchy"
+  },
+  {
+    "seq": 677,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 678,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 679,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 680,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 18"
+  },
+  {
+    "seq": 681,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 682,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 683,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 684,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 685,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 686,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 687,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 688,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 689,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 690,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 691,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 692,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 693,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 694,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 695,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 696,
+    "type": "played",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High plays Horse"
+  },
+  {
+    "seq": 697,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 698,
+    "type": "moved",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High returns Horse from play to the Horse pile"
+  },
+  {
+    "seq": 699,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 700,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 701,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 702,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Sol High plays Silver"
+  },
+  {
+    "seq": 703,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 704,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 705,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 706,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 707,
+    "type": "bought",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Sol High buys Duchy"
+  },
+  {
+    "seq": 708,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Sol High gains Duchy"
+  },
+  {
+    "seq": 709,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 710,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 711,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Sol High shuffles"
+  },
+  {
+    "seq": 712,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  },
+  {
+    "seq": 713,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 19"
+  },
+  {
+    "seq": 714,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 715,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 716,
+    "type": "played",
+    "player": 0,
+    "card": "Grand Market",
+    "text": "Fable High plays Grand Market"
+  },
+  {
+    "seq": 717,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 718,
+    "type": "played",
+    "player": 0,
+    "card": "Dame Molly",
+    "text": "Fable High plays Dame Molly"
+  },
+  {
+    "seq": 719,
+    "type": "revealed",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High reveals Horse"
+  },
+  {
+    "seq": 720,
+    "type": "revealed",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High reveals Province"
+  },
+  {
+    "seq": 721,
+    "type": "trashed",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High trashes Horse"
+  },
+  {
+    "seq": 722,
+    "type": "discarded",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High discards Province"
+  },
+  {
+    "seq": 723,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 724,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 725,
+    "type": "played",
+    "player": 0,
+    "card": "Contract",
+    "text": "Fable High plays Contract"
+  },
+  {
+    "seq": 726,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes 1 Favor"
+  },
+  {
+    "seq": 727,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 728,
+    "type": "bought",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High buys Duchy"
+  },
+  {
+    "seq": 729,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 730,
+    "type": "bought",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High buys Duchy"
+  },
+  {
+    "seq": 731,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 732,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 733,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Sol High starts turn 19"
+  },
+  {
+    "seq": 734,
+    "type": "played",
+    "player": 1,
+    "card": "Cursed Village",
+    "text": "Sol High plays Cursed Village"
+  },
+  {
+    "seq": 735,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 736,
+    "type": "played",
+    "player": 1,
+    "card": "Laboratory",
+    "text": "Sol High plays Laboratory"
+  },
+  {
+    "seq": 737,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 2 cards"
+  },
+  {
+    "seq": 738,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 739,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 740,
+    "type": "played",
+    "player": 1,
+    "card": "Grand Market",
+    "text": "Sol High plays Grand Market"
+  },
+  {
+    "seq": 741,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 1 card"
+  },
+  {
+    "seq": 742,
+    "type": "played",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High plays Livery"
+  },
+  {
+    "seq": 743,
+    "type": "played",
+    "player": 1,
+    "card": "Dame Anna",
+    "text": "Sol High plays Dame Anna"
+  },
+  {
+    "seq": 744,
+    "type": "used-way",
+    "player": 1,
+    "card": "Way of the Seal",
+    "text": "Sol High uses Way of the Seal for Dame Anna"
+  },
+  {
+    "seq": 745,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High buys Province"
+  },
+  {
+    "seq": 746,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Sol High gains Province"
+  },
+  {
+    "seq": 747,
+    "type": "resolved",
+    "player": 1,
+    "card": "Livery",
+    "text": "Sol High's Livery resolves"
+  },
+  {
+    "seq": 748,
+    "type": "gained",
+    "player": 1,
+    "card": "Horse",
+    "text": "Sol High gains Horse"
+  },
+  {
+    "seq": 749,
+    "type": "drew",
+    "player": 1,
+    "text": "Sol High draws 5 cards"
+  }
+]

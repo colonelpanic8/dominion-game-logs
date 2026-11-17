@@ -1,0 +1,4613 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g77",
+      "running": false,
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 23,
+            "rank": 2,
+            "turns": 11
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 37,
+            "rank": 1,
+            "turns": 11
+          }
+        ]
+      },
+      "kingdom": [
+        "Maroon",
+        "Village Green",
+        "Swamp Shacks",
+        "Pawn",
+        "Tea House",
+        "Sea Chart",
+        "Mining Road",
+        "First Mate",
+        "Siren",
+        "Market Square"
+      ],
+      "landscapes": [
+        "Donate",
+        "Looting",
+        "Kind Emperor"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Sol High",
+        "vp": 23,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Curse": 1,
+            "First Mate": 1,
+            "Market Square": 1,
+            "Swamp Shacks": 1,
+            "Tea House": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 9,
+          "known": {
+            "Curse": 1,
+            "Duchy": 1,
+            "Gold": 4,
+            "Market Square": 1,
+            "Pawn": 1,
+            "Tea House": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 16,
+          "known": {
+            "Copper": 2,
+            "Curse": 2,
+            "Duchy": 2,
+            "First Mate": 1,
+            "Gold": 1,
+            "Maroon": 1,
+            "Province": 3,
+            "Tea House": 2,
+            "Village Green": 2
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 2,
+            "Curse": 4,
+            "Duchy": 3,
+            "First Mate": 2,
+            "Gold": 5,
+            "Market Square": 2,
+            "Maroon": 1,
+            "Pawn": 1,
+            "Province": 3,
+            "Swamp Shacks": 1,
+            "Tea House": 4,
+            "Village Green": 2
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 11,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 37,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Duchy": 1,
+            "Pawn": 1,
+            "Province": 1,
+            "Swamp Shacks": 2
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 1,
+          "known": {
+            "Siren": 1
+          },
+          "unknown": 0
+        },
+        "deck": {
+          "count": 9,
+          "known": {
+            "Estate": 1,
+            "Gold": 4,
+            "Market Square": 1,
+            "Pawn": 2,
+            "Province": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 17,
+          "known": {
+            "Copper": 3,
+            "Duchy": 1,
+            "Gold": 1,
+            "Market Square": 5,
+            "Pawn": 2,
+            "Province": 3,
+            "Siren": 1,
+            "Swamp Shacks": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 3,
+            "Duchy": 2,
+            "Estate": 1,
+            "Gold": 5,
+            "Market Square": 6,
+            "Pawn": 5,
+            "Province": 5,
+            "Siren": 2,
+            "Swamp Shacks": 3
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 11,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 46,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 40,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 20,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 7,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 3,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 0,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 5,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Maroon",
+        "count": 9,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Maroon",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Village Green",
+        "count": 7,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Reaction",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Village Green",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Swamp Shacks",
+        "count": 6,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Swamp Shacks",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Pawn",
+        "count": 4,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Pawn",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Tea House",
+        "count": 6,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Tea House",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Sea Chart",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Sea Chart",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Mining Road",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Mining Road",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "First Mate",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "First Mate",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Siren",
+        "count": 8,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Attack",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Siren",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Market Square",
+        "count": 0,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Reaction"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Market Square",
+              "count": 10
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Loot",
+        "count": 30,
+        "members": [
+          "Amphora",
+          "Doubloons",
+          "Endless Chalice",
+          "Figurehead",
+          "Hammer",
+          "Insignia",
+          "Jewels",
+          "Orb",
+          "Prize Goat",
+          "Puzzle Box",
+          "Sextant",
+          "Shield",
+          "Spell Scroll",
+          "Staff",
+          "Sword"
+        ],
+        "types": [],
+        "hidden": true,
+        "structure": {
+          "kind": "shuffled",
+          "cards": [
+            {
+              "card": "Amphora",
+              "count": 2
+            },
+            {
+              "card": "Doubloons",
+              "count": 2
+            },
+            {
+              "card": "Endless Chalice",
+              "count": 2
+            },
+            {
+              "card": "Figurehead",
+              "count": 2
+            },
+            {
+              "card": "Hammer",
+              "count": 2
+            },
+            {
+              "card": "Insignia",
+              "count": 2
+            },
+            {
+              "card": "Jewels",
+              "count": 2
+            },
+            {
+              "card": "Orb",
+              "count": 2
+            },
+            {
+              "card": "Prize Goat",
+              "count": 2
+            },
+            {
+              "card": "Puzzle Box",
+              "count": 2
+            },
+            {
+              "card": "Sextant",
+              "count": 2
+            },
+            {
+              "card": "Shield",
+              "count": 2
+            },
+            {
+              "card": "Spell Scroll",
+              "count": 2
+            },
+            {
+              "card": "Staff",
+              "count": 2
+            },
+            {
+              "card": "Sword",
+              "count": 2
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Donate",
+        "kind": "event",
+        "cost": {
+          "coins": 0,
+          "debt": 8
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Looting",
+        "kind": "event",
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Kind Emperor",
+        "kind": "prophecy",
+        "types": [
+          "Prophecy"
+        ],
+        "suns": 0,
+        "active": true
+      }
+    ],
+    "trash": {
+      "count": 19,
+      "known": {
+        "Copper": 9,
+        "Curse": 1,
+        "Estate": 6,
+        "Market Square": 2,
+        "Village Green": 1
+      },
+      "unknown": 0
+    },
+    "lasting": [
+      {
+        "card": "Siren",
+        "owner": 1,
+        "until": "start-of-turn",
+        "untilPlayer": 1,
+        "cards": [
+          "Siren"
+        ]
+      }
+    ],
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 2,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 3,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 4,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 5,
+        "type": "bought",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High buys Market Square"
+      },
+      {
+        "seq": 6,
+        "type": "gained",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High gains Market Square"
+      },
+      {
+        "seq": 7,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 8,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 9,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 10,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 11,
+        "type": "bought",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High buys Pawn"
+      },
+      {
+        "seq": 12,
+        "type": "gained",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High gains Pawn"
+      },
+      {
+        "seq": 13,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 14,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 2"
+      },
+      {
+        "seq": 15,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 16,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 17,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 18,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Donate",
+        "text": "Sol High buys Donate"
+      },
+      {
+        "seq": 19,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 8 Debt"
+      },
+      {
+        "seq": 20,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 21,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 22,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 23,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 24,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 25,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 26,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 27,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 28,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 29,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 30,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 31,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 32,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 33,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 34,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 35,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 3"
+      },
+      {
+        "seq": 36,
+        "type": "resolved",
+        "player": 0,
+        "card": "Donate",
+        "text": "Sol High's Donate resolves"
+      },
+      {
+        "seq": 37,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 6 cards from their deck into their hand"
+      },
+      {
+        "seq": 38,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 39,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 40,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 41,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 42,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 43,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High trashes Estate"
+      },
+      {
+        "seq": 44,
+        "type": "resolved",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High's Market Square resolves"
+      },
+      {
+        "seq": 45,
+        "type": "discarded",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High discards Market Square"
+      },
+      {
+        "seq": 46,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 47,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High sets aside 2 cards from their discard pile"
+      },
+      {
+        "seq": 48,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 4 cards from their hand into their discard pile"
+      },
+      {
+        "seq": 49,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 50,
+        "type": "moved",
+        "player": 0,
+        "text": "Sol High puts 2 cards they had set aside into their discard pile"
+      },
+      {
+        "seq": 51,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 52,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 53,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 54,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 55,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 56,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 57,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 58,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 59,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 60,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 61,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 62,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 63,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 64,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 65,
+        "type": "bought",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High buys Pawn"
+      },
+      {
+        "seq": 66,
+        "type": "gained",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High gains Pawn"
+      },
+      {
+        "seq": 67,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 68,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 69,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 70,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 71,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Buy; +$1 (Pawn)"
+      },
+      {
+        "seq": 72,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 73,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 74,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 75,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 76,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 77,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Donate",
+        "text": "Fable High buys Donate"
+      },
+      {
+        "seq": 78,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 8 Debt"
+      },
+      {
+        "seq": 79,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 80,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 81,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 4"
+      },
+      {
+        "seq": 82,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 83,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 84,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 85,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 86,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 87,
+        "type": "bought",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High buys Tea House"
+      },
+      {
+        "seq": 88,
+        "type": "gained",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High gains Tea House"
+      },
+      {
+        "seq": 89,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 90,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 91,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 92,
+        "type": "resolved",
+        "player": 1,
+        "card": "Donate",
+        "text": "Fable High's Donate resolves"
+      },
+      {
+        "seq": 93,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts 2 cards from their deck into their hand"
+      },
+      {
+        "seq": 94,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts 6 cards from their discard pile into their hand"
+      },
+      {
+        "seq": 95,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 96,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 97,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 98,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 99,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 100,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 101,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 102,
+        "type": "resolved",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High's Market Square resolves"
+      },
+      {
+        "seq": 103,
+        "type": "discarded",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High discards Market Square"
+      },
+      {
+        "seq": 104,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 105,
+        "type": "resolved",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High's Market Square resolves"
+      },
+      {
+        "seq": 106,
+        "type": "discarded",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High discards Market Square"
+      },
+      {
+        "seq": 107,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 108,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High sets aside 4 cards from their discard pile"
+      },
+      {
+        "seq": 109,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts 4 cards from their hand into their discard pile"
+      },
+      {
+        "seq": 110,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 111,
+        "type": "moved",
+        "player": 1,
+        "text": "Fable High puts 4 cards they had set aside into their discard pile"
+      },
+      {
+        "seq": 112,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 113,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 114,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 115,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 116,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 117,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 118,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 119,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 120,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 121,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 122,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 123,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 124,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 125,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 126,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 127,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 128,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 129,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 130,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 131,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 132,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High pays off 1 Debt"
+      },
+      {
+        "seq": 133,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 134,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 135,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 136,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 137,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 5"
+      },
+      {
+        "seq": 138,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 139,
+        "type": "counter",
+        "text": "1 Sun token removed from Kind Emperor"
+      },
+      {
+        "seq": 140,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 141,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 142,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 143,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 144,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 145,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 146,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 147,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 148,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 149,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 150,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 151,
+        "type": "bought",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High buys First Mate"
+      },
+      {
+        "seq": 152,
+        "type": "gained",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High gains First Mate"
+      },
+      {
+        "seq": 153,
+        "type": "bought",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High buys Village Green"
+      },
+      {
+        "seq": 154,
+        "type": "gained",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High gains Village Green"
+      },
+      {
+        "seq": 155,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 156,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 157,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 158,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 159,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 160,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 161,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 162,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 163,
+        "type": "bought",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High buys Siren"
+      },
+      {
+        "seq": 164,
+        "type": "gained",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High gains Siren"
+      },
+      {
+        "seq": 165,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 166,
+        "type": "trashed",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High trashes Market Square"
+      },
+      {
+        "seq": 167,
+        "type": "resolved",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High's Market Square resolves"
+      },
+      {
+        "seq": 168,
+        "type": "discarded",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High discards Market Square"
+      },
+      {
+        "seq": 169,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 170,
+        "type": "bought",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High buys Pawn"
+      },
+      {
+        "seq": 171,
+        "type": "gained",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High gains Pawn"
+      },
+      {
+        "seq": 172,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 173,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 174,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 6"
+      },
+      {
+        "seq": 175,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 176,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 177,
+        "type": "counter",
+        "text": "1 Sun token removed from Kind Emperor"
+      },
+      {
+        "seq": 178,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 179,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 180,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 181,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 182,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 183,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 184,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 185,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 186,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses at the start of their next turn (Village Green)"
+      },
+      {
+        "seq": 187,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 188,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 189,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 190,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 191,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 192,
+        "type": "bought",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High buys Maroon"
+      },
+      {
+        "seq": 193,
+        "type": "gained",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High gains Maroon"
+      },
+      {
+        "seq": 194,
+        "type": "bought",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High buys Tea House"
+      },
+      {
+        "seq": 195,
+        "type": "gained",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High gains Tea House"
+      },
+      {
+        "seq": 196,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 197,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 198,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 199,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 200,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 201,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 202,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 203,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 204,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 205,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 206,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 207,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 208,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 209,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 210,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 211,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 212,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 213,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 214,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 215,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 216,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 217,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 218,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 219,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 220,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 221,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 222,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 7"
+      },
+      {
+        "seq": 223,
+        "type": "resolved",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High's Village Green resolves"
+      },
+      {
+        "seq": 224,
+        "type": "bonus",
+        "player": 0,
+        "text": "Sol High gets +2 Actions"
+      },
+      {
+        "seq": 225,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 226,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 227,
+        "type": "counter",
+        "text": "1 Sun token removed from Kind Emperor"
+      },
+      {
+        "seq": 228,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 229,
+        "type": "played",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High plays Maroon"
+      },
+      {
+        "seq": 230,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 231,
+        "type": "resolved",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High's Market Square resolves"
+      },
+      {
+        "seq": 232,
+        "type": "discarded",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High discards Market Square"
+      },
+      {
+        "seq": 233,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 234,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 235,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 236,
+        "type": "counter",
+        "text": "1 Sun token removed from Kind Emperor"
+      },
+      {
+        "seq": 237,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 238,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 239,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Action; +1 Buy (Pawn)"
+      },
+      {
+        "seq": 240,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 241,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 242,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 243,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 244,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 245,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 246,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 247,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 248,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 249,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 250,
+        "type": "bought",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High buys Tea House"
+      },
+      {
+        "seq": 251,
+        "type": "gained",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High gains Tea House"
+      },
+      {
+        "seq": 252,
+        "type": "bought",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High buys Tea House"
+      },
+      {
+        "seq": 253,
+        "type": "gained",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High gains Tea House"
+      },
+      {
+        "seq": 254,
+        "type": "bought",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High buys Market Square"
+      },
+      {
+        "seq": 255,
+        "type": "gained",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High gains Market Square"
+      },
+      {
+        "seq": 256,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 257,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 258,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 259,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 260,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 261,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 262,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 263,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 264,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 265,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 266,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 267,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 268,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 269,
+        "type": "played",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High plays Siren"
+      },
+      {
+        "seq": 270,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 271,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 272,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 273,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 274,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 275,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 276,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 277,
+        "type": "bought",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High buys Market Square"
+      },
+      {
+        "seq": 278,
+        "type": "gained",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High gains Market Square"
+      },
+      {
+        "seq": 279,
+        "type": "bought",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High buys Pawn"
+      },
+      {
+        "seq": 280,
+        "type": "gained",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High gains Pawn"
+      },
+      {
+        "seq": 281,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 282,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 8"
+      },
+      {
+        "seq": 283,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 284,
+        "type": "counter",
+        "text": "1 Sun token removed from Kind Emperor"
+      },
+      {
+        "seq": 285,
+        "type": "received",
+        "player": 0,
+        "card": "Kind Emperor",
+        "text": "Sol High receives Kind Emperor"
+      },
+      {
+        "seq": 286,
+        "type": "gained",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High gains First Mate to their hand"
+      },
+      {
+        "seq": 287,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 288,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 289,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses now (Village Green)"
+      },
+      {
+        "seq": 290,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 291,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 292,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 293,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 294,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 295,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 296,
+        "type": "played",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High plays Maroon"
+      },
+      {
+        "seq": 297,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 298,
+        "type": "resolved",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High's Market Square resolves"
+      },
+      {
+        "seq": 299,
+        "type": "discarded",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High discards Market Square"
+      },
+      {
+        "seq": 300,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 301,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 302,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 303,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 304,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 305,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 306,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 307,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 308,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 309,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 310,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 311,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 312,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 313,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 314,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 315,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 316,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 317,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 318,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 319,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 320,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 321,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 322,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 323,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 324,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 325,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 326,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 327,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 328,
+        "type": "resolved",
+        "player": 1,
+        "card": "Kind Emperor",
+        "text": "Fable High's Kind Emperor resolves"
+      },
+      {
+        "seq": 329,
+        "type": "gained",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High gains Siren to their hand"
+      },
+      {
+        "seq": 330,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 331,
+        "type": "trashed",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High trashes Market Square"
+      },
+      {
+        "seq": 332,
+        "type": "resolved",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High's Market Square resolves"
+      },
+      {
+        "seq": 333,
+        "type": "discarded",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High discards Market Square"
+      },
+      {
+        "seq": 334,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 335,
+        "type": "resolved",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High's Market Square resolves"
+      },
+      {
+        "seq": 336,
+        "type": "discarded",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High discards Market Square"
+      },
+      {
+        "seq": 337,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 338,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 339,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 340,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 341,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 342,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 343,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 344,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 345,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 346,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 347,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 348,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 349,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 350,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 351,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 352,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 353,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 354,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 355,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 356,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 357,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 358,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 359,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 360,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 361,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 362,
+        "type": "played",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High plays Siren"
+      },
+      {
+        "seq": 363,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 364,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 365,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 366,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 367,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 368,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 369,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 370,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 371,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 372,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 373,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 374,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 375,
+        "type": "bought",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High buys Pawn"
+      },
+      {
+        "seq": 376,
+        "type": "gained",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High gains Pawn"
+      },
+      {
+        "seq": 377,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 378,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 379,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 9"
+      },
+      {
+        "seq": 380,
+        "type": "resolved",
+        "player": 0,
+        "card": "Kind Emperor",
+        "text": "Sol High's Kind Emperor resolves"
+      },
+      {
+        "seq": 381,
+        "type": "gained",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High gains Village Green to their hand"
+      },
+      {
+        "seq": 382,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 383,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 384,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses now (Village Green)"
+      },
+      {
+        "seq": 385,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 386,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 387,
+        "type": "played",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High plays Maroon"
+      },
+      {
+        "seq": 388,
+        "type": "trashed",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 389,
+        "type": "resolved",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High's Market Square resolves"
+      },
+      {
+        "seq": 390,
+        "type": "discarded",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High discards Market Square"
+      },
+      {
+        "seq": 391,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 392,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 393,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 394,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 395,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 396,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses now (Village Green)"
+      },
+      {
+        "seq": 397,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 398,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 399,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 400,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 401,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 402,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 403,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 404,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 405,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 406,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 407,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 408,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 409,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 410,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 411,
+        "type": "resolved",
+        "player": 1,
+        "card": "Kind Emperor",
+        "text": "Fable High's Kind Emperor resolves"
+      },
+      {
+        "seq": 412,
+        "type": "gained",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High gains Swamp Shacks to their hand"
+      },
+      {
+        "seq": 413,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 414,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 415,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 416,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 417,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 418,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 419,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 420,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 421,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 422,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 423,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 424,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 425,
+        "type": "played",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High plays Swamp Shacks"
+      },
+      {
+        "seq": 426,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 427,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 428,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 429,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 430,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 431,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 432,
+        "type": "played",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High plays Siren"
+      },
+      {
+        "seq": 433,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 434,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 435,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 436,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 437,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 438,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 439,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 440,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 441,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 442,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 443,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 444,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 445,
+        "type": "bought",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High buys Pawn"
+      },
+      {
+        "seq": 446,
+        "type": "gained",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High gains Pawn"
+      },
+      {
+        "seq": 447,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 448,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 449,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 10"
+      },
+      {
+        "seq": 450,
+        "type": "resolved",
+        "player": 0,
+        "card": "Kind Emperor",
+        "text": "Sol High's Kind Emperor resolves"
+      },
+      {
+        "seq": 451,
+        "type": "gained",
+        "player": 0,
+        "card": "Swamp Shacks",
+        "text": "Sol High gains Swamp Shacks to their hand"
+      },
+      {
+        "seq": 452,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 453,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 454,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 455,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 456,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Action; +$1 (Pawn)"
+      },
+      {
+        "seq": 457,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 458,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 459,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 460,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 461,
+        "type": "played",
+        "player": 0,
+        "card": "Swamp Shacks",
+        "text": "Sol High plays Swamp Shacks"
+      },
+      {
+        "seq": 462,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 463,
+        "type": "played",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High plays Market Square"
+      },
+      {
+        "seq": 464,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 465,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 466,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 467,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 468,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 469,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High buys Duchy"
+      },
+      {
+        "seq": 470,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High gains Duchy"
+      },
+      {
+        "seq": 471,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High buys Duchy"
+      },
+      {
+        "seq": 472,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High gains Duchy"
+      },
+      {
+        "seq": 473,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 474,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 475,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 476,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 477,
+        "type": "resolved",
+        "player": 1,
+        "card": "Kind Emperor",
+        "text": "Fable High's Kind Emperor resolves"
+      },
+      {
+        "seq": 478,
+        "type": "gained",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High gains Swamp Shacks to their hand"
+      },
+      {
+        "seq": 479,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 480,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 481,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 482,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 483,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 484,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 485,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 486,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 487,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 488,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 489,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 490,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 491,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 492,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 493,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 494,
+        "type": "played",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High plays Swamp Shacks"
+      },
+      {
+        "seq": 495,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 496,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 497,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 498,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 499,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 500,
+        "type": "played",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High plays Swamp Shacks"
+      },
+      {
+        "seq": 501,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 502,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 503,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 504,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 505,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 506,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 507,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 508,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 509,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 510,
+        "type": "played",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High plays Siren"
+      },
+      {
+        "seq": 511,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 512,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 513,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 514,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 515,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 516,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 517,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 518,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 519,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 520,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 521,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 522,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 523,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 524,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 525,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 526,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 527,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 11"
+      },
+      {
+        "seq": 528,
+        "type": "resolved",
+        "player": 0,
+        "card": "Kind Emperor",
+        "text": "Sol High's Kind Emperor resolves"
+      },
+      {
+        "seq": 529,
+        "type": "gained",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High gains Village Green to their hand"
+      },
+      {
+        "seq": 530,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 531,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses now (Village Green)"
+      },
+      {
+        "seq": 532,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 533,
+        "type": "played",
+        "player": 0,
+        "card": "Maroon",
+        "text": "Sol High plays Maroon"
+      },
+      {
+        "seq": 534,
+        "type": "trashed",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High trashes Village Green"
+      },
+      {
+        "seq": 535,
+        "type": "resolved",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High's Market Square resolves"
+      },
+      {
+        "seq": 536,
+        "type": "discarded",
+        "player": 0,
+        "card": "Market Square",
+        "text": "Sol High discards Market Square"
+      },
+      {
+        "seq": 537,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High gains Gold"
+      },
+      {
+        "seq": 538,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 6 cards"
+      },
+      {
+        "seq": 539,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 540,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 541,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 542,
+        "type": "played",
+        "player": 0,
+        "card": "First Mate",
+        "text": "Sol High plays First Mate"
+      },
+      {
+        "seq": 543,
+        "type": "played",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High plays Village Green"
+      },
+      {
+        "seq": 544,
+        "type": "chosen",
+        "player": 0,
+        "card": "Village Green",
+        "text": "Sol High chooses now (Village Green)"
+      },
+      {
+        "seq": 545,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 546,
+        "type": "played",
+        "player": 0,
+        "card": "Tea House",
+        "text": "Sol High plays Tea House"
+      },
+      {
+        "seq": 547,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 548,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 549,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 550,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Sol High plays Gold"
+      },
+      {
+        "seq": 551,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High buys Duchy"
+      },
+      {
+        "seq": 552,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Sol High gains Duchy"
+      },
+      {
+        "seq": 553,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 554,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 555,
+        "type": "resolved",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High's Siren resolves"
+      },
+      {
+        "seq": 556,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 557,
+        "type": "resolved",
+        "player": 1,
+        "card": "Kind Emperor",
+        "text": "Fable High's Kind Emperor resolves"
+      },
+      {
+        "seq": 558,
+        "type": "gained",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High gains Swamp Shacks to their hand"
+      },
+      {
+        "seq": 559,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 560,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 561,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 562,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 563,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 564,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 565,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 566,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 567,
+        "type": "played",
+        "player": 1,
+        "card": "Market Square",
+        "text": "Fable High plays Market Square"
+      },
+      {
+        "seq": 568,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 569,
+        "type": "played",
+        "player": 1,
+        "card": "Swamp Shacks",
+        "text": "Fable High plays Swamp Shacks"
+      },
+      {
+        "seq": 570,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 571,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 572,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Action; +$1 (Pawn)"
+      },
+      {
+        "seq": 573,
+        "type": "played",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High plays Pawn"
+      },
+      {
+        "seq": 574,
+        "type": "chosen",
+        "player": 1,
+        "card": "Pawn",
+        "text": "Fable High chooses +1 Action; +$1 (Pawn)"
+      },
+      {
+        "seq": 575,
+        "type": "played",
+        "player": 1,
+        "card": "Siren",
+        "text": "Fable High plays Siren"
+      },
+      {
+        "seq": 576,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 577,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 578,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 579,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 580,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 581,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 582,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 583,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      }
+    ]
+  },
+  "version": 248,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": "Curse"
+      },
+      {
+        "seat": 1,
+        "inPlay": [
+          {
+            "card": "Siren",
+            "stays": true,
+            "holds": false
+          }
+        ],
+        "discardTop": "Duchy"
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Sol High",
+        "kind": "bot"
+      },
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 0,
+    "now": 1794937208254
+  }
+}
