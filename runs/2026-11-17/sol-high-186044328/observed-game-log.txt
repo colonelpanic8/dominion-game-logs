@@ -1,0 +1,240 @@
+00000 game 186044328
+00001 mayumaro1 starts with 3 Estate.
+00002 mayumaro1 starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 mayumaro1 answered
+00006 SolDominion answered
+00007 mayumaro1 shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 mayumaro1 draws 5 card.
+00010 SolDominion draws 4 Copper, 1 Estate.
+00011 mayumaro1 starts turn 1
+00012 mayumaro1 answered
+00013 mayumaro1 answered
+00014 play treasures for
+00015 mayumaro1 answered
+00016 mayumaro1 buys and gains 1 Ducat.
+00017 mayumaro1 answered
+00018 mayumaro1 trashes 1 Copper.
+00019 mayumaro1 draws 5 card.
+00020 SolDominion starts turn 1
+00021 SolDominion answered
+00022 SolDominion answered
+00023 SolDominion answered
+00024 SolDominion answered
+00025 play treasures for
+00026 SolDominion answered
+00027 SolDominion buys and gains 1 Quarry.
+00028 SolDominion resolved a forced decision
+00029 SolDominion draws 3 Copper, 2 Estate.
+00030 mayumaro1 starts turn 2
+00031 mayumaro1 answered
+00032 play treasures for
+00033 mayumaro1 answered
+00034 mayumaro1 buys and gains 1 Quarry.
+00035 mayumaro1 resolved a forced decision
+00036 mayumaro1 shuffles their deck.
+00037 mayumaro1 draws 5 card.
+00038 SolDominion starts turn 2
+00039 SolDominion answered
+00040 SolDominion answered
+00041 SolDominion answered
+00042 play treasures for
+00043 SolDominion answered
+00044 SolDominion buys and gains 1 Silver.
+00045 SolDominion resolved a forced decision
+00046 SolDominion shuffles their deck.
+00047 SolDominion draws 3 Copper, 1 Estate, 1 Quarry.
+00048 mayumaro1 starts turn 3
+00049 mayumaro1 answered
+00050 play treasures for
+00051 mayumaro1 answered
+00052 mayumaro1 buys and gains 1 Aristocrat.
+00053 mayumaro1 resolved a forced decision
+00054 mayumaro1 draws 5 card.
+00055 SolDominion starts turn 3
+00056 SolDominion answered
+00057 SolDominion answered
+00058 SolDominion answered
+00059 SolDominion answered
+00060 play treasures for
+00061 SolDominion answered
+00062 SolDominion buys and gains 1 Witch.
+00063 SolDominion resolved a forced decision
+00064 SolDominion draws 2 Copper, 1 Silver, 2 Estate.
+00065 mayumaro1 starts turn 4
+00066 mayumaro1 answered
+00067 play treasures for
+00068 mayumaro1 plays 1 Ducat.
+00069 mayumaro1 gets +1 Coffers.
+00070 mayumaro1 gets +1 Buy.
+00071 mayumaro1 answered
+00072 play treasures for
+00073 mayumaro1 answered
+00074 mayumaro1 buys and gains 1 Worker's Village.
+00075 mayumaro1 answered
+00076 mayumaro1 uses 1 Coffers. (+$1)
+00077 mayumaro1 answered
+00078 mayumaro1 buys and gains 1 Witch.
+00079 mayumaro1 resolved a forced decision
+00080 mayumaro1 shuffles their deck.
+00081 mayumaro1 draws 5 card.
+00082 SolDominion starts turn 4
+00083 SolDominion answered
+00084 SolDominion answered
+00085 SolDominion answered
+00086 play treasures for
+00087 SolDominion answered
+00088 SolDominion buys and gains 1 Worker's Village.
+00089 SolDominion resolved a forced decision
+00090 SolDominion shuffles their deck.
+00091 SolDominion draws 3 Copper, 1 Estate, 1 Witch.
+00092 mayumaro1 starts turn 5
+00093 mayumaro1 answered
+00094 mayumaro1 plays 1 Worker's Village.
+00095 mayumaro1 draws 1 card.
+00096 mayumaro1 gets +2 Actions.
+00097 mayumaro1 gets +1 Buy.
+00098 mayumaro1 answered
+00099 mayumaro1 answered
+00100 play treasures for
+00101 mayumaro1 answered
+00102 mayumaro1 answered
+00103 mayumaro1 buys and gains 2 Worker's Village.
+00104 mayumaro1 draws 5 card.
+00105 SolDominion starts turn 5
+00106 SolDominion answered
+00107 SolDominion plays 1 Witch.
+00108 SolDominion draws 2 Copper.
+00109 mayumaro1 gains 1 Curse.
+00110 SolDominion answered
+00111 SolDominion answered
+00112 SolDominion answered
+00113 SolDominion answered
+00114 SolDominion answered
+00115 play treasures for
+00116 SolDominion answered
+00117 SolDominion buys and gains 1 Witch.
+00118 SolDominion resolved a forced decision
+00119 SolDominion draws 2 Copper, 2 Estate, 1 Worker's Village.
+00120 mayumaro1 starts turn 6
+00121 mayumaro1 answered
+00122 mayumaro1 answered
+00123 play treasures for
+00124 mayumaro1 answered
+00125 mayumaro1 plays 1 Ducat.
+00126 mayumaro1 gets +1 Coffers.
+00127 mayumaro1 gets +1 Buy.
+00128 mayumaro1 answered
+00129 mayumaro1 uses 1 Coffers. (+$1)
+00130 mayumaro1 answered
+00131 mayumaro1 buys and gains 1 Ducat.
+00132 mayumaro1 answered
+00133 mayumaro1 trashes 1 Copper.
+00134 mayumaro1 answered
+00135 mayumaro1 shuffles their deck.
+00136 mayumaro1 draws 5 card.
+00137 SolDominion starts turn 6
+00138 SolDominion answered
+00139 SolDominion plays 1 Worker's Village.
+00140 SolDominion draws 1 Silver.
+00141 SolDominion gets +2 Actions.
+00142 SolDominion gets +1 Buy.
+00143 SolDominion answered
+00144 SolDominion answered
+00145 SolDominion answered
+00146 play treasures for
+00147 SolDominion answered
+00148 SolDominion buys and gains 1 Worker's Village.
+00149 SolDominion resolved a forced decision
+00150 SolDominion answered
+00151 SolDominion shuffles their deck.
+00152 SolDominion draws 2 Copper, 1 Silver, 1 Quarry, 1 Worker's Village.
+00153 mayumaro1 starts turn 7
+00154 mayumaro1 answered
+00155 mayumaro1 plays 1 Aristocrat.
+00156 mayumaro1 gets +3 Actions.
+00157 mayumaro1 answered
+00158 mayumaro1 plays 1 Witch.
+00159 mayumaro1 draws 2 card.
+00160 SolDominion gains 1 Curse.
+00161 mayumaro1 answered
+00162 mayumaro1 plays 1 Worker's Village.
+00163 mayumaro1 draws 1 card.
+00164 mayumaro1 gets +2 Actions.
+00165 mayumaro1 gets +1 Buy.
+00166 mayumaro1 answered
+00167 play treasures for
+00168 mayumaro1 plays 1 Ducat.
+00169 mayumaro1 gets +1 Coffers.
+00170 mayumaro1 gets +1 Buy.
+00171 mayumaro1 plays 1 Ducat.
+00172 mayumaro1 gets +1 Coffers.
+00173 mayumaro1 gets +1 Buy.
+00174 mayumaro1 answered
+00175 mayumaro1 buys and gains 1 Peddler.
+00176 mayumaro1 answered
+00177 mayumaro1 draws 5 card.
+00178 SolDominion starts turn 7
+00179 SolDominion answered
+00180 SolDominion plays 1 Worker's Village.
+00181 SolDominion draws 1 Witch.
+00182 SolDominion gets +2 Actions.
+00183 SolDominion gets +1 Buy.
+00184 SolDominion answered
+00185 SolDominion plays 1 Witch.
+00186 SolDominion draws 1 Copper, 1 Estate.
+00187 mayumaro1 gains 1 Curse.
+00188 SolDominion answered
+00189 SolDominion answered
+00190 SolDominion answered
+00191 SolDominion answered
+00192 SolDominion answered
+00193 play treasures for
+00194 SolDominion answered
+00195 SolDominion buys 1 Sea Trade.
+00196 SolDominion draws 1 Copper, 1 Estate.
+00197 SolDominion answered
+00198 SolDominion trashes 2 Estate.
+00199 SolDominion answered
+00200 SolDominion buys and gains 1 Peddler.
+00201 SolDominion draws 3 Copper, 1 Estate, 1 Worker's Village.
+00202 mayumaro1 starts turn 8
+00203 mayumaro1 answered
+00204 mayumaro1 plays 1 Worker's Village.
+00205 mayumaro1 draws 1 card.
+00206 mayumaro1 gets +2 Actions.
+00207 mayumaro1 gets +1 Buy.
+00208 mayumaro1 answered
+00209 mayumaro1 plays 1 Worker's Village.
+00210 mayumaro1 draws 1 card.
+00211 mayumaro1 gets +2 Actions.
+00212 mayumaro1 gets +1 Buy.
+00213 mayumaro1 answered
+00214 play treasures for
+00215 mayumaro1 answered
+00216 mayumaro1 answered
+00217 mayumaro1 uses 2 Coffers. (+$2)
+00218 mayumaro1 answered
+00219 mayumaro1 buys and gains 1 Peddler.
+00220 mayumaro1 resolved a forced decision
+00221 mayumaro1 answered
+00222 mayumaro1 shuffles their deck.
+00223 mayumaro1 draws 5 card.
+00224 SolDominion starts turn 8
+00225 SolDominion answered
+00226 SolDominion plays 1 Worker's Village.
+00227 SolDominion draws 1 Witch.
+00228 SolDominion gets +2 Actions.
+00229 SolDominion gets +1 Buy.
+00230 SolDominion answered
+00231 SolDominion plays 1 Witch.
+00232 SolDominion shuffles their deck.
+00233 SolDominion draws 1 Quarry, 1 Worker's Village.
+00234 mayumaro1 gains 1 Curse.
+00235 SolDominion answered
+00236 SolDominion plays 1 Worker's Village.
+00237 SolDominion draws 1 Peddler.
+00238 SolDominion gets +2 Actions.
+00239 SolDominion gets +1 Buy.

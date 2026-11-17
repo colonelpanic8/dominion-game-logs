@@ -1,0 +1,106 @@
+{
+  "run": "2026-11-17/sol-high-186044328",
+  "source": "dominion-arena official dominion.games adapter",
+  "source_url": "https://dominion-arena.duckdns.org/online/sol",
+  "official_game_id": "dominion.games:186044328",
+  "series_game_number": 25,
+  "captured": "2026-11-17T10:02:41.059865+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "high",
+    "opponent": "human",
+    "players": 2,
+    "account": "SolDominion",
+    "agent": "Sol High",
+    "rated": true,
+    "timer": "Patient",
+    "min_rating": -5,
+    "max_rating": 5,
+    "card_pool_min": 10,
+    "card_pool_max": 10,
+    "banned_cards": [],
+    "disliked_cards": []
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "note": "Verified runner playbook before/after safe update; exact available request and usage metadata remain in journals."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794908339309-b353fcb16a7d5b76",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794908339309,
+      "last_event_ms": 1794908579468,
+      "files": [
+        {
+          "file": "sessions/1794908339309-b353fcb16a7d5b76/interactions.jsonl.gz",
+          "source_sha256": "cacaf0c7473bfe5dee5c66897347a753e5ae3093fc67b991e5c006b4c213fc5c",
+          "source_bytes": 879724
+        }
+      ],
+      "has_recorded_result": false
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 240,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": false,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification.",
+    "trace_note": "All located finished attempts included."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "186044328",
+        "result": {
+          "reason": "official server result",
+          "players": [
+            {
+              "index": 0,
+              "name": "mayumaro1",
+              "vp": 0,
+              "rank": 2,
+              "turns": 8,
+              "resigned": true,
+              "points": 0
+            },
+            {
+              "index": 1,
+              "name": "SolDominion",
+              "vp": 0,
+              "rank": 1,
+              "turns": 8,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-17-sol-stopped-by-user/README.md"
+}

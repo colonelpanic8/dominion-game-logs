@@ -1,0 +1,9 @@
+{
+  "stopped_at": "2026-11-17T10:01:20.709786+00:00",
+  "requested_by": "user",
+  "instruction": "That's enough games for sol",
+  "completed_games": 25,
+  "official_rating_games": 24,
+  "no_active_game_or_search_verified": true,
+  "resume_requires_new_user_instruction": true
+}

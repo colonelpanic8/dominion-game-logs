@@ -1,0 +1,37 @@
+{
+  "captured": "2026-11-17T10:02:41.059865+00:00",
+  "games": [
+    {
+      "run": "2026-11-17/sol-high-186044328",
+      "game_id": "dominion.games:186044328",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 240,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": false,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "authoritative_completed_games": 25,
+  "authoritative_record": {
+    "wins": 20,
+    "losses": 5
+  },
+  "latest_verified_official_profile": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 24,
+    "level": 51.29014355955845,
+    "mu": 0.91010829414313,
+    "phi": 0.36904457643433475,
+    "rank": 926,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T09:38:59.057658+00:00"
+  },
+  "profile_count_note": "Official profile still reports24; do not call its level/mu/phi a verified25-game rating. Game25 is retained without changing eligibility or dropping history.",
+  "stop_reason": "Explicit user instruction: enough games for Sol.",
+  "target_phi_reached": false,
+  "monitoring_enabled": false,
+  "no_active_game_or_search_verified": true
+}
