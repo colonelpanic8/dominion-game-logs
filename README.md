@@ -10,6 +10,10 @@ Official matches played through dominion-arena are also archived here. The
 and the verified final rating. Each game's directory contains the observed game
 log, authoritative result, and losslessly compressed interaction journals.
 
+**Model identity:** the Fable-labelled g69 and g71 sessions switched to Opus 5.
+See the [model-identity correction](series/2026-11-16-fable-model-identity/README.md)
+before treating their results as Fable–Astra comparisons.
+
 ## Playing a game
 
 Start the navigator's Chrome first (`npm run launch:chrome` in dominion-navigator, logged in to dominion.games), then:
