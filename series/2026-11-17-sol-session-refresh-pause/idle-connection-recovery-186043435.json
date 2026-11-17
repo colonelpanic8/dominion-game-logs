@@ -1,0 +1,17 @@
+{
+  "time": "2026-11-17T09:04:24.087502+00:00",
+  "previous_game": "dominion.games:186043435",
+  "error": "HTTP 409: {\"error\":\"official server requested reconnect; pending answers invalidated; call online_reconnect\"}",
+  "action": "One existing-owned-session reconnect after an explicit HTTP409 rejection; no independent matchmaking start.",
+  "before": {
+    "running": false,
+    "searching": false,
+    "agent": null
+  },
+  "after": {
+    "connected": true,
+    "running": false,
+    "searching": false
+  },
+  "pending_start_resolution": "Cleared only after authoritative idle checks before and after reconnect; previous final result and all completed IDs preserved."
+}

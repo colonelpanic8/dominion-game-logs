@@ -1,0 +1,668 @@
+00000 game 186042286
+00001 34msms starts with 3 Estate.
+00002 34msms starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 34msms answered
+00007 34msms shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 34msms draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 34msms starts turn 1
+00012 34msms answered
+00013 play treasures for
+00014 34msms answered
+00015 34msms buys and gains 1 Silver.
+00016 34msms draws 5 card.
+00017 SolDominion starts turn 1
+00018 SolDominion answered
+00019 SolDominion answered
+00020 SolDominion answered
+00021 play treasures for
+00022 SolDominion answered
+00023 SolDominion buys and gains 1 Silver.
+00024 SolDominion draws 4 Copper, 1 Estate.
+00025 34msms starts turn 2
+00026 34msms answered
+00027 play treasures for
+00028 34msms answered
+00029 34msms buys and gains 1 Crucible.
+00030 34msms shuffles their deck.
+00031 34msms draws 5 card.
+00032 SolDominion starts turn 2
+00033 SolDominion answered
+00034 SolDominion answered
+00035 SolDominion answered
+00036 SolDominion answered
+00037 play treasures for
+00038 SolDominion answered
+00039 SolDominion buys and gains 1 Crucible.
+00040 SolDominion shuffles their deck.
+00041 SolDominion draws 2 Copper, 1 Silver, 2 Estate.
+00042 34msms starts turn 3
+00043 34msms answered
+00044 34msms plays 1 Crucible.
+00045 34msms answered
+00046 34msms trashes 1 Estate.
+00047 34msms answered
+00048 play treasures for
+00049 34msms answered
+00050 34msms buys and gains 1 Governor.
+00051 34msms draws 5 card.
+00052 SolDominion starts turn 3
+00053 SolDominion answered
+00054 SolDominion answered
+00055 SolDominion answered
+00056 play treasures for
+00057 SolDominion answered
+00058 SolDominion buys and gains 1 Silver.
+00059 SolDominion draws 4 Copper, 1 Crucible.
+00060 34msms starts turn 4
+00061 34msms answered
+00062 play treasures for
+00063 34msms answered
+00064 34msms buys and gains 1 Crucible.
+00065 34msms shuffles their deck.
+00066 34msms draws 5 card.
+00067 SolDominion starts turn 4
+00068 SolDominion answered
+00069 SolDominion plays 1 Crucible.
+00070 SolDominion trashes 1 Copper.
+00071 SolDominion answered
+00072 SolDominion answered
+00073 SolDominion answered
+00074 play treasures for
+00075 SolDominion answered
+00076 SolDominion buys and gains 1 Menagerie.
+00077 SolDominion shuffles their deck.
+00078 SolDominion draws 1 Copper, 1 Silver, 3 Estate.
+00079 34msms starts turn 5
+00080 34msms answered
+00081 play treasures for
+00082 34msms answered
+00083 34msms buys and gains 1 Gold.
+00084 34msms draws 5 card.
+00085 SolDominion starts turn 5
+00086 SolDominion answered
+00087 SolDominion answered
+00088 play treasures for
+00089 SolDominion answered
+00090 SolDominion buys 1 City Gate.
+00091 SolDominion draws 2 Copper, 1 Silver, 1 Menagerie, 1 Crucible.
+00092 34msms starts turn 6
+00093 34msms answered
+00094 34msms plays 1 Crucible.
+00095 34msms answered
+00096 34msms trashes 1 Estate.
+00097 34msms answered
+00098 play treasures for
+00099 34msms answered
+00100 34msms buys 1 City Gate.
+00101 34msms shuffles their deck.
+00102 34msms draws 5 card.
+00103 SolDominion starts turn 6
+00104 SolDominion starts their turn.
+00105 SolDominion draws 1 Copper. (City Gate)
+00106 SolDominion answered
+00107 SolDominion topdecks 1 Copper with City Gate.
+00108 SolDominion answered
+00109 SolDominion plays 1 Menagerie.
+00110 SolDominion gets +1 Action.
+00111 SolDominion reveals their hand: 1 Silver, 2 Copper, 1 Crucible.
+00112 SolDominion draws 1 Copper.
+00113 SolDominion answered
+00114 SolDominion answered
+00115 SolDominion answered
+00116 SolDominion answered
+00117 play treasures for
+00118 SolDominion answered
+00119 SolDominion buys and gains 1 Governor.
+00120 SolDominion shuffles their deck.
+00121 SolDominion draws 4 Copper, 1 Governor.
+00122 34msms starts turn 7
+00123 34msms starts their turn.
+00124 34msms draws 1 card. (City Gate)
+00125 34msms answered
+00126 34msms topdecks 1 card with City Gate.
+00127 34msms answered
+00128 34msms plays 1 Governor.
+00129 34msms gets +1 Action.
+00130 34msms answered
+00131 34msms draws 3 card.
+00132 SolDominion draws 1 Crucible.
+00133 34msms answered
+00134 34msms plays 1 Crucible.
+00135 34msms answered
+00136 34msms trashes 1 Copper.
+00137 34msms answered
+00138 34msms plays 1 Crucible.
+00139 34msms answered
+00140 34msms trashes 1 Copper.
+00141 34msms answered
+00142 play treasures for
+00143 34msms answered
+00144 34msms buys and gains 1 Outpost.
+00145 34msms draws 5 card.
+00146 SolDominion starts turn 7
+00147 SolDominion starts their turn.
+00148 SolDominion draws 1 Estate. (City Gate)
+00149 SolDominion answered
+00150 SolDominion topdecks 1 Copper with City Gate.
+00151 SolDominion answered
+00152 SolDominion plays 1 Governor.
+00153 SolDominion gets +1 Action.
+00154 SolDominion answered
+00155 SolDominion draws 2 Copper, 1 Menagerie.
+00156 34msms shuffles their deck.
+00157 34msms draws 1 card.
+00158 SolDominion answered
+00159 SolDominion plays 1 Menagerie.
+00160 SolDominion gets +1 Action.
+00161 SolDominion reveals their hand: 1 Estate, 5 Copper, 1 Crucible.
+00162 SolDominion draws 1 Copper.
+00163 SolDominion answered
+00164 SolDominion plays 1 Crucible.
+00165 SolDominion answered
+00166 SolDominion trashes 1 Estate.
+00167 SolDominion answered
+00168 SolDominion answered
+00169 SolDominion answered
+00170 SolDominion answered
+00171 SolDominion answered
+00172 SolDominion answered
+00173 play treasures for
+00174 SolDominion answered
+00175 SolDominion buys and gains 1 Governor.
+00176 SolDominion shuffles their deck.
+00177 SolDominion draws 1 Copper, 2 Silver, 2 Estate.
+00178 34msms starts turn 8
+00179 34msms starts their turn.
+00180 34msms draws 1 card. (City Gate)
+00181 34msms answered
+00182 34msms topdecks 1 card with City Gate.
+00183 34msms answered
+00184 34msms plays 1 Outpost.
+00185 34msms answered
+00186 34msms plays 1 Crucible.
+00187 34msms answered
+00188 34msms trashes 1 Estate.
+00189 34msms answered
+00190 play treasures for
+00191 34msms answered
+00192 34msms buys and gains 1 Governor.
+00193 34msms draws 3 card.
+00194 34msms starts turn 8
+00195 34msms starts their turn.
+00196 34msms draws 1 card. (City Gate)
+00197 34msms answered
+00198 34msms topdecks 1 card with City Gate.
+00199 34msms answered
+00200 34msms plays 1 Governor.
+00201 34msms gets +1 Action.
+00202 34msms answered
+00203 34msms gains 1 Gold.
+00204 SolDominion gains 1 Silver.
+00205 34msms answered
+00206 34msms plays 1 Crucible.
+00207 34msms trashes 1 Copper.
+00208 34msms answered
+00209 34msms shuffles their deck.
+00210 34msms draws 5 card.
+00211 SolDominion starts turn 8
+00212 SolDominion starts their turn.
+00213 SolDominion draws 1 Governor. (City Gate)
+00214 SolDominion answered
+00215 SolDominion topdecks 1 Estate with City Gate.
+00216 SolDominion answered
+00217 SolDominion plays 1 Governor.
+00218 SolDominion gets +1 Action.
+00219 SolDominion answered
+00220 SolDominion draws 1 Copper, 1 Estate, 1 Menagerie.
+00221 34msms draws 1 card.
+00222 SolDominion answered
+00223 SolDominion plays 1 Menagerie.
+00224 SolDominion gets +1 Action.
+00225 SolDominion reveals their hand: 2 Silver, 2 Estate, 2 Copper.
+00226 SolDominion draws 1 Crucible.
+00227 SolDominion answered
+00228 SolDominion plays 1 Crucible.
+00229 SolDominion answered
+00230 SolDominion trashes 1 Estate.
+00231 SolDominion answered
+00232 SolDominion answered
+00233 SolDominion answered
+00234 SolDominion answered
+00235 play treasures for
+00236 SolDominion answered
+00237 SolDominion buys and gains 1 Governor.
+00238 SolDominion draws 4 Copper, 1 Governor.
+00239 34msms starts turn 9
+00240 34msms starts their turn.
+00241 34msms draws 1 card. (City Gate)
+00242 34msms answered
+00243 34msms topdecks 1 card with City Gate.
+00244 34msms answered
+00245 34msms plays 1 Governor.
+00246 34msms gets +1 Action.
+00247 34msms answered
+00248 34msms draws 3 card.
+00249 SolDominion shuffles their deck.
+00250 SolDominion draws 1 Silver.
+00251 34msms answered
+00252 34msms plays 1 Governor.
+00253 34msms gets +1 Action.
+00254 34msms answered
+00255 34msms answered
+00256 34msms trashes 1 Silver.
+00257 34msms answered
+00258 34msms gains 1 Governor.
+00259 SolDominion answered
+00260 34msms answered
+00261 34msms plays 1 Crucible.
+00262 34msms answered
+00263 34msms trashes 1 Copper.
+00264 34msms answered
+00265 play treasures for
+00266 34msms answered
+00267 34msms buys and gains 1 Gold.
+00268 34msms shuffles their deck.
+00269 34msms draws 5 card.
+00270 SolDominion starts turn 9
+00271 SolDominion starts their turn.
+00272 SolDominion draws 1 Estate. (City Gate)
+00273 SolDominion answered
+00274 SolDominion topdecks 1 Copper with City Gate.
+00275 SolDominion answered
+00276 SolDominion plays 1 Governor.
+00277 SolDominion gets +1 Action.
+00278 SolDominion answered
+00279 SolDominion draws 3 Copper.
+00280 34msms draws 1 card.
+00281 SolDominion answered
+00282 SolDominion answered
+00283 SolDominion answered
+00284 SolDominion answered
+00285 SolDominion answered
+00286 SolDominion answered
+00287 SolDominion answered
+00288 play treasures for
+00289 SolDominion answered
+00290 SolDominion buys and gains 1 Governor.
+00291 SolDominion draws 1 Silver, 1 Menagerie, 2 Governor, 1 Crucible.
+00292 34msms starts turn 10
+00293 34msms starts their turn.
+00294 34msms draws 1 card. (City Gate)
+00295 34msms answered
+00296 34msms topdecks 1 card with City Gate.
+00297 34msms answered
+00298 34msms plays 1 Governor.
+00299 34msms gets +1 Action.
+00300 34msms answered
+00301 34msms draws 3 card.
+00302 SolDominion draws 1 Silver.
+00303 34msms answered
+00304 34msms plays 1 Governor.
+00305 34msms gets +1 Action.
+00306 34msms answered
+00307 34msms answered
+00308 34msms trashes 1 Copper.
+00309 34msms answered
+00310 34msms gains 1 Ducat.
+00311 34msms answered
+00312 34msms trashes 1 Copper.
+00313 SolDominion answered
+00314 SolDominion trashes 1 Silver.
+00315 SolDominion answered
+00316 SolDominion gains 1 Crucible.
+00317 34msms answered
+00318 34msms plays 1 Outpost.
+00319 34msms answered
+00320 34msms answered
+00321 play treasures for
+00322 34msms answered
+00323 34msms plays 1 Crucible.
+00324 34msms trashes 1 Crucible.
+00325 34msms answered
+00326 34msms buys and gains 1 Province.
+00327 34msms draws 3 card.
+00328 34msms starts turn 10
+00329 34msms starts their turn.
+00330 34msms shuffles their deck.
+00331 34msms draws 1 card. (City Gate)
+00332 34msms answered
+00333 34msms topdecks 1 card with City Gate.
+00334 34msms answered
+00335 34msms plays 1 Governor.
+00336 34msms gets +1 Action.
+00337 34msms answered
+00338 34msms draws 3 card.
+00339 SolDominion shuffles their deck.
+00340 SolDominion draws 1 Copper.
+00341 34msms answered
+00342 34msms plays 1 Governor.
+00343 34msms gets +1 Action.
+00344 34msms answered
+00345 34msms draws 3 card.
+00346 SolDominion draws 1 Copper.
+00347 34msms answered
+00348 34msms plays 1 Governor.
+00349 34msms gets +1 Action.
+00350 34msms answered
+00351 34msms answered
+00352 34msms trashes 1 Gold.
+00353 34msms gains 1 Province.
+00354 SolDominion answered
+00355 SolDominion trashes 1 Crucible.
+00356 SolDominion answered
+00357 SolDominion gains 1 Governor.
+00358 34msms answered
+00359 play treasures for
+00360 34msms plays 1 Ducat.
+00361 34msms gets +1 Coffers.
+00362 34msms gets +1 Buy.
+00363 34msms answered
+00364 34msms uses 1 Coffers. (+$1)
+00365 34msms answered
+00366 34msms buys and gains 1 Province.
+00367 34msms answered
+00368 34msms shuffles their deck.
+00369 34msms draws 5 card.
+00370 SolDominion starts turn 10
+00371 SolDominion starts their turn.
+00372 SolDominion draws 1 Governor. (City Gate)
+00373 SolDominion answered
+00374 SolDominion topdecks 1 Copper with City Gate.
+00375 SolDominion answered
+00376 SolDominion plays 1 Governor.
+00377 SolDominion gets +1 Action.
+00378 SolDominion answered
+00379 SolDominion draws 1 Copper, 1 Estate, 1 Governor.
+00380 34msms draws 1 card.
+00381 SolDominion answered
+00382 SolDominion plays 1 Governor.
+00383 SolDominion gets +1 Action.
+00384 SolDominion answered
+00385 SolDominion gains 1 Gold.
+00386 34msms gains 1 Silver.
+00387 SolDominion answered
+00388 SolDominion plays 1 Governor.
+00389 SolDominion gets +1 Action.
+00390 SolDominion answered
+00391 SolDominion draws 1 Copper, 1 Silver, 1 Crucible.
+00392 34msms draws 1 card.
+00393 SolDominion answered
+00394 SolDominion plays 1 Menagerie.
+00395 SolDominion gets +1 Action.
+00396 SolDominion reveals their hand: 2 Silver, 1 Estate, 1 Governor, 3 Copper, 1 Crucible.
+00397 SolDominion draws 1 Copper.
+00398 SolDominion answered
+00399 SolDominion plays 1 Governor.
+00400 SolDominion gets +1 Action.
+00401 SolDominion answered
+00402 SolDominion shuffles their deck.
+00403 SolDominion draws 2 Copper, 1 Gold.
+00404 34msms draws 1 card.
+00405 SolDominion answered
+00406 SolDominion plays 1 Crucible.
+00407 SolDominion answered
+00408 SolDominion trashes 1 Estate.
+00409 SolDominion answered
+00410 SolDominion answered
+00411 SolDominion answered
+00412 SolDominion answered
+00413 SolDominion answered
+00414 SolDominion answered
+00415 SolDominion answered
+00416 SolDominion answered
+00417 SolDominion answered
+00418 play treasures for
+00419 SolDominion answered
+00420 SolDominion buys and gains 1 Outpost.
+00421 SolDominion shuffles their deck.
+00422 SolDominion draws 2 Copper, 3 Governor.
+00423 34msms starts turn 11
+00424 34msms starts their turn.
+00425 34msms draws 1 card. (City Gate)
+00426 34msms answered
+00427 34msms topdecks 1 card with City Gate.
+00428 34msms answered
+00429 34msms plays 1 Governor.
+00430 34msms gets +1 Action.
+00431 34msms answered
+00432 34msms draws 3 card.
+00433 SolDominion draws 1 Crucible.
+00434 34msms answered
+00435 34msms plays 1 Governor.
+00436 34msms gets +1 Action.
+00437 34msms answered
+00438 34msms gains 1 Gold.
+00439 SolDominion gains 1 Silver.
+00440 34msms answered
+00441 34msms plays 1 Governor.
+00442 34msms gets +1 Action.
+00443 34msms answered
+00444 34msms shuffles their deck.
+00445 34msms draws 3 card.
+00446 SolDominion draws 1 Copper.
+00447 34msms answered
+00448 34msms plays 1 Outpost.
+00449 34msms answered
+00450 34msms plays 1 Crucible.
+00451 34msms answered
+00452 34msms trashes 1 Copper.
+00453 34msms answered
+00454 play treasures for
+00455 34msms plays 1 Ducat.
+00456 34msms gets +1 Coffers.
+00457 34msms gets +1 Buy.
+00458 34msms answered
+00459 34msms buys and gains 1 Province.
+00460 34msms answered
+00461 34msms buys and gains 1 Menagerie.
+00462 34msms shuffles their deck.
+00463 34msms draws 3 card.
+00464 34msms starts turn 11
+00465 34msms starts their turn.
+00466 34msms draws 1 card. (City Gate)
+00467 34msms answered
+00468 34msms topdecks 1 card with City Gate.
+00469 34msms answered
+00470 34msms plays 1 Menagerie.
+00471 34msms gets +1 Action.
+00472 34msms reveals their hand: 1 Silver, 1 Gold.
+00473 34msms draws 3 card.
+00474 34msms answered
+00475 34msms plays 1 Governor.
+00476 34msms gets +1 Action.
+00477 34msms answered
+00478 34msms draws 3 card.
+00479 SolDominion draws 1 Copper.
+00480 34msms answered
+00481 34msms plays 1 Governor.
+00482 34msms gets +1 Action.
+00483 34msms answered
+00484 34msms answered
+00485 34msms trashes 1 Gold.
+00486 34msms gains 1 Province.
+00487 SolDominion answered
+00488 SolDominion trashes 1 Governor.
+00489 SolDominion gains 1 Gold.
+00490 34msms answered
+00491 34msms draws 5 card.
+00492 SolDominion starts turn 11
+00493 SolDominion starts their turn.
+00494 SolDominion draws 1 Gold. (City Gate)
+00495 SolDominion answered
+00496 SolDominion topdecks 1 Copper with City Gate.
+00497 SolDominion answered
+00498 SolDominion plays 1 Governor.
+00499 SolDominion gets +1 Action.
+00500 SolDominion answered
+00501 SolDominion draws 2 Copper, 1 Governor.
+00502 34msms shuffles their deck.
+00503 34msms draws 1 card.
+00504 SolDominion answered
+00505 SolDominion plays 1 Governor.
+00506 SolDominion gets +1 Action.
+00507 SolDominion answered
+00508 SolDominion draws 1 Silver, 1 Menagerie, 1 Governor.
+00509 34msms draws 1 card.
+00510 SolDominion answered
+00511 SolDominion plays 1 Governor.
+00512 SolDominion gets +1 Action.
+00513 SolDominion answered
+00514 SolDominion answered
+00515 SolDominion trashes 1 Gold.
+00516 SolDominion gains 1 Province.
+00517 34msms answered
+00518 34msms trashes 1 Crucible.
+00519 34msms answered
+00520 34msms gains 1 Duchy.
+00521 SolDominion answered
+00522 SolDominion plays 1 Governor.
+00523 SolDominion gets +1 Action.
+00524 SolDominion answered
+00525 SolDominion draws 1 Copper, 1 Silver, 1 Outpost.
+00526 34msms draws 1 card.
+00527 SolDominion answered
+00528 SolDominion plays 1 Menagerie.
+00529 SolDominion gets +1 Action.
+00530 SolDominion reveals their hand: 2 Silver, 1 Outpost, 6 Copper, 1 Crucible.
+00531 SolDominion shuffles their deck.
+00532 SolDominion draws 1 Silver.
+00533 SolDominion answered
+00534 SolDominion plays 1 Outpost.
+00535 SolDominion answered
+00536 SolDominion plays 1 Crucible.
+00537 SolDominion answered
+00538 SolDominion trashes 1 Copper.
+00539 SolDominion answered
+00540 SolDominion answered
+00541 SolDominion answered
+00542 SolDominion answered
+00543 SolDominion answered
+00544 SolDominion answered
+00545 SolDominion answered
+00546 SolDominion answered
+00547 play treasures for
+00548 SolDominion answered
+00549 SolDominion buys and gains 1 Duchy.
+00550 SolDominion shuffles their deck.
+00551 SolDominion draws 1 Gold, 1 Province, 1 Menagerie.
+00552 SolDominion starts turn 11
+00553 SolDominion starts their turn.
+00554 SolDominion draws 1 Silver. (City Gate)
+00555 SolDominion answered
+00556 SolDominion topdecks 1 Province with City Gate.
+00557 SolDominion answered
+00558 SolDominion plays 1 Menagerie.
+00559 SolDominion gets +1 Action.
+00560 SolDominion reveals their hand: 1 Silver, 1 Gold.
+00561 SolDominion draws 1 Province, 1 Governor, 1 Crucible.
+00562 SolDominion answered
+00563 SolDominion plays 1 Governor.
+00564 SolDominion gets +1 Action.
+00565 SolDominion answered
+00566 SolDominion draws 2 Copper, 1 Governor.
+00567 34msms draws 1 card.
+00568 SolDominion answered
+00569 SolDominion plays 1 Governor.
+00570 SolDominion gets +1 Action.
+00571 SolDominion answered
+00572 SolDominion draws 1 Copper, 2 Silver.
+00573 34msms draws 1 card.
+00574 SolDominion answered
+00575 SolDominion plays 1 Crucible.
+00576 SolDominion answered
+00577 SolDominion trashes 1 Copper.
+00578 SolDominion answered
+00579 SolDominion answered
+00580 SolDominion answered
+00581 SolDominion answered
+00582 SolDominion answered
+00583 SolDominion answered
+00584 play treasures for
+00585 SolDominion answered
+00586 SolDominion buys and gains 1 Duchy.
+00587 SolDominion draws 2 Copper, 1 Duchy, 2 Governor.
+00588 34msms starts turn 12
+00589 34msms starts their turn.
+00590 34msms draws 1 card. (City Gate)
+00591 34msms answered
+00592 34msms topdecks 1 card with City Gate.
+00593 34msms answered
+00594 34msms plays 1 Governor.
+00595 34msms gets +1 Action.
+00596 34msms answered
+00597 34msms draws 3 card.
+00598 SolDominion shuffles their deck.
+00599 SolDominion draws 1 Duchy.
+00600 34msms answered
+00601 34msms plays 1 Governor.
+00602 34msms gets +1 Action.
+00603 34msms answered
+00604 34msms shuffles their deck.
+00605 34msms draws 3 card.
+00606 SolDominion draws 1 Province.
+00607 34msms answered
+00608 34msms plays 1 Governor.
+00609 34msms gets +1 Action.
+00610 34msms answered
+00611 34msms answered
+00612 34msms trashes 1 Gold.
+00613 34msms gains 1 Province.
+00614 SolDominion answered
+00615 SolDominion trashes 1 Governor.
+00616 SolDominion gains 1 Gold.
+00617 34msms answered
+00618 34msms plays 1 Menagerie.
+00619 34msms gets +1 Action.
+00620 34msms reveals their hand: 1 Silver, 5 Province, 1 Outpost, 1 Duchy, 1 Ducat, 1 Gold.
+00621 34msms shuffles their deck.
+00622 34msms draws 1 card.
+00623 34msms answered
+00624 34msms plays 1 Outpost.
+00625 34msms answered
+00626 play treasures for
+00627 34msms plays 1 Ducat.
+00628 34msms gets +1 Coffers.
+00629 34msms gets +1 Buy.
+00630 34msms answered
+00631 34msms buys and gains 1 Duchy.
+00632 34msms answered
+00633 34msms shuffles their deck.
+00634 34msms draws 3 card.
+00635 34msms starts turn 12
+00636 34msms starts their turn.
+00637 34msms draws 1 card. (City Gate)
+00638 34msms answered
+00639 34msms topdecks 1 card with City Gate.
+00640 34msms answered
+00641 34msms plays 1 Governor.
+00642 34msms gets +1 Action.
+00643 34msms answered
+00644 34msms draws 3 card.
+00645 SolDominion draws 1 Silver.
+00646 34msms answered
+00647 34msms plays 1 Governor.
+00648 34msms gets +1 Action.
+00649 34msms answered
+00650 34msms draws 3 card.
+00651 SolDominion draws 1 Crucible.
+00652 34msms answered
+00653 34msms plays 1 Governor.
+00654 34msms gets +1 Action.
+00655 34msms answered
+00656 34msms answered
+00657 34msms trashes 1 Gold.
+00658 34msms gains 1 Province.
+00659 SolDominion answered
+00660 SolDominion trashes 1 Crucible.
+00661 SolDominion answered
+00662 SolDominion gains 1 Duchy.
+00663 34msms answered
+00664 play treasures for
+00665 34msms answered
+00666 34msms buys and gains 1 Estate.
+00667 34msms draws 5 card.

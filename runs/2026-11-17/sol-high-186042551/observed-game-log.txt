@@ -1,0 +1,880 @@
+00000 game 186042551
+00001 wyan starts with 3 Estate.
+00002 wyan starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 wyan answered
+00007 wyan shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 wyan draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 wyan starts turn 1
+00012 wyan answered
+00013 play treasures for
+00014 wyan answered
+00015 wyan buys 1 Bargain.
+00016 wyan answered
+00017 wyan gains 1 Mint.
+00018 wyan trashes 4 Copper.
+00019 SolDominion gains 1 Horse.
+00020 wyan draws 5 card.
+00021 SolDominion starts turn 1
+00022 SolDominion answered
+00023 SolDominion answered
+00024 SolDominion answered
+00025 play treasures for
+00026 SolDominion answered
+00027 SolDominion buys and gains 1 Page.
+00028 SolDominion draws 4 Copper, 1 Estate.
+00029 wyan starts turn 2
+00030 wyan answered
+00031 play treasures for
+00032 wyan answered
+00033 wyan buys and gains 1 Page.
+00034 wyan shuffles their deck.
+00035 wyan draws 5 card.
+00036 SolDominion starts turn 2
+00037 SolDominion answered
+00038 SolDominion answered
+00039 SolDominion answered
+00040 SolDominion answered
+00041 play treasures for
+00042 SolDominion answered
+00043 SolDominion buys 1 Bargain.
+00044 SolDominion answered
+00045 SolDominion gains 1 Mint.
+00046 SolDominion trashes 4 Copper.
+00047 wyan gains 1 Horse.
+00048 SolDominion shuffles their deck.
+00049 SolDominion draws 2 Copper, 2 Estate, 1 Page.
+00050 wyan starts turn 3
+00051 wyan answered
+00052 wyan answered
+00053 play treasures for
+00054 wyan answered
+00055 wyan buys 1 Save.
+00056 wyan gets +1 Buy.
+00057 wyan answered
+00058 wyan sets 1 card aside with Save.
+00059 wyan answered
+00060 wyan shuffles their deck.
+00061 wyan draws 5 card.
+00062 wyan puts 1 card into their hand.
+00063 SolDominion starts turn 3
+00064 SolDominion answered
+00065 SolDominion plays 1 Page.
+00066 SolDominion draws 1 Copper.
+00067 SolDominion gets +1 Action.
+00068 SolDominion answered
+00069 SolDominion answered
+00070 SolDominion answered
+00071 play treasures for
+00072 SolDominion answered
+00073 SolDominion buys and gains 1 Silver.
+00074 SolDominion begins their Cleanup phase.
+00075 SolDominion answered
+00076 SolDominion returns 1 Page.
+00077 SolDominion receives 1 Treasure Hunter.
+00078 SolDominion shuffles their deck.
+00079 SolDominion draws 1 Copper, 2 Estate, 1 Mint, 1 Horse.
+00080 wyan starts turn 4
+00081 wyan answered
+00082 wyan plays 1 Page.
+00083 wyan draws 1 card.
+00084 wyan gets +1 Action.
+00085 wyan answered
+00086 wyan answered
+00087 play treasures for
+00088 wyan answered
+00089 wyan buys 1 Save.
+00090 wyan gets +1 Buy.
+00091 wyan answered
+00092 wyan sets 1 card aside with Save.
+00093 wyan answered
+00094 wyan begins their Cleanup phase.
+00095 wyan answered
+00096 wyan returns 1 Page.
+00097 wyan receives 1 Treasure Hunter.
+00098 wyan shuffles their deck.
+00099 wyan draws 5 card.
+00100 wyan puts 1 card into their hand.
+00101 SolDominion starts turn 4
+00102 SolDominion answered
+00103 SolDominion plays 1 Horse.
+00104 SolDominion draws 1 Copper, 1 Silver.
+00105 SolDominion gets +1 Action.
+00106 SolDominion returns 1 Horse to Player 0 nonSupply.
+00107 SolDominion answered
+00108 SolDominion plays 1 Mint.
+00109 SolDominion answered
+00110 SolDominion reveals 1 Silver.
+00111 SolDominion gains 1 Silver.
+00112 SolDominion answered
+00113 SolDominion answered
+00114 SolDominion answered
+00115 play treasures for
+00116 SolDominion answered
+00117 SolDominion buys 1 Bargain.
+00118 SolDominion answered
+00119 SolDominion gains 1 Barge.
+00120 wyan gains 1 Horse.
+00121 SolDominion shuffles their deck.
+00122 SolDominion draws 2 Copper, 1 Estate, 1 Mint, 1 Treasure Hunter.
+00123 wyan starts turn 5
+00124 wyan answered
+00125 wyan plays 1 Horse.
+00126 wyan draws 2 card.
+00127 wyan gets +1 Action.
+00128 wyan returns 1 Horse to Player 0 nonSupply.
+00129 wyan answered
+00130 wyan plays 1 Treasure Hunter.
+00131 wyan gets +1 Action.
+00132 wyan gets +$1.
+00133 wyan gains 2 Silver.
+00134 wyan answered
+00135 wyan answered
+00136 play treasures for
+00137 wyan answered
+00138 wyan buys 1 Bargain.
+00139 wyan answered
+00140 wyan gains 1 Bandit Camp.
+00141 SolDominion gains 1 Horse.
+00142 wyan begins their Cleanup phase.
+00143 wyan answered
+00144 wyan returns 1 Treasure Hunter.
+00145 wyan receives 1 Warrior.
+00146 wyan shuffles their deck.
+00147 wyan draws 5 card.
+00148 SolDominion starts turn 5
+00149 SolDominion answered
+00150 SolDominion plays 1 Treasure Hunter.
+00151 SolDominion gets +1 Action.
+00152 SolDominion gets +$1.
+00153 SolDominion gains 3 Silver.
+00154 SolDominion answered
+00155 SolDominion answered
+00156 SolDominion answered
+00157 play treasures for
+00158 SolDominion answered
+00159 SolDominion buys and gains 1 Page.
+00160 SolDominion begins their Cleanup phase.
+00161 SolDominion answered
+00162 SolDominion returns 1 Treasure Hunter.
+00163 SolDominion receives 1 Warrior.
+00164 SolDominion draws 1 Copper, 1 Silver, 2 Estate, 1 Barge.
+00165 wyan starts turn 6
+00166 wyan answered
+00167 wyan plays 1 Bandit Camp.
+00168 wyan draws 1 card.
+00169 wyan gets +2 Actions.
+00170 wyan gains 1 Spoils.
+00171 wyan answered
+00172 wyan answered
+00173 play treasures for
+00174 wyan answered
+00175 wyan buys 1 Save.
+00176 wyan gets +1 Buy.
+00177 wyan answered
+00178 wyan sets 1 card aside with Save.
+00179 wyan answered
+00180 wyan draws 5 card.
+00181 wyan puts 1 card into their hand.
+00182 SolDominion starts turn 6
+00183 SolDominion answered
+00184 SolDominion plays 1 Barge.
+00185 SolDominion answered
+00186 SolDominion shuffles their deck.
+00187 SolDominion draws 1 Silver, 1 Warrior, 1 Horse.
+00188 SolDominion gets +1 Buy.
+00189 SolDominion answered
+00190 SolDominion answered
+00191 SolDominion answered
+00192 play treasures for
+00193 SolDominion answered
+00194 SolDominion buys 1 Save.
+00195 SolDominion gets +1 Buy.
+00196 SolDominion answered
+00197 SolDominion sets 1 Warrior aside with Save.
+00198 SolDominion answered
+00199 SolDominion buys 1 Bargain.
+00200 SolDominion answered
+00201 SolDominion gains 1 Bandit Camp.
+00202 wyan gains 1 Horse.
+00203 SolDominion answered
+00204 SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Mint.
+00205 SolDominion puts 1 Warrior into their hand.
+00206 wyan starts turn 7
+00207 wyan answered
+00208 wyan plays 1 Horse.
+00209 wyan shuffles their deck.
+00210 wyan draws 2 card.
+00211 wyan gets +1 Action.
+00212 wyan returns 1 Horse to Player 0 nonSupply.
+00213 wyan answered
+00214 wyan plays 1 Warrior.
+00215 wyan draws 2 card.
+00216 SolDominion discards 1 Page.
+00217 wyan answered
+00218 play treasures for
+00219 wyan returns 1 Spoils to Player 0 nonSupply.
+00220 wyan answered
+00221 wyan answered
+00222 wyan answered
+00223 wyan answered
+00224 play treasures for
+00225 wyan answered
+00226 wyan buys 1 Save.
+00227 wyan gets +1 Buy.
+00228 wyan answered
+00229 wyan sets 1 card aside with Save.
+00230 wyan answered
+00231 wyan buys and gains 1 Sack Of Loot.
+00232 wyan begins their Cleanup phase.
+00233 wyan answered
+00234 wyan returns 1 Warrior.
+00235 wyan receives 1 Hero.
+00236 wyan shuffles their deck.
+00237 wyan draws 5 card.
+00238 wyan puts 1 card into their hand.
+00239 SolDominion starts turn 7
+00240 SolDominion answered
+00241 SolDominion plays 1 Warrior.
+00242 SolDominion draws 1 Copper, 1 Silver.
+00243 wyan discards 1 Silver.
+00244 wyan trashes 1 Silver.
+00245 SolDominion answered
+00246 SolDominion answered
+00247 SolDominion answered
+00248 SolDominion answered
+00249 SolDominion answered
+00250 play treasures for
+00251 SolDominion answered
+00252 SolDominion buys and gains 1 Barge.
+00253 SolDominion begins their Cleanup phase.
+00254 SolDominion answered
+00255 SolDominion returns 1 Warrior.
+00256 SolDominion receives 1 Hero.
+00257 SolDominion shuffles their deck.
+00258 SolDominion draws 2 Copper, 2 Estate, 1 Mint.
+00259 wyan starts turn 8
+00260 wyan answered
+00261 wyan plays 1 Bandit Camp.
+00262 wyan draws 1 card.
+00263 wyan gets +2 Actions.
+00264 wyan gains 1 Spoils.
+00265 wyan answered
+00266 wyan plays 1 Horse.
+00267 wyan draws 2 card.
+00268 wyan gets +1 Action.
+00269 wyan returns 1 Horse to Player 0 nonSupply.
+00270 wyan answered
+00271 wyan plays 1 Hero.
+00272 wyan gets +$2.
+00273 wyan answered
+00274 wyan gains 1 Sack Of Loot.
+00275 wyan answered
+00276 play treasures for
+00277 wyan answered
+00278 wyan plays 1 Sack Of Loot.
+00279 wyan gets +1 Buy.
+00280 wyan reveals 1 Staff.
+00281 wyan gains 1 Staff.
+00282 wyan answered
+00283 wyan buys and gains 1 Joust.
+00284 wyan answered
+00285 wyan begins their Cleanup phase.
+00286 wyan answered
+00287 wyan returns 1 Hero.
+00288 wyan receives 1 Champion.
+00289 wyan shuffles their deck.
+00290 wyan draws 5 card.
+00291 SolDominion starts turn 8
+00292 SolDominion answered
+00293 SolDominion answered
+00294 play treasures for
+00295 SolDominion answered
+00296 SolDominion buys 1 Save.
+00297 SolDominion gets +1 Buy.
+00298 SolDominion answered
+00299 SolDominion sets 1 Copper aside with Save.
+00300 SolDominion answered
+00301 SolDominion draws 1 Silver, 1 Bandit Camp, 1 Page, 1 Barge, 1 Horse.
+00302 SolDominion puts 1 Copper into their hand.
+00303 wyan starts turn 9
+00304 wyan answered
+00305 wyan plays 1 Bandit Camp.
+00306 wyan draws 1 card.
+00307 wyan gets +2 Actions.
+00308 wyan gains 1 Spoils.
+00309 wyan answered
+00310 wyan plays 1 Joust.
+00311 wyan draws 1 card.
+00312 wyan gets +1 Action.
+00313 wyan gets +$1.
+00314 wyan answered
+00315 wyan answered
+00316 play treasures for
+00317 wyan returns 1 Spoils to Player 0 nonSupply.
+00318 wyan answered
+00319 play treasures for
+00320 wyan answered
+00321 wyan buys 1 Save.
+00322 wyan gets +1 Buy.
+00323 wyan answered
+00324 wyan sets 1 card aside with Save.
+00325 wyan answered
+00326 wyan buys and gains 1 Barge.
+00327 wyan draws 5 card.
+00328 wyan puts 1 card into their hand.
+00329 SolDominion starts turn 9
+00330 SolDominion answered
+00331 SolDominion plays 1 Bandit Camp.
+00332 SolDominion draws 1 Barge.
+00333 SolDominion gets +2 Actions.
+00334 SolDominion gains 1 Spoils.
+00335 SolDominion answered
+00336 SolDominion plays 1 Page.
+00337 SolDominion draws 1 Estate.
+00338 SolDominion gets +1 Action.
+00339 SolDominion answered
+00340 SolDominion plays 1 Horse.
+00341 SolDominion draws 2 Silver.
+00342 SolDominion gets +1 Action.
+00343 SolDominion returns 1 Horse to Player 0 nonSupply.
+00344 SolDominion answered
+00345 SolDominion plays 1 Barge.
+00346 SolDominion answered
+00347 SolDominion draws 1 Copper, 2 Silver.
+00348 SolDominion gets +1 Buy.
+00349 SolDominion answered
+00350 SolDominion plays 1 Barge.
+00351 SolDominion answered
+00352 SolDominion answered
+00353 SolDominion answered
+00354 SolDominion answered
+00355 SolDominion answered
+00356 SolDominion answered
+00357 SolDominion answered
+00358 SolDominion answered
+00359 play treasures for
+00360 SolDominion answered
+00361 SolDominion buys and gains 1 Barge.
+00362 SolDominion answered
+00363 SolDominion buys 1 Save.
+00364 SolDominion gets +1 Buy.
+00365 SolDominion sets 1 Estate aside with Save.
+00366 SolDominion answered
+00367 SolDominion buys and gains 1 Joust.
+00368 SolDominion begins their Cleanup phase.
+00369 SolDominion answered
+00370 SolDominion shuffles their deck.
+00371 SolDominion draws 1 Copper, 2 Silver, 1 Hero, 1 Barge.
+00372 SolDominion puts 1 Estate into their hand.
+00373 wyan starts turn 10
+00374 wyan answered
+00375 wyan plays 1 Sack Of Loot.
+00376 wyan gets +1 Buy.
+00377 wyan reveals 1 Figurehead.
+00378 wyan gains 1 Figurehead.
+00379 wyan answered
+00380 play treasures for
+00381 wyan answered
+00382 wyan plays 1 Staff.
+00383 wyan gets +1 Buy.
+00384 wyan gets +$3.
+00385 wyan answered
+00386 wyan buys and gains 1 Barge.
+00387 wyan answered
+00388 wyan shuffles their deck.
+00389 wyan draws 5 card.
+00390 SolDominion starts turn 10
+00391 SolDominion starts their turn.
+00392 SolDominion draws 1 Silver, 1 Spoils, 1 Page. (Barge)
+00393 SolDominion gets +1 Buy. (Barge)
+00394 SolDominion answered
+00395 SolDominion plays 1 Page.
+00396 SolDominion draws 1 Silver.
+00397 SolDominion gets +1 Action.
+00398 SolDominion answered
+00399 SolDominion plays 1 Hero.
+00400 SolDominion gets +$2.
+00401 SolDominion answered
+00402 SolDominion gains 1 Sack Of Loot.
+00403 SolDominion answered
+00404 SolDominion answered
+00405 SolDominion answered
+00406 play treasures for
+00407 SolDominion answered
+00408 play treasures for
+00409 SolDominion returns 1 Spoils to Player 0 nonSupply.
+00410 SolDominion answered
+00411 SolDominion answered
+00412 play treasures for
+00413 SolDominion answered
+00414 SolDominion buys 1 Save.
+00415 SolDominion gets +1 Buy.
+00416 SolDominion answered
+00417 SolDominion sets 1 Barge aside with Save.
+00418 SolDominion answered
+00419 SolDominion buys and gains 1 Province.
+00420 SolDominion answered
+00421 SolDominion buys and gains 1 Barge.
+00422 SolDominion begins their Cleanup phase.
+00423 SolDominion answered
+00424 SolDominion returns 1 Hero.
+00425 SolDominion receives 1 Champion.
+00426 SolDominion answered
+00427 SolDominion draws 2 Estate, 1 Mint, 1 Bandit Camp, 1 Barge.
+00428 SolDominion puts 1 Barge into their hand.
+00429 wyan starts turn 11
+00430 wyan answered
+00431 wyan plays 1 Champion.
+00432 wyan gets +1 Action.
+00433 wyan answered
+00434 wyan plays 1 Barge.
+00435 wyan gets +1 Action.
+00436 wyan answered
+00437 wyan draws 3 card.
+00438 wyan gets +1 Buy.
+00439 wyan answered
+00440 wyan plays 1 Bandit Camp.
+00441 wyan gets +1 Action.
+00442 wyan draws 1 card.
+00443 wyan gets +2 Actions.
+00444 wyan gains 1 Spoils.
+00445 wyan answered
+00446 wyan plays 1 Joust.
+00447 wyan gets +1 Action.
+00448 wyan draws 1 card.
+00449 wyan gets +1 Action.
+00450 wyan gets +$1.
+00451 wyan answered
+00452 play treasures for
+00453 wyan answered
+00454 wyan plays 1 Figurehead.
+00455 wyan gets +$3.
+00456 wyan answered
+00457 wyan plays 1 Staff.
+00458 wyan gets +1 Buy.
+00459 wyan gets +$3.
+00460 wyan answered
+00461 play treasures for
+00462 wyan returns 1 Spoils to Player 0 nonSupply.
+00463 wyan answered
+00464 wyan plays 1 Sack Of Loot.
+00465 wyan gets +1 Buy.
+00466 wyan reveals 1 Shield.
+00467 wyan gains 1 Shield.
+00468 wyan answered
+00469 wyan plays 1 Sack Of Loot.
+00470 wyan gets +1 Buy.
+00471 wyan reveals 1 Spell Scroll.
+00472 wyan gains 1 Spell Scroll.
+00473 wyan answered
+00474 wyan buys and gains 1 Province.
+00475 wyan answered
+00476 wyan buys and gains 1 Barge.
+00477 wyan answered
+00478 wyan draws 5 card.
+00479 SolDominion starts turn 11
+00480 SolDominion answered
+00481 SolDominion plays 1 Bandit Camp.
+00482 SolDominion draws 1 Silver.
+00483 SolDominion gets +2 Actions.
+00484 SolDominion gains 1 Spoils.
+00485 SolDominion answered
+00486 SolDominion plays 1 Barge.
+00487 SolDominion answered
+00488 SolDominion draws 2 Copper, 1 Joust.
+00489 SolDominion gets +1 Buy.
+00490 SolDominion answered
+00491 SolDominion plays 1 Joust.
+00492 SolDominion shuffles their deck.
+00493 SolDominion draws 1 Silver.
+00494 SolDominion gets +1 Action.
+00495 SolDominion gets +$1.
+00496 SolDominion answered
+00497 SolDominion plays 1 Barge.
+00498 SolDominion answered
+00499 SolDominion draws 1 Champion, 1 Page, 1 Barge.
+00500 SolDominion gets +1 Buy.
+00501 SolDominion answered
+00502 SolDominion answered
+00503 SolDominion answered
+00504 SolDominion answered
+00505 play treasures for
+00506 SolDominion answered
+00507 SolDominion buys 1 Save.
+00508 SolDominion gets +1 Buy.
+00509 SolDominion answered
+00510 SolDominion sets 1 Champion aside with Save.
+00511 SolDominion answered
+00512 SolDominion buys and gains 1 Scepter.
+00513 SolDominion answered
+00514 SolDominion draws 1 Silver, 1 Province, 1 Spoils, 1 Barge, 1 Sack Of Loot.
+00515 SolDominion puts 1 Champion into their hand.
+00516 wyan starts turn 12
+00517 wyan starts their turn.
+00518 wyan draws 2 card. (Figurehead)
+00519 wyan answered
+00520 wyan answered
+00521 play treasures for
+00522 wyan answered
+00523 wyan buys 1 Bargain.
+00524 wyan answered
+00525 wyan gains 1 Barge.
+00526 SolDominion gains 1 Horse.
+00527 wyan shuffles their deck.
+00528 wyan draws 5 card.
+00529 SolDominion starts turn 12
+00530 SolDominion answered
+00531 SolDominion plays 1 Champion.
+00532 SolDominion gets +1 Action.
+00533 SolDominion answered
+00534 SolDominion plays 1 Barge.
+00535 SolDominion gets +1 Action.
+00536 SolDominion answered
+00537 SolDominion draws 1 Copper, 1 Silver, 1 Estate.
+00538 SolDominion gets +1 Buy.
+00539 SolDominion answered
+00540 play treasures for
+00541 SolDominion answered
+00542 play treasures for
+00543 SolDominion returns 1 Spoils to Player 0 nonSupply.
+00544 SolDominion answered
+00545 SolDominion answered
+00546 play treasures for
+00547 SolDominion answered
+00548 SolDominion plays 1 Sack Of Loot.
+00549 SolDominion gets +1 Buy.
+00550 SolDominion reveals 1 Doubloons.
+00551 SolDominion gains 1 Doubloons.
+00552 SolDominion gains 1 Gold.
+00553 SolDominion answered
+00554 SolDominion buys 1 Save.
+00555 SolDominion gets +1 Buy.
+00556 SolDominion answered
+00557 SolDominion sets 1 Province aside with Save.
+00558 SolDominion answered
+00559 SolDominion buys and gains 1 Province.
+00560 SolDominion answered
+00561 SolDominion shuffles their deck.
+00562 SolDominion draws 1 Copper, 3 Silver, 1 Horse.
+00563 SolDominion puts 1 Province into their hand.
+00564 wyan starts turn 13
+00565 wyan starts their turn.
+00566 wyan answered
+00567 wyan plays 1 Barge.
+00568 wyan gets +1 Action.
+00569 wyan answered
+00570 wyan draws 3 card.
+00571 wyan gets +1 Buy.
+00572 wyan answered
+00573 wyan plays 1 Barge.
+00574 wyan gets +1 Action.
+00575 wyan answered
+00576 wyan draws 3 card.
+00577 wyan gets +1 Buy.
+00578 wyan answered
+00579 wyan plays 1 Bandit Camp.
+00580 wyan gets +1 Action.
+00581 wyan draws 1 card.
+00582 wyan gets +2 Actions.
+00583 wyan gains 1 Spoils.
+00584 wyan answered
+00585 wyan plays 1 Joust.
+00586 wyan gets +1 Action.
+00587 wyan draws 1 card.
+00588 wyan gets +1 Action.
+00589 wyan gets +$1.
+00590 wyan answered
+00591 wyan sets 1 Province aside.
+00592 wyan answered
+00593 wyan gains 1 Housecarl.
+00594 wyan answered
+00595 wyan plays 1 Barge.
+00596 wyan gets +1 Action.
+00597 wyan answered
+00598 wyan draws 3 card.
+00599 wyan gets +1 Buy.
+00600 wyan answered
+00601 wyan plays 1 Housecarl.
+00602 wyan gets +1 Action.
+00603 wyan draws 5 card.
+00604 wyan answered
+00605 wyan plays 1 Barge.
+00606 wyan gets +1 Action.
+00607 wyan answered
+00608 wyan shuffles their deck.
+00609 wyan draws 2 card.
+00610 wyan gets +1 Buy.
+00611 wyan answered
+00612 wyan plays 1 Spell Scroll.
+00613 wyan gets +1 Action.
+00614 wyan trashes 1 Spell Scroll.
+00615 wyan answered
+00616 wyan gains 1 Barge.
+00617 wyan answered
+00618 wyan plays 1 Barge.
+00619 wyan gets +1 Action.
+00620 wyan answered
+00621 wyan answered
+00622 wyan answered
+00623 play treasures for
+00624 wyan answered
+00625 wyan plays 1 Figurehead.
+00626 wyan gets +$3.
+00627 wyan answered
+00628 wyan plays 1 Shield.
+00629 wyan gets +1 Buy.
+00630 wyan gets +$3.
+00631 wyan answered
+00632 wyan plays 1 Staff.
+00633 wyan gets +1 Buy.
+00634 wyan gets +$3.
+00635 wyan answered
+00636 wyan answered
+00637 play treasures for
+00638 wyan returns 1 Spoils to Player 0 nonSupply.
+00639 wyan answered
+00640 play treasures for
+00641 wyan returns 1 Spoils to Player 0 nonSupply.
+00642 wyan answered
+00643 wyan plays 1 Sack Of Loot.
+00644 wyan gets +1 Buy.
+00645 wyan reveals 1 Endless Chalice.
+00646 wyan gains 1 Endless Chalice.
+00647 wyan answered
+00648 wyan plays 1 Sack Of Loot.
+00649 wyan gets +1 Buy.
+00650 wyan reveals 1 Insignia.
+00651 wyan gains 1 Insignia.
+00652 wyan answered
+00653 wyan answered
+00654 wyan buys and gains 2 Province.
+00655 wyan answered
+00656 wyan buys and gains 1 Duchy.
+00657 wyan answered
+00658 wyan buys and gains 1 Estate.
+00659 wyan answered
+00660 wyan begins their Cleanup phase.
+00661 wyan discards 1 Province.
+00662 wyan shuffles their deck.
+00663 wyan draws 5 card.
+00664 SolDominion starts turn 13
+00665 SolDominion starts their turn.
+00666 SolDominion answered
+00667 SolDominion plays 1 Horse.
+00668 SolDominion gets +1 Action.
+00669 SolDominion draws 1 Province, 1 Page.
+00670 SolDominion gets +1 Action.
+00671 SolDominion returns 1 Horse to Player 0 nonSupply.
+00672 SolDominion answered
+00673 SolDominion plays 1 Page.
+00674 SolDominion gets +1 Action.
+00675 SolDominion draws 1 Estate.
+00676 SolDominion gets +1 Action.
+00677 SolDominion answered
+00678 SolDominion answered
+00679 SolDominion answered
+00680 SolDominion answered
+00681 play treasures for
+00682 SolDominion answered
+00683 SolDominion buys 1 Save.
+00684 SolDominion gets +1 Buy.
+00685 SolDominion answered
+00686 SolDominion sets 1 Province aside with Save.
+00687 SolDominion answered
+00688 SolDominion buys and gains 1 Duchy.
+00689 SolDominion begins their Cleanup phase.
+00690 SolDominion answered
+00691 SolDominion draws 1 Silver, 1 Bandit Camp, 2 Barge, 1 Sack Of Loot.
+00692 SolDominion puts 1 Province into their hand.
+00693 wyan starts turn 14
+00694 wyan starts their turn.
+00695 wyan draws 3 card. (Barge)
+00696 wyan gets +1 Buy. (Barge)
+00697 wyan draws 2 card. (Figurehead)
+00698 wyan answered
+00699 wyan plays 1 Barge.
+00700 wyan gets +1 Action.
+00701 wyan answered
+00702 wyan draws 3 card.
+00703 wyan gets +1 Buy.
+00704 wyan answered
+00705 wyan plays 1 Mint.
+00706 wyan gets +1 Action.
+00707 wyan answered
+00708 wyan reveals 1 Sack Of Loot.
+00709 wyan gains 1 Sack Of Loot.
+00710 wyan answered
+00711 wyan plays 1 Housecarl.
+00712 wyan gets +1 Action.
+00713 wyan draws 4 card.
+00714 wyan answered
+00715 wyan plays 1 Joust.
+00716 wyan gets +1 Action.
+00717 wyan draws 1 card.
+00718 wyan gets +1 Action.
+00719 wyan gets +$1.
+00720 wyan answered
+00721 wyan sets 1 Province aside.
+00722 wyan answered
+00723 wyan gains 1 Courser.
+00724 wyan answered
+00725 wyan plays 1 Courser.
+00726 wyan gets +1 Action.
+00727 wyan answered
+00728 wyan draws 2 card.
+00729 wyan gets +2 Actions.
+00730 wyan answered
+00731 wyan plays 1 Barge.
+00732 wyan gets +1 Action.
+00733 wyan answered
+00734 wyan draws 3 card.
+00735 wyan gets +1 Buy.
+00736 wyan answered
+00737 wyan plays 1 Bandit Camp.
+00738 wyan gets +1 Action.
+00739 wyan draws 1 card.
+00740 wyan gets +2 Actions.
+00741 wyan gains 1 Spoils.
+00742 wyan answered
+00743 wyan plays 1 Barge.
+00744 wyan gets +1 Action.
+00745 wyan answered
+00746 wyan shuffles their deck.
+00747 wyan draws 3 card.
+00748 wyan gets +1 Buy.
+00749 wyan answered
+00750 wyan plays 1 Barge.
+00751 wyan gets +1 Action.
+00752 wyan answered
+00753 wyan answered
+00754 play treasures for
+00755 wyan gets +1 Buy.
+00756 play treasures for
+00757 wyan answered
+00758 wyan plays 1 Sack Of Loot.
+00759 wyan gets +1 Buy.
+00760 wyan reveals 1 Prize Goat.
+00761 wyan gains 1 Prize Goat.
+00762 wyan answered
+00763 wyan topdecks 1 Prize Goat with Insignia.
+00764 wyan answered
+00765 wyan plays 1 Sack Of Loot.
+00766 wyan gets +1 Buy.
+00767 wyan reveals 1 Shield.
+00768 wyan gains 1 Shield.
+00769 wyan answered
+00770 wyan answered
+00771 wyan plays 1 Sack Of Loot.
+00772 wyan gets +1 Buy.
+00773 wyan reveals 1 Orb.
+00774 wyan gains 1 Orb.
+00775 wyan answered
+00776 wyan answered
+00777 wyan plays 1 Staff.
+00778 wyan gets +1 Buy.
+00779 wyan gets +$3.
+00780 wyan answered
+00781 wyan plays 1 Shield.
+00782 wyan gets +1 Buy.
+00783 wyan gets +$3.
+00784 wyan answered
+00785 wyan buys and gains 1 Province.
+00786 wyan answered
+00787 wyan answered
+00788 wyan buys and gains 1 Barge.
+00789 wyan answered
+00790 wyan topdecks 1 Barge with Insignia.
+00791 wyan answered
+00792 wyan buys and gains 1 Duchy.
+00793 wyan answered
+00794 wyan answered
+00795 wyan begins their Cleanup phase.
+00796 wyan discards 1 Province.
+00797 wyan shuffles their deck.
+00798 wyan draws 5 card.
+00799 SolDominion starts turn 14
+00800 SolDominion starts their turn.
+00801 SolDominion answered
+00802 SolDominion plays 1 Bandit Camp.
+00803 SolDominion gets +1 Action.
+00804 SolDominion draws 1 Joust.
+00805 SolDominion gets +2 Actions.
+00806 SolDominion gains 1 Spoils.
+00807 SolDominion answered
+00808 SolDominion plays 1 Joust.
+00809 SolDominion gets +1 Action.
+00810 SolDominion draws 1 Barge.
+00811 SolDominion gets +1 Action.
+00812 SolDominion gets +$1.
+00813 SolDominion answered
+00814 SolDominion sets 1 Province aside.
+00815 SolDominion answered
+00816 SolDominion gains 1 Renown.
+00817 SolDominion answered
+00818 SolDominion plays 1 Barge.
+00819 SolDominion gets +1 Action.
+00820 SolDominion answered
+00821 SolDominion draws 1 Gold, 1 Estate, 1 Mint.
+00822 SolDominion gets +1 Buy.
+00823 SolDominion answered
+00824 SolDominion plays 1 Barge.
+00825 SolDominion gets +1 Action.
+00826 SolDominion answered
+00827 SolDominion draws 2 Copper, 1 Silver.
+00828 SolDominion gets +1 Buy.
+00829 SolDominion answered
+00830 SolDominion plays 1 Barge.
+00831 SolDominion gets +1 Action.
+00832 SolDominion answered
+00833 SolDominion draws 1 Estate, 1 Barge, 1 Doubloons.
+00834 SolDominion gets +1 Buy.
+00835 SolDominion answered
+00836 SolDominion plays 1 Barge.
+00837 SolDominion gets +1 Action.
+00838 SolDominion answered
+00839 SolDominion shuffles their deck.
+00840 SolDominion draws 1 Silver, 1 Duchy, 1 Scepter.
+00841 SolDominion gets +1 Buy.
+00842 SolDominion answered
+00843 SolDominion plays 1 Renown.
+00844 SolDominion gets +1 Action.
+00845 SolDominion gets +1 Buy.
+00846 SolDominion answered
+00847 SolDominion answered
+00848 SolDominion plays 1 Scepter.
+00849 SolDominion answered
+00850 SolDominion plays 1 Renown again.
+00851 SolDominion gets +1 Action.
+00852 SolDominion gets +1 Buy.
+00853 SolDominion answered
+00854 SolDominion answered
+00855 SolDominion answered
+00856 SolDominion answered
+00857 SolDominion answered
+00858 SolDominion answered
+00859 SolDominion answered
+00860 play treasures for
+00861 SolDominion answered
+00862 SolDominion plays 1 Sack Of Loot.
+00863 SolDominion gets +1 Buy.
+00864 SolDominion reveals 1 Figurehead.
+00865 SolDominion gains 1 Figurehead.
+00866 SolDominion answered
+00867 SolDominion answered
+00868 SolDominion answered
+00869 SolDominion answered
+00870 SolDominion answered
+00871 SolDominion buys and gains 5 Duchy.
+00872 SolDominion answered
+00873 SolDominion buys and gains 1 Estate.
+00874 SolDominion answered
+00875 SolDominion answered
+00876 SolDominion buys and gains 2 Province.
+00877 SolDominion begins their Cleanup phase.
+00878 SolDominion discards 1 Province.
+00879 SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Province, 1 Spoils.

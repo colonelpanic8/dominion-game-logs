@@ -1,0 +1,3448 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186043435",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "thepilferer starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "thepilferer starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "thepilferer starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 13,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 15,
+    "text": "thepilferer gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 16,
+    "text": "thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 18,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 25,
+    "text": "thepilferer starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 27,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 29,
+    "text": "thepilferer gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 32,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 2 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 39,
+    "text": "thepilferer starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 40,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 41,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 43,
+    "text": "thepilferer gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 47,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 48,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 49,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 50,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 51,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 55,
+    "text": "SolDominion gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 57,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 59,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "thepilferer starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 62,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 65,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 0,
+    "seq": 67,
+    "text": "thepilferer gains 1 Conspirator.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 68,
+    "text": "thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "SolDominion trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 79,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 80,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 81,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 83,
+    "text": "SolDominion buys and gains 1 Marquis.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 84,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 86,
+    "text": "SolDominion draws 3 Copper, 2 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "thepilferer starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 88,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 89,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 90,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "thepilferer trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 93,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Vault",
+    "player": 0,
+    "seq": 97,
+    "text": "thepilferer buys and gains 1 Vault.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 98,
+    "text": "thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 100,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 101,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 105,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion gains 1 Conspirator.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Sailor, 1 Marquis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "thepilferer starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 114,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 115,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 116,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 117,
+    "text": "thepilferer trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 118,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 119,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 120,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 122,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 124,
+    "text": "thepilferer gains 1 Sailor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 126,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 130,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 131,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 132,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 133,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 134,
+    "text": "SolDominion trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 135,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 136,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 139,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 142,
+    "text": "SolDominion plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 143,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 144,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 146,
+    "text": "SolDominion buys and gains 1 Conspirator.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion takes 6 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion draws 1 Curse, 2 Copper, 1 Sailor, 1 Marquis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "thepilferer starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 154,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "thepilferer trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 157,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "thepilferer trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 160,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 0,
+    "seq": 161,
+    "text": "thepilferer plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "thepilferer gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 0,
+    "seq": 164,
+    "text": "thepilferer buys and gains 1 Marquis.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 165,
+    "text": "thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 169,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 170,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "SolDominion trashes 1 Curse. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 173,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 176,
+    "text": "SolDominion plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 178,
+    "text": "SolDominion draws 1 Copper, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 180,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 181,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 182,
+    "text": "SolDominion gains 1 Border Guard.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 183,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 184,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 185,
+    "text": "SolDominion buys and gains 1 Border Guard.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 186,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "SolDominion draws 2 Copper, 2 Conspirator, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "thepilferer starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vault",
+    "player": 0,
+    "seq": 191,
+    "text": "thepilferer plays 1 Vault.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 192,
+    "text": "thepilferer draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 193,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 194,
+    "text": "thepilferer discards 5 card, 1 Sailor.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 195,
+    "text": "thepilferer gets +$6.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 198,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 199,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 0,
+    "seq": 200,
+    "text": "thepilferer buys and gains 1 Marquis.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 202,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 205,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 206,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 209,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 212,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 214,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 215,
+    "text": "SolDominion buys and gains 1 Border Guard.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 216,
+    "text": "SolDominion draws 2 Copper, 2 Border Guard, 1 Marquis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "thepilferer starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 218,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 219,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 0,
+    "seq": 222,
+    "text": "thepilferer plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "thepilferer gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "thepilferer draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 226,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sage",
+    "player": 0,
+    "seq": 228,
+    "text": "thepilferer gains 1 Sage.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 229,
+    "text": "thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 231,
+    "text": "thepilferer buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "thepilferer takes 4 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 234,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 235,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 236,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 237,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 240,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "SolDominion reveals 1 Copper, 1 Sailor.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 244,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion puts 1 Sailor into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 246,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion reveals 1 Conspirator, 1 Sailor.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion discards 1 Sailor.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn",
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion takes 1 Horn.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 257,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 258,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 259,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 260,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 262,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 264,
+    "text": "SolDominion draws 1 Border Guard.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 265,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 266,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 267,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "SolDominion reveals 2 Copper.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 271,
+    "text": "SolDominion puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 272,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 280,
+    "text": "SolDominion draws 1 Copper, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 281,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 282,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 283,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 284,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 285,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 286,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "SolDominion buys and gains 2 Conspirator.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 290,
+    "text": "SolDominion topdecks 1 Border Guard.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 292,
+    "text": "SolDominion draws 1 Copper, 2 Conspirator, 1 Border Guard, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "thepilferer starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 294,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 295,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "thepilferer trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 298,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 299,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 302,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 0,
+    "seq": 305,
+    "text": "thepilferer plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "thepilferer gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 307,
+    "text": "thepilferer draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 309,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 0,
+    "seq": 310,
+    "text": "thepilferer plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "thepilferer gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 313,
+    "text": "thepilferer draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 314,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 315,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 316,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 0,
+    "seq": 317,
+    "text": "thepilferer gains 1 Conspirator.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 319,
+    "text": "thepilferer buys and gains 1 Sailor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 321,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 324,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 325,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 326,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 327,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 328,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 329,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 330,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 331,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "SolDominion reveals 1 Sailor, 1 Marquis.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 333,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 334,
+    "text": "SolDominion puts 1 Marquis into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 335,
+    "text": "SolDominion discards 1 Sailor.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 336,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lantern",
+    "player": 1,
+    "seq": 337,
+    "text": "SolDominion takes 1 Lantern.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 339,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 340,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 343,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 344,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 347,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 348,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 349,
+    "text": "SolDominion draws 1 Border Guard.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 350,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 352,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "SolDominion reveals 1 Copper, 1 Conspirator, 1 Border Guard.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 355,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 356,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 357,
+    "text": "SolDominion discards 1 Copper, 1 Border Guard.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 358,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 359,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 360,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 361,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 362,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 363,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 364,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 366,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 367,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 372,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 373,
+    "text": "SolDominion plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 375,
+    "text": "SolDominion draws 1 Border Guard.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 1,
+    "seq": 377,
+    "text": "SolDominion buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 379,
+    "text": "SolDominion gains 1 Conspirator.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 381,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 382,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 383,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 384,
+    "text": "SolDominion topdecks 1 Border Guard.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 385,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 386,
+    "text": "SolDominion draws 1 Copper, 1 Province, 2 Border Guard, 1 Marquis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "thepilferer starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 389,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 390,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 391,
+    "text": "thepilferer trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 392,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 394,
+    "text": "thepilferer trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 395,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 396,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "thepilferer trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sage",
+    "player": 0,
+    "seq": 399,
+    "text": "thepilferer plays 1 Sage.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 400,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 401,
+    "text": "thepilferer reveals 1 Sailor.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 402,
+    "text": "thepilferer puts 1 Sailor into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 404,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 0,
+    "seq": 407,
+    "text": "thepilferer plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 408,
+    "text": "thepilferer gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Alms",
+    "player": 0,
+    "seq": 410,
+    "text": "thepilferer buys 1 Alms.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 411,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 0,
+    "seq": 412,
+    "text": "thepilferer gains 1 Border Guard.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 414,
+    "text": "thepilferer buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "thepilferer shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 416,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 419,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 422,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 425,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion reveals 1 Conspirator, 1 Border Guard, 1 Sailor.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 429,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 430,
+    "text": "SolDominion discards 1 Border Guard, 1 Sailor.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 431,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 432,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 433,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "SolDominion reveals 3 Conspirator.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 435,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 436,
+    "text": "SolDominion discards 2 Conspirator.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 438,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 439,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 440,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 441,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 442,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 443,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 444,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 445,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 446,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 448,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 449,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 450,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 451,
+    "text": "SolDominion draws 1 Border Guard.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 453,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 454,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "SolDominion reveals 2 Conspirator, 1 Sailor.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 457,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 458,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 459,
+    "text": "SolDominion discards 1 Conspirator, 1 Sailor.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 461,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 462,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 463,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 464,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 465,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 467,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 468,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 469,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 470,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 471,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 472,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 473,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 474,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 475,
+    "text": "SolDominion plays 1 Marquis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 476,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 477,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 478,
+    "text": "SolDominion buys and gains 1 Conspirator.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 480,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 481,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 482,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 483,
+    "text": "SolDominion topdecks 1 Border Guard.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 484,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 485,
+    "text": "SolDominion draws 1 Province, 2 Conspirator, 1 Border Guard, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 486,
+    "text": "thepilferer starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "thepilferer starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 488,
+    "text": "thepilferer gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 490,
+    "text": "thepilferer trashes 1 Curse. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 492,
+    "text": "thepilferer plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 493,
+    "text": "thepilferer gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 494,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vault",
+    "player": 0,
+    "seq": 495,
+    "text": "thepilferer plays 1 Vault.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 496,
+    "text": "thepilferer draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 497,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 498,
+    "text": "thepilferer discards 3 card, 1 Marquis.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 499,
+    "text": "thepilferer gets +$4.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 501,
+    "text": "thepilferer answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 502,
+    "text": "thepilferer buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 503,
+    "text": "thepilferer draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 506,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 507,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 508,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 509,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 511,
+    "text": "SolDominion reveals 1 Copper, 1 Province, 1 Border Guard.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 512,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 513,
+    "text": "SolDominion puts 1 Border Guard into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "SolDominion discards 1 Copper, 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 515,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 516,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 517,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 518,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 519,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 520,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Marquis",
+    "player": 1,
+    "seq": 521,
+    "text": "SolDominion draws 1 Marquis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 522,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 523,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 524,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 525,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 526,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 528,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 529,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 530,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 531,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 532,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Border Guard",
+    "player": 1,
+    "seq": 534,
+    "text": "SolDominion plays 1 Border Guard.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 536,
+    "text": "SolDominion reveals 2 Conspirator, 1 Border Guard.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 538,
+    "text": "SolDominion puts 1 Conspirator into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "SolDominion discards 1 Conspirator, 1 Border Guard.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 541,
+    "text": "SolDominion plays 1 Conspirator.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Conspirator",
+    "player": 1,
+    "seq": 543,
+    "text": "SolDominion draws 1 Conspirator.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 544,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  }
+]

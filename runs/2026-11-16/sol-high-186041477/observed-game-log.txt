@@ -1,0 +1,7 @@
+00000 game 186041477
+00001 The Cursed Trait is acquired by Player 0 supply.
+00002 rainshifter starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.
+00003 rainshifter starts with 7 Copper.
+00004 SolDominion starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.
+00005 SolDominion starts with 7 Copper.
+00006 SolDominion answered

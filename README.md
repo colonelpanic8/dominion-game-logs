@@ -44,6 +44,13 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 <!-- runs:start -->
 | Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-17/sol-high-186043435](runs/2026-11-17/sol-high-186043435) | gpt-6.1-sol high | human | 186043435: thepilferer 4, SolDominion 18 | 6863517 | ? |  |
+| [2026-11-17/sol-high-186043033](runs/2026-11-17/sol-high-186043033) | gpt-6.1-sol high | human | 186043033: SolDominion 30, Kaityo_777 28 | 6863517 | ? |  |
+| [2026-11-17/sol-high-186042551](runs/2026-11-17/sol-high-186042551) | gpt-6.1-sol high | human | 186042551: wyan 34, SolDominion 46 | e565fe8 | ? |  |
+| [2026-11-16/sol-high-186042286](runs/2026-11-16/sol-high-186042286) | gpt-6.1-sol high | human | 186042286: 34msms 49, SolDominion 15 | e565fe8 | ? |  |
+| [2026-11-16/sol-high-186041689](runs/2026-11-16/sol-high-186041689) | gpt-6.1-sol high | human | 186041689: SolDominion 28, ryutake 42 | e565fe8 | ? |  |
+| [2026-11-16/sol-high-186041530](runs/2026-11-16/sol-high-186041530) | gpt-6.1-sol high | human | 186041530: SolDominion 2, Stemar 2 | e565fe8 | ? |  |
+| [2026-11-16/sol-high-186041477](runs/2026-11-16/sol-high-186041477) | gpt-6.1-sol high | human | 186041477: rainshifter 0, SolDominion 0 | e565fe8 | ? |  |
 | [2026-11-16/sol-high-186040335](runs/2026-11-16/sol-high-186040335) | gpt-6.1-sol high | human | 186040335: SolDominion 39, everybell 31 | ? | ? |  |
 | [2026-11-16/sol-high-186039786](runs/2026-11-16/sol-high-186039786) | gpt-6.1-sol high | human | 186039786: Noboyuki 35, SolDominion 42 | ? | ? |  |
 | [2026-11-16/sol-high-186036166](runs/2026-11-16/sol-high-186036166) | gpt-6.1-sol high | human | 186036166: Relicdog 30, SolDominion 19 | ? | ? |  |

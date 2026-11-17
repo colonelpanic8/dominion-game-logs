@@ -1,0 +1,5547 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186042551",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "wyan starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "wyan starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "wyan starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 0,
+    "seq": 15,
+    "text": "wyan buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mint",
+    "player": 0,
+    "seq": 17,
+    "text": "wyan gains 1 Mint.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "wyan trashes 4 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 27,
+    "text": "SolDominion buys and gains 1 Page.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 28,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "wyan starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 0,
+    "seq": 33,
+    "text": "wyan buys and gains 1 Page.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 1,
+    "seq": 43,
+    "text": "SolDominion buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 44,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mint",
+    "player": 1,
+    "seq": 45,
+    "text": "SolDominion gains 1 Mint.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "SolDominion trashes 4 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 47,
+    "text": "wyan gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 48,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 49,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Page.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "wyan starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 53,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 54,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 0,
+    "seq": 55,
+    "text": "wyan buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 56,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 57,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "wyan sets 1 card aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 62,
+    "text": "wyan puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 63,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 65,
+    "text": "SolDominion plays 1 Page.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 66,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion returns 1 Page.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion receives 1 Treasure Hunter.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "SolDominion draws 1 Copper, 2 Estate, 1 Mint, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "wyan starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 0,
+    "seq": 82,
+    "text": "wyan plays 1 Page.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 83,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 84,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 85,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 87,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 88,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 0,
+    "seq": 89,
+    "text": "wyan buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 90,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "wyan sets 1 card aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 0,
+    "seq": 96,
+    "text": "wyan returns 1 Page.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 0,
+    "seq": 97,
+    "text": "wyan receives 1 Treasure Hunter.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 100,
+    "text": "wyan puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 101,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 106,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mint",
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion plays 1 Mint.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion reveals 1 Silver.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 1,
+    "seq": 117,
+    "text": "SolDominion buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 119,
+    "text": "SolDominion gains 1 Barge.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 120,
+    "text": "wyan gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 122,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Mint, 1 Treasure Hunter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "wyan starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 125,
+    "text": "wyan plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 128,
+    "text": "wyan returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 0,
+    "seq": 130,
+    "text": "wyan plays 1 Treasure Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "wyan gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "wyan gains 2 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 0,
+    "seq": 138,
+    "text": "wyan buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 140,
+    "text": "wyan gains 1 Bandit Camp.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 0,
+    "seq": 144,
+    "text": "wyan returns 1 Treasure Hunter.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Warrior",
+    "player": 0,
+    "seq": 145,
+    "text": "wyan receives 1 Warrior.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion plays 1 Treasure Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion gains 3 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 156,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 157,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 159,
+    "text": "SolDominion buys and gains 1 Page.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 160,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 161,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasure Hunter",
+    "player": 1,
+    "seq": 162,
+    "text": "SolDominion returns 1 Treasure Hunter.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Warrior",
+    "player": 1,
+    "seq": 163,
+    "text": "SolDominion receives 1 Warrior.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 2 Estate, 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "wyan starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 167,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 168,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 170,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 171,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 172,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 173,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 0,
+    "seq": 175,
+    "text": "wyan buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 177,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 178,
+    "text": "wyan sets 1 card aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 181,
+    "text": "wyan puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 182,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 184,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 185,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 186,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "SolDominion draws 1 Silver, 1 Warrior, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 191,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion sets 1 Warrior aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 1,
+    "seq": 199,
+    "text": "SolDominion buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 200,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 1,
+    "seq": 201,
+    "text": "SolDominion gains 1 Bandit Camp.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 202,
+    "text": "wyan gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Mint.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Warrior",
+    "player": 1,
+    "seq": 205,
+    "text": "SolDominion puts 1 Warrior into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 206,
+    "text": "wyan starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 207,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 208,
+    "text": "wyan plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 209,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 211,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 212,
+    "text": "wyan returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 213,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Warrior",
+    "player": 0,
+    "seq": 214,
+    "text": "wyan plays 1 Warrior.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 216,
+    "text": "SolDominion discards 1 Page.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 218,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 219,
+    "text": "wyan returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 0,
+    "seq": 226,
+    "text": "wyan buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 229,
+    "text": "wyan sets 1 card aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 231,
+    "text": "wyan buys and gains 1 Sack Of Loot.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Warrior",
+    "player": 0,
+    "seq": 234,
+    "text": "wyan returns 1 Warrior.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Hero",
+    "player": 0,
+    "seq": 235,
+    "text": "wyan receives 1 Hero.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 238,
+    "text": "wyan puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 240,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Warrior",
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion plays 1 Warrior.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 243,
+    "text": "wyan discards 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 244,
+    "text": "wyan trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Warrior",
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion returns 1 Warrior.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Hero",
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion receives 1 Hero.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 257,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 258,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Mint.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "wyan starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 261,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 262,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 263,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 264,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 266,
+    "text": "wyan plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 267,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 269,
+    "text": "wyan returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 270,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hero",
+    "player": 0,
+    "seq": 271,
+    "text": "wyan plays 1 Hero.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 272,
+    "text": "wyan gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 273,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 274,
+    "text": "wyan gains 1 Sack Of Loot.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 275,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 276,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 277,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 278,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 279,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 280,
+    "text": "wyan reveals 1 Staff.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 281,
+    "text": "wyan gains 1 Staff.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 282,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 0,
+    "seq": 283,
+    "text": "wyan buys and gains 1 Joust.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 284,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hero",
+    "player": 0,
+    "seq": 287,
+    "text": "wyan returns 1 Hero.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Champion",
+    "player": 0,
+    "seq": 288,
+    "text": "wyan receives 1 Champion.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 289,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 290,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 292,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 293,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 294,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 295,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 296,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 297,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 298,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 299,
+    "text": "SolDominion sets 1 Copper aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 300,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 301,
+    "text": "SolDominion draws 1 Silver, 1 Bandit Camp, 1 Page, 1 Barge, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 302,
+    "text": "SolDominion puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "wyan starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 305,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 306,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 307,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 308,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 309,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 0,
+    "seq": 310,
+    "text": "wyan plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 311,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "wyan gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 314,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 316,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 317,
+    "text": "wyan returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 319,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 0,
+    "seq": 321,
+    "text": "wyan buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "wyan sets 1 card aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 326,
+    "text": "wyan buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 328,
+    "text": "wyan puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 329,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 330,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 1,
+    "seq": 331,
+    "text": "SolDominion plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 332,
+    "text": "SolDominion draws 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 333,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 334,
+    "text": "SolDominion gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 336,
+    "text": "SolDominion plays 1 Page.",
+    "type": "official-play"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 337,
+    "text": "SolDominion draws 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 340,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 341,
+    "text": "SolDominion draws 2 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 343,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 345,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 347,
+    "text": "SolDominion draws 1 Copper, 2 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 348,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 350,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 352,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 355,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 356,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 357,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 358,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 360,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 361,
+    "text": "SolDominion buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 362,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 363,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "SolDominion sets 1 Estate aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 366,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 1,
+    "seq": 367,
+    "text": "SolDominion buys and gains 1 Joust.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Hero, 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 372,
+    "text": "SolDominion puts 1 Estate into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 373,
+    "text": "wyan starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 374,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 375,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 376,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Figurehead",
+    "player": 0,
+    "seq": 377,
+    "text": "wyan reveals 1 Figurehead.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Figurehead",
+    "player": 0,
+    "seq": 378,
+    "text": "wyan gains 1 Figurehead.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 379,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 382,
+    "text": "wyan plays 1 Staff.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 383,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 386,
+    "text": "wyan buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 390,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 391,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 392,
+    "text": "SolDominion draws 1 Silver, 1 Spoils, 1 Page. (Barge)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 393,
+    "text": "SolDominion gets +1 Buy. (Barge)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 1,
+    "seq": 394,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 395,
+    "text": "SolDominion plays 1 Page.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 396,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 397,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 398,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hero",
+    "player": 1,
+    "seq": 399,
+    "text": "SolDominion plays 1 Hero.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 400,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 1,
+    "seq": 402,
+    "text": "SolDominion gains 1 Sack Of Loot.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 403,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 404,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 406,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 407,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 408,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 409,
+    "text": "SolDominion returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 412,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 414,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 415,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion sets 1 Barge aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 419,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 422,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hero",
+    "player": 1,
+    "seq": 424,
+    "text": "SolDominion returns 1 Hero.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Champion",
+    "player": 1,
+    "seq": 425,
+    "text": "SolDominion receives 1 Champion.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion draws 2 Estate, 1 Mint, 1 Bandit Camp, 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 428,
+    "text": "SolDominion puts 1 Barge into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 429,
+    "text": "wyan starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 430,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Champion",
+    "player": 0,
+    "seq": 431,
+    "text": "wyan plays 1 Champion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 434,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 435,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 436,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 439,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 440,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 442,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 444,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 0,
+    "seq": 446,
+    "text": "wyan plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 448,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "wyan gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 452,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 0,
+    "seq": 454,
+    "text": "wyan plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 455,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 456,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 457,
+    "text": "wyan plays 1 Staff.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 459,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 460,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 461,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 462,
+    "text": "wyan returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 464,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 466,
+    "text": "wyan reveals 1 Shield.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 467,
+    "text": "wyan gains 1 Shield.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 468,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 469,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 471,
+    "text": "wyan reveals 1 Spell Scroll.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 472,
+    "text": "wyan gains 1 Spell Scroll.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 474,
+    "text": "wyan buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 475,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 476,
+    "text": "wyan buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 1,
+    "seq": 481,
+    "text": "SolDominion plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 482,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 484,
+    "text": "SolDominion gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 485,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 486,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 487,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 488,
+    "text": "SolDominion draws 2 Copper, 1 Joust.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 489,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 490,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 1,
+    "seq": 491,
+    "text": "SolDominion plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 492,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 493,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 495,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 497,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 498,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "SolDominion draws 1 Champion, 1 Page, 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 501,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 503,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 506,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 507,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 508,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 509,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "SolDominion sets 1 Champion aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 511,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Scepter",
+    "player": 1,
+    "seq": 512,
+    "text": "SolDominion buys and gains 1 Scepter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "SolDominion draws 1 Silver, 1 Province, 1 Spoils, 1 Barge, 1 Sack Of Loot.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Champion",
+    "player": 1,
+    "seq": 515,
+    "text": "SolDominion puts 1 Champion into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 516,
+    "text": "wyan starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 517,
+    "text": "wyan starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 518,
+    "text": "wyan draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 520,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 521,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bargain",
+    "player": 0,
+    "seq": 523,
+    "text": "wyan buys 1 Bargain.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 525,
+    "text": "wyan gains 1 Barge.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 526,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 527,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 528,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 530,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Champion",
+    "player": 1,
+    "seq": 531,
+    "text": "SolDominion plays 1 Champion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 532,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 534,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 536,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 540,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 541,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 542,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 543,
+    "text": "SolDominion returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 544,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 546,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 547,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 1,
+    "seq": 548,
+    "text": "SolDominion plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 549,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Doubloons",
+    "player": 1,
+    "seq": 550,
+    "text": "SolDominion reveals 1 Doubloons.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Doubloons",
+    "player": 1,
+    "seq": 551,
+    "text": "SolDominion gains 1 Doubloons.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 552,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 554,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 555,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 556,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 557,
+    "text": "SolDominion sets 1 Province aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 558,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 559,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 560,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 561,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 562,
+    "text": "SolDominion draws 1 Copper, 3 Silver, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 563,
+    "text": "SolDominion puts 1 Province into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "wyan starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 565,
+    "text": "wyan starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 567,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 569,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 571,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 572,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 573,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 574,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 575,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 577,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 578,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 579,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 580,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 581,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 582,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 583,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 584,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 0,
+    "seq": 585,
+    "text": "wyan plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 586,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 587,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 588,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 589,
+    "text": "wyan gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 590,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 591,
+    "text": "wyan sets 1 Province aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 592,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Housecarl",
+    "player": 0,
+    "seq": 593,
+    "text": "wyan gains 1 Housecarl.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 594,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 595,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 598,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 599,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 600,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Housecarl",
+    "player": 0,
+    "seq": 601,
+    "text": "wyan plays 1 Housecarl.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 604,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 605,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 606,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 607,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 608,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 609,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 610,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 611,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 612,
+    "text": "wyan plays 1 Spell Scroll.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 613,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 614,
+    "text": "wyan trashes 1 Spell Scroll.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 615,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 616,
+    "text": "wyan gains 1 Barge.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 617,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 618,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 619,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 621,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 622,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 623,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 624,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 0,
+    "seq": 625,
+    "text": "wyan plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 626,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 627,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 628,
+    "text": "wyan plays 1 Shield.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 629,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 631,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 632,
+    "text": "wyan plays 1 Staff.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 633,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 634,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 635,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 636,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 637,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 638,
+    "text": "wyan returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 639,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 640,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 641,
+    "text": "wyan returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 643,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 644,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 0,
+    "seq": 645,
+    "text": "wyan reveals 1 Endless Chalice.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 0,
+    "seq": 646,
+    "text": "wyan gains 1 Endless Chalice.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 648,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 650,
+    "text": "wyan reveals 1 Insignia.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 651,
+    "text": "wyan gains 1 Insignia.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 652,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 653,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 654,
+    "text": "wyan buys and gains 2 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 655,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 656,
+    "text": "wyan buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 657,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 658,
+    "text": "wyan buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 659,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 660,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 661,
+    "text": "wyan discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 662,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 663,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 664,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 666,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 667,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 669,
+    "text": "SolDominion draws 1 Province, 1 Page.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 670,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 671,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 672,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Page",
+    "player": 1,
+    "seq": 673,
+    "text": "SolDominion plays 1 Page.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 674,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 675,
+    "text": "SolDominion draws 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 676,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 677,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 678,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 679,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 680,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 682,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Save",
+    "player": 1,
+    "seq": 683,
+    "text": "SolDominion buys 1 Save.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 684,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 685,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 686,
+    "text": "SolDominion sets 1 Province aside with Save.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 687,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 688,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 689,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 690,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 691,
+    "text": "SolDominion draws 1 Silver, 1 Bandit Camp, 2 Barge, 1 Sack Of Loot.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 692,
+    "text": "SolDominion puts 1 Province into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 693,
+    "text": "wyan starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 694,
+    "text": "wyan starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 695,
+    "text": "wyan draws 3 card. (Barge)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 696,
+    "text": "wyan gets +1 Buy. (Barge)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 0,
+    "seq": 697,
+    "text": "wyan draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 698,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 699,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 700,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 701,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 702,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 704,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mint",
+    "player": 0,
+    "seq": 705,
+    "text": "wyan plays 1 Mint.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 706,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 707,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 708,
+    "text": "wyan reveals 1 Sack Of Loot.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 709,
+    "text": "wyan gains 1 Sack Of Loot.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 710,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Housecarl",
+    "player": 0,
+    "seq": 711,
+    "text": "wyan plays 1 Housecarl.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 712,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 713,
+    "text": "wyan draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 714,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 0,
+    "seq": 715,
+    "text": "wyan plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 716,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 717,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 718,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 719,
+    "text": "wyan gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 720,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 721,
+    "text": "wyan sets 1 Province aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 722,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Courser",
+    "player": 0,
+    "seq": 723,
+    "text": "wyan gains 1 Courser.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 724,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Courser",
+    "player": 0,
+    "seq": 725,
+    "text": "wyan plays 1 Courser.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 726,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 727,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 728,
+    "text": "wyan draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 729,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 730,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 731,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 732,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 733,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 734,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 735,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 736,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 0,
+    "seq": 737,
+    "text": "wyan plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 738,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 739,
+    "text": "wyan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 740,
+    "text": "wyan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 741,
+    "text": "wyan gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 742,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 743,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 744,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 745,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 746,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 747,
+    "text": "wyan draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 748,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 749,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 750,
+    "text": "wyan plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 751,
+    "text": "wyan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 752,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 753,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 754,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 755,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 756,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 757,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 758,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 759,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Prize Goat",
+    "player": 0,
+    "seq": 760,
+    "text": "wyan reveals 1 Prize Goat.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Prize Goat",
+    "player": 0,
+    "seq": 761,
+    "text": "wyan gains 1 Prize Goat.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 762,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 763,
+    "text": "wyan topdecks 1 Prize Goat with Insignia.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 764,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 765,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 766,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 767,
+    "text": "wyan reveals 1 Shield.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 768,
+    "text": "wyan gains 1 Shield.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 769,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 770,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 0,
+    "seq": 771,
+    "text": "wyan plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 772,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 773,
+    "text": "wyan reveals 1 Orb.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 774,
+    "text": "wyan gains 1 Orb.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 775,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 776,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Staff",
+    "player": 0,
+    "seq": 777,
+    "text": "wyan plays 1 Staff.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 778,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 779,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 780,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 781,
+    "text": "wyan plays 1 Shield.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 782,
+    "text": "wyan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 783,
+    "text": "wyan gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 784,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 785,
+    "text": "wyan buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 786,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 787,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 0,
+    "seq": 788,
+    "text": "wyan buys and gains 1 Barge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 789,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 790,
+    "text": "wyan topdecks 1 Barge with Insignia.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 791,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 792,
+    "text": "wyan buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 793,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 794,
+    "text": "wyan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 795,
+    "text": "wyan begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 796,
+    "text": "wyan discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 797,
+    "text": "wyan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 798,
+    "text": "wyan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 799,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 800,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 801,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit Camp",
+    "player": 1,
+    "seq": 802,
+    "text": "SolDominion plays 1 Bandit Camp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 803,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Joust",
+    "player": 1,
+    "seq": 804,
+    "text": "SolDominion draws 1 Joust.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 805,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Spoils",
+    "player": 1,
+    "seq": 806,
+    "text": "SolDominion gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 807,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Joust",
+    "player": 1,
+    "seq": 808,
+    "text": "SolDominion plays 1 Joust.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 809,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 810,
+    "text": "SolDominion draws 1 Barge.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 811,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 812,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 813,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 814,
+    "text": "SolDominion sets 1 Province aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 815,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Renown",
+    "player": 1,
+    "seq": 816,
+    "text": "SolDominion gains 1 Renown.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 817,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 818,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 819,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 820,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 821,
+    "text": "SolDominion draws 1 Gold, 1 Estate, 1 Mint.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 822,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 823,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 824,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 825,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 826,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 827,
+    "text": "SolDominion draws 2 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 828,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 829,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 830,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 831,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 832,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 833,
+    "text": "SolDominion draws 1 Estate, 1 Barge, 1 Doubloons.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 834,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 835,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Barge",
+    "player": 1,
+    "seq": 836,
+    "text": "SolDominion plays 1 Barge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 837,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 838,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 839,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 840,
+    "text": "SolDominion draws 1 Silver, 1 Duchy, 1 Scepter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 841,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 842,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Renown",
+    "player": 1,
+    "seq": 843,
+    "text": "SolDominion plays 1 Renown.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 844,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 845,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 846,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 847,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Scepter",
+    "player": 1,
+    "seq": 848,
+    "text": "SolDominion plays 1 Scepter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 849,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Renown",
+    "player": 1,
+    "seq": 850,
+    "text": "SolDominion plays 1 Renown again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 1,
+    "seq": 851,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 852,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 853,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 854,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 855,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 856,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 857,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 858,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 859,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 860,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 861,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sack Of Loot",
+    "player": 1,
+    "seq": 862,
+    "text": "SolDominion plays 1 Sack Of Loot.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 863,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 864,
+    "text": "SolDominion reveals 1 Figurehead.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 865,
+    "text": "SolDominion gains 1 Figurehead.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 866,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 867,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 868,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 869,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 870,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 871,
+    "text": "SolDominion buys and gains 5 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 872,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 873,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 874,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 875,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 876,
+    "text": "SolDominion buys and gains 2 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 877,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 878,
+    "text": "SolDominion discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 879,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Province, 1 Spoils.",
+    "type": "official-draw"
+  }
+]

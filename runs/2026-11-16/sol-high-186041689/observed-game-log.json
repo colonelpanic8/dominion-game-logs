@@ -1,0 +1,6567 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186041689",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "ryutake starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "ryutake starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "ryutake starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 22,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 23,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 24,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 25,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion buys and gains 1 Devil's Workshop.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Devil's Workshop.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 32,
+    "text": "ryutake starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 36,
+    "text": "ryutake buys and gains 1 Cutthroat.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 39,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 40,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 41,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 42,
+    "text": "SolDominion plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 43,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "ryutake starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 47,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 50,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 51,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 53,
+    "text": "ryutake buys and gains 1 Devil's Workshop.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 56,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 57,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 61,
+    "text": "SolDominion buys and gains 1 Village Green.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion draws 3 Copper, 1 Gold, 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "ryutake starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 66,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 75,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 76,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 78,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 81,
+    "text": "SolDominion buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 82,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 83,
+    "text": "SolDominion loses 5 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 84,
+    "text": "SolDominion gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 85,
+    "text": "SolDominion gains 1 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 87,
+    "text": "SolDominion gains 1 Cutthroat.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 88,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Devil's Workshop.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "ryutake starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 92,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 93,
+    "text": "ryutake gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 94,
+    "text": "ryutake reveals 1 Figurehead.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 95,
+    "text": "ryutake gains 1 Figurehead. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 101,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 103,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "ryutake starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 110,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 112,
+    "text": "SolDominion discards 3 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "SolDominion draws 2 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 115,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 116,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 117,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 118,
+    "text": "SolDominion buys and gains 1 Stonemason.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 119,
+    "text": "SolDominion draws 2 Copper, 1 Gold, 1 Village Green, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "ryutake starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 122,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 123,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 124,
+    "text": "ryutake buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 125,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 126,
+    "text": "ryutake loses 5 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 127,
+    "text": "ryutake gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 128,
+    "text": "ryutake gains 1 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 129,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 130,
+    "text": "ryutake gains 1 Mine.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 131,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 134,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 136,
+    "text": "SolDominion draws 1 Devil's Workshop.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 138,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 139,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "ryutake discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 144,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 147,
+    "text": "SolDominion buys and gains 1 Litter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 149,
+    "text": "SolDominion plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 151,
+    "text": "SolDominion gains 1 Village Green.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Gold, 1 Estate, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "ryutake starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 156,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 159,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 160,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 161,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 162,
+    "text": "ryutake gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 163,
+    "text": "ryutake reveals 1 Hammer.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "ryutake gains 1 Hammer. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 165,
+    "text": "SolDominion reveals 1 Jewels.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "SolDominion gains 1 Jewels. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 167,
+    "text": "SolDominion discards 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 171,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 172,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "SolDominion draws 2 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 175,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 177,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 178,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion loses 4 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 187,
+    "text": "SolDominion gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion gains 2 Village Green.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion draws 2 Copper, 1 Gold, 1 Devil's Workshop, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 191,
+    "text": "ryutake starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 193,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 194,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 198,
+    "text": "ryutake plays 1 Mine.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 200,
+    "text": "ryutake trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 202,
+    "text": "ryutake gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 206,
+    "text": "ryutake plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 209,
+    "text": "ryutake repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 211,
+    "text": "ryutake buys and gains 1 Cartographer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 212,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 213,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 214,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 215,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 216,
+    "text": "SolDominion draws 1 Estate, 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 218,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 219,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion discards 2 Copper, 1 Gold, 1 Estate, 1 Devil's Workshop.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion plays 1 Village Green using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "SolDominion draws 1 Copper, 1 Stonemason, 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 229,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "SolDominion discards 1 Copper, 1 Village Green.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion looks at 3 Estate, 1 Silver, 1 Jewels, 1 Cutthroat, 7 Copper, 1 Litter, 2 Gold, 1 Stonemason, 3 Village Green, 1 Devil's Workshop.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Way of the Mole",
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion uses 1 Way of the Mole.",
+    "type": "official-uses-way"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "SolDominion draws 1 Gold, 1 Devil's Workshop, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 241,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 243,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 244,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 245,
+    "text": "SolDominion draws 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 246,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 248,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 250,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 252,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 254,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion loses 5 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 263,
+    "text": "SolDominion gains 2 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 266,
+    "text": "SolDominion plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Imp",
+    "player": 0,
+    "seq": 267,
+    "text": "SolDominion gains 1 Imp.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "SolDominion draws 2 Copper, 1 Gold, 1 Estate, 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "ryutake starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "ryutake starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "ryutake draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 275,
+    "text": "ryutake buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "ryutake loses 5 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 278,
+    "text": "ryutake gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 279,
+    "text": "ryutake gains 1 Cartographer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 280,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 281,
+    "text": "ryutake gains 1 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 282,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 283,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 284,
+    "text": "ryutake gains 1 Imp.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 285,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 287,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 288,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 290,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 291,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 292,
+    "text": "SolDominion discards 2 Copper, 1 Gold, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "SolDominion draws 1 Copper, 1 Village Green, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 294,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 295,
+    "text": "SolDominion plays 1 Litter using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion discards 1 Copper, 1 Village Green.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion looks at 2 Estate, 1 Silver, 1 Imp, 4 Copper, 3 Litter, 2 Gold, 3 Stonemason, 4 Village Green, 1 Devil's Workshop.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Way of the Mole",
+    "player": 0,
+    "seq": 302,
+    "text": "SolDominion uses 1 Way of the Mole.",
+    "type": "official-uses-way"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion draws 2 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion draws 1 Copper, 1 Cutthroat, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 308,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 309,
+    "text": "ryutake discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 310,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 314,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 318,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Doubloons",
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion reveals 1 Doubloons.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion gains 1 Doubloons. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion gains 1 Gold. (Doubloons)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 327,
+    "text": "ryutake starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 328,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 329,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 330,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion discards 2 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 333,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 334,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 335,
+    "text": "ryutake plays 1 Hammer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 336,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 337,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 338,
+    "text": "ryutake gains 1 Mountain Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 340,
+    "text": "ryutake buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Orb",
+    "player": 1,
+    "seq": 341,
+    "text": "ryutake reveals 1 Orb.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "ryutake gains 1 Orb. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 343,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 345,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 346,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 347,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 348,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 351,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 352,
+    "text": "SolDominion draws 2 Copper, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 354,
+    "text": "SolDominion plays 1 Litter using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 355,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 356,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 357,
+    "text": "SolDominion draws 1 Silver, 2 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 358,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 359,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 360,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 361,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 362,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 363,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 364,
+    "text": "SolDominion draws 1 Copper, 2 Stonemason, 2 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "ryutake starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 366,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 367,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 369,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 371,
+    "text": "ryutake plays 1 Mine.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 372,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 373,
+    "text": "ryutake trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 375,
+    "text": "ryutake gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 377,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 379,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 381,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 382,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 383,
+    "text": "ryutake gains 1 Mountain Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 384,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion discards 1 Copper, 1 Stonemason, 2 Village Green.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 390,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 391,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 392,
+    "text": "SolDominion looks at 2 Estate, 1 Silver, 1 Province, 5 Copper, 1 Litter, 2 Gold, 2 Stonemason, 2 Village Green.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Way of the Mole",
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion uses 1 Way of the Mole.",
+    "type": "official-uses-way"
+  },
+  {
+    "player": 0,
+    "seq": 395,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 396,
+    "text": "SolDominion draws 2 Copper, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 398,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 399,
+    "text": "SolDominion looks at 2 Estate, 1 Silver, 1 Province, 5 Copper, 1 Litter, 2 Gold, 2 Stonemason, 1 Village Green.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 400,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 402,
+    "text": "SolDominion draws 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 404,
+    "text": "SolDominion draws 1 Village Green, 1 Doubloons, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 406,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 407,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 408,
+    "text": "SolDominion draws 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 411,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 412,
+    "text": "SolDominion draws 1 Gold, 1 Imp.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 414,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 0,
+    "seq": 416,
+    "text": "SolDominion plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "SolDominion draws 1 Cutthroat, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 419,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "ryutake discards 1 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 422,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 423,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 424,
+    "text": "SolDominion draws 1 Estate, 1 Devil's Workshop.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 426,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 427,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 428,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 429,
+    "text": "SolDominion draws 1 Village Green, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 430,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 434,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 435,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 436,
+    "text": "SolDominion draws 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 439,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 440,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 442,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 444,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 446,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 448,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "SolDominion repays 3 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 452,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 454,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 0,
+    "seq": 455,
+    "text": "SolDominion plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 456,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 457,
+    "text": "SolDominion gains 1 Village Green.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Gold, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 459,
+    "text": "ryutake starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 461,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 462,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 464,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 465,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 467,
+    "text": "ryutake plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 468,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 469,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 470,
+    "text": "ryutake buys and gains 1 Litter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 471,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 472,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 474,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 476,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion draws 1 Gold, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 479,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 481,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 482,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 484,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 485,
+    "text": "SolDominion repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 487,
+    "text": "SolDominion buys 1 Stonemason.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 488,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion loses 5 Coins.",
+    "type": "official-loses-coins"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 490,
+    "text": "SolDominion gains 1 Stonemason.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 492,
+    "text": "SolDominion gains 2 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 493,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "ryutake starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 495,
+    "text": "ryutake starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "ryutake draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 498,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 501,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 503,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 506,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 507,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 508,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 509,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 511,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 512,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 515,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 516,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 517,
+    "text": "ryutake discards 2 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 518,
+    "text": "ryutake topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 520,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 521,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 522,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 523,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 524,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 525,
+    "text": "ryutake discards 2 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 526,
+    "text": "ryutake topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 528,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 530,
+    "text": "ryutake looks at 5 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 532,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 534,
+    "text": "ryutake plays 1 Stonemason.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 536,
+    "text": "ryutake trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 538,
+    "text": "ryutake gains 1 Marchland.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 541,
+    "text": "ryutake discards 1 card, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "ryutake gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 543,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 544,
+    "text": "ryutake gains 1 Litter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 545,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 1,
+    "seq": 546,
+    "text": "ryutake plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 547,
+    "text": "ryutake looks at 8 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 548,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 549,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 551,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 552,
+    "text": "ryutake plays 1 Hammer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 554,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 1,
+    "seq": 555,
+    "text": "ryutake gains 1 Village Green.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 556,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 557,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 558,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 559,
+    "text": "ryutake repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 560,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 561,
+    "text": "ryutake buys and gains 1 Cartographer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 562,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 563,
+    "text": "ryutake buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 564,
+    "text": "ryutake reveals 1 Spell Scroll.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 565,
+    "text": "ryutake gains 1 Spell Scroll. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Sextant",
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion reveals 1 Sextant.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 567,
+    "text": "SolDominion gains 1 Sextant. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 568,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 569,
+    "text": "SolDominion discards 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 570,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 571,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 572,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 573,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 574,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 575,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 577,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 578,
+    "text": "SolDominion buys and gains 1 Stonemason.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 579,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 580,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Stonemason, 1 Village Green, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "ryutake starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 583,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "ryutake looks at 27 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 586,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 587,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 588,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 589,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 591,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 592,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 593,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 594,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 595,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 596,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 597,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 598,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 599,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 600,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 601,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 602,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 603,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 604,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 605,
+    "text": "SolDominion discards 1 Copper, 1 Village Green.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 606,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 607,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 608,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 609,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 611,
+    "text": "ryutake plays 1 Mine.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 612,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 613,
+    "text": "ryutake trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 614,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 615,
+    "text": "ryutake gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 616,
+    "text": "ryutake reveals 1 Endless Chalice.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 617,
+    "text": "ryutake gains 1 Endless Chalice. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 618,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 619,
+    "text": "ryutake plays 1 Hammer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 620,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 621,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 622,
+    "text": "ryutake gains 1 Mountain Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 623,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 624,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 625,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 626,
+    "text": "ryutake repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 627,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 628,
+    "text": "ryutake buys and gains 1 Marchland.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 629,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 630,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 631,
+    "text": "ryutake discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 632,
+    "text": "ryutake gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 633,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 634,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 635,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 636,
+    "text": "ryutake gains 1 Imp.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 637,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 638,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 639,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 640,
+    "text": "SolDominion draws 1 Litter. (Village Green)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 641,
+    "text": "SolDominion gets +2 Actions. (Village Green)",
+    "type": "official-gets-actions-from"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 643,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 644,
+    "text": "SolDominion draws 1 Gold, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 646,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 648,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 649,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 650,
+    "text": "ryutake discards 1 card, 1 Stonemason.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 651,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 652,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 653,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 654,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 655,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 656,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 657,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 658,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 659,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 660,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 661,
+    "text": "SolDominion repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 662,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 663,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 664,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 665,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Province, 2 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 666,
+    "text": "ryutake starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 667,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 668,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 669,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 670,
+    "text": "ryutake looks at 17 card, 1 Endless Chalice.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 671,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 672,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 673,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 674,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 675,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 676,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 677,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 678,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 679,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 680,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 682,
+    "text": "ryutake plays 1 Spell Scroll.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 683,
+    "text": "ryutake trashes 1 Spell Scroll.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 684,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 685,
+    "text": "ryutake gains 1 Cartographer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 686,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 687,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 688,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 689,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 690,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 691,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 692,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 693,
+    "text": "ryutake discards 2 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 694,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 1,
+    "seq": 695,
+    "text": "ryutake plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 696,
+    "text": "ryutake looks at 20 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 697,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 698,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 699,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 700,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 701,
+    "text": "ryutake topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 702,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 703,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 704,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 705,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 706,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 707,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 708,
+    "text": "ryutake discards 1 card, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 709,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 710,
+    "text": "ryutake topdecks 2 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 711,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 712,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 713,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 714,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 715,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 716,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 717,
+    "text": "ryutake discards 1 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 718,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 719,
+    "text": "ryutake topdecks 2 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 720,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 721,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 722,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 723,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 724,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 725,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 726,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 727,
+    "text": "ryutake discards 1 card, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 728,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 729,
+    "text": "ryutake topdecks 2 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 730,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 731,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 732,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 733,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 734,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 735,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 736,
+    "text": "ryutake plays 1 Mine.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 737,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 738,
+    "text": "ryutake trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 739,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 740,
+    "text": "ryutake gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 741,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 742,
+    "text": "ryutake plays 1 Stonemason.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 743,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 744,
+    "text": "ryutake trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 745,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 746,
+    "text": "ryutake gains 1 Marchland.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 747,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 748,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 749,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 750,
+    "text": "ryutake gains 1 Cartographer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 751,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 1,
+    "seq": 752,
+    "text": "ryutake plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 753,
+    "text": "ryutake looks at 3 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 754,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 755,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 756,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 757,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 758,
+    "text": "ryutake plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 759,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 760,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 761,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 762,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 763,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 764,
+    "text": "ryutake repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 765,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 766,
+    "text": "ryutake buys and gains 1 Cartographer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 767,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 768,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 769,
+    "text": "SolDominion starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 770,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 771,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 772,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 773,
+    "text": "SolDominion plays 1 Litter using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 774,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 775,
+    "text": "SolDominion discards 1 Copper, 1 Estate, 1 Province, 1 Litter.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 776,
+    "text": "SolDominion draws 3 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 777,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 778,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 779,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 780,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 781,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 782,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 0,
+    "seq": 783,
+    "text": "SolDominion buys and gains 1 Stonemason.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 784,
+    "text": "SolDominion draws 1 Silver, 2 Stonemason, 2 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 785,
+    "text": "ryutake starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 786,
+    "text": "ryutake starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 787,
+    "text": "ryutake draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 788,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 789,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 790,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 791,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 792,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 793,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 794,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 795,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 796,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 797,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 798,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 799,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 800,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 801,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 802,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 803,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 804,
+    "text": "ryutake looks at 18 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 805,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 806,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 807,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 808,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 809,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 810,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 811,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 812,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 813,
+    "text": "ryutake looks at 17 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 814,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 815,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 816,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 817,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 818,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 819,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 820,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 821,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 822,
+    "text": "ryutake plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 823,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 824,
+    "text": "SolDominion discards 2 Stonemason.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 825,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 826,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 827,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 828,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 829,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 830,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 831,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 832,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 833,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 834,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 835,
+    "text": "ryutake plays 1 Hammer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 836,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 837,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 838,
+    "text": "ryutake gains 1 Mountain Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 839,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 840,
+    "text": "ryutake repays 3 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 841,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 842,
+    "text": "ryutake buys and gains 1 Marchland.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 843,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 844,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 845,
+    "text": "ryutake discards 2 card, 1 Marchland.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 846,
+    "text": "ryutake gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 847,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 848,
+    "text": "ryutake buys and gains 1 Marchland.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 849,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 850,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 851,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 852,
+    "text": "ryutake buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 853,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 854,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Devil's Workshop",
+    "player": 1,
+    "seq": 855,
+    "text": "ryutake plays 1 Devil's Workshop.",
+    "type": "official-play"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 856,
+    "text": "ryutake gains 1 Imp.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 857,
+    "text": "ryutake shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 858,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 859,
+    "text": "SolDominion starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 860,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 861,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 862,
+    "text": "SolDominion draws 1 Village Green, 1 Sextant.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 863,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 864,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 865,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 866,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 867,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 868,
+    "text": "SolDominion draws 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 869,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 870,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 0,
+    "seq": 871,
+    "text": "SolDominion plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 872,
+    "text": "SolDominion draws 1 Village Green, 1 Doubloons.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 873,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 874,
+    "text": "SolDominion takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 875,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 876,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 877,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 878,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 879,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 880,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sextant",
+    "player": 0,
+    "seq": 881,
+    "text": "SolDominion plays 1 Sextant.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 882,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 883,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 884,
+    "text": "SolDominion looks at 1 Copper, 1 Gold, 1 Stonemason, 1 Imp, 1 Litter.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 885,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 886,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 887,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 888,
+    "text": "SolDominion topdecks 1 Gold, 1 Stonemason, 1 Imp, 1 Litter.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 889,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 890,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 891,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 892,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 893,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 894,
+    "text": "SolDominion repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 895,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 0,
+    "seq": 896,
+    "text": "SolDominion buys and gains 1 Marchland.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 897,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 898,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 899,
+    "text": "SolDominion discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 900,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 901,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 0,
+    "seq": 902,
+    "text": "SolDominion buys and gains 1 Marchland.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 903,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 904,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 905,
+    "text": "SolDominion draws 1 Gold, 1 Province, 1 Stonemason, 1 Imp, 1 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 906,
+    "text": "ryutake starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 907,
+    "text": "ryutake starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 908,
+    "text": "ryutake gets +1 Buy. (Endless Chalice)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 909,
+    "text": "ryutake gets +$1. (Endless Chalice)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 910,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 911,
+    "text": "ryutake plays 1 Stonemason.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 912,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 913,
+    "text": "ryutake trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 914,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marchland",
+    "player": 1,
+    "seq": 915,
+    "text": "ryutake gains 1 Marchland.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 916,
+    "text": "ryutake gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 917,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 918,
+    "text": "ryutake discards 1 card, 1 Stonemason.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 919,
+    "text": "ryutake gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 920,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 921,
+    "text": "ryutake gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 922,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 923,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 924,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 925,
+    "text": "ryutake buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 926,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 927,
+    "text": "ryutake draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 928,
+    "text": "SolDominion starts turn 19",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 929,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 0,
+    "seq": 930,
+    "text": "SolDominion plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 931,
+    "text": "SolDominion draws 1 Stonemason, 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 932,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 933,
+    "text": "SolDominion plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 934,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 0,
+    "seq": 935,
+    "text": "SolDominion draws 1 Village Green.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 936,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 937,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 938,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 939,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 940,
+    "text": "SolDominion discards 1 Gold, 1 Province, 1 Stonemason, 1 Village Green, 1 Litter.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 941,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 942,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 943,
+    "text": "SolDominion plays 1 Village Green using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 944,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 945,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Stonemason.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 946,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 947,
+    "text": "SolDominion draws 1 Devil's Workshop, 1 Marchland, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 948,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 949,
+    "text": "SolDominion plays 1 Stonemason using Way of the Mole.",
+    "type": "official-play-using-way"
+  },
+  {
+    "player": 0,
+    "seq": 950,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 951,
+    "text": "SolDominion discards 1 Copper, 1 Estate, 1 Devil's Workshop, 1 Marchland, 1 Jewels.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 952,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 953,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 954,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 955,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 956,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 957,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 958,
+    "text": "SolDominion draws 1 Copper, 1 Village Green, 1 Sextant, 2 Litter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 959,
+    "text": "ryutake starts turn 19",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 960,
+    "text": "ryutake starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 961,
+    "text": "ryutake gets +1 Buy. (Endless Chalice)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "card": "Endless Chalice",
+    "player": 1,
+    "seq": 962,
+    "text": "ryutake gets +$1. (Endless Chalice)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 963,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 964,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 965,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 966,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 967,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 968,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 969,
+    "text": "ryutake discards 3 card, 1 Mine.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 970,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imp",
+    "player": 1,
+    "seq": 971,
+    "text": "ryutake plays 1 Imp.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 972,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 973,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 974,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 975,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 976,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 977,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 978,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 979,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 980,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 981,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 982,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 983,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 984,
+    "text": "ryutake discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 985,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 986,
+    "text": "ryutake topdecks 3 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 987,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 988,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 989,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 990,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 991,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 992,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 1,
+    "seq": 993,
+    "text": "ryutake discards 1 Village Green.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 994,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Village Green",
+    "player": 1,
+    "seq": 995,
+    "text": "ryutake plays 1 Village Green.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 996,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 997,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 998,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 999,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 1000,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1001,
+    "text": "ryutake topdecks 3 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 1002,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 1003,
+    "text": "ryutake plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 1004,
+    "text": "ryutake draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 1005,
+    "text": "ryutake gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 1006,
+    "text": "ryutake looks at 4 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 1007,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 1008,
+    "text": "ryutake discards 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 1009,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1010,
+    "text": "ryutake topdecks 3 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 1011,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Litter",
+    "player": 1,
+    "seq": 1012,
+    "text": "ryutake plays 1 Litter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1013,
+    "text": "ryutake draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 1014,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 1015,
+    "text": "ryutake takes 1 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 1,
+    "seq": 1016,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 1017,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1018,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 1019,
+    "text": "ryutake looks at 12 card, 1 Marchland.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 1020,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 1021,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 1022,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 1023,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1024,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 1025,
+    "text": "ryutake looks at 11 card, 1 Marchland.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 1026,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 1027,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 1028,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mountain Village",
+    "player": 1,
+    "seq": 1029,
+    "text": "ryutake plays 1 Mountain Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1030,
+    "text": "ryutake gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 1031,
+    "text": "ryutake looks at 10 card, 1 Marchland.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 1032,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 1033,
+    "text": "ryutake puts 1 card into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 1034,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Mine",
+    "player": 1,
+    "seq": 1035,
+    "text": "ryutake plays 1 Mine.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1036,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 1037,
+    "text": "ryutake trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 1038,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 1039,
+    "text": "ryutake gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Staff",
+    "player": 1,
+    "seq": 1040,
+    "text": "ryutake reveals 1 Staff.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 1041,
+    "text": "ryutake gains 1 Staff. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 1042,
+    "text": "SolDominion reveals 1 Insignia.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 1043,
+    "text": "SolDominion gains 1 Insignia. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 1044,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stonemason",
+    "player": 1,
+    "seq": 1045,
+    "text": "ryutake plays 1 Stonemason.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 1046,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 1047,
+    "text": "ryutake trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 1048,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1049,
+    "text": "ryutake answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1050,
+    "text": "ryutake gains 2 Duchy.",
+    "type": "official-gain"
+  }
+]

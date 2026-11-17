@@ -1,0 +1,262 @@
+00000 game 186041530
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 1 Magic Lamp.
+00003 SolDominion starts with 6 Copper.
+00004 Stemar starts with 3 Estate.
+00005 Stemar starts with 1 Magic Lamp.
+00006 Stemar starts with 6 Copper.
+00007 SolDominion answered
+00008 Stemar answered
+00009 SolDominion shuffles their deck.
+00010 Stemar shuffles their deck.
+00011 SolDominion draws 2 Copper, 2 Estate, 1 Magic Lamp.
+00012 Stemar draws 5 card.
+00013 SolDominion starts turn 1
+00014 SolDominion answered
+00015 SolDominion answered
+00016 SolDominion answered
+00017 play treasures for
+00018 SolDominion answered
+00019 SolDominion buys and gains 1 Silver.
+00020 SolDominion draws 4 Copper, 1 Estate.
+00021 Stemar starts turn 1
+00022 Stemar answered
+00023 play treasures for
+00024 Stemar answered
+00025 Stemar buys and gains 1 Silver.
+00026 Stemar draws 5 card.
+00027 SolDominion starts turn 2
+00028 SolDominion answered
+00029 SolDominion answered
+00030 SolDominion answered
+00031 SolDominion answered
+00032 play treasures for
+00033 SolDominion answered
+00034 SolDominion buys and gains 1 Bounty Hunter.
+00035 SolDominion shuffles their deck.
+00036 SolDominion draws 3 Copper, 2 Estate.
+00037 Stemar starts turn 2
+00038 Stemar answered
+00039 play treasures for
+00040 Stemar answered
+00041 Stemar buys and gains 1 Bounty Hunter.
+00042 Stemar shuffles their deck.
+00043 Stemar draws 5 card.
+00044 SolDominion starts turn 3
+00045 SolDominion answered
+00046 SolDominion answered
+00047 SolDominion answered
+00048 play treasures for
+00049 SolDominion answered
+00050 SolDominion buys and gains 1 Secret Cave.
+00051 SolDominion draws 2 Copper, 1 Silver, 1 Magic Lamp, 1 Bounty Hunter.
+00052 Stemar starts turn 3
+00053 Stemar answered
+00054 play treasures for
+00055 Stemar answered
+00056 Stemar buys and gains 1 Settlers.
+00057 Stemar draws 5 card.
+00058 SolDominion starts turn 4
+00059 SolDominion answered
+00060 SolDominion plays 1 Bounty Hunter.
+00061 SolDominion gets +1 Action.
+00062 SolDominion answered
+00063 SolDominion exiles 1 Copper.
+00064 SolDominion gets +$3.
+00065 SolDominion answered
+00066 SolDominion answered
+00067 SolDominion answered
+00068 play treasures for
+00069 SolDominion answered
+00070 SolDominion buys and gains 1 Sea Witch.
+00071 SolDominion shuffles their deck.
+00072 SolDominion draws 2 Copper, 2 Estate, 1 Sea Witch.
+00073 Stemar starts turn 4
+00074 Stemar answered
+00075 Stemar plays 1 Bounty Hunter.
+00076 Stemar gets +1 Action.
+00077 Stemar answered
+00078 Stemar exiles 1 Copper.
+00079 Stemar gets +$3.
+00080 Stemar answered
+00081 play treasures for
+00082 Stemar answered
+00083 Stemar buys and gains 1 Sea Witch.
+00084 Stemar shuffles their deck.
+00085 Stemar draws 5 card.
+00086 SolDominion starts turn 5
+00087 SolDominion answered
+00088 SolDominion plays 1 Sea Witch.
+00089 SolDominion draws 2 Copper.
+00090 Stemar gains 1 Curse.
+00091 SolDominion answered
+00092 SolDominion answered
+00093 SolDominion answered
+00094 SolDominion answered
+00095 play treasures for
+00096 SolDominion answered
+00097 SolDominion buys and gains 1 Abundance.
+00098 SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Magic Lamp, 1 Bounty Hunter.
+00099 Stemar starts turn 5
+00100 Stemar answered
+00101 Stemar plays 1 Bounty Hunter.
+00102 Stemar gets +1 Action.
+00103 Stemar answered
+00104 Stemar exiles 1 Estate.
+00105 Stemar gets +$3.
+00106 Stemar answered
+00107 play treasures for
+00108 Stemar answered
+00109 Stemar buys and gains 1 Margrave.
+00110 Stemar draws 5 card.
+00111 SolDominion starts turn 6
+00112 SolDominion starts their turn.
+00113 SolDominion shuffles their deck.
+00114 SolDominion draws 1 Estate, 1 Secret Cave. (Sea Witch)
+00115 SolDominion answered
+00116 SolDominion discards 1 Copper, 1 Estate. (Sea Witch)
+00117 SolDominion answered
+00118 SolDominion plays 1 Secret Cave.
+00119 SolDominion draws 1 Copper.
+00120 SolDominion gets +1 Action.
+00121 SolDominion answered
+00122 SolDominion answered
+00123 SolDominion plays 1 Bounty Hunter.
+00124 SolDominion gets +1 Action.
+00125 SolDominion answered
+00126 SolDominion exiles 1 Estate.
+00127 SolDominion gets +$3.
+00128 SolDominion answered
+00129 SolDominion answered
+00130 SolDominion answered
+00131 play treasures for
+00132 SolDominion trashes 1 Magic Lamp.
+00133 SolDominion gains 3 Wish.
+00134 SolDominion answered
+00135 SolDominion buys and gains 1 Margrave.
+00136 SolDominion draws 3 Copper, 1 Estate, 1 Abundance.
+00137 Stemar starts turn 6
+00138 Stemar answered
+00139 Stemar plays 1 Settlers.
+00140 Stemar draws 1 card.
+00141 Stemar gets +1 Action.
+00142 Stemar looks at 5 card, 1 Curse.
+00143 Stemar answered
+00144 Stemar puts 1 Copper into their hand.
+00145 Stemar answered
+00146 Stemar plays 1 Sea Witch.
+00147 Stemar draws 2 card.
+00148 SolDominion gains 1 Curse.
+00149 Stemar answered
+00150 play treasures for
+00151 Stemar answered
+00152 Stemar buys and gains 1 Margrave.
+00153 Stemar shuffles their deck.
+00154 Stemar draws 5 card.
+00155 SolDominion starts turn 7
+00156 SolDominion answered
+00157 SolDominion answered
+00158 play treasures for
+00159 SolDominion answered
+00160 SolDominion plays 1 Abundance.
+00161 SolDominion answered
+00162 play treasures for
+00163 SolDominion answered
+00164 SolDominion buys and gains 1 Settlers.
+00165 SolDominion gets +1 Buy.
+00166 SolDominion gets +$3.
+00167 SolDominion answered
+00168 SolDominion buys and gains 1 Walled Village.
+00169 SolDominion shuffles their deck.
+00170 SolDominion draws 1 Copper, 1 Estate, 1 Margrave, 1 Walled Village, 1 Abundance.
+00171 Stemar starts turn 7
+00172 Stemar starts their turn.
+00173 Stemar draws 2 card. (Sea Witch)
+00174 Stemar answered
+00175 Stemar discards 1 card, 1 Estate. (Sea Witch)
+00176 Stemar answered
+00177 Stemar plays 1 Settlers.
+00178 Stemar draws 1 card.
+00179 Stemar gets +1 Action.
+00180 Stemar looks at 1 card, 1 Curse.
+00181 Stemar answered
+00182 Stemar answered
+00183 Stemar answered
+00184 Stemar answered
+00185 play treasures for
+00186 Stemar answered
+00187 Stemar buys and gains 1 Walled Village.
+00188 Stemar draws 5 card.
+00189 SolDominion starts turn 8
+00190 SolDominion answered
+00191 SolDominion plays 1 Walled Village.
+00192 SolDominion draws 1 Secret Cave.
+00193 SolDominion gets +2 Actions.
+00194 SolDominion answered
+00195 SolDominion plays 1 Margrave.
+00196 SolDominion draws 1 Copper, 2 Wish.
+00197 SolDominion gets +1 Buy.
+00198 Stemar draws 1 card.
+00199 Stemar answered
+00200 Stemar discards 2 card, 1 Copper.
+00201 SolDominion answered
+00202 SolDominion plays 1 Wish.
+00203 SolDominion gets +1 Action.
+00204 SolDominion returns 1 Wish to Player 0 nonSupply.
+00205 SolDominion answered
+00206 SolDominion gains 1 Walled Village.
+00207 SolDominion answered
+00208 SolDominion plays 1 Walled Village.
+00209 SolDominion draws 1 Copper.
+00210 SolDominion gets +2 Actions.
+00211 SolDominion answered
+00212 SolDominion plays 1 Secret Cave.
+00213 SolDominion draws 1 Copper.
+00214 SolDominion gets +1 Action.
+00215 SolDominion answered
+00216 SolDominion answered
+00217 SolDominion plays 1 Wish.
+00218 SolDominion gets +1 Action.
+00219 SolDominion returns 1 Wish to Player 0 nonSupply.
+00220 SolDominion answered
+00221 SolDominion gains 1 Margrave.
+00222 SolDominion answered
+00223 SolDominion plays 1 Margrave.
+00224 SolDominion draws 1 Settlers, 1 Wish, 1 Bounty Hunter.
+00225 SolDominion gets +1 Buy.
+00226 Stemar shuffles their deck.
+00227 Stemar draws 1 card.
+00228 Stemar answered
+00229 Stemar discards 1 Magic Lamp.
+00230 SolDominion answered
+00231 SolDominion plays 1 Settlers.
+00232 SolDominion draws 1 Curse.
+00233 SolDominion gets +1 Action.
+00234 SolDominion answered
+00235 SolDominion plays 1 Wish.
+00236 SolDominion gets +1 Action.
+00237 SolDominion returns 1 Wish to Player 0 nonSupply.
+00238 SolDominion answered
+00239 SolDominion gains 1 Margrave.
+00240 SolDominion answered
+00241 SolDominion plays 1 Bounty Hunter.
+00242 SolDominion gets +1 Action.
+00243 SolDominion answered
+00244 SolDominion exiles 1 Curse.
+00245 SolDominion gets +$3.
+00246 SolDominion answered
+00247 SolDominion plays 1 Margrave.
+00248 SolDominion draws 1 Copper, 1 Silver, 1 Estate.
+00249 SolDominion gets +1 Buy.
+00250 Stemar draws 1 card.
+00251 Stemar answered
+00252 Stemar discards 1 Copper.
+00253 SolDominion answered
+00254 SolDominion plays 1 Abundance.
+00255 SolDominion answered
+00256 SolDominion answered
+00257 SolDominion answered
+00258 SolDominion answered
+00259 SolDominion answered
+00260 SolDominion answered
+00261 play treasures for

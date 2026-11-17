@@ -1,0 +1,27 @@
+{
+  "phase": "awaiting_native_game_end",
+  "created_at": "2026-11-17T09:06:26.799281+00:00",
+  "sol_target_phi": 0.35,
+  "saved_games": 24,
+  "record": {
+    "wins": 19,
+    "losses": 5
+  },
+  "last_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 24,
+    "level": 51.29014355955845,
+    "mu": 0.91010829414313,
+    "phi": 0.36904457643433475,
+    "rank": 926,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T09:04:25.043694+00:00"
+  },
+  "pending_start_error": "HTTP 409: {\"error\":\"REJECTED: LOGIN_REQUIRED\"}",
+  "native_game": "g73",
+  "conditions": "No active official or native game, no search, no trace writer before server restart; hold blocks next native creation.",
+  "resume_sol_after_auth": true,
+  "resume_native_after_auth": true,
+  "note": "One owned-session reconnect restored socket but official start rejected LOGIN_REQUIRED; do not repeat the same expired token reconnect. Fresh service login is required. No user secret needed; existing encrypted credential is provisioned."
+}

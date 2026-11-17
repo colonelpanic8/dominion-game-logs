@@ -1,0 +1,24 @@
+{
+  "game_id": "dominion.games:186041530",
+  "completed_at": "2026-11-17T07:18:43.505372+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "SolDominion",
+        "vp": 2,
+        "rank": 1,
+        "turns": 8
+      },
+      {
+        "index": 1,
+        "name": "Stemar",
+        "vp": 2,
+        "rank": 2,
+        "turns": 7,
+        "resigned": true
+      }
+    ]
+  }
+}

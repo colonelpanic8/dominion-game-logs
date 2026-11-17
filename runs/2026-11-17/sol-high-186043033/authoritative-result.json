@@ -1,0 +1,23 @@
+{
+  "game_id": "dominion.games:186043033",
+  "completed_at": "2026-11-17T08:48:39.668901+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "SolDominion",
+        "vp": 30,
+        "rank": 1,
+        "turns": 14
+      },
+      {
+        "index": 1,
+        "name": "Kaityo_777",
+        "vp": 28,
+        "rank": 2,
+        "turns": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "run": "2026-11-17/sol-high-186043435",
+  "source": "dominion-arena official dominion.games adapter",
+  "source_url": "https://dominion-arena.duckdns.org/online/sol",
+  "official_game_id": "dominion.games:186043435",
+  "series_game_number": 24,
+  "captured": "2026-11-17T09:29:23.337915+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "high",
+    "opponent": "human",
+    "players": 2,
+    "account": "SolDominion",
+    "agent": "Sol High",
+    "rated": true,
+    "timer": "Patient",
+    "min_rating": -5,
+    "max_rating": 5,
+    "card_pool_min": 10,
+    "card_pool_max": 10,
+    "banned_cards": [],
+    "disliked_cards": []
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "note": "Verified runner playbook before/after safe update; exact available request and usage metadata remain in journals."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794905331372-2ae3f089f3ebfc72",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794905331372,
+      "last_event_ms": 1794906130744,
+      "files": [
+        {
+          "file": "sessions/1794905331372-2ae3f089f3ebfc72/interactions.jsonl.gz",
+          "source_sha256": "bb83f6931595b33ba2261e6181d4abaea4e6c102470e8f48c8127a04b9e8bd3c",
+          "source_bytes": 6011931
+        }
+      ],
+      "has_recorded_result": false
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 545,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": false,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification.",
+    "trace_note": "All located finished attempts included."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "186043435",
+        "result": {
+          "reason": "official server result",
+          "players": [
+            {
+              "index": 0,
+              "name": "thepilferer",
+              "vp": 4,
+              "rank": 2,
+              "turns": 12,
+              "resigned": true,
+              "points": 4
+            },
+            {
+              "index": 1,
+              "name": "SolDominion",
+              "vp": 18,
+              "rank": 1,
+              "turns": 12,
+              "points": 18
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-17-sol-session-refresh-pause/README.md"
+}

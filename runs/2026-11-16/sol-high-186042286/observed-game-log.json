@@ -1,0 +1,4183 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186042286",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "34msms starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "34msms starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "34msms starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 15,
+    "text": "34msms buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 17,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 25,
+    "text": "34msms starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 29,
+    "text": "34msms buys and gains 1 Crucible.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 32,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 39,
+    "text": "SolDominion buys and gains 1 Crucible.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "34msms starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 44,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 46,
+    "text": "34msms trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 50,
+    "text": "34msms buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 58,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 59,
+    "text": "SolDominion draws 4 Copper, 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "34msms starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 64,
+    "text": "34msms buys and gains 1 Crucible.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion buys and gains 1 Menagerie.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 3 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "34msms starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 82,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 83,
+    "text": "34msms buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 84,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 86,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 87,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Gate",
+    "player": 1,
+    "seq": 90,
+    "text": "SolDominion buys 1 City Gate.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Menagerie, 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "34msms starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 94,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 96,
+    "text": "34msms trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Gate",
+    "player": 0,
+    "seq": 100,
+    "text": "34msms buys 1 City Gate.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "SolDominion draws 1 Copper. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "SolDominion topdecks 1 Copper with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion reveals their hand: 1 Silver, 2 Copper, 1 Crucible.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 119,
+    "text": "SolDominion buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "SolDominion draws 4 Copper, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "34msms starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 128,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 132,
+    "text": "SolDominion draws 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 134,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 136,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 138,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 140,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 141,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 144,
+    "text": "34msms buys and gains 1 Outpost.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 146,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion draws 1 Estate. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion topdecks 1 Copper with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "SolDominion draws 2 Copper, 1 Menagerie.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 157,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 159,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 160,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 161,
+    "text": "SolDominion reveals their hand: 1 Estate, 5 Copper, 1 Crucible.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 162,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 163,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 164,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 165,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 166,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 170,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 175,
+    "text": "SolDominion buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 178,
+    "text": "34msms starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 184,
+    "text": "34msms plays 1 Outpost.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 186,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 187,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 188,
+    "text": "34msms trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 191,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 192,
+    "text": "34msms buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 193,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 194,
+    "text": "34msms starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 195,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 197,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 199,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 200,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 202,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 203,
+    "text": "34msms gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 205,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 206,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 207,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 208,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 209,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 212,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "SolDominion draws 1 Governor. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 214,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 215,
+    "text": "SolDominion topdecks 1 Estate with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 216,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 217,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 218,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 219,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 220,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Menagerie.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 221,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 222,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 223,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 224,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 225,
+    "text": "SolDominion reveals their hand: 2 Silver, 2 Estate, 2 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 226,
+    "text": "SolDominion draws 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 228,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 229,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 230,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 231,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 232,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 233,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 234,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 235,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 236,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 237,
+    "text": "SolDominion buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "SolDominion draws 4 Copper, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "34msms starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 241,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 243,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 244,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 245,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 246,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 247,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 248,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 251,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 252,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 254,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 256,
+    "text": "34msms trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 258,
+    "text": "34msms gains 1 Governor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 261,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 263,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 266,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 267,
+    "text": "34msms buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 269,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "SolDominion draws 1 Estate. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion topdecks 1 Copper with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 276,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "SolDominion draws 3 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 280,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 281,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 282,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 283,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 284,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 285,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 286,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 290,
+    "text": "SolDominion buys and gains 1 Governor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "SolDominion draws 1 Silver, 1 Menagerie, 2 Governor, 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 292,
+    "text": "34msms starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 294,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 295,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 298,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 299,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 302,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 304,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 305,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 307,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 308,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 309,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ducat",
+    "player": 0,
+    "seq": 310,
+    "text": "34msms gains 1 Ducat.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 312,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 314,
+    "text": "SolDominion trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 315,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 316,
+    "text": "SolDominion gains 1 Crucible.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 318,
+    "text": "34msms plays 1 Outpost.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 319,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 321,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 323,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 324,
+    "text": "34msms trashes 1 Crucible.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 326,
+    "text": "34msms buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 328,
+    "text": "34msms starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 329,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 330,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 332,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 333,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 334,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 335,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 336,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 337,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 338,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 340,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 341,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 342,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 343,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 344,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 345,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 347,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 348,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 351,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 352,
+    "text": "34msms trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 353,
+    "text": "34msms gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 355,
+    "text": "SolDominion trashes 1 Crucible.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 356,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 357,
+    "text": "SolDominion gains 1 Governor.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 358,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 359,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Ducat",
+    "player": 0,
+    "seq": 360,
+    "text": "34msms plays 1 Ducat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 361,
+    "text": "34msms gets +1 Coffers.",
+    "type": "official-gets-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 362,
+    "text": "34msms gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 363,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 364,
+    "text": "34msms uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 365,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 366,
+    "text": "34msms buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 368,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 369,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 372,
+    "text": "SolDominion draws 1 Governor. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "SolDominion topdecks 1 Copper with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 376,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 377,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 379,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 380,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 381,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 382,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 383,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 384,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 385,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 386,
+    "text": "34msms gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 387,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 388,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 389,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 390,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 391,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 392,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 394,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 395,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 396,
+    "text": "SolDominion reveals their hand: 2 Silver, 1 Estate, 1 Governor, 3 Copper, 1 Crucible.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 397,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 398,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 399,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 400,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 402,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 403,
+    "text": "SolDominion draws 2 Copper, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 404,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 406,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 407,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 408,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 409,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 412,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 414,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 415,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 419,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion buys and gains 1 Outpost.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 422,
+    "text": "SolDominion draws 2 Copper, 3 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 423,
+    "text": "34msms starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 424,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 426,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 427,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 428,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 429,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 430,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 433,
+    "text": "SolDominion draws 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 434,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 435,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 436,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 438,
+    "text": "34msms gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 439,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 440,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 441,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 442,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 444,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 446,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 448,
+    "text": "34msms plays 1 Outpost.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 450,
+    "text": "34msms plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 452,
+    "text": "34msms trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 454,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Ducat",
+    "player": 0,
+    "seq": 455,
+    "text": "34msms plays 1 Ducat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 456,
+    "text": "34msms gets +1 Coffers.",
+    "type": "official-gets-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 457,
+    "text": "34msms gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 459,
+    "text": "34msms buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 460,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 0,
+    "seq": 461,
+    "text": "34msms buys and gains 1 Menagerie.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 462,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 464,
+    "text": "34msms starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 467,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 468,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 469,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 0,
+    "seq": 470,
+    "text": "34msms plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 472,
+    "text": "34msms reveals their hand: 1 Silver, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 474,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 475,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 476,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 479,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 480,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 481,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 482,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 484,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 485,
+    "text": "34msms trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 486,
+    "text": "34msms gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 487,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 488,
+    "text": "SolDominion trashes 1 Governor.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 489,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 490,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 492,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "SolDominion draws 1 Gold. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 495,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "SolDominion topdecks 1 Copper with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 498,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 501,
+    "text": "SolDominion draws 2 Copper, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 502,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 503,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 505,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 506,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 507,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 508,
+    "text": "SolDominion draws 1 Silver, 1 Menagerie, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 509,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 511,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 512,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 515,
+    "text": "SolDominion trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 516,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 517,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 0,
+    "seq": 518,
+    "text": "34msms trashes 1 Crucible.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 520,
+    "text": "34msms gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 521,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 522,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 523,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 525,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Outpost.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 526,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 528,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 530,
+    "text": "SolDominion reveals their hand: 2 Silver, 1 Outpost, 6 Copper, 1 Crucible.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 532,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 1,
+    "seq": 534,
+    "text": "SolDominion plays 1 Outpost.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 536,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 538,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 541,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 543,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 544,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 546,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 547,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 548,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 549,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 551,
+    "text": "SolDominion draws 1 Gold, 1 Province, 1 Menagerie.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Outpost",
+    "player": 1,
+    "seq": 552,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 554,
+    "text": "SolDominion draws 1 Silver. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 556,
+    "text": "SolDominion topdecks 1 Province with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 1,
+    "seq": 558,
+    "text": "SolDominion plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 559,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 560,
+    "text": "SolDominion reveals their hand: 1 Silver, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 561,
+    "text": "SolDominion draws 1 Province, 1 Governor, 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 562,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 563,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 564,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 565,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 566,
+    "text": "SolDominion draws 2 Copper, 1 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 567,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 568,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 569,
+    "text": "SolDominion plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 570,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 571,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 572,
+    "text": "SolDominion draws 1 Copper, 2 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 573,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 574,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 575,
+    "text": "SolDominion plays 1 Crucible.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 576,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 577,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 578,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 579,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 580,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 583,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 586,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 587,
+    "text": "SolDominion draws 2 Copper, 1 Duchy, 2 Governor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 588,
+    "text": "34msms starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 589,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 590,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 591,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 592,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 593,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 594,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 598,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 599,
+    "text": "SolDominion draws 1 Duchy.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 600,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 601,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 604,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 605,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 606,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 607,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 608,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 609,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 610,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 611,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 612,
+    "text": "34msms trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 613,
+    "text": "34msms gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 614,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 1,
+    "seq": 615,
+    "text": "SolDominion trashes 1 Governor.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 616,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 617,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Menagerie",
+    "player": 0,
+    "seq": 618,
+    "text": "34msms plays 1 Menagerie.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 619,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "34msms reveals their hand: 1 Silver, 5 Province, 1 Outpost, 1 Duchy, 1 Ducat, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 621,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 622,
+    "text": "34msms draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 623,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 624,
+    "text": "34msms plays 1 Outpost.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 625,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 626,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Ducat",
+    "player": 0,
+    "seq": 627,
+    "text": "34msms plays 1 Ducat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 628,
+    "text": "34msms gets +1 Coffers.",
+    "type": "official-gets-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 629,
+    "text": "34msms gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 631,
+    "text": "34msms buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 632,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 633,
+    "text": "34msms shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 634,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Outpost",
+    "player": 0,
+    "seq": 635,
+    "text": "34msms starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 636,
+    "text": "34msms starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 637,
+    "text": "34msms draws 1 card. (City Gate)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 638,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 639,
+    "text": "34msms topdecks 1 card with City Gate.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 640,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 641,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 643,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 644,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 645,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 646,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 647,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 648,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 650,
+    "text": "34msms draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 651,
+    "text": "SolDominion draws 1 Crucible.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 652,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Governor",
+    "player": 0,
+    "seq": 653,
+    "text": "34msms plays 1 Governor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 654,
+    "text": "34msms gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 655,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 656,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 657,
+    "text": "34msms trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 658,
+    "text": "34msms gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 659,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Crucible",
+    "player": 1,
+    "seq": 660,
+    "text": "SolDominion trashes 1 Crucible.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 662,
+    "text": "SolDominion gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 663,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 664,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 665,
+    "text": "34msms answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 666,
+    "text": "34msms buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 667,
+    "text": "34msms draws 5 card.",
+    "type": "official-draw"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "captured": "2026-11-17T09:29:23.337915+00:00",
+  "games": [
+    {
+      "run": "2026-11-16/sol-high-186041477",
+      "game_id": "dominion.games:186041477",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 7,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": false,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/sol-high-186041530",
+      "game_id": "dominion.games:186041530",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 262,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": false,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/sol-high-186041689",
+      "game_id": "dominion.games:186041689",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 1051,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/sol-high-186042286",
+      "game_id": "dominion.games:186042286",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 668,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/sol-high-186042551",
+      "game_id": "dominion.games:186042551",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 880,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/sol-high-186043033",
+      "game_id": "dominion.games:186043033",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 815,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/sol-high-186043435",
+      "game_id": "dominion.games:186043435",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 545,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": false,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "authoritative_total": 24,
+  "record": {
+    "wins": 19,
+    "losses": 5
+  },
+  "latest_verified_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 24,
+    "level": 51.29014355955845,
+    "mu": 0.91010829414313,
+    "phi": 0.36904457643433475,
+    "rank": 926,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T09:04:25.043694+00:00"
+  },
+  "target_phi": 0.35,
+  "status": "Paused between games awaiting safe fresh-password service login, not finished target.",
+  "coverage_note": "All seven located finished sessions for games18\u201324 are preserved. Games18,19 and24 have no recorded final view; their authoritative coordinator results are retained independently. No missing final notification is fabricated."
+}

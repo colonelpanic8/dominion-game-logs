@@ -1,0 +1,1051 @@
+00000 game 186041689
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 7 Copper.
+00003 ryutake starts with 3 Estate.
+00004 ryutake starts with 7 Copper.
+00005 SolDominion answered
+00006 ryutake answered
+00007 SolDominion shuffles their deck.
+00008 ryutake shuffles their deck.
+00009 SolDominion draws 3 Copper, 2 Estate.
+00010 ryutake draws 5 card.
+00011 SolDominion starts turn 1
+00012 SolDominion answered
+00013 SolDominion answered
+00014 SolDominion answered
+00015 play treasures for
+00016 SolDominion answered
+00017 SolDominion buys and gains 1 Silver.
+00018 SolDominion draws 4 Copper, 1 Estate.
+00019 ryutake starts turn 1
+00020 ryutake answered
+00021 ryutake draws 5 card.
+00022 SolDominion starts turn 2
+00023 SolDominion answered
+00024 SolDominion answered
+00025 SolDominion answered
+00026 SolDominion answered
+00027 play treasures for
+00028 SolDominion answered
+00029 SolDominion buys and gains 1 Devil's Workshop.
+00030 SolDominion shuffles their deck.
+00031 SolDominion draws 2 Copper, 2 Estate, 1 Devil's Workshop.
+00032 ryutake starts turn 2
+00033 ryutake answered
+00034 play treasures for
+00035 ryutake answered
+00036 ryutake buys and gains 1 Cutthroat.
+00037 ryutake shuffles their deck.
+00038 ryutake draws 5 card.
+00039 SolDominion starts turn 3
+00040 SolDominion answered
+00041 SolDominion answered
+00042 SolDominion plays 1 Devil's Workshop.
+00043 SolDominion gains 1 Gold.
+00044 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00045 ryutake starts turn 3
+00046 ryutake answered
+00047 ryutake plays 1 Cutthroat.
+00048 SolDominion answered
+00049 SolDominion discards 1 Copper, 1 Estate.
+00050 ryutake answered
+00051 play treasures for
+00052 ryutake answered
+00053 ryutake buys and gains 1 Devil's Workshop.
+00054 ryutake draws 5 card.
+00055 SolDominion starts turn 4
+00056 SolDominion answered
+00057 SolDominion answered
+00058 SolDominion answered
+00059 play treasures for
+00060 SolDominion answered
+00061 SolDominion buys and gains 1 Village Green.
+00062 SolDominion shuffles their deck.
+00063 SolDominion draws 3 Copper, 1 Gold, 1 Village Green.
+00064 ryutake starts turn 4
+00065 ryutake answered
+00066 ryutake shuffles their deck.
+00067 ryutake draws 5 card.
+00068 SolDominion starts turn 5
+00069 SolDominion answered
+00070 SolDominion plays 1 Village Green.
+00071 SolDominion answered
+00072 SolDominion draws 1 Silver.
+00073 SolDominion gets +2 Actions.
+00074 SolDominion answered
+00075 SolDominion answered
+00076 SolDominion answered
+00077 SolDominion answered
+00078 SolDominion answered
+00079 play treasures for
+00080 SolDominion answered
+00081 SolDominion buys 1 Stonemason.
+00082 SolDominion answered
+00083 SolDominion loses 5 Coins.
+00084 SolDominion gains 1 Stonemason.
+00085 SolDominion gains 1 Litter.
+00086 SolDominion answered
+00087 SolDominion gains 1 Cutthroat.
+00088 SolDominion draws 2 Copper, 2 Estate, 1 Devil's Workshop.
+00089 ryutake starts turn 5
+00090 ryutake answered
+00091 ryutake answered
+00092 ryutake plays 1 Devil's Workshop.
+00093 ryutake gains 1 Gold.
+00094 ryutake reveals 1 Figurehead.
+00095 ryutake gains 1 Figurehead. (Cutthroat)
+00096 ryutake draws 5 card.
+00097 SolDominion starts turn 6
+00098 SolDominion answered
+00099 SolDominion answered
+00100 SolDominion plays 1 Devil's Workshop.
+00101 SolDominion gains 1 Gold.
+00102 SolDominion shuffles their deck.
+00103 SolDominion draws 3 Copper, 1 Estate, 1 Stonemason.
+00104 ryutake starts turn 6
+00105 ryutake answered
+00106 ryutake shuffles their deck.
+00107 ryutake draws 5 card.
+00108 SolDominion starts turn 7
+00109 SolDominion answered
+00110 SolDominion plays 1 Stonemason using Way of the Mole.
+00111 SolDominion gets +1 Action.
+00112 SolDominion discards 3 Copper, 1 Estate.
+00113 SolDominion draws 2 Copper, 1 Estate.
+00114 SolDominion answered
+00115 SolDominion answered
+00116 play treasures for
+00117 SolDominion answered
+00118 SolDominion buys and gains 1 Stonemason.
+00119 SolDominion draws 2 Copper, 1 Gold, 1 Village Green, 1 Cutthroat.
+00120 ryutake starts turn 7
+00121 ryutake answered
+00122 play treasures for
+00123 ryutake answered
+00124 ryutake buys 1 Stonemason.
+00125 ryutake answered
+00126 ryutake loses 5 Coins.
+00127 ryutake gains 1 Stonemason.
+00128 ryutake gains 1 Litter.
+00129 ryutake answered
+00130 ryutake gains 1 Mine.
+00131 ryutake draws 5 card.
+00132 SolDominion starts turn 8
+00133 SolDominion answered
+00134 SolDominion plays 1 Village Green.
+00135 SolDominion answered
+00136 SolDominion draws 1 Devil's Workshop.
+00137 SolDominion gets +2 Actions.
+00138 SolDominion answered
+00139 SolDominion plays 1 Cutthroat.
+00140 ryutake answered
+00141 ryutake discards 1 card, 1 Copper.
+00142 SolDominion answered
+00143 SolDominion answered
+00144 SolDominion answered
+00145 play treasures for
+00146 SolDominion answered
+00147 SolDominion buys and gains 1 Litter.
+00148 SolDominion answered
+00149 SolDominion plays 1 Devil's Workshop.
+00150 SolDominion answered
+00151 SolDominion gains 1 Village Green.
+00152 SolDominion shuffles their deck.
+00153 SolDominion draws 1 Copper, 1 Silver, 1 Gold, 1 Estate, 1 Litter.
+00154 ryutake starts turn 8
+00155 ryutake answered
+00156 ryutake plays 1 Cutthroat.
+00157 SolDominion answered
+00158 SolDominion discards 1 Copper, 1 Estate.
+00159 ryutake answered
+00160 ryutake answered
+00161 ryutake plays 1 Devil's Workshop.
+00162 ryutake gains 1 Gold.
+00163 ryutake reveals 1 Hammer.
+00164 ryutake gains 1 Hammer. (Cutthroat)
+00165 SolDominion reveals 1 Jewels.
+00166 SolDominion gains 1 Jewels. (Cutthroat)
+00167 SolDominion discards 1 Cutthroat.
+00168 ryutake shuffles their deck.
+00169 ryutake draws 5 card.
+00170 SolDominion starts turn 9
+00171 SolDominion answered
+00172 SolDominion plays 1 Litter.
+00173 SolDominion draws 2 Copper.
+00174 SolDominion gets +2 Actions.
+00175 SolDominion takes 1 debt.
+00176 SolDominion answered
+00177 SolDominion answered
+00178 SolDominion answered
+00179 SolDominion answered
+00180 play treasures for
+00181 SolDominion answered
+00182 SolDominion repays 1 debt.
+00183 SolDominion answered
+00184 SolDominion buys 1 Stonemason.
+00185 SolDominion answered
+00186 SolDominion loses 4 Coins.
+00187 SolDominion gains 1 Stonemason.
+00188 SolDominion answered
+00189 SolDominion gains 2 Village Green.
+00190 SolDominion draws 2 Copper, 1 Gold, 1 Devil's Workshop, 1 Litter.
+00191 ryutake starts turn 9
+00192 ryutake answered
+00193 ryutake plays 1 Litter.
+00194 ryutake draws 2 card.
+00195 ryutake gets +2 Actions.
+00196 ryutake takes 1 debt.
+00197 ryutake answered
+00198 ryutake plays 1 Mine.
+00199 ryutake answered
+00200 ryutake trashes 1 Copper.
+00201 ryutake answered
+00202 ryutake gains 1 Silver.
+00203 ryutake answered
+00204 play treasures for
+00205 ryutake answered
+00206 ryutake plays 1 Figurehead.
+00207 ryutake gets +$3.
+00208 ryutake answered
+00209 ryutake repays 1 debt.
+00210 ryutake answered
+00211 ryutake buys and gains 1 Cartographer.
+00212 ryutake draws 5 card.
+00213 SolDominion starts turn 10
+00214 SolDominion answered
+00215 SolDominion plays 1 Litter.
+00216 SolDominion draws 1 Estate, 1 Stonemason.
+00217 SolDominion gets +2 Actions.
+00218 SolDominion takes 1 debt.
+00219 SolDominion answered
+00220 SolDominion plays 1 Stonemason using Way of the Mole.
+00221 SolDominion gets +1 Action.
+00222 SolDominion discards 2 Copper, 1 Gold, 1 Estate, 1 Devil's Workshop.
+00223 SolDominion draws 1 Copper, 1 Estate, 1 Village Green.
+00224 SolDominion answered
+00225 SolDominion plays 1 Village Green using Way of the Mole.
+00226 SolDominion gets +1 Action.
+00227 SolDominion discards 1 Copper, 1 Estate.
+00228 SolDominion draws 1 Copper, 1 Stonemason, 1 Village Green.
+00229 SolDominion answered
+00230 SolDominion plays 1 Stonemason using Way of the Mole.
+00231 SolDominion gets +1 Action.
+00232 SolDominion discards 1 Copper, 1 Village Green.
+00233 SolDominion answered
+00234 SolDominion plays 1 Village Green.
+00235 SolDominion looks at 3 Estate, 1 Silver, 1 Jewels, 1 Cutthroat, 7 Copper, 1 Litter, 2 Gold, 1 Stonemason, 3 Village Green, 1 Devil's Workshop.
+00236 SolDominion answered
+00237 SolDominion uses 1 Way of the Mole.
+00238 SolDominion gets +1 Action.
+00239 SolDominion shuffles their deck.
+00240 SolDominion draws 1 Gold, 1 Devil's Workshop, 1 Jewels.
+00241 SolDominion draws 1 Copper, 1 Silver, 1 Village Green.
+00242 SolDominion answered
+00243 SolDominion plays 1 Village Green.
+00244 SolDominion answered
+00245 SolDominion draws 1 Estate.
+00246 SolDominion gets +2 Actions.
+00247 SolDominion answered
+00248 SolDominion plays 1 Jewels.
+00249 SolDominion gets +1 Buy.
+00250 SolDominion gets +$3.
+00251 SolDominion answered
+00252 SolDominion answered
+00253 SolDominion answered
+00254 play treasures for
+00255 SolDominion answered
+00256 SolDominion repays 1 debt.
+00257 SolDominion answered
+00258 SolDominion buys 1 Stonemason.
+00259 SolDominion answered
+00260 SolDominion loses 5 Coins.
+00261 SolDominion gains 1 Stonemason.
+00262 SolDominion answered
+00263 SolDominion gains 2 Litter.
+00264 SolDominion answered
+00265 SolDominion answered
+00266 SolDominion plays 1 Devil's Workshop.
+00267 SolDominion gains 1 Imp.
+00268 SolDominion draws 2 Copper, 1 Gold, 1 Estate, 1 Stonemason.
+00269 ryutake starts turn 10
+00270 ryutake starts their turn.
+00271 ryutake draws 2 card. (Figurehead)
+00272 ryutake answered
+00273 play treasures for
+00274 ryutake answered
+00275 ryutake buys 1 Stonemason.
+00276 ryutake answered
+00277 ryutake loses 5 Coins.
+00278 ryutake gains 1 Stonemason.
+00279 ryutake gains 1 Cartographer.
+00280 ryutake answered
+00281 ryutake gains 1 Litter.
+00282 ryutake answered
+00283 ryutake plays 1 Devil's Workshop.
+00284 ryutake gains 1 Imp.
+00285 ryutake draws 5 card.
+00286 SolDominion starts turn 11
+00287 SolDominion starts their turn.
+00288 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00289 SolDominion answered
+00290 SolDominion plays 1 Stonemason using Way of the Mole.
+00291 SolDominion gets +1 Action.
+00292 SolDominion discards 2 Copper, 1 Gold, 1 Estate.
+00293 SolDominion draws 1 Copper, 1 Village Green, 1 Litter.
+00294 SolDominion answered
+00295 SolDominion plays 1 Litter using Way of the Mole.
+00296 SolDominion gets +1 Action.
+00297 SolDominion discards 1 Copper, 1 Village Green.
+00298 SolDominion answered
+00299 SolDominion plays 1 Village Green.
+00300 SolDominion looks at 2 Estate, 1 Silver, 1 Imp, 4 Copper, 3 Litter, 2 Gold, 3 Stonemason, 4 Village Green, 1 Devil's Workshop.
+00301 SolDominion answered
+00302 SolDominion uses 1 Way of the Mole.
+00303 SolDominion gets +1 Action.
+00304 SolDominion draws 2 Copper, 1 Estate.
+00305 SolDominion draws 1 Copper, 1 Cutthroat, 1 Jewels.
+00306 SolDominion answered
+00307 SolDominion plays 1 Cutthroat.
+00308 ryutake answered
+00309 ryutake discards 1 card, 1 Copper.
+00310 SolDominion answered
+00311 SolDominion answered
+00312 play treasures for
+00313 SolDominion answered
+00314 SolDominion plays 1 Jewels.
+00315 SolDominion gets +1 Buy.
+00316 SolDominion gets +$3.
+00317 SolDominion answered
+00318 play treasures for
+00319 SolDominion answered
+00320 SolDominion buys and gains 1 Gold.
+00321 SolDominion reveals 1 Doubloons.
+00322 SolDominion gains 1 Doubloons. (Cutthroat)
+00323 SolDominion gains 1 Gold. (Doubloons)
+00324 SolDominion answered
+00325 SolDominion shuffles their deck.
+00326 SolDominion draws 2 Copper, 2 Estate, 1 Stonemason.
+00327 ryutake starts turn 11
+00328 ryutake answered
+00329 ryutake plays 1 Cutthroat.
+00330 SolDominion answered
+00331 SolDominion discards 2 Estate.
+00332 ryutake answered
+00333 play treasures for
+00334 ryutake answered
+00335 ryutake plays 1 Hammer.
+00336 ryutake gets +$3.
+00337 ryutake answered
+00338 ryutake gains 1 Mountain Village.
+00339 ryutake answered
+00340 ryutake buys and gains 1 Gold.
+00341 ryutake reveals 1 Orb.
+00342 ryutake gains 1 Orb. (Cutthroat)
+00343 ryutake shuffles their deck.
+00344 ryutake draws 5 card.
+00345 SolDominion starts turn 12
+00346 SolDominion starts their turn.
+00347 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00348 SolDominion answered
+00349 SolDominion plays 1 Stonemason using Way of the Mole.
+00350 SolDominion gets +1 Action.
+00351 SolDominion discards 2 Copper.
+00352 SolDominion draws 2 Copper, 1 Litter.
+00353 SolDominion answered
+00354 SolDominion plays 1 Litter using Way of the Mole.
+00355 SolDominion gets +1 Action.
+00356 SolDominion discards 2 Copper.
+00357 SolDominion draws 1 Silver, 2 Gold.
+00358 SolDominion answered
+00359 SolDominion answered
+00360 SolDominion answered
+00361 play treasures for
+00362 SolDominion answered
+00363 SolDominion buys and gains 1 Province.
+00364 SolDominion draws 1 Copper, 2 Stonemason, 2 Village Green.
+00365 ryutake starts turn 12
+00366 ryutake answered
+00367 ryutake plays 1 Mountain Village.
+00368 ryutake gets +2 Actions.
+00369 ryutake draws 1 card.
+00370 ryutake answered
+00371 ryutake plays 1 Mine.
+00372 ryutake answered
+00373 ryutake trashes 1 Copper.
+00374 ryutake answered
+00375 ryutake gains 1 Silver.
+00376 ryutake answered
+00377 ryutake answered
+00378 play treasures for
+00379 ryutake answered
+00380 ryutake answered
+00381 ryutake plays 1 Devil's Workshop.
+00382 ryutake answered
+00383 ryutake gains 1 Mountain Village.
+00384 ryutake draws 5 card.
+00385 SolDominion starts turn 13
+00386 SolDominion answered
+00387 SolDominion plays 1 Stonemason using Way of the Mole.
+00388 SolDominion gets +1 Action.
+00389 SolDominion discards 1 Copper, 1 Stonemason, 2 Village Green.
+00390 SolDominion answered
+00391 SolDominion plays 1 Village Green.
+00392 SolDominion looks at 2 Estate, 1 Silver, 1 Province, 5 Copper, 1 Litter, 2 Gold, 2 Stonemason, 2 Village Green.
+00393 SolDominion answered
+00394 SolDominion uses 1 Way of the Mole.
+00395 SolDominion gets +1 Action.
+00396 SolDominion draws 2 Copper, 1 Gold.
+00397 SolDominion answered
+00398 SolDominion plays 1 Village Green.
+00399 SolDominion looks at 2 Estate, 1 Silver, 1 Province, 5 Copper, 1 Litter, 2 Gold, 2 Stonemason, 1 Village Green.
+00400 SolDominion answered
+00401 SolDominion answered
+00402 SolDominion draws 1 Stonemason.
+00403 SolDominion gets +2 Actions.
+00404 SolDominion draws 1 Village Green, 1 Doubloons, 1 Litter.
+00405 SolDominion answered
+00406 SolDominion plays 1 Village Green.
+00407 SolDominion answered
+00408 SolDominion draws 1 Litter.
+00409 SolDominion gets +2 Actions.
+00410 SolDominion answered
+00411 SolDominion plays 1 Litter.
+00412 SolDominion draws 1 Gold, 1 Imp.
+00413 SolDominion gets +2 Actions.
+00414 SolDominion takes 1 debt.
+00415 SolDominion answered
+00416 SolDominion plays 1 Imp.
+00417 SolDominion draws 1 Cutthroat, 1 Litter.
+00418 SolDominion answered
+00419 SolDominion plays 1 Cutthroat.
+00420 ryutake answered
+00421 ryutake discards 1 card, 1 Gold.
+00422 SolDominion answered
+00423 SolDominion plays 1 Litter.
+00424 SolDominion draws 1 Estate, 1 Devil's Workshop.
+00425 SolDominion gets +2 Actions.
+00426 SolDominion takes 1 debt.
+00427 SolDominion answered
+00428 SolDominion plays 1 Litter.
+00429 SolDominion draws 1 Village Green, 1 Jewels.
+00430 SolDominion gets +2 Actions.
+00431 SolDominion takes 1 debt.
+00432 SolDominion answered
+00433 SolDominion plays 1 Village Green.
+00434 SolDominion answered
+00435 SolDominion shuffles their deck.
+00436 SolDominion draws 1 Stonemason.
+00437 SolDominion gets +2 Actions.
+00438 SolDominion answered
+00439 SolDominion answered
+00440 SolDominion answered
+00441 SolDominion answered
+00442 SolDominion answered
+00443 SolDominion answered
+00444 play treasures for
+00445 SolDominion answered
+00446 SolDominion plays 1 Jewels.
+00447 SolDominion gets +1 Buy.
+00448 SolDominion gets +$3.
+00449 SolDominion answered
+00450 SolDominion repays 3 debt.
+00451 SolDominion answered
+00452 SolDominion buys and gains 1 Province.
+00453 SolDominion answered
+00454 SolDominion answered
+00455 SolDominion plays 1 Devil's Workshop.
+00456 SolDominion answered
+00457 SolDominion gains 1 Village Green.
+00458 SolDominion draws 2 Copper, 1 Silver, 1 Gold, 1 Litter.
+00459 ryutake starts turn 13
+00460 ryutake answered
+00461 ryutake plays 1 Cutthroat.
+00462 SolDominion answered
+00463 SolDominion discards 2 Copper.
+00464 ryutake answered
+00465 play treasures for
+00466 ryutake answered
+00467 ryutake plays 1 Figurehead.
+00468 ryutake gets +$3.
+00469 ryutake answered
+00470 ryutake buys and gains 1 Litter.
+00471 ryutake draws 5 card.
+00472 SolDominion starts turn 14
+00473 SolDominion starts their turn.
+00474 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00475 SolDominion answered
+00476 SolDominion plays 1 Litter.
+00477 SolDominion draws 1 Gold, 1 Province.
+00478 SolDominion gets +2 Actions.
+00479 SolDominion takes 1 debt.
+00480 SolDominion answered
+00481 SolDominion answered
+00482 SolDominion answered
+00483 play treasures for
+00484 SolDominion answered
+00485 SolDominion repays 1 debt.
+00486 SolDominion answered
+00487 SolDominion buys 1 Stonemason.
+00488 SolDominion answered
+00489 SolDominion loses 5 Coins.
+00490 SolDominion gains 1 Stonemason.
+00491 SolDominion answered
+00492 SolDominion gains 2 Litter.
+00493 SolDominion draws 3 Copper, 2 Estate.
+00494 ryutake starts turn 14
+00495 ryutake starts their turn.
+00496 ryutake draws 2 card. (Figurehead)
+00497 ryutake answered
+00498 ryutake plays 1 Imp.
+00499 ryutake draws 2 card.
+00500 ryutake answered
+00501 ryutake plays 1 Litter.
+00502 ryutake draws 2 card.
+00503 ryutake gets +2 Actions.
+00504 ryutake takes 1 debt.
+00505 ryutake answered
+00506 ryutake plays 1 Litter.
+00507 ryutake draws 2 card.
+00508 ryutake gets +2 Actions.
+00509 ryutake takes 1 debt.
+00510 ryutake answered
+00511 ryutake plays 1 Cartographer.
+00512 ryutake draws 1 card.
+00513 ryutake gets +1 Action.
+00514 ryutake shuffles their deck.
+00515 ryutake looks at 4 card.
+00516 ryutake answered
+00517 ryutake discards 2 card, 1 Gold.
+00518 ryutake topdecks 1 card.
+00519 ryutake answered
+00520 ryutake plays 1 Cartographer.
+00521 ryutake draws 1 card.
+00522 ryutake gets +1 Action.
+00523 ryutake looks at 4 card.
+00524 ryutake answered
+00525 ryutake discards 2 card, 1 Gold.
+00526 ryutake topdecks 1 card.
+00527 ryutake answered
+00528 ryutake plays 1 Mountain Village.
+00529 ryutake gets +2 Actions.
+00530 ryutake looks at 5 card, 1 Copper.
+00531 ryutake answered
+00532 ryutake puts 1 card into their hand.
+00533 ryutake answered
+00534 ryutake plays 1 Stonemason.
+00535 ryutake answered
+00536 ryutake trashes 1 Gold.
+00537 ryutake answered
+00538 ryutake gains 1 Marchland.
+00539 ryutake gets +1 Buy.
+00540 ryutake answered
+00541 ryutake discards 1 card, 1 Estate.
+00542 ryutake gets +$2.
+00543 ryutake answered
+00544 ryutake gains 1 Litter.
+00545 ryutake answered
+00546 ryutake plays 1 Orb.
+00547 ryutake looks at 8 card, 1 Copper.
+00548 ryutake answered
+00549 ryutake gets +1 Buy.
+00550 ryutake gets +$3.
+00551 ryutake answered
+00552 ryutake plays 1 Hammer.
+00553 ryutake gets +$3.
+00554 ryutake answered
+00555 ryutake gains 1 Village Green.
+00556 ryutake answered
+00557 play treasures for
+00558 ryutake answered
+00559 ryutake repays 2 debt.
+00560 ryutake answered
+00561 ryutake buys and gains 1 Cartographer.
+00562 ryutake answered
+00563 ryutake buys and gains 1 Gold.
+00564 ryutake reveals 1 Spell Scroll.
+00565 ryutake gains 1 Spell Scroll. (Cutthroat)
+00566 SolDominion reveals 1 Sextant.
+00567 SolDominion gains 1 Sextant. (Cutthroat)
+00568 ryutake answered
+00569 SolDominion discards 1 Cutthroat.
+00570 ryutake draws 5 card.
+00571 SolDominion starts turn 15
+00572 SolDominion answered
+00573 SolDominion answered
+00574 SolDominion answered
+00575 play treasures for
+00576 SolDominion answered
+00577 SolDominion answered
+00578 SolDominion buys and gains 1 Stonemason.
+00579 SolDominion shuffles their deck.
+00580 SolDominion draws 1 Copper, 1 Gold, 1 Stonemason, 1 Village Green, 1 Jewels.
+00581 ryutake starts turn 15
+00582 ryutake answered
+00583 ryutake plays 1 Mountain Village.
+00584 ryutake gets +2 Actions.
+00585 ryutake looks at 27 card, 1 Copper.
+00586 ryutake answered
+00587 ryutake puts 1 card into their hand.
+00588 ryutake answered
+00589 ryutake plays 1 Imp.
+00590 ryutake shuffles their deck.
+00591 ryutake draws 2 card.
+00592 ryutake answered
+00593 ryutake plays 1 Litter.
+00594 ryutake draws 2 card.
+00595 ryutake gets +2 Actions.
+00596 ryutake takes 1 debt.
+00597 ryutake answered
+00598 ryutake plays 1 Litter.
+00599 ryutake draws 2 card.
+00600 ryutake gets +2 Actions.
+00601 ryutake takes 1 debt.
+00602 ryutake answered
+00603 ryutake plays 1 Cutthroat.
+00604 SolDominion answered
+00605 SolDominion discards 1 Copper, 1 Village Green.
+00606 SolDominion answered
+00607 SolDominion plays 1 Village Green.
+00608 SolDominion answered
+00609 SolDominion answered
+00610 ryutake answered
+00611 ryutake plays 1 Mine.
+00612 ryutake answered
+00613 ryutake trashes 1 Silver.
+00614 ryutake answered
+00615 ryutake gains 1 Gold.
+00616 ryutake reveals 1 Endless Chalice.
+00617 ryutake gains 1 Endless Chalice. (Cutthroat)
+00618 ryutake answered
+00619 ryutake plays 1 Hammer.
+00620 ryutake gets +$3.
+00621 ryutake answered
+00622 ryutake gains 1 Mountain Village.
+00623 ryutake answered
+00624 play treasures for
+00625 ryutake answered
+00626 ryutake repays 2 debt.
+00627 ryutake answered
+00628 ryutake buys and gains 1 Marchland.
+00629 ryutake gets +1 Buy.
+00630 ryutake answered
+00631 ryutake discards 1 Estate.
+00632 ryutake gets +$1.
+00633 ryutake answered
+00634 ryutake answered
+00635 ryutake plays 1 Devil's Workshop.
+00636 ryutake gains 1 Imp.
+00637 ryutake draws 5 card.
+00638 SolDominion starts turn 16
+00639 SolDominion starts their turn.
+00640 SolDominion draws 1 Litter. (Village Green)
+00641 SolDominion gets +2 Actions. (Village Green)
+00642 SolDominion answered
+00643 SolDominion plays 1 Litter.
+00644 SolDominion draws 1 Gold, 1 Cutthroat.
+00645 SolDominion gets +2 Actions.
+00646 SolDominion takes 1 debt.
+00647 SolDominion answered
+00648 SolDominion plays 1 Cutthroat.
+00649 ryutake answered
+00650 ryutake discards 1 card, 1 Stonemason.
+00651 SolDominion answered
+00652 SolDominion answered
+00653 play treasures for
+00654 SolDominion answered
+00655 SolDominion plays 1 Jewels.
+00656 SolDominion gets +1 Buy.
+00657 SolDominion gets +$3.
+00658 SolDominion answered
+00659 play treasures for
+00660 SolDominion answered
+00661 SolDominion repays 1 debt.
+00662 SolDominion answered
+00663 SolDominion buys and gains 1 Province.
+00664 SolDominion answered
+00665 SolDominion draws 1 Copper, 1 Estate, 1 Province, 2 Litter.
+00666 ryutake starts turn 16
+00667 ryutake answered
+00668 ryutake plays 1 Mountain Village.
+00669 ryutake gets +2 Actions.
+00670 ryutake looks at 17 card, 1 Endless Chalice.
+00671 ryutake answered
+00672 ryutake puts 1 card into their hand.
+00673 ryutake answered
+00674 ryutake plays 1 Imp.
+00675 ryutake draws 2 card.
+00676 ryutake answered
+00677 ryutake plays 1 Litter.
+00678 ryutake draws 2 card.
+00679 ryutake gets +2 Actions.
+00680 ryutake takes 1 debt.
+00681 ryutake answered
+00682 ryutake plays 1 Spell Scroll.
+00683 ryutake trashes 1 Spell Scroll.
+00684 ryutake answered
+00685 ryutake gains 1 Cartographer.
+00686 ryutake answered
+00687 ryutake plays 1 Cartographer.
+00688 ryutake answered
+00689 ryutake draws 1 card.
+00690 ryutake gets +1 Action.
+00691 ryutake looks at 4 card.
+00692 ryutake answered
+00693 ryutake discards 2 card, 1 Gold.
+00694 ryutake answered
+00695 ryutake plays 1 Village Green.
+00696 ryutake looks at 20 card.
+00697 ryutake answered
+00698 ryutake answered
+00699 ryutake draws 1 card.
+00700 ryutake gets +2 Actions.
+00701 ryutake topdecks 1 card.
+00702 ryutake answered
+00703 ryutake plays 1 Cartographer.
+00704 ryutake draws 1 card.
+00705 ryutake gets +1 Action.
+00706 ryutake looks at 4 card.
+00707 ryutake answered
+00708 ryutake discards 1 card, 1 Estate.
+00709 ryutake answered
+00710 ryutake topdecks 2 card.
+00711 ryutake answered
+00712 ryutake plays 1 Cartographer.
+00713 ryutake draws 1 card.
+00714 ryutake gets +1 Action.
+00715 ryutake looks at 4 card.
+00716 ryutake answered
+00717 ryutake discards 1 card, 1 Gold.
+00718 ryutake answered
+00719 ryutake topdecks 2 card.
+00720 ryutake answered
+00721 ryutake plays 1 Cartographer.
+00722 ryutake draws 1 card.
+00723 ryutake gets +1 Action.
+00724 ryutake shuffles their deck.
+00725 ryutake looks at 4 card.
+00726 ryutake answered
+00727 ryutake discards 1 card, 1 Estate.
+00728 ryutake answered
+00729 ryutake topdecks 2 card.
+00730 ryutake answered
+00731 ryutake plays 1 Litter.
+00732 ryutake draws 2 card.
+00733 ryutake gets +2 Actions.
+00734 ryutake takes 1 debt.
+00735 ryutake answered
+00736 ryutake plays 1 Mine.
+00737 ryutake answered
+00738 ryutake trashes 1 Copper.
+00739 ryutake answered
+00740 ryutake gains 1 Silver.
+00741 ryutake answered
+00742 ryutake plays 1 Stonemason.
+00743 ryutake answered
+00744 ryutake trashes 1 Gold.
+00745 ryutake answered
+00746 ryutake gains 1 Marchland.
+00747 ryutake gets +1 Buy.
+00748 ryutake answered
+00749 ryutake answered
+00750 ryutake gains 1 Cartographer.
+00751 ryutake answered
+00752 ryutake plays 1 Orb.
+00753 ryutake looks at 3 card, 1 Copper.
+00754 ryutake answered
+00755 ryutake gets +1 Buy.
+00756 ryutake gets +$3.
+00757 ryutake answered
+00758 ryutake plays 1 Figurehead.
+00759 ryutake gets +$3.
+00760 ryutake answered
+00761 ryutake answered
+00762 play treasures for
+00763 ryutake answered
+00764 ryutake repays 2 debt.
+00765 ryutake answered
+00766 ryutake buys and gains 1 Cartographer.
+00767 ryutake answered
+00768 ryutake draws 5 card.
+00769 SolDominion starts turn 17
+00770 SolDominion starts their turn.
+00771 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00772 SolDominion answered
+00773 SolDominion plays 1 Litter using Way of the Mole.
+00774 SolDominion gets +1 Action.
+00775 SolDominion discards 1 Copper, 1 Estate, 1 Province, 1 Litter.
+00776 SolDominion draws 3 Copper.
+00777 SolDominion answered
+00778 SolDominion answered
+00779 SolDominion answered
+00780 play treasures for
+00781 SolDominion answered
+00782 SolDominion answered
+00783 SolDominion buys and gains 1 Stonemason.
+00784 SolDominion draws 1 Silver, 2 Stonemason, 2 Litter.
+00785 ryutake starts turn 17
+00786 ryutake starts their turn.
+00787 ryutake draws 2 card. (Figurehead)
+00788 ryutake answered
+00789 ryutake plays 1 Imp.
+00790 ryutake draws 2 card.
+00791 ryutake answered
+00792 ryutake plays 1 Litter.
+00793 ryutake draws 2 card.
+00794 ryutake gets +2 Actions.
+00795 ryutake takes 1 debt.
+00796 ryutake answered
+00797 ryutake plays 1 Litter.
+00798 ryutake draws 2 card.
+00799 ryutake gets +2 Actions.
+00800 ryutake takes 1 debt.
+00801 ryutake answered
+00802 ryutake plays 1 Mountain Village.
+00803 ryutake gets +2 Actions.
+00804 ryutake looks at 18 card, 1 Copper.
+00805 ryutake answered
+00806 ryutake puts 1 card into their hand.
+00807 ryutake answered
+00808 ryutake plays 1 Imp.
+00809 ryutake draws 2 card.
+00810 ryutake answered
+00811 ryutake plays 1 Mountain Village.
+00812 ryutake gets +2 Actions.
+00813 ryutake looks at 17 card, 1 Copper.
+00814 ryutake answered
+00815 ryutake puts 1 card into their hand.
+00816 ryutake answered
+00817 ryutake plays 1 Litter.
+00818 ryutake draws 2 card.
+00819 ryutake gets +2 Actions.
+00820 ryutake takes 1 debt.
+00821 ryutake answered
+00822 ryutake plays 1 Cutthroat.
+00823 SolDominion answered
+00824 SolDominion discards 2 Stonemason.
+00825 ryutake answered
+00826 play treasures for
+00827 ryutake gets +1 Buy.
+00828 ryutake answered
+00829 ryutake answered
+00830 ryutake answered
+00831 ryutake answered
+00832 ryutake answered
+00833 play treasures for
+00834 ryutake answered
+00835 ryutake plays 1 Hammer.
+00836 ryutake gets +$3.
+00837 ryutake answered
+00838 ryutake gains 1 Mountain Village.
+00839 ryutake answered
+00840 ryutake repays 3 debt.
+00841 ryutake answered
+00842 ryutake buys and gains 1 Marchland.
+00843 ryutake gets +1 Buy.
+00844 ryutake answered
+00845 ryutake discards 2 card, 1 Marchland.
+00846 ryutake gets +$3.
+00847 ryutake answered
+00848 ryutake buys and gains 1 Marchland.
+00849 ryutake gets +1 Buy.
+00850 ryutake answered
+00851 ryutake answered
+00852 ryutake buys and gains 1 Duchy.
+00853 ryutake answered
+00854 ryutake answered
+00855 ryutake plays 1 Devil's Workshop.
+00856 ryutake gains 1 Imp.
+00857 ryutake shuffles their deck.
+00858 ryutake draws 5 card.
+00859 SolDominion starts turn 18
+00860 SolDominion answered
+00861 SolDominion plays 1 Litter.
+00862 SolDominion draws 1 Village Green, 1 Sextant.
+00863 SolDominion gets +2 Actions.
+00864 SolDominion takes 1 debt.
+00865 SolDominion answered
+00866 SolDominion plays 1 Village Green.
+00867 SolDominion answered
+00868 SolDominion draws 1 Estate.
+00869 SolDominion gets +2 Actions.
+00870 SolDominion answered
+00871 SolDominion plays 1 Litter.
+00872 SolDominion draws 1 Village Green, 1 Doubloons.
+00873 SolDominion gets +2 Actions.
+00874 SolDominion takes 1 debt.
+00875 SolDominion answered
+00876 SolDominion plays 1 Village Green.
+00877 SolDominion answered
+00878 SolDominion draws 1 Gold.
+00879 SolDominion gets +2 Actions.
+00880 SolDominion answered
+00881 SolDominion plays 1 Sextant.
+00882 SolDominion gets +1 Buy.
+00883 SolDominion gets +$3.
+00884 SolDominion looks at 1 Copper, 1 Gold, 1 Stonemason, 1 Imp, 1 Litter.
+00885 SolDominion answered
+00886 SolDominion discards 1 Copper.
+00887 SolDominion answered
+00888 SolDominion topdecks 1 Gold, 1 Stonemason, 1 Imp, 1 Litter.
+00889 SolDominion answered
+00890 SolDominion answered
+00891 SolDominion answered
+00892 play treasures for
+00893 SolDominion answered
+00894 SolDominion repays 2 debt.
+00895 SolDominion answered
+00896 SolDominion buys and gains 1 Marchland.
+00897 SolDominion gets +1 Buy.
+00898 SolDominion answered
+00899 SolDominion discards 1 Estate.
+00900 SolDominion gets +$1.
+00901 SolDominion answered
+00902 SolDominion buys and gains 1 Marchland.
+00903 SolDominion gets +1 Buy.
+00904 SolDominion answered
+00905 SolDominion draws 1 Gold, 1 Province, 1 Stonemason, 1 Imp, 1 Litter.
+00906 ryutake starts turn 18
+00907 ryutake starts their turn.
+00908 ryutake gets +1 Buy. (Endless Chalice)
+00909 ryutake gets +$1. (Endless Chalice)
+00910 ryutake answered
+00911 ryutake plays 1 Stonemason.
+00912 ryutake answered
+00913 ryutake trashes 1 Gold.
+00914 ryutake answered
+00915 ryutake gains 1 Marchland.
+00916 ryutake gets +1 Buy.
+00917 ryutake answered
+00918 ryutake discards 1 card, 1 Stonemason.
+00919 ryutake gets +$2.
+00920 ryutake answered
+00921 ryutake gains 1 Duchy.
+00922 ryutake answered
+00923 play treasures for
+00924 ryutake answered
+00925 ryutake buys and gains 1 Duchy.
+00926 ryutake answered
+00927 ryutake draws 5 card.
+00928 SolDominion starts turn 19
+00929 SolDominion answered
+00930 SolDominion plays 1 Imp.
+00931 SolDominion draws 1 Stonemason, 1 Village Green.
+00932 SolDominion answered
+00933 SolDominion plays 1 Village Green.
+00934 SolDominion answered
+00935 SolDominion draws 1 Village Green.
+00936 SolDominion gets +2 Actions.
+00937 SolDominion answered
+00938 SolDominion plays 1 Stonemason using Way of the Mole.
+00939 SolDominion gets +1 Action.
+00940 SolDominion discards 1 Gold, 1 Province, 1 Stonemason, 1 Village Green, 1 Litter.
+00941 SolDominion answered
+00942 SolDominion answered
+00943 SolDominion plays 1 Village Green using Way of the Mole.
+00944 SolDominion gets +1 Action.
+00945 SolDominion draws 1 Copper, 1 Estate, 1 Stonemason.
+00946 SolDominion shuffles their deck.
+00947 SolDominion draws 1 Devil's Workshop, 1 Marchland, 1 Jewels.
+00948 SolDominion answered
+00949 SolDominion plays 1 Stonemason using Way of the Mole.
+00950 SolDominion gets +1 Action.
+00951 SolDominion discards 1 Copper, 1 Estate, 1 Devil's Workshop, 1 Marchland, 1 Jewels.
+00952 SolDominion draws 1 Copper, 1 Gold, 1 Province.
+00953 SolDominion answered
+00954 SolDominion answered
+00955 play treasures for
+00956 SolDominion answered
+00957 SolDominion buys and gains 1 Estate.
+00958 SolDominion draws 1 Copper, 1 Village Green, 1 Sextant, 2 Litter.
+00959 ryutake starts turn 19
+00960 ryutake starts their turn.
+00961 ryutake gets +1 Buy. (Endless Chalice)
+00962 ryutake gets +$1. (Endless Chalice)
+00963 ryutake answered
+00964 ryutake plays 1 Cartographer.
+00965 ryutake draws 1 card.
+00966 ryutake gets +1 Action.
+00967 ryutake looks at 4 card.
+00968 ryutake answered
+00969 ryutake discards 3 card, 1 Mine.
+00970 ryutake answered
+00971 ryutake plays 1 Imp.
+00972 ryutake draws 2 card.
+00973 ryutake answered
+00974 ryutake plays 1 Litter.
+00975 ryutake draws 2 card.
+00976 ryutake gets +2 Actions.
+00977 ryutake takes 1 debt.
+00978 ryutake answered
+00979 ryutake plays 1 Cartographer.
+00980 ryutake draws 1 card.
+00981 ryutake gets +1 Action.
+00982 ryutake looks at 4 card.
+00983 ryutake answered
+00984 ryutake discards 1 Copper.
+00985 ryutake answered
+00986 ryutake topdecks 3 card.
+00987 ryutake answered
+00988 ryutake plays 1 Cartographer.
+00989 ryutake draws 1 card.
+00990 ryutake gets +1 Action.
+00991 ryutake looks at 4 card.
+00992 ryutake answered
+00993 ryutake discards 1 Village Green.
+00994 ryutake answered
+00995 ryutake plays 1 Village Green.
+00996 ryutake answered
+00997 ryutake answered
+00998 ryutake draws 1 card.
+00999 ryutake gets +2 Actions.
+01000 ryutake answered
+01001 ryutake topdecks 3 card.
+01002 ryutake answered
+01003 ryutake plays 1 Cartographer.
+01004 ryutake draws 1 card.
+01005 ryutake gets +1 Action.
+01006 ryutake looks at 4 card.
+01007 ryutake answered
+01008 ryutake discards 1 Silver.
+01009 ryutake answered
+01010 ryutake topdecks 3 card.
+01011 ryutake answered
+01012 ryutake plays 1 Litter.
+01013 ryutake draws 2 card.
+01014 ryutake gets +2 Actions.
+01015 ryutake takes 1 debt.
+01016 ryutake answered
+01017 ryutake plays 1 Mountain Village.
+01018 ryutake gets +2 Actions.
+01019 ryutake looks at 12 card, 1 Marchland.
+01020 ryutake answered
+01021 ryutake puts 1 card into their hand.
+01022 ryutake answered
+01023 ryutake plays 1 Mountain Village.
+01024 ryutake gets +2 Actions.
+01025 ryutake looks at 11 card, 1 Marchland.
+01026 ryutake answered
+01027 ryutake puts 1 card into their hand.
+01028 ryutake answered
+01029 ryutake plays 1 Mountain Village.
+01030 ryutake gets +2 Actions.
+01031 ryutake looks at 10 card, 1 Marchland.
+01032 ryutake answered
+01033 ryutake puts 1 card into their hand.
+01034 ryutake answered
+01035 ryutake plays 1 Mine.
+01036 ryutake answered
+01037 ryutake trashes 1 Silver.
+01038 ryutake answered
+01039 ryutake gains 1 Gold.
+01040 ryutake reveals 1 Staff.
+01041 ryutake gains 1 Staff. (Cutthroat)
+01042 SolDominion reveals 1 Insignia.
+01043 SolDominion gains 1 Insignia. (Cutthroat)
+01044 ryutake answered
+01045 ryutake plays 1 Stonemason.
+01046 ryutake answered
+01047 ryutake trashes 1 Gold.
+01048 ryutake answered
+01049 ryutake answered
+01050 ryutake gains 2 Duchy.

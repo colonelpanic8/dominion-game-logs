@@ -1,0 +1,25 @@
+{
+  "phase": "complete",
+  "created_at": "2026-11-17T08:24:35.958166+00:00",
+  "user_decision": "Start a fresh best-of-five (recommended)",
+  "old_series": "fable-astra-bo5-20261116",
+  "new_series": "fable-astra-bo5-20261117-clean",
+  "playbook_revision": "686351798394ee507cefcc58a5a67891e224c416",
+  "application_revision": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "dotfiles_commit": "239b1fa5",
+  "built_system": "/nix/store/g1ins862yp60nq8ym7hfnvmwjavxpcvs-nixos-system-jimi-hendnix-26.11.20261030.1c89083",
+  "model_guard_tests": "7 focused model checks + 6 coordinator lifecycle checks passed; ruff format/check passed",
+  "sol_saved_games_before_activation": 22,
+  "fable_schedule_id": "scheduled-task:7ced4cc8-466f-42bf-9f42-a81655a14e0d",
+  "verified_at": "2026-11-17T08:25:18.294219+00:00",
+  "live_system": "/nix/store/g1ins862yp60nq8ym7hfnvmwjavxpcvs-nixos-system-jimi-hendnix-26.11.20261030.1c89083",
+  "server_restarted": false,
+  "fresh_game": "g72",
+  "sol_game": "dominion.games:186043033",
+  "schedules_enabled": true,
+  "verified_actual_models": {
+    "Fable High": "claude-fable-5-2",
+    "Astra High": "gpt-6-astra"
+  },
+  "finished_at": "2026-11-17T08:26:41.781115+00:00"
+}

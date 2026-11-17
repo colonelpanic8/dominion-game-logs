@@ -1,0 +1,43 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186041477",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "Cursed",
+    "seq": 1,
+    "text": "The Cursed Trait is acquired by Player 0 supply.",
+    "type": "official-acquires-trait"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "rainshifter starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "rainshifter starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "SolDominion answered",
+    "type": "decision"
+  }
+]

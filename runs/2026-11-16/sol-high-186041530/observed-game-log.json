@@ -1,0 +1,1640 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186041530",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "card": "Magic Lamp",
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 1 Magic Lamp.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "SolDominion starts with 6 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "Stemar starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "card": "Magic Lamp",
+    "player": 1,
+    "seq": 5,
+    "text": "Stemar starts with 1 Magic Lamp.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "Stemar starts with 6 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "Stemar shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Magic Lamp.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 12,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "Stemar starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 25,
+    "text": "Stemar buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 0,
+    "seq": 34,
+    "text": "SolDominion buys and gains 1 Bounty Hunter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 36,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "Stemar starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 1,
+    "seq": 41,
+    "text": "Stemar buys and gains 1 Bounty Hunter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "Stemar shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 43,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Secret Cave",
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion buys and gains 1 Secret Cave.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Magic Lamp, 1 Bounty Hunter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "Stemar starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Settlers",
+    "player": 1,
+    "seq": 56,
+    "text": "Stemar buys and gains 1 Settlers.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 0,
+    "seq": 60,
+    "text": "SolDominion plays 1 Bounty Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion exiles 1 Copper.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sea Witch",
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion buys and gains 1 Sea Witch.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Sea Witch.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "Stemar starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 1,
+    "seq": 75,
+    "text": "Stemar plays 1 Bounty Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 76,
+    "text": "Stemar gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 78,
+    "text": "Stemar exiles 1 Copper.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "Stemar gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 80,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 81,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sea Witch",
+    "player": 1,
+    "seq": 83,
+    "text": "Stemar buys and gains 1 Sea Witch.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "Stemar shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sea Witch",
+    "player": 0,
+    "seq": 88,
+    "text": "SolDominion plays 1 Sea Witch.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 89,
+    "text": "SolDominion draws 2 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 90,
+    "text": "Stemar gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 97,
+    "text": "SolDominion buys and gains 1 Abundance.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Magic Lamp, 1 Bounty Hunter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 99,
+    "text": "Stemar starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 100,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 1,
+    "seq": 101,
+    "text": "Stemar plays 1 Bounty Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "Stemar gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 104,
+    "text": "Stemar exiles 1 Estate.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "Stemar gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 1,
+    "seq": 109,
+    "text": "Stemar buys and gains 1 Margrave.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 112,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 114,
+    "text": "SolDominion draws 1 Estate, 1 Secret Cave. (Sea Witch)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 115,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 116,
+    "text": "SolDominion discards 1 Copper, 1 Estate. (Sea Witch)",
+    "type": "official-discard-with"
+  },
+  {
+    "player": 0,
+    "seq": 117,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Secret Cave",
+    "player": 0,
+    "seq": 118,
+    "text": "SolDominion plays 1 Secret Cave.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 119,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 120,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion plays 1 Bounty Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 126,
+    "text": "SolDominion exiles 1 Estate.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Magic Lamp",
+    "player": 0,
+    "seq": 132,
+    "text": "SolDominion trashes 1 Magic Lamp.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "SolDominion gains 3 Wish.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 135,
+    "text": "SolDominion buys and gains 1 Margrave.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "Stemar starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Settlers",
+    "player": 1,
+    "seq": 139,
+    "text": "Stemar plays 1 Settlers.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 140,
+    "text": "Stemar draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "Stemar gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 142,
+    "text": "Stemar looks at 5 card, 1 Curse.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 143,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 144,
+    "text": "Stemar puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sea Witch",
+    "player": 1,
+    "seq": 146,
+    "text": "Stemar plays 1 Sea Witch.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "Stemar draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 148,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 1,
+    "seq": 152,
+    "text": "Stemar buys and gains 1 Margrave.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "Stemar shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 160,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 162,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Settlers",
+    "player": 0,
+    "seq": 164,
+    "text": "SolDominion buys and gains 1 Settlers.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Walled Village",
+    "player": 0,
+    "seq": 168,
+    "text": "SolDominion buys and gains 1 Walled Village.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Margrave, 1 Walled Village, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "Stemar starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "Stemar starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "Stemar draws 2 card. (Sea Witch)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "Stemar discards 1 card, 1 Estate. (Sea Witch)",
+    "type": "official-discard-with"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Settlers",
+    "player": 1,
+    "seq": 177,
+    "text": "Stemar plays 1 Settlers.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 178,
+    "text": "Stemar draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "Stemar gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 180,
+    "text": "Stemar looks at 1 card, 1 Curse.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 181,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 182,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 183,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 184,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 185,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 186,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Walled Village",
+    "player": 1,
+    "seq": 187,
+    "text": "Stemar buys and gains 1 Walled Village.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "Stemar draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Walled Village",
+    "player": 0,
+    "seq": 191,
+    "text": "SolDominion plays 1 Walled Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Secret Cave",
+    "player": 0,
+    "seq": 192,
+    "text": "SolDominion draws 1 Secret Cave.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 193,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 194,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 195,
+    "text": "SolDominion plays 1 Margrave.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "SolDominion draws 1 Copper, 2 Wish.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 197,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 198,
+    "text": "Stemar draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 200,
+    "text": "Stemar discards 2 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 202,
+    "text": "SolDominion plays 1 Wish.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 203,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 204,
+    "text": "SolDominion returns 1 Wish to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 205,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Walled Village",
+    "player": 0,
+    "seq": 206,
+    "text": "SolDominion gains 1 Walled Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 207,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Walled Village",
+    "player": 0,
+    "seq": 208,
+    "text": "SolDominion plays 1 Walled Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 209,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 211,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Secret Cave",
+    "player": 0,
+    "seq": 212,
+    "text": "SolDominion plays 1 Secret Cave.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 213,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 214,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 216,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 217,
+    "text": "SolDominion plays 1 Wish.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 218,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 219,
+    "text": "SolDominion returns 1 Wish to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 221,
+    "text": "SolDominion gains 1 Margrave.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 223,
+    "text": "SolDominion plays 1 Margrave.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "SolDominion draws 1 Settlers, 1 Wish, 1 Bounty Hunter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 226,
+    "text": "Stemar shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 227,
+    "text": "Stemar draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 228,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magic Lamp",
+    "player": 1,
+    "seq": 229,
+    "text": "Stemar discards 1 Magic Lamp.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Settlers",
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion plays 1 Settlers.",
+    "type": "official-play"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 232,
+    "text": "SolDominion draws 1 Curse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion plays 1 Wish.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Wish",
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion returns 1 Wish to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 239,
+    "text": "SolDominion gains 1 Margrave.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bounty Hunter",
+    "player": 0,
+    "seq": 241,
+    "text": "SolDominion plays 1 Bounty Hunter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 243,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 244,
+    "text": "SolDominion exiles 1 Curse.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 245,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 246,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Margrave",
+    "player": 0,
+    "seq": 247,
+    "text": "SolDominion plays 1 Margrave.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 248,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 250,
+    "text": "Stemar draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "Stemar answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 252,
+    "text": "Stemar discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 254,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  }
+]

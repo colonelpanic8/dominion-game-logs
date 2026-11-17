@@ -1,0 +1,815 @@
+00000 game 186043033
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 7 Copper.
+00003 Kaityo_777 starts with 3 Estate.
+00004 Kaityo_777 starts with 7 Copper.
+00005 SolDominion answered
+00006 Kaityo_777 answered
+00007 SolDominion shuffles their deck.
+00008 Kaityo_777 shuffles their deck.
+00009 SolDominion draws 4 Copper, 1 Estate.
+00010 Kaityo_777 draws 5 card.
+00011 SolDominion starts turn 1
+00012 SolDominion answered
+00013 SolDominion answered
+00014 SolDominion answered
+00015 SolDominion answered
+00016 play treasures for
+00017 SolDominion answered
+00018 SolDominion buys and gains 1 Research.
+00019 SolDominion draws 3 Copper, 2 Estate.
+00020 Kaityo_777 starts turn 1
+00021 Kaityo_777 answered
+00022 play treasures for
+00023 Kaityo_777 answered
+00024 Kaityo_777 buys and gains 1 Potion.
+00025 Kaityo_777 draws 5 card.
+00026 SolDominion starts turn 2
+00027 SolDominion answered
+00028 SolDominion answered
+00029 SolDominion answered
+00030 play treasures for
+00031 SolDominion answered
+00032 SolDominion buys and gains 1 Peasant.
+00033 SolDominion shuffles their deck.
+00034 SolDominion draws 4 Copper, 1 Estate.
+00035 Kaityo_777 starts turn 2
+00036 Kaityo_777 answered
+00037 play treasures for
+00038 Kaityo_777 answered
+00039 Kaityo_777 buys and gains 1 Peasant.
+00040 Kaityo_777 shuffles their deck.
+00041 Kaityo_777 draws 5 card.
+00042 SolDominion starts turn 3
+00043 SolDominion answered
+00044 SolDominion answered
+00045 SolDominion answered
+00046 SolDominion answered
+00047 play treasures for
+00048 SolDominion answered
+00049 SolDominion buys and gains 1 Flag Bearer.
+00050 SolDominion takes 1 Flag.
+00051 SolDominion draws 3 Copper, 1 Estate, 1 Peasant, 1 Research.
+00052 Kaityo_777 starts turn 3
+00053 Kaityo_777 answered
+00054 play treasures for
+00055 Kaityo_777 plays 1 Potion.
+00056 Kaityo_777 answered
+00057 Kaityo_777 buys and gains 1 University.
+00058 Kaityo_777 draws 5 card.
+00059 SolDominion starts turn 4
+00060 SolDominion answered
+00061 SolDominion plays 1 Research.
+00062 SolDominion gets +1 Action.
+00063 SolDominion answered
+00064 SolDominion trashes 1 Estate.
+00065 SolDominion shuffles their deck.
+00066 SolDominion sets 1 Copper, 1 Estate aside.
+00067 SolDominion answered
+00068 SolDominion plays 1 Peasant.
+00069 SolDominion gets +1 Buy.
+00070 SolDominion gets +$1.
+00071 SolDominion answered
+00072 SolDominion answered
+00073 SolDominion answered
+00074 play treasures for
+00075 SolDominion answered
+00076 SolDominion buys and gains 1 Town.
+00077 SolDominion answered
+00078 SolDominion begins their Cleanup phase.
+00079 SolDominion answered
+00080 SolDominion returns 1 Peasant.
+00081 SolDominion receives 1 Soldier.
+00082 SolDominion shuffles their deck.
+00083 SolDominion draws 4 Copper, 1 Estate, 1 Flag Bearer.
+00084 Kaityo_777 starts turn 4
+00085 Kaityo_777 answered
+00086 Kaityo_777 plays 1 Peasant.
+00087 Kaityo_777 gets +1 Buy.
+00088 Kaityo_777 gets +$1.
+00089 Kaityo_777 answered
+00090 play treasures for
+00091 Kaityo_777 answered
+00092 Kaityo_777 buys and gains 1 Flag Bearer.
+00093 Kaityo_777 takes 1 Flag.
+00094 Kaityo_777 answered
+00095 Kaityo_777 begins their Cleanup phase.
+00096 Kaityo_777 answered
+00097 Kaityo_777 returns 1 Peasant.
+00098 Kaityo_777 receives 1 Soldier.
+00099 Kaityo_777 shuffles their deck.
+00100 Kaityo_777 draws 6 card.
+00101 SolDominion starts turn 5
+00102 SolDominion starts their turn.
+00103 SolDominion puts 1 Copper, 1 Estate in hand (Research).
+00104 SolDominion answered
+00105 SolDominion plays 1 Flag Bearer.
+00106 SolDominion gets +$2.
+00107 SolDominion answered
+00108 SolDominion answered
+00109 SolDominion answered
+00110 SolDominion answered
+00111 SolDominion answered
+00112 play treasures for
+00113 SolDominion answered
+00114 SolDominion buys and gains 1 Council Room.
+00115 SolDominion shuffles their deck.
+00116 SolDominion draws 2 Copper, 1 Soldier, 1 Research, 1 Town.
+00117 Kaityo_777 starts turn 5
+00118 Kaityo_777 answered
+00119 Kaityo_777 plays 1 University.
+00120 Kaityo_777 gets +2 Actions.
+00121 Kaityo_777 answered
+00122 Kaityo_777 gains 1 Council Room.
+00123 Kaityo_777 answered
+00124 play treasures for
+00125 Kaityo_777 plays 1 Potion.
+00126 Kaityo_777 answered
+00127 Kaityo_777 buys and gains 1 University.
+00128 Kaityo_777 draws 6 card.
+00129 SolDominion starts turn 6
+00130 SolDominion answered
+00131 SolDominion plays 1 Town.
+00132 SolDominion answered
+00133 SolDominion draws 1 Council Room.
+00134 SolDominion gets +2 Actions.
+00135 SolDominion answered
+00136 SolDominion plays 1 Council Room.
+00137 SolDominion draws 3 Copper, 1 Flag Bearer.
+00138 SolDominion gets +1 Buy.
+00139 Kaityo_777 draws 1 card.
+00140 SolDominion answered
+00141 SolDominion plays 1 Research.
+00142 SolDominion gets +1 Action.
+00143 SolDominion answered
+00144 SolDominion trashes 1 Copper.
+00145 SolDominion answered
+00146 SolDominion plays 1 Soldier.
+00147 SolDominion gets +$2.
+00148 Kaityo_777 answered
+00149 Kaityo_777 discards 1 Estate.
+00150 SolDominion answered
+00151 SolDominion answered
+00152 SolDominion answered
+00153 SolDominion answered
+00154 play treasures for
+00155 SolDominion answered
+00156 SolDominion buys 1 Lost Arts.
+00157 SolDominion answered
+00158 SolDominion moves plus action to Player 0 supply.
+00159 SolDominion answered
+00160 SolDominion begins their Cleanup phase.
+00161 SolDominion answered
+00162 SolDominion returns 1 Soldier.
+00163 SolDominion receives 1 Fugitive.
+00164 SolDominion shuffles their deck.
+00165 SolDominion draws 2 Copper, 2 Estate, 1 Council Room.
+00166 Kaityo_777 starts turn 6
+00167 Kaityo_777 answered
+00168 Kaityo_777 plays 1 Soldier.
+00169 Kaityo_777 gets +$2.
+00170 SolDominion answered
+00171 SolDominion discards 1 Estate.
+00172 Kaityo_777 answered
+00173 play treasures for
+00174 Kaityo_777 answered
+00175 Kaityo_777 buys and gains 1 Research.
+00176 Kaityo_777 begins their Cleanup phase.
+00177 Kaityo_777 answered
+00178 Kaityo_777 returns 1 Soldier.
+00179 Kaityo_777 receives 1 Fugitive.
+00180 Kaityo_777 shuffles their deck.
+00181 Kaityo_777 draws 6 card.
+00182 SolDominion starts turn 7
+00183 SolDominion answered
+00184 SolDominion plays 1 Council Room.
+00185 SolDominion draws 1 Copper, 1 Fugitive, 1 Flag Bearer, 1 Town.
+00186 SolDominion gets +1 Buy.
+00187 Kaityo_777 draws 1 card.
+00188 SolDominion answered
+00189 SolDominion answered
+00190 SolDominion answered
+00191 play treasures for
+00192 SolDominion answered
+00193 SolDominion buys 1 Foresight.
+00194 SolDominion reveals 3 Copper, 1 Research.
+00195 SolDominion sets 1 Research aside.
+00196 SolDominion discards 3 Copper.
+00197 SolDominion answered
+00198 SolDominion shuffles their deck.
+00199 SolDominion draws 2 Copper, 1 Estate, 1 Council Room, 1 Fugitive.
+00200 SolDominion puts 1 Research into their hand.
+00201 Kaityo_777 starts turn 7
+00202 Kaityo_777 answered
+00203 Kaityo_777 plays 1 University.
+00204 Kaityo_777 gets +2 Actions.
+00205 Kaityo_777 answered
+00206 Kaityo_777 gains 1 Council Room.
+00207 Kaityo_777 answered
+00208 Kaityo_777 plays 1 Fugitive.
+00209 Kaityo_777 draws 2 card.
+00210 Kaityo_777 gets +1 Action.
+00211 Kaityo_777 answered
+00212 Kaityo_777 discards 1 Estate.
+00213 Kaityo_777 answered
+00214 Kaityo_777 plays 1 Flag Bearer.
+00215 Kaityo_777 gets +$2.
+00216 Kaityo_777 answered
+00217 Kaityo_777 answered
+00218 play treasures for
+00219 Kaityo_777 plays 1 Potion.
+00220 Kaityo_777 answered
+00221 Kaityo_777 buys and gains 1 Research.
+00222 Kaityo_777 begins their Cleanup phase.
+00223 Kaityo_777 answered
+00224 Kaityo_777 returns 1 Fugitive.
+00225 Kaityo_777 receives 1 Disciple.
+00226 Kaityo_777 draws 6 card.
+00227 SolDominion starts turn 8
+00228 SolDominion answered
+00229 SolDominion plays 1 Fugitive.
+00230 SolDominion draws 1 Copper, 1 Flag Bearer.
+00231 SolDominion gets +1 Action.
+00232 SolDominion answered
+00233 SolDominion discards 1 Copper.
+00234 SolDominion answered
+00235 SolDominion plays 1 Research.
+00236 SolDominion gets +1 Action.
+00237 SolDominion answered
+00238 SolDominion trashes 1 Estate.
+00239 SolDominion sets 1 Copper, 1 Town aside.
+00240 SolDominion answered
+00241 SolDominion plays 1 Council Room.
+00242 SolDominion shuffles their deck.
+00243 SolDominion draws 3 Copper, 1 Estate.
+00244 SolDominion gets +1 Buy.
+00245 Kaityo_777 draws 1 card.
+00246 SolDominion answered
+00247 SolDominion answered
+00248 SolDominion answered
+00249 SolDominion answered
+00250 SolDominion answered
+00251 play treasures for
+00252 SolDominion answered
+00253 SolDominion buys and gains 1 Procession.
+00254 SolDominion answered
+00255 SolDominion begins their Cleanup phase.
+00256 SolDominion answered
+00257 SolDominion returns 1 Fugitive.
+00258 SolDominion receives 1 Disciple.
+00259 SolDominion shuffles their deck.
+00260 SolDominion draws 3 Copper, 1 Disciple, 1 Flag Bearer.
+00261 Kaityo_777 starts turn 8
+00262 Kaityo_777 answered
+00263 Kaityo_777 plays 1 Research.
+00264 Kaityo_777 gets +1 Action.
+00265 Kaityo_777 answered
+00266 Kaityo_777 trashes 1 Estate.
+00267 Kaityo_777 shuffles their deck.
+00268 Kaityo_777 sets 2 card aside.
+00269 Kaityo_777 answered
+00270 play treasures for
+00271 Kaityo_777 answered
+00272 Kaityo_777 buys and gains 1 Town.
+00273 Kaityo_777 draws 6 card.
+00274 SolDominion starts turn 9
+00275 SolDominion starts their turn.
+00276 SolDominion puts 1 Copper, 1 Town in hand (Research).
+00277 SolDominion answered
+00278 SolDominion plays 1 Disciple.
+00279 SolDominion answered
+00280 SolDominion plays 1 Town.
+00281 SolDominion answered
+00282 SolDominion draws 1 Copper.
+00283 SolDominion gets +2 Actions.
+00284 SolDominion plays 1 Town again.
+00285 SolDominion answered
+00286 SolDominion draws 1 Council Room.
+00287 SolDominion gets +2 Actions.
+00288 SolDominion gains 1 Town.
+00289 SolDominion answered
+00290 SolDominion plays 1 Council Room.
+00291 SolDominion shuffles their deck.
+00292 SolDominion draws 1 Copper, 1 Estate, 1 Procession, 1 Town.
+00293 SolDominion gets +1 Buy.
+00294 Kaityo_777 draws 1 card.
+00295 SolDominion answered
+00296 SolDominion plays 1 Procession.
+00297 SolDominion gets +1 Action (from Lost Arts).
+00298 SolDominion answered
+00299 SolDominion plays 1 Flag Bearer.
+00300 SolDominion gets +$2.
+00301 SolDominion plays 1 Flag Bearer again.
+00302 SolDominion gets +$2.
+00303 SolDominion trashes 1 Flag Bearer.
+00304 SolDominion takes 1 Flag.
+00305 SolDominion gains 1 Council Room.
+00306 SolDominion answered
+00307 SolDominion plays 1 Town.
+00308 SolDominion answered
+00309 SolDominion gets +1 Buy.
+00310 SolDominion gets +$2.
+00311 SolDominion answered
+00312 SolDominion answered
+00313 SolDominion answered
+00314 SolDominion answered
+00315 SolDominion answered
+00316 SolDominion answered
+00317 play treasures for
+00318 SolDominion answered
+00319 SolDominion buys and gains 1 Council Room.
+00320 SolDominion answered
+00321 SolDominion buys and gains 1 Gold.
+00322 SolDominion answered
+00323 SolDominion begins their Cleanup phase.
+00324 SolDominion answered
+00325 SolDominion shuffles their deck.
+00326 SolDominion draws 4 Copper, 1 Procession, 1 Research.
+00327 Kaityo_777 starts turn 9
+00328 Kaityo_777 starts their turn.
+00329 Kaityo_777 puts 2 card in hand (Research).
+00330 Kaityo_777 answered
+00331 Kaityo_777 plays 1 Disciple.
+00332 Kaityo_777 answered
+00333 Kaityo_777 plays 1 University.
+00334 Kaityo_777 gets +2 Actions.
+00335 Kaityo_777 answered
+00336 Kaityo_777 gains 1 Town.
+00337 Kaityo_777 plays 1 University again.
+00338 Kaityo_777 gets +2 Actions.
+00339 Kaityo_777 answered
+00340 Kaityo_777 gains 1 Flag Bearer.
+00341 Kaityo_777 takes 1 Flag.
+00342 Kaityo_777 gains 1 University.
+00343 Kaityo_777 answered
+00344 Kaityo_777 plays 1 Council Room.
+00345 Kaityo_777 shuffles their deck.
+00346 Kaityo_777 draws 4 card.
+00347 Kaityo_777 gets +1 Buy.
+00348 SolDominion draws 1 Council Room.
+00349 Kaityo_777 answered
+00350 Kaityo_777 plays 1 University.
+00351 Kaityo_777 gets +2 Actions.
+00352 Kaityo_777 answered
+00353 Kaityo_777 gains 1 Town.
+00354 Kaityo_777 answered
+00355 Kaityo_777 plays 1 Research.
+00356 Kaityo_777 gets +1 Action.
+00357 Kaityo_777 answered
+00358 Kaityo_777 trashes 1 Estate.
+00359 Kaityo_777 sets 2 card aside.
+00360 Kaityo_777 answered
+00361 Kaityo_777 plays 1 Town.
+00362 Kaityo_777 answered
+00363 Kaityo_777 draws 1 card.
+00364 Kaityo_777 gets +2 Actions.
+00365 Kaityo_777 answered
+00366 Kaityo_777 plays 1 Flag Bearer.
+00367 Kaityo_777 gets +$2.
+00368 Kaityo_777 answered
+00369 Kaityo_777 answered
+00370 play treasures for
+00371 Kaityo_777 plays 1 Potion.
+00372 Kaityo_777 answered
+00373 Kaityo_777 buys and gains 1 Gold.
+00374 Kaityo_777 answered
+00375 Kaityo_777 begins their Cleanup phase.
+00376 Kaityo_777 answered
+00377 Kaityo_777 returns 1 Disciple.
+00378 Kaityo_777 receives 1 Teacher.
+00379 Kaityo_777 shuffles their deck.
+00380 Kaityo_777 draws 6 card.
+00381 SolDominion starts turn 10
+00382 SolDominion answered
+00383 SolDominion plays 1 Procession.
+00384 SolDominion gets +1 Action (from Lost Arts).
+00385 SolDominion answered
+00386 SolDominion plays 1 Council Room.
+00387 SolDominion draws 1 Copper, 1 Gold, 1 Disciple, 1 Town.
+00388 SolDominion gets +1 Buy.
+00389 Kaityo_777 draws 1 card.
+00390 SolDominion plays 1 Council Room again.
+00391 SolDominion draws 1 Copper, 1 Estate, 1 Council Room, 1 Town.
+00392 SolDominion gets +1 Buy.
+00393 Kaityo_777 draws 1 card.
+00394 SolDominion trashes 1 Council Room.
+00395 SolDominion answered
+00396 SolDominion plays 1 Research.
+00397 SolDominion gets +1 Action.
+00398 SolDominion answered
+00399 SolDominion trashes 1 Estate.
+00400 SolDominion sets 1 Council Room aside.
+00401 SolDominion answered
+00402 SolDominion plays 1 Disciple.
+00403 SolDominion answered
+00404 SolDominion plays 1 Town.
+00405 SolDominion answered
+00406 SolDominion gets +2 Actions.
+00407 SolDominion plays 1 Town again.
+00408 SolDominion answered
+00409 SolDominion gets +1 Buy.
+00410 SolDominion gets +$2.
+00411 SolDominion gains 1 Town.
+00412 SolDominion answered
+00413 SolDominion plays 1 Town.
+00414 SolDominion answered
+00415 SolDominion gets +1 Buy.
+00416 SolDominion gets +$2.
+00417 SolDominion answered
+00418 SolDominion answered
+00419 SolDominion answered
+00420 SolDominion answered
+00421 SolDominion answered
+00422 SolDominion answered
+00423 SolDominion answered
+00424 SolDominion answered
+00425 play treasures for
+00426 SolDominion answered
+00427 SolDominion buys and gains 1 Province.
+00428 SolDominion answered
+00429 SolDominion buys and gains 1 Council Room.
+00430 SolDominion answered
+00431 SolDominion begins their Cleanup phase.
+00432 SolDominion answered
+00433 SolDominion shuffles their deck.
+00434 SolDominion draws 4 Copper, 1 Province.
+00435 Kaityo_777 starts turn 10
+00436 Kaityo_777 starts their turn.
+00437 Kaityo_777 puts 2 card in hand (Research).
+00438 Kaityo_777 answered
+00439 Kaityo_777 plays 1 University.
+00440 Kaityo_777 gets +2 Actions.
+00441 Kaityo_777 answered
+00442 Kaityo_777 gains 1 Town.
+00443 Kaityo_777 answered
+00444 Kaityo_777 plays 1 Town.
+00445 Kaityo_777 answered
+00446 Kaityo_777 draws 1 card.
+00447 Kaityo_777 gets +2 Actions.
+00448 Kaityo_777 answered
+00449 Kaityo_777 plays 1 Town.
+00450 Kaityo_777 answered
+00451 Kaityo_777 draws 1 card.
+00452 Kaityo_777 gets +2 Actions.
+00453 Kaityo_777 answered
+00454 Kaityo_777 plays 1 University.
+00455 Kaityo_777 gets +2 Actions.
+00456 Kaityo_777 answered
+00457 Kaityo_777 gains 1 Town.
+00458 Kaityo_777 answered
+00459 Kaityo_777 plays 1 Town.
+00460 Kaityo_777 answered
+00461 Kaityo_777 gets +1 Buy.
+00462 Kaityo_777 gets +$2.
+00463 Kaityo_777 answered
+00464 Kaityo_777 plays 1 Flag Bearer.
+00465 Kaityo_777 gets +$2.
+00466 Kaityo_777 answered
+00467 play treasures for
+00468 Kaityo_777 plays 1 Potion.
+00469 Kaityo_777 answered
+00470 Kaityo_777 buys and gains 1 Province.
+00471 Kaityo_777 answered
+00472 Kaityo_777 draws 6 card.
+00473 SolDominion starts turn 11
+00474 SolDominion starts their turn.
+00475 SolDominion puts 1 Council Room in hand (Research).
+00476 SolDominion answered
+00477 SolDominion plays 1 Council Room.
+00478 SolDominion draws 2 Copper, 1 Gold, 1 Council Room.
+00479 SolDominion gets +1 Buy.
+00480 Kaityo_777 draws 1 card.
+00481 SolDominion answered
+00482 SolDominion answered
+00483 SolDominion answered
+00484 SolDominion answered
+00485 SolDominion answered
+00486 SolDominion answered
+00487 SolDominion answered
+00488 play treasures for
+00489 SolDominion answered
+00490 SolDominion buys 1 Lost Arts.
+00491 SolDominion answered
+00492 SolDominion moves plus action to Player 0 supply.
+00493 SolDominion answered
+00494 SolDominion buys and gains 1 Sheepdog.
+00495 SolDominion draws 1 Council Room, 1 Procession, 1 Disciple, 2 Town.
+00496 Kaityo_777 starts turn 11
+00497 Kaityo_777 answered
+00498 Kaityo_777 plays 1 University.
+00499 Kaityo_777 gets +2 Actions.
+00500 Kaityo_777 answered
+00501 Kaityo_777 gains 1 Town.
+00502 Kaityo_777 answered
+00503 Kaityo_777 plays 1 Council Room.
+00504 Kaityo_777 shuffles their deck.
+00505 Kaityo_777 draws 4 card.
+00506 Kaityo_777 gets +1 Buy.
+00507 SolDominion draws 1 Town.
+00508 Kaityo_777 answered
+00509 Kaityo_777 plays 1 Research.
+00510 Kaityo_777 gets +1 Action.
+00511 Kaityo_777 answered
+00512 Kaityo_777 trashes 1 Potion.
+00513 Kaityo_777 sets 4 card aside.
+00514 Kaityo_777 answered
+00515 Kaityo_777 plays 1 Teacher.
+00516 Kaityo_777 puts 1 Teacher on their Kaityo_777 tavern.
+00517 Kaityo_777 answered
+00518 play treasures for
+00519 Kaityo_777 answered
+00520 Kaityo_777 buys and gains 1 Gold.
+00521 Kaityo_777 answered
+00522 Kaityo_777 draws 6 card.
+00523 SolDominion starts turn 12
+00524 SolDominion answered
+00525 SolDominion plays 1 Disciple.
+00526 SolDominion answered
+00527 SolDominion plays 1 Town.
+00528 SolDominion answered
+00529 SolDominion shuffles their deck.
+00530 SolDominion draws 1 Province.
+00531 SolDominion gets +2 Actions.
+00532 SolDominion plays 1 Town again.
+00533 SolDominion answered
+00534 SolDominion gets +1 Buy.
+00535 SolDominion gets +$2.
+00536 SolDominion gains 1 Town.
+00537 SolDominion answered
+00538 SolDominion plays 1 Procession.
+00539 SolDominion answered
+00540 SolDominion plays 1 Town.
+00541 SolDominion answered
+00542 SolDominion draws 1 Copper.
+00543 SolDominion gets +2 Actions.
+00544 SolDominion plays 1 Town again.
+00545 SolDominion answered
+00546 SolDominion draws 1 Copper.
+00547 SolDominion gets +2 Actions.
+00548 SolDominion trashes 1 Town.
+00549 SolDominion gains 1 Council Room.
+00550 SolDominion answered
+00551 SolDominion plays 1 Council Room.
+00552 SolDominion draws 1 Copper, 1 Gold, 1 Council Room, 1 Research.
+00553 SolDominion gets +1 Buy.
+00554 Kaityo_777 draws 1 card.
+00555 SolDominion answered
+00556 SolDominion plays 1 Council Room.
+00557 SolDominion draws 3 Copper, 1 Council Room.
+00558 SolDominion gets +1 Buy.
+00559 Kaityo_777 draws 1 card.
+00560 SolDominion answered
+00561 SolDominion plays 1 Council Room.
+00562 SolDominion shuffles their deck.
+00563 SolDominion draws 1 Council Room, 1 Sheepdog, 1 Town.
+00564 SolDominion gets +1 Buy.
+00565 Kaityo_777 draws 1 card.
+00566 SolDominion answered
+00567 SolDominion plays 1 Research.
+00568 SolDominion gets +1 Action.
+00569 SolDominion answered
+00570 SolDominion trashes 1 Copper.
+00571 SolDominion answered
+00572 SolDominion plays 1 Town.
+00573 SolDominion answered
+00574 SolDominion gets +1 Buy.
+00575 SolDominion gets +$2.
+00576 SolDominion answered
+00577 SolDominion plays 1 Town.
+00578 SolDominion answered
+00579 SolDominion gets +1 Buy.
+00580 SolDominion gets +$2.
+00581 SolDominion answered
+00582 SolDominion answered
+00583 SolDominion answered
+00584 SolDominion answered
+00585 SolDominion answered
+00586 SolDominion answered
+00587 play treasures for
+00588 SolDominion answered
+00589 SolDominion buys and gains 1 Province.
+00590 SolDominion answered
+00591 SolDominion answered
+00592 SolDominion buys and gains 1 Gold.
+00593 SolDominion answered
+00594 SolDominion answered
+00595 SolDominion begins their Cleanup phase.
+00596 SolDominion answered
+00597 SolDominion shuffles their deck.
+00598 SolDominion draws 1 Province, 1 Council Room, 1 Disciple, 2 Town.
+00599 Kaityo_777 starts turn 12
+00600 Kaityo_777 starts their turn.
+00601 Kaityo_777 answered
+00602 Kaityo_777 calls 1 Teacher.
+00603 Kaityo_777 answered
+00604 Kaityo_777 answered
+00605 Kaityo_777 moves minus card to Player 0 supply.
+00606 Kaityo_777 puts 4 card in hand (Research).
+00607 Kaityo_777 answered
+00608 Kaityo_777 plays 1 Town.
+00609 Kaityo_777 draws 1 card (from Teacher).
+00610 Kaityo_777 answered
+00611 Kaityo_777 draws 1 card.
+00612 Kaityo_777 gets +2 Actions.
+00613 Kaityo_777 answered
+00614 Kaityo_777 plays 1 Town.
+00615 Kaityo_777 draws 1 card (from Teacher).
+00616 Kaityo_777 answered
+00617 Kaityo_777 shuffles their deck.
+00618 Kaityo_777 draws 1 card.
+00619 Kaityo_777 gets +2 Actions.
+00620 Kaityo_777 answered
+00621 Kaityo_777 plays 1 University.
+00622 Kaityo_777 gets +2 Actions.
+00623 Kaityo_777 answered
+00624 Kaityo_777 gains 1 Flag Bearer.
+00625 Kaityo_777 answered
+00626 Kaityo_777 plays 1 Town.
+00627 Kaityo_777 draws 1 card (from Teacher).
+00628 Kaityo_777 answered
+00629 Kaityo_777 draws 1 card.
+00630 Kaityo_777 gets +2 Actions.
+00631 Kaityo_777 answered
+00632 Kaityo_777 plays 1 Council Room.
+00633 Kaityo_777 draws 4 card.
+00634 Kaityo_777 gets +1 Buy.
+00635 SolDominion draws 1 Gold.
+00636 Kaityo_777 answered
+00637 Kaityo_777 plays 1 Town.
+00638 Kaityo_777 draws 1 card (from Teacher).
+00639 Kaityo_777 answered
+00640 Kaityo_777 gets +1 Buy.
+00641 Kaityo_777 gets +$2.
+00642 Kaityo_777 answered
+00643 Kaityo_777 plays 1 Town.
+00644 Kaityo_777 draws 1 card (from Teacher).
+00645 Kaityo_777 answered
+00646 Kaityo_777 gets +1 Buy.
+00647 Kaityo_777 gets +$2.
+00648 Kaityo_777 answered
+00649 Kaityo_777 plays 1 University.
+00650 Kaityo_777 gets +2 Actions.
+00651 Kaityo_777 answered
+00652 Kaityo_777 gains 1 Flag Bearer.
+00653 Kaityo_777 answered
+00654 Kaityo_777 plays 1 Council Room.
+00655 Kaityo_777 shuffles their deck.
+00656 Kaityo_777 draws 2 card.
+00657 Kaityo_777 gets +1 Buy.
+00658 SolDominion draws 1 Council Room.
+00659 Kaityo_777 answered
+00660 Kaityo_777 plays 1 Town.
+00661 Kaityo_777 answered
+00662 Kaityo_777 gets +2 Actions.
+00663 Kaityo_777 answered
+00664 Kaityo_777 plays 1 Flag Bearer.
+00665 Kaityo_777 gets +$2.
+00666 Kaityo_777 answered
+00667 Kaityo_777 plays 1 Flag Bearer.
+00668 Kaityo_777 gets +$2.
+00669 Kaityo_777 answered
+00670 Kaityo_777 plays 1 University.
+00671 Kaityo_777 gets +2 Actions.
+00672 Kaityo_777 answered
+00673 Kaityo_777 gains 1 Procession.
+00674 Kaityo_777 answered
+00675 Kaityo_777 plays 1 Research.
+00676 Kaityo_777 gets +1 Action.
+00677 Kaityo_777 answered
+00678 Kaityo_777 trashes 1 Copper.
+00679 Kaityo_777 answered
+00680 Kaityo_777 plays 1 Flag Bearer.
+00681 Kaityo_777 gets +$2.
+00682 Kaityo_777 answered
+00683 Kaityo_777 plays 1 Flag Bearer.
+00684 Kaityo_777 gets +$2.
+00685 Kaityo_777 answered
+00686 play treasures for
+00687 Kaityo_777 answered
+00688 Kaityo_777 answered
+00689 Kaityo_777 answered
+00690 Kaityo_777 buys and gains 3 Province.
+00691 Kaityo_777 answered
+00692 Kaityo_777 shuffles their deck.
+00693 Kaityo_777 draws 6 card.
+00694 SolDominion starts turn 13
+00695 SolDominion answered
+00696 SolDominion plays 1 Town.
+00697 SolDominion answered
+00698 SolDominion draws 1 Sheepdog.
+00699 SolDominion gets +2 Actions.
+00700 SolDominion answered
+00701 SolDominion plays 1 Sheepdog.
+00702 SolDominion gets +1 Action (from Lost Arts).
+00703 SolDominion draws 1 Province, 1 Council Room.
+00704 SolDominion answered
+00705 SolDominion plays 1 Council Room.
+00706 SolDominion draws 4 Copper.
+00707 SolDominion gets +1 Buy.
+00708 Kaityo_777 draws 1 card.
+00709 SolDominion answered
+00710 SolDominion plays 1 Disciple.
+00711 SolDominion answered
+00712 SolDominion plays 1 Town.
+00713 SolDominion answered
+00714 SolDominion draws 1 Council Room.
+00715 SolDominion gets +2 Actions.
+00716 SolDominion plays 1 Town again.
+00717 SolDominion answered
+00718 SolDominion gets +1 Buy.
+00719 SolDominion gets +$2.
+00720 SolDominion answered
+00721 SolDominion plays 1 Council Room.
+00722 SolDominion draws 1 Copper, 1 Gold, 1 Procession, 1 Town.
+00723 SolDominion gets +1 Buy.
+00724 Kaityo_777 draws 1 card.
+00725 SolDominion answered
+00726 SolDominion plays 1 Procession.
+00727 SolDominion answered
+00728 SolDominion plays 1 Town.
+00729 SolDominion answered
+00730 SolDominion gets +1 Buy.
+00731 SolDominion gets +$2.
+00732 SolDominion plays 1 Town again.
+00733 SolDominion answered
+00734 SolDominion gets +1 Buy.
+00735 SolDominion gets +$2.
+00736 SolDominion trashes 1 Town.
+00737 SolDominion gains 1 Council Room.
+00738 SolDominion answered
+00739 SolDominion answered
+00740 SolDominion answered
+00741 SolDominion answered
+00742 SolDominion answered
+00743 SolDominion answered
+00744 SolDominion answered
+00745 play treasures for
+00746 SolDominion answered
+00747 SolDominion buys and gains 1 Province.
+00748 SolDominion answered
+00749 SolDominion buys and gains 1 Duchy.
+00750 SolDominion answered
+00751 SolDominion answered
+00752 SolDominion buys and gains 2 Estate.
+00753 SolDominion answered
+00754 SolDominion begins their Cleanup phase.
+00755 SolDominion answered
+00756 SolDominion shuffles their deck.
+00757 SolDominion draws 2 Copper, 1 Council Room, 1 Research, 1 Town.
+00758 Kaityo_777 starts turn 13
+00759 Kaityo_777 answered
+00760 Kaityo_777 plays 1 Council Room.
+00761 Kaityo_777 draws 4 card.
+00762 Kaityo_777 gets +1 Buy.
+00763 SolDominion draws 1 Council Room.
+00764 Kaityo_777 answered
+00765 play treasures for
+00766 Kaityo_777 answered
+00767 Kaityo_777 buys and gains 1 Duchy.
+00768 Kaityo_777 answered
+00769 Kaityo_777 draws 6 card.
+00770 SolDominion starts turn 14
+00771 SolDominion answered
+00772 SolDominion plays 1 Town.
+00773 SolDominion answered
+00774 SolDominion draws 1 Province.
+00775 SolDominion gets +2 Actions.
+00776 SolDominion answered
+00777 SolDominion plays 1 Council Room.
+00778 SolDominion draws 1 Duchy, 1 Council Room, 1 Procession, 1 Town.
+00779 SolDominion gets +1 Buy.
+00780 Kaityo_777 draws 1 card.
+00781 SolDominion answered
+00782 SolDominion plays 1 Procession.
+00783 SolDominion answered
+00784 SolDominion plays 1 Town.
+00785 SolDominion answered
+00786 SolDominion draws 1 Gold.
+00787 SolDominion gets +2 Actions.
+00788 SolDominion plays 1 Town again.
+00789 SolDominion answered
+00790 SolDominion gets +1 Buy.
+00791 SolDominion gets +$2.
+00792 SolDominion trashes 1 Town.
+00793 SolDominion gains 1 Council Room.
+00794 SolDominion answered
+00795 SolDominion plays 1 Council Room.
+00796 SolDominion draws 3 Copper, 1 Sheepdog.
+00797 SolDominion gets +1 Buy.
+00798 Kaityo_777 draws 1 card.
+00799 SolDominion answered
+00800 SolDominion answered
+00801 SolDominion answered
+00802 SolDominion answered
+00803 SolDominion answered
+00804 SolDominion answered
+00805 SolDominion answered
+00806 play treasures for
+00807 SolDominion answered
+00808 SolDominion buys and gains 1 Province.
+00809 SolDominion answered
+00810 SolDominion answered
+00811 SolDominion buys and gains 1 Estate.
+00812 SolDominion answered
+00813 SolDominion answered
+00814 SolDominion draws 2 Estate, 2 Province, 1 Council Room.

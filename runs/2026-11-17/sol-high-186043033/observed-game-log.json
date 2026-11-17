@@ -1,0 +1,5124 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186043033",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "Kaityo_777 starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "Kaityo_777 starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "Kaityo_777 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion buys and gains 1 Research.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "Kaityo_777 starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 24,
+    "text": "Kaityo_777 buys and gains 1 Potion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "Kaityo_777 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 0,
+    "seq": 32,
+    "text": "SolDominion buys and gains 1 Peasant.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "Kaityo_777 starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 1,
+    "seq": 39,
+    "text": "Kaityo_777 buys and gains 1 Peasant.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "Kaityo_777 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion buys and gains 1 Flag Bearer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Peasant, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "Kaityo_777 starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 55,
+    "text": "Kaityo_777 plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 57,
+    "text": "Kaityo_777 buys and gains 1 University.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "Kaityo_777 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 61,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 64,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "SolDominion sets 1 Copper, 1 Estate aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion plays 1 Peasant.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 75,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 76,
+    "text": "SolDominion buys and gains 1 Town.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 78,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 0,
+    "seq": 80,
+    "text": "SolDominion returns 1 Peasant.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Soldier",
+    "player": 0,
+    "seq": 81,
+    "text": "SolDominion receives 1 Soldier.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 82,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 83,
+    "text": "SolDominion draws 4 Copper, 1 Estate, 1 Flag Bearer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "Kaityo_777 starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 1,
+    "seq": 86,
+    "text": "Kaityo_777 plays 1 Peasant.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 87,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "Kaityo_777 gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 92,
+    "text": "Kaityo_777 buys and gains 1 Flag Bearer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 1,
+    "seq": 93,
+    "text": "Kaityo_777 takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 95,
+    "text": "Kaityo_777 begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Peasant",
+    "player": 1,
+    "seq": 97,
+    "text": "Kaityo_777 returns 1 Peasant.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Soldier",
+    "player": 1,
+    "seq": 98,
+    "text": "Kaityo_777 receives 1 Soldier.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 99,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 100,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 103,
+    "text": "SolDominion puts 1 Copper, 1 Estate in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 105,
+    "text": "SolDominion plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 106,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 110,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 112,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 114,
+    "text": "SolDominion buys and gains 1 Council Room.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 115,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 116,
+    "text": "SolDominion draws 2 Copper, 1 Soldier, 1 Research, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "Kaityo_777 starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 119,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 122,
+    "text": "Kaityo_777 gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 123,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 124,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 125,
+    "text": "Kaityo_777 plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 126,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 127,
+    "text": "Kaityo_777 buys and gains 1 University.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 128,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 131,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 133,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 136,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "SolDominion draws 3 Copper, 1 Flag Bearer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 138,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 139,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 140,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 141,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 144,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Soldier",
+    "player": 0,
+    "seq": 146,
+    "text": "SolDominion plays 1 Soldier.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 149,
+    "text": "Kaityo_777 discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 154,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lost Arts",
+    "player": 0,
+    "seq": 156,
+    "text": "SolDominion buys 1 Lost Arts.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "SolDominion moves plus action to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 160,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Soldier",
+    "player": 0,
+    "seq": 162,
+    "text": "SolDominion returns 1 Soldier.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Fugitive",
+    "player": 0,
+    "seq": 163,
+    "text": "SolDominion receives 1 Fugitive.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 164,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "Kaityo_777 starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Soldier",
+    "player": 1,
+    "seq": 168,
+    "text": "Kaityo_777 plays 1 Soldier.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 171,
+    "text": "SolDominion discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 175,
+    "text": "Kaityo_777 buys and gains 1 Research.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "Kaityo_777 begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Soldier",
+    "player": 1,
+    "seq": 178,
+    "text": "Kaityo_777 returns 1 Soldier.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Fugitive",
+    "player": 1,
+    "seq": 179,
+    "text": "Kaityo_777 receives 1 Fugitive.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 180,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 181,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion draws 1 Copper, 1 Fugitive, 1 Flag Bearer, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 187,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 191,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 192,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Foresight",
+    "player": 0,
+    "seq": 193,
+    "text": "SolDominion buys 1 Foresight.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 194,
+    "text": "SolDominion reveals 3 Copper, 1 Research.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 195,
+    "text": "SolDominion sets 1 Research aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "SolDominion discards 3 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 197,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 199,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Council Room, 1 Fugitive.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 200,
+    "text": "SolDominion puts 1 Research into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "Kaityo_777 starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 202,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 203,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 206,
+    "text": "Kaityo_777 gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fugitive",
+    "player": 1,
+    "seq": 208,
+    "text": "Kaityo_777 plays 1 Fugitive.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 209,
+    "text": "Kaityo_777 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "Kaityo_777 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 212,
+    "text": "Kaityo_777 discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 214,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 215,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 216,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 217,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 218,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 219,
+    "text": "Kaityo_777 plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 220,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 221,
+    "text": "Kaityo_777 buys and gains 1 Research.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 222,
+    "text": "Kaityo_777 begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 223,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fugitive",
+    "player": 1,
+    "seq": 224,
+    "text": "Kaityo_777 returns 1 Fugitive.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Disciple",
+    "player": 1,
+    "seq": 225,
+    "text": "Kaityo_777 receives 1 Disciple.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 226,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fugitive",
+    "player": 0,
+    "seq": 229,
+    "text": "SolDominion plays 1 Fugitive.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion draws 1 Copper, 1 Flag Bearer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 238,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "SolDominion sets 1 Copper, 1 Town aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 241,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 243,
+    "text": "SolDominion draws 3 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 244,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 245,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 246,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 248,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 250,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 251,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 252,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion buys and gains 1 Procession.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fugitive",
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion returns 1 Fugitive.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Disciple",
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion receives 1 Disciple.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion draws 3 Copper, 1 Disciple, 1 Flag Bearer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 261,
+    "text": "Kaityo_777 starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 262,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 263,
+    "text": "Kaityo_777 plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 264,
+    "text": "Kaityo_777 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 265,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 266,
+    "text": "Kaityo_777 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 267,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "Kaityo_777 sets 2 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 272,
+    "text": "Kaityo_777 buys and gains 1 Town.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 274,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 275,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 276,
+    "text": "SolDominion puts 1 Copper, 1 Town in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 277,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 0,
+    "seq": 278,
+    "text": "SolDominion plays 1 Disciple.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 279,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 280,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 281,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 282,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 283,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 284,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 286,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 287,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 288,
+    "text": "SolDominion gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 290,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 291,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 292,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Procession, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 294,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 295,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 296,
+    "text": "SolDominion plays 1 Procession.",
+    "type": "official-play"
+  },
+  {
+    "card": "Lost Arts",
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official-plus-action-from"
+  },
+  {
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 301,
+    "text": "SolDominion plays 1 Flag Bearer again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 302,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion trashes 1 Flag Bearer.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Flag",
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 309,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 310,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 314,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion buys and gains 1 Council Room.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion draws 4 Copper, 1 Procession, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 327,
+    "text": "Kaityo_777 starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 328,
+    "text": "Kaityo_777 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 329,
+    "text": "Kaityo_777 puts 2 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 330,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 1,
+    "seq": 331,
+    "text": "Kaityo_777 plays 1 Disciple.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 333,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 334,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 336,
+    "text": "Kaityo_777 gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 337,
+    "text": "Kaityo_777 plays 1 University again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 340,
+    "text": "Kaityo_777 gains 1 Flag Bearer.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 1,
+    "seq": 341,
+    "text": "Kaityo_777 takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 342,
+    "text": "Kaityo_777 gains 1 University.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 343,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 344,
+    "text": "Kaityo_777 plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "Kaityo_777 draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 347,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 348,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 350,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 352,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 353,
+    "text": "Kaityo_777 gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 355,
+    "text": "Kaityo_777 plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 356,
+    "text": "Kaityo_777 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 357,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 358,
+    "text": "Kaityo_777 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "Kaityo_777 sets 2 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 360,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 361,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 362,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 363,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 366,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 367,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 371,
+    "text": "Kaityo_777 plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 372,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 373,
+    "text": "Kaityo_777 buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 375,
+    "text": "Kaityo_777 begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 1,
+    "seq": 377,
+    "text": "Kaityo_777 returns 1 Disciple.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Teacher",
+    "player": 1,
+    "seq": 378,
+    "text": "Kaityo_777 receives 1 Teacher.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 379,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 382,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 383,
+    "text": "SolDominion plays 1 Procession.",
+    "type": "official-play"
+  },
+  {
+    "card": "Lost Arts",
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official-plus-action-from"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Disciple, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 389,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 390,
+    "text": "SolDominion plays 1 Council Room again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 391,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Council Room, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 392,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 393,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion trashes 1 Council Room.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 395,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 396,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 399,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 400,
+    "text": "SolDominion sets 1 Council Room aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 0,
+    "seq": 402,
+    "text": "SolDominion plays 1 Disciple.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 404,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 407,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 408,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 410,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 411,
+    "text": "SolDominion gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 412,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 414,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 416,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 419,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 420,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 421,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 422,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 424,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 426,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 427,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 428,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 429,
+    "text": "SolDominion buys and gains 1 Council Room.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 430,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 434,
+    "text": "SolDominion draws 4 Copper, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 435,
+    "text": "Kaityo_777 starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 436,
+    "text": "Kaityo_777 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "Kaityo_777 puts 2 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 438,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 439,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 440,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 441,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 442,
+    "text": "Kaityo_777 gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 444,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 445,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 446,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 448,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 449,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 450,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 451,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 453,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 454,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 457,
+    "text": "Kaityo_777 gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 459,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 461,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 462,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 463,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 464,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 465,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 467,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 468,
+    "text": "Kaityo_777 plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 469,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 470,
+    "text": "Kaityo_777 buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 471,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 472,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 474,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion puts 1 Council Room in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 476,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "SolDominion draws 2 Copper, 1 Gold, 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 479,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 480,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 481,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 482,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 484,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 485,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 488,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lost Arts",
+    "player": 0,
+    "seq": 490,
+    "text": "SolDominion buys 1 Lost Arts.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 492,
+    "text": "SolDominion moves plus action to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 0,
+    "seq": 493,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sheepdog",
+    "player": 0,
+    "seq": 494,
+    "text": "SolDominion buys and gains 1 Sheepdog.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 495,
+    "text": "SolDominion draws 1 Council Room, 1 Procession, 1 Disciple, 2 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "Kaityo_777 starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 498,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 501,
+    "text": "Kaityo_777 gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 503,
+    "text": "Kaityo_777 plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "Kaityo_777 draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 506,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 507,
+    "text": "SolDominion draws 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 508,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 509,
+    "text": "Kaityo_777 plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "Kaityo_777 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 511,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 512,
+    "text": "Kaityo_777 trashes 1 Potion.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "Kaityo_777 sets 4 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Teacher",
+    "player": 1,
+    "seq": 515,
+    "text": "Kaityo_777 plays 1 Teacher.",
+    "type": "official-play"
+  },
+  {
+    "card": "Teacher",
+    "player": 1,
+    "seq": 516,
+    "text": "Kaityo_777 puts 1 Teacher on their Kaityo_777 tavern.",
+    "type": "official-put-on-mat"
+  },
+  {
+    "player": 1,
+    "seq": 517,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 518,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 520,
+    "text": "Kaityo_777 buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 521,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 522,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 523,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 0,
+    "seq": 525,
+    "text": "SolDominion plays 1 Disciple.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 526,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 527,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 528,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 529,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 530,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 531,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 532,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 533,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 534,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 535,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 536,
+    "text": "SolDominion gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 537,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 538,
+    "text": "SolDominion plays 1 Procession.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 539,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 540,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 541,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 542,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 543,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 544,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 546,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 547,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 548,
+    "text": "SolDominion trashes 1 Town.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 549,
+    "text": "SolDominion gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 550,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 551,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 552,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Council Room, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 553,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 554,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 556,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 557,
+    "text": "SolDominion draws 3 Copper, 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 558,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 559,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 561,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 562,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion draws 1 Council Room, 1 Sheepdog, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 565,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 567,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 569,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 570,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 571,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 572,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 573,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 574,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 575,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 577,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 578,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 579,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 580,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 581,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 582,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 583,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 584,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 585,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 586,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 587,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 588,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 589,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 590,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 591,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 592,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 593,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 594,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 598,
+    "text": "SolDominion draws 1 Province, 1 Council Room, 1 Disciple, 2 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 599,
+    "text": "Kaityo_777 starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 600,
+    "text": "Kaityo_777 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 601,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Teacher",
+    "player": 1,
+    "seq": 602,
+    "text": "Kaityo_777 calls 1 Teacher.",
+    "type": "official-call"
+  },
+  {
+    "player": 1,
+    "seq": 603,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 604,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 605,
+    "text": "Kaityo_777 moves minus card to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 1,
+    "seq": 606,
+    "text": "Kaityo_777 puts 4 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 607,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 608,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 609,
+    "text": "Kaityo_777 draws 1 card (from Teacher).",
+    "type": "official-draws-from"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 611,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 612,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 613,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 614,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 615,
+    "text": "Kaityo_777 draws 1 card (from Teacher).",
+    "type": "official-draws-from"
+  },
+  {
+    "player": 1,
+    "seq": 616,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 617,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 618,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 619,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 620,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 621,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 622,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 623,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 624,
+    "text": "Kaityo_777 gains 1 Flag Bearer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 625,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 626,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 627,
+    "text": "Kaityo_777 draws 1 card (from Teacher).",
+    "type": "official-draws-from"
+  },
+  {
+    "player": 1,
+    "seq": 628,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 629,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 630,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 631,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 632,
+    "text": "Kaityo_777 plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 633,
+    "text": "Kaityo_777 draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 634,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 635,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 636,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 637,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 638,
+    "text": "Kaityo_777 draws 1 card (from Teacher).",
+    "type": "official-draws-from"
+  },
+  {
+    "player": 1,
+    "seq": 639,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 640,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 641,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 642,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 643,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 644,
+    "text": "Kaityo_777 draws 1 card (from Teacher).",
+    "type": "official-draws-from"
+  },
+  {
+    "player": 1,
+    "seq": 645,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 646,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 647,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 648,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 649,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 650,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 651,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 652,
+    "text": "Kaityo_777 gains 1 Flag Bearer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 653,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 654,
+    "text": "Kaityo_777 plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 655,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 656,
+    "text": "Kaityo_777 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 657,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 658,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 659,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 1,
+    "seq": 660,
+    "text": "Kaityo_777 plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 662,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 663,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 664,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 666,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 667,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 669,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "University",
+    "player": 1,
+    "seq": 670,
+    "text": "Kaityo_777 plays 1 University.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 671,
+    "text": "Kaityo_777 gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 672,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 1,
+    "seq": 673,
+    "text": "Kaityo_777 gains 1 Procession.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 674,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 675,
+    "text": "Kaityo_777 plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 676,
+    "text": "Kaityo_777 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 677,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 678,
+    "text": "Kaityo_777 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 679,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 680,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 682,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 683,
+    "text": "Kaityo_777 plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 684,
+    "text": "Kaityo_777 gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 685,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 686,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 687,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 688,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 689,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 690,
+    "text": "Kaityo_777 buys and gains 3 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 691,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 692,
+    "text": "Kaityo_777 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 693,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 694,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 695,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 696,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 697,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sheepdog",
+    "player": 0,
+    "seq": 698,
+    "text": "SolDominion draws 1 Sheepdog.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 699,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 700,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sheepdog",
+    "player": 0,
+    "seq": 701,
+    "text": "SolDominion plays 1 Sheepdog.",
+    "type": "official-play"
+  },
+  {
+    "card": "Lost Arts",
+    "player": 0,
+    "seq": 702,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official-plus-action-from"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "SolDominion draws 1 Province, 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 704,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 705,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 706,
+    "text": "SolDominion draws 4 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 707,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 708,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 709,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Disciple",
+    "player": 0,
+    "seq": 710,
+    "text": "SolDominion plays 1 Disciple.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 711,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 712,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 713,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 714,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 715,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 716,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 717,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 718,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 719,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 720,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 721,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 722,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Procession, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 723,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 724,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 725,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 726,
+    "text": "SolDominion plays 1 Procession.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 727,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 728,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 729,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 730,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 731,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 732,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 733,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 734,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 735,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 736,
+    "text": "SolDominion trashes 1 Town.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 737,
+    "text": "SolDominion gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 738,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 739,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 740,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 741,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 742,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 743,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 744,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 745,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 746,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 747,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 748,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 749,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 750,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 751,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 752,
+    "text": "SolDominion buys and gains 2 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 753,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 754,
+    "text": "SolDominion begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 755,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 756,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 757,
+    "text": "SolDominion draws 2 Copper, 1 Council Room, 1 Research, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 758,
+    "text": "Kaityo_777 starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 759,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 1,
+    "seq": 760,
+    "text": "Kaityo_777 plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 761,
+    "text": "Kaityo_777 draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 762,
+    "text": "Kaityo_777 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 763,
+    "text": "SolDominion draws 1 Council Room.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 764,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 765,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 766,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 767,
+    "text": "Kaityo_777 buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 768,
+    "text": "Kaityo_777 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 769,
+    "text": "Kaityo_777 draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 770,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 771,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 772,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 773,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 774,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 775,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 776,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 777,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 778,
+    "text": "SolDominion draws 1 Duchy, 1 Council Room, 1 Procession, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 779,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 780,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 781,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Procession",
+    "player": 0,
+    "seq": 782,
+    "text": "SolDominion plays 1 Procession.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 783,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 784,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 785,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 786,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 787,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 788,
+    "text": "SolDominion plays 1 Town again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 789,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 790,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 791,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 792,
+    "text": "SolDominion trashes 1 Town.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 793,
+    "text": "SolDominion gains 1 Council Room.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 794,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Council Room",
+    "player": 0,
+    "seq": 795,
+    "text": "SolDominion plays 1 Council Room.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 796,
+    "text": "SolDominion draws 3 Copper, 1 Sheepdog.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 797,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 798,
+    "text": "Kaityo_777 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 799,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 800,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 801,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 802,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 803,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 804,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 805,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 806,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 807,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 808,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 809,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 810,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 811,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 812,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 813,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 814,
+    "text": "SolDominion draws 2 Estate, 2 Province, 1 Council Room.",
+    "type": "official-draw"
+  }
+]

@@ -1,0 +1,545 @@
+00000 game 186043435
+00001 thepilferer starts with 3 Estate.
+00002 thepilferer starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 thepilferer answered
+00006 SolDominion answered
+00007 thepilferer shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 thepilferer draws 5 card.
+00010 SolDominion draws 4 Copper, 1 Estate.
+00011 thepilferer starts turn 1
+00012 thepilferer answered
+00013 thepilferer buys 1 Alms.
+00014 thepilferer answered
+00015 thepilferer gains 1 Sailor.
+00016 thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.
+00017 thepilferer draws 5 card.
+00018 SolDominion starts turn 1
+00019 SolDominion answered
+00020 SolDominion buys 1 Alms.
+00021 SolDominion answered
+00022 SolDominion gains 1 Sailor.
+00023 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00024 SolDominion draws 3 Copper, 2 Estate.
+00025 thepilferer starts turn 2
+00026 thepilferer answered
+00027 thepilferer buys 1 Alms.
+00028 thepilferer answered
+00029 thepilferer gains 1 Sailor.
+00030 thepilferer shuffles their deck.
+00031 thepilferer draws 5 card.
+00032 SolDominion starts turn 2
+00033 SolDominion answered
+00034 SolDominion buys 1 Alms.
+00035 SolDominion answered
+00036 SolDominion gains 1 Sailor.
+00037 SolDominion shuffles their deck.
+00038 SolDominion draws 2 Copper, 1 Estate, 2 Sailor.
+00039 thepilferer starts turn 3
+00040 thepilferer answered
+00041 thepilferer buys 1 Alms.
+00042 thepilferer answered
+00043 thepilferer gains 1 Sailor.
+00044 thepilferer draws 5 card.
+00045 SolDominion starts turn 3
+00046 SolDominion answered
+00047 SolDominion plays 1 Sailor.
+00048 SolDominion gets +1 Action.
+00049 SolDominion answered
+00050 SolDominion plays 1 Sailor.
+00051 SolDominion gets +1 Action.
+00052 SolDominion answered
+00053 SolDominion buys 1 Alms.
+00054 SolDominion answered
+00055 SolDominion gains 1 Sailor.
+00056 SolDominion answered
+00057 SolDominion plays 1 Sailor.
+00058 SolDominion gets +1 Action.
+00059 SolDominion draws 3 Copper, 2 Estate.
+00060 thepilferer starts turn 4
+00061 thepilferer answered
+00062 thepilferer plays 1 Sailor.
+00063 thepilferer gets +1 Action.
+00064 thepilferer answered
+00065 thepilferer buys 1 Alms.
+00066 thepilferer answered
+00067 thepilferer gains 1 Conspirator.
+00068 thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.
+00069 thepilferer shuffles their deck.
+00070 thepilferer draws 5 card.
+00071 SolDominion starts turn 4
+00072 SolDominion starts their turn.
+00073 SolDominion gets +$2. (Sailor)
+00074 SolDominion answered
+00075 SolDominion trashes 1 Estate. (Sailor)
+00076 SolDominion gets +$2. (Sailor)
+00077 SolDominion answered
+00078 SolDominion trashes 1 Estate. (Sailor)
+00079 SolDominion gets +$2. (Sailor)
+00080 SolDominion answered
+00081 SolDominion trashes 1 Copper. (Sailor)
+00082 SolDominion answered
+00083 SolDominion buys and gains 1 Marquis.
+00084 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00085 SolDominion shuffles their deck.
+00086 SolDominion draws 3 Copper, 2 Sailor.
+00087 thepilferer starts turn 5
+00088 thepilferer starts their turn.
+00089 thepilferer gets +$2. (Sailor)
+00090 thepilferer answered
+00091 thepilferer trashes 1 Estate. (Sailor)
+00092 thepilferer answered
+00093 thepilferer plays 1 Sailor.
+00094 thepilferer gets +1 Action.
+00095 thepilferer answered
+00096 play treasures for
+00097 thepilferer buys and gains 1 Vault.
+00098 thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.
+00099 thepilferer draws 5 card.
+00100 SolDominion starts turn 5
+00101 SolDominion answered
+00102 SolDominion plays 1 Sailor.
+00103 SolDominion gets +1 Action.
+00104 SolDominion answered
+00105 SolDominion plays 1 Sailor.
+00106 SolDominion gets +1 Action.
+00107 SolDominion answered
+00108 SolDominion buys 1 Alms.
+00109 SolDominion answered
+00110 SolDominion gains 1 Conspirator.
+00111 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00112 SolDominion draws 2 Copper, 1 Estate, 1 Sailor, 1 Marquis.
+00113 thepilferer starts turn 6
+00114 thepilferer starts their turn.
+00115 thepilferer gets +$2. (Sailor)
+00116 thepilferer answered
+00117 thepilferer trashes 1 Estate. (Sailor)
+00118 thepilferer answered
+00119 thepilferer plays 1 Sailor.
+00120 thepilferer gets +1 Action.
+00121 thepilferer answered
+00122 thepilferer buys 1 Alms.
+00123 thepilferer answered
+00124 thepilferer gains 1 Sailor.
+00125 thepilferer answered
+00126 thepilferer plays 1 Sailor.
+00127 thepilferer gets +1 Action.
+00128 thepilferer shuffles their deck.
+00129 thepilferer draws 5 card.
+00130 SolDominion starts turn 6
+00131 SolDominion starts their turn.
+00132 SolDominion gets +$2. (Sailor)
+00133 SolDominion answered
+00134 SolDominion trashes 1 Estate. (Sailor)
+00135 SolDominion gets +$2. (Sailor)
+00136 SolDominion answered
+00137 SolDominion trashes 1 Copper. (Sailor)
+00138 SolDominion answered
+00139 SolDominion plays 1 Sailor.
+00140 SolDominion gets +1 Action.
+00141 SolDominion answered
+00142 SolDominion plays 1 Marquis.
+00143 SolDominion gets +1 Buy.
+00144 SolDominion draws 1 Copper.
+00145 SolDominion answered
+00146 SolDominion buys and gains 1 Conspirator.
+00147 SolDominion answered
+00148 SolDominion buys and gains 1 Curse.
+00149 SolDominion takes 6 VP from Player 0 landscape.
+00150 SolDominion shuffles their deck.
+00151 SolDominion draws 1 Curse, 2 Copper, 1 Sailor, 1 Marquis.
+00152 thepilferer starts turn 7
+00153 thepilferer starts their turn.
+00154 thepilferer gets +$2. (Sailor)
+00155 thepilferer answered
+00156 thepilferer trashes 1 Copper. (Sailor)
+00157 thepilferer gets +$2. (Sailor)
+00158 thepilferer answered
+00159 thepilferer trashes 1 Copper. (Sailor)
+00160 thepilferer answered
+00161 thepilferer plays 1 Conspirator.
+00162 thepilferer gets +$2.
+00163 thepilferer answered
+00164 thepilferer buys and gains 1 Marquis.
+00165 thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.
+00166 thepilferer draws 5 card.
+00167 SolDominion starts turn 7
+00168 SolDominion starts their turn.
+00169 SolDominion gets +$2. (Sailor)
+00170 SolDominion answered
+00171 SolDominion trashes 1 Curse. (Sailor)
+00172 SolDominion answered
+00173 SolDominion plays 1 Sailor.
+00174 SolDominion gets +1 Action.
+00175 SolDominion answered
+00176 SolDominion plays 1 Marquis.
+00177 SolDominion gets +1 Buy.
+00178 SolDominion draws 1 Copper, 1 Sailor.
+00179 SolDominion answered
+00180 SolDominion buys 1 Alms.
+00181 SolDominion answered
+00182 SolDominion gains 1 Border Guard.
+00183 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00184 SolDominion answered
+00185 SolDominion buys and gains 1 Border Guard.
+00186 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00187 SolDominion shuffles their deck.
+00188 SolDominion draws 2 Copper, 2 Conspirator, 1 Sailor.
+00189 thepilferer starts turn 8
+00190 thepilferer answered
+00191 thepilferer plays 1 Vault.
+00192 thepilferer draws 2 card.
+00193 thepilferer answered
+00194 thepilferer discards 5 card, 1 Sailor.
+00195 thepilferer gets +$6.
+00196 SolDominion answered
+00197 SolDominion discards 2 Copper.
+00198 SolDominion draws 1 Copper.
+00199 thepilferer answered
+00200 thepilferer buys and gains 1 Marquis.
+00201 thepilferer shuffles their deck.
+00202 thepilferer draws 5 card.
+00203 SolDominion starts turn 8
+00204 SolDominion starts their turn.
+00205 SolDominion gets +$2. (Sailor)
+00206 SolDominion answered
+00207 SolDominion trashes 1 Copper. (Sailor)
+00208 SolDominion answered
+00209 SolDominion plays 1 Sailor.
+00210 SolDominion gets +1 Action.
+00211 SolDominion answered
+00212 SolDominion plays 1 Conspirator.
+00213 SolDominion gets +$2.
+00214 SolDominion answered
+00215 SolDominion buys and gains 1 Border Guard.
+00216 SolDominion draws 2 Copper, 2 Border Guard, 1 Marquis.
+00217 thepilferer starts turn 9
+00218 thepilferer answered
+00219 thepilferer plays 1 Sailor.
+00220 thepilferer gets +1 Action.
+00221 thepilferer answered
+00222 thepilferer plays 1 Marquis.
+00223 thepilferer gets +1 Buy.
+00224 thepilferer draws 3 card.
+00225 thepilferer answered
+00226 thepilferer buys 1 Alms.
+00227 thepilferer answered
+00228 thepilferer gains 1 Sage.
+00229 thepilferer moves 1 VP from Player 0 supply to Defiled Shrine.
+00230 thepilferer answered
+00231 thepilferer buys and gains 1 Curse.
+00232 thepilferer takes 4 VP from Player 0 landscape.
+00233 thepilferer draws 5 card.
+00234 SolDominion starts turn 9
+00235 SolDominion starts their turn.
+00236 SolDominion gets +$2. (Sailor)
+00237 SolDominion answered
+00238 SolDominion trashes 1 Copper. (Sailor)
+00239 SolDominion answered
+00240 SolDominion plays 1 Border Guard.
+00241 SolDominion gets +1 Action.
+00242 SolDominion shuffles their deck.
+00243 SolDominion reveals 1 Copper, 1 Sailor.
+00244 SolDominion answered
+00245 SolDominion puts 1 Sailor into their hand.
+00246 SolDominion discards 1 Copper.
+00247 SolDominion answered
+00248 SolDominion plays 1 Border Guard.
+00249 SolDominion gets +1 Action.
+00250 SolDominion reveals 1 Conspirator, 1 Sailor.
+00251 SolDominion answered
+00252 SolDominion puts 1 Conspirator into their hand.
+00253 SolDominion discards 1 Sailor.
+00254 SolDominion answered
+00255 SolDominion takes 1 Horn.
+00256 SolDominion answered
+00257 SolDominion plays 1 Conspirator.
+00258 SolDominion gets +$2.
+00259 SolDominion draws 1 Conspirator.
+00260 SolDominion gets +1 Action.
+00261 SolDominion answered
+00262 SolDominion plays 1 Conspirator.
+00263 SolDominion gets +$2.
+00264 SolDominion draws 1 Border Guard.
+00265 SolDominion gets +1 Action.
+00266 SolDominion answered
+00267 SolDominion plays 1 Border Guard.
+00268 SolDominion gets +1 Action.
+00269 SolDominion shuffles their deck.
+00270 SolDominion reveals 2 Copper.
+00271 SolDominion puts 1 Copper into their hand.
+00272 SolDominion discards 1 Copper.
+00273 SolDominion answered
+00274 SolDominion plays 1 Sailor.
+00275 SolDominion gets +1 Action.
+00276 SolDominion answered
+00277 SolDominion plays 1 Marquis.
+00278 SolDominion gets +1 Buy.
+00279 SolDominion shuffles their deck.
+00280 SolDominion draws 1 Copper, 1 Sailor.
+00281 SolDominion answered
+00282 SolDominion answered
+00283 SolDominion answered
+00284 play treasures for
+00285 SolDominion answered
+00286 SolDominion answered
+00287 SolDominion buys and gains 2 Conspirator.
+00288 SolDominion begins their Cleanup phase.
+00289 SolDominion answered
+00290 SolDominion topdecks 1 Border Guard.
+00291 SolDominion shuffles their deck.
+00292 SolDominion draws 1 Copper, 2 Conspirator, 1 Border Guard, 1 Sailor.
+00293 thepilferer starts turn 10
+00294 thepilferer starts their turn.
+00295 thepilferer gets +$2. (Sailor)
+00296 thepilferer answered
+00297 thepilferer trashes 1 Copper. (Sailor)
+00298 thepilferer answered
+00299 thepilferer plays 1 Sailor.
+00300 thepilferer gets +1 Action.
+00301 thepilferer answered
+00302 thepilferer plays 1 Sailor.
+00303 thepilferer gets +1 Action.
+00304 thepilferer answered
+00305 thepilferer plays 1 Conspirator.
+00306 thepilferer gets +$2.
+00307 thepilferer draws 1 card.
+00308 thepilferer gets +1 Action.
+00309 thepilferer answered
+00310 thepilferer plays 1 Marquis.
+00311 thepilferer gets +1 Buy.
+00312 thepilferer shuffles their deck.
+00313 thepilferer draws 1 card.
+00314 thepilferer answered
+00315 thepilferer buys 1 Alms.
+00316 thepilferer answered
+00317 thepilferer gains 1 Conspirator.
+00318 thepilferer answered
+00319 thepilferer buys and gains 1 Sailor.
+00320 thepilferer answered
+00321 thepilferer plays 1 Sailor.
+00322 thepilferer gets +1 Action.
+00323 thepilferer draws 5 card.
+00324 SolDominion starts turn 10
+00325 SolDominion starts their turn.
+00326 SolDominion gets +$2. (Sailor)
+00327 SolDominion answered
+00328 SolDominion trashes 1 Copper. (Sailor)
+00329 SolDominion answered
+00330 SolDominion plays 1 Border Guard.
+00331 SolDominion gets +1 Action.
+00332 SolDominion reveals 1 Sailor, 1 Marquis.
+00333 SolDominion answered
+00334 SolDominion puts 1 Marquis into their hand.
+00335 SolDominion discards 1 Sailor.
+00336 SolDominion answered
+00337 SolDominion takes 1 Lantern.
+00338 SolDominion answered
+00339 SolDominion plays 1 Sailor.
+00340 SolDominion gets +1 Action.
+00341 SolDominion answered
+00342 SolDominion plays 1 Conspirator.
+00343 SolDominion gets +$2.
+00344 SolDominion draws 1 Copper.
+00345 SolDominion gets +1 Action.
+00346 SolDominion answered
+00347 SolDominion plays 1 Conspirator.
+00348 SolDominion gets +$2.
+00349 SolDominion draws 1 Border Guard.
+00350 SolDominion gets +1 Action.
+00351 SolDominion answered
+00352 SolDominion plays 1 Border Guard.
+00353 SolDominion gets +1 Action.
+00354 SolDominion reveals 1 Copper, 1 Conspirator, 1 Border Guard.
+00355 SolDominion answered
+00356 SolDominion puts 1 Conspirator into their hand.
+00357 SolDominion discards 1 Copper, 1 Border Guard.
+00358 SolDominion answered
+00359 SolDominion plays 1 Conspirator.
+00360 SolDominion gets +$2.
+00361 SolDominion draws 1 Conspirator.
+00362 SolDominion gets +1 Action.
+00363 SolDominion answered
+00364 SolDominion plays 1 Conspirator.
+00365 SolDominion gets +$2.
+00366 SolDominion shuffles their deck.
+00367 SolDominion draws 1 Sailor.
+00368 SolDominion gets +1 Action.
+00369 SolDominion answered
+00370 SolDominion plays 1 Sailor.
+00371 SolDominion gets +1 Action.
+00372 SolDominion answered
+00373 SolDominion plays 1 Marquis.
+00374 SolDominion gets +1 Buy.
+00375 SolDominion draws 1 Border Guard.
+00376 SolDominion answered
+00377 SolDominion buys 1 Alms.
+00378 SolDominion answered
+00379 SolDominion gains 1 Conspirator.
+00380 SolDominion answered
+00381 SolDominion buys and gains 1 Province.
+00382 SolDominion begins their Cleanup phase.
+00383 SolDominion answered
+00384 SolDominion topdecks 1 Border Guard.
+00385 SolDominion shuffles their deck.
+00386 SolDominion draws 1 Copper, 1 Province, 2 Border Guard, 1 Marquis.
+00387 thepilferer starts turn 11
+00388 thepilferer starts their turn.
+00389 thepilferer gets +$2. (Sailor)
+00390 thepilferer answered
+00391 thepilferer trashes 1 Estate. (Sailor)
+00392 thepilferer gets +$2. (Sailor)
+00393 thepilferer answered
+00394 thepilferer trashes 1 Copper. (Sailor)
+00395 thepilferer gets +$2. (Sailor)
+00396 thepilferer answered
+00397 thepilferer trashes 1 Copper. (Sailor)
+00398 thepilferer answered
+00399 thepilferer plays 1 Sage.
+00400 thepilferer gets +1 Action.
+00401 thepilferer reveals 1 Sailor.
+00402 thepilferer puts 1 Sailor into their hand.
+00403 thepilferer answered
+00404 thepilferer plays 1 Sailor.
+00405 thepilferer gets +1 Action.
+00406 thepilferer answered
+00407 thepilferer plays 1 Marquis.
+00408 thepilferer gets +1 Buy.
+00409 thepilferer answered
+00410 thepilferer buys 1 Alms.
+00411 thepilferer answered
+00412 thepilferer gains 1 Border Guard.
+00413 thepilferer answered
+00414 thepilferer buys and gains 1 Gold.
+00415 thepilferer shuffles their deck.
+00416 thepilferer draws 5 card.
+00417 SolDominion starts turn 11
+00418 SolDominion starts their turn.
+00419 SolDominion gets +$2. (Sailor)
+00420 SolDominion answered
+00421 SolDominion trashes 1 Copper. (Sailor)
+00422 SolDominion gets +$2. (Sailor)
+00423 SolDominion answered
+00424 SolDominion answered
+00425 SolDominion plays 1 Border Guard.
+00426 SolDominion gets +1 Action.
+00427 SolDominion reveals 1 Conspirator, 1 Border Guard, 1 Sailor.
+00428 SolDominion answered
+00429 SolDominion puts 1 Conspirator into their hand.
+00430 SolDominion discards 1 Border Guard, 1 Sailor.
+00431 SolDominion answered
+00432 SolDominion plays 1 Border Guard.
+00433 SolDominion gets +1 Action.
+00434 SolDominion reveals 3 Conspirator.
+00435 SolDominion puts 1 Conspirator into their hand.
+00436 SolDominion discards 2 Conspirator.
+00437 SolDominion answered
+00438 SolDominion plays 1 Conspirator.
+00439 SolDominion gets +$2.
+00440 SolDominion draws 1 Copper.
+00441 SolDominion gets +1 Action.
+00442 SolDominion answered
+00443 SolDominion plays 1 Conspirator.
+00444 SolDominion gets +$2.
+00445 SolDominion draws 1 Conspirator.
+00446 SolDominion gets +1 Action.
+00447 SolDominion answered
+00448 SolDominion plays 1 Conspirator.
+00449 SolDominion gets +$2.
+00450 SolDominion shuffles their deck.
+00451 SolDominion draws 1 Border Guard.
+00452 SolDominion gets +1 Action.
+00453 SolDominion answered
+00454 SolDominion plays 1 Border Guard.
+00455 SolDominion gets +1 Action.
+00456 SolDominion reveals 2 Conspirator, 1 Sailor.
+00457 SolDominion answered
+00458 SolDominion puts 1 Conspirator into their hand.
+00459 SolDominion discards 1 Conspirator, 1 Sailor.
+00460 SolDominion answered
+00461 SolDominion plays 1 Conspirator.
+00462 SolDominion gets +$2.
+00463 SolDominion shuffles their deck.
+00464 SolDominion draws 1 Conspirator.
+00465 SolDominion gets +1 Action.
+00466 SolDominion answered
+00467 SolDominion plays 1 Conspirator.
+00468 SolDominion gets +$2.
+00469 SolDominion draws 1 Sailor.
+00470 SolDominion gets +1 Action.
+00471 SolDominion answered
+00472 SolDominion plays 1 Sailor.
+00473 SolDominion gets +1 Action.
+00474 SolDominion answered
+00475 SolDominion plays 1 Marquis.
+00476 SolDominion gets +1 Buy.
+00477 SolDominion answered
+00478 SolDominion buys and gains 1 Conspirator.
+00479 SolDominion answered
+00480 SolDominion buys and gains 1 Province.
+00481 SolDominion begins their Cleanup phase.
+00482 SolDominion answered
+00483 SolDominion topdecks 1 Border Guard.
+00484 SolDominion shuffles their deck.
+00485 SolDominion draws 1 Province, 2 Conspirator, 1 Border Guard, 1 Sailor.
+00486 thepilferer starts turn 12
+00487 thepilferer starts their turn.
+00488 thepilferer gets +$2. (Sailor)
+00489 thepilferer answered
+00490 thepilferer trashes 1 Curse. (Sailor)
+00491 thepilferer answered
+00492 thepilferer plays 1 Sailor.
+00493 thepilferer gets +1 Action.
+00494 thepilferer answered
+00495 thepilferer plays 1 Vault.
+00496 thepilferer draws 2 card.
+00497 thepilferer answered
+00498 thepilferer discards 3 card, 1 Marquis.
+00499 thepilferer gets +$4.
+00500 SolDominion answered
+00501 thepilferer answered
+00502 thepilferer buys and gains 1 Gold.
+00503 thepilferer draws 5 card.
+00504 SolDominion starts turn 12
+00505 SolDominion starts their turn.
+00506 SolDominion gets +$2. (Sailor)
+00507 SolDominion answered
+00508 SolDominion answered
+00509 SolDominion plays 1 Border Guard.
+00510 SolDominion gets +1 Action.
+00511 SolDominion reveals 1 Copper, 1 Province, 1 Border Guard.
+00512 SolDominion answered
+00513 SolDominion puts 1 Border Guard into their hand.
+00514 SolDominion discards 1 Copper, 1 Province.
+00515 SolDominion answered
+00516 SolDominion plays 1 Sailor.
+00517 SolDominion gets +1 Action.
+00518 SolDominion answered
+00519 SolDominion plays 1 Conspirator.
+00520 SolDominion gets +$2.
+00521 SolDominion draws 1 Marquis.
+00522 SolDominion gets +1 Action.
+00523 SolDominion answered
+00524 SolDominion plays 1 Conspirator.
+00525 SolDominion gets +$2.
+00526 SolDominion draws 1 Conspirator.
+00527 SolDominion gets +1 Action.
+00528 SolDominion answered
+00529 SolDominion plays 1 Conspirator.
+00530 SolDominion gets +$2.
+00531 SolDominion draws 1 Sailor.
+00532 SolDominion gets +1 Action.
+00533 SolDominion answered
+00534 SolDominion plays 1 Border Guard.
+00535 SolDominion gets +1 Action.
+00536 SolDominion reveals 2 Conspirator, 1 Border Guard.
+00537 SolDominion answered
+00538 SolDominion puts 1 Conspirator into their hand.
+00539 SolDominion discards 1 Conspirator, 1 Border Guard.
+00540 SolDominion answered
+00541 SolDominion plays 1 Conspirator.
+00542 SolDominion gets +$2.
+00543 SolDominion draws 1 Conspirator.
+00544 SolDominion gets +1 Action.

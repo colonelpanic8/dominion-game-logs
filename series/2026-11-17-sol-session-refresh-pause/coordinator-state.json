@@ -1,0 +1,822 @@
+{
+  "created_at": "2026-11-17T05:48:18.356381+00:00",
+  "completed": [
+    {
+      "game_id": "dominion.games:186028514",
+      "completed_at": "2026-11-16T23:49:43.478969+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "Quen_tin_Zug",
+            "vp": 18,
+            "rank": 2,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 36,
+            "rank": 1,
+            "turns": 19
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186029319",
+      "completed_at": "2026-11-17T00:25:49.605160+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 37,
+            "rank": 1,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "weitzy",
+            "vp": 3,
+            "rank": 2,
+            "turns": 15,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186030563",
+      "completed_at": "2026-11-17T00:47:18.391710+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 36,
+            "rank": 1,
+            "turns": 12
+          },
+          {
+            "index": 1,
+            "name": "amiwan",
+            "vp": 5,
+            "rank": 2,
+            "turns": 12,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186031039",
+      "completed_at": "2026-11-17T01:20:51.441913+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "dominiondominion",
+            "vp": 0,
+            "rank": 2,
+            "turns": 9,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 9
+          }
+        ]
+      },
+      "source": "official client score table",
+      "operator_action": "Server-supported opponent timeout/force-resign, explicitly requested by user."
+    },
+    {
+      "game_id": "dominion.games:186032083",
+      "completed_at": "2026-11-17T01:38:12.965227+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "GameBot3000",
+            "vp": 10,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 11,
+            "rank": 2,
+            "turns": 13,
+            "resigned": true
+          }
+        ]
+      },
+      "note": "Connection failed with observation contradicts zone knowledge; in-memory reconnect recovered final result with Sol resigned. Operator did not submit a resign command."
+    },
+    {
+      "game_id": "dominion.games:186032758",
+      "completed_at": "2026-11-17T02:08:26.640700+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 45,
+            "rank": 2,
+            "turns": 21
+          },
+          {
+            "index": 1,
+            "name": "mdwicker",
+            "vp": 46,
+            "rank": 1,
+            "turns": 21
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186033558",
+      "completed_at": "2026-11-17T02:30:56.549651+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 29,
+            "rank": 1,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "Pitstop363",
+            "vp": 8,
+            "rank": 2,
+            "turns": 16
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186034175",
+      "completed_at": "2026-11-17T02:38:40.043904+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "hangdong69",
+            "vp": 1,
+            "rank": 2,
+            "turns": 6,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 1,
+            "rank": 1,
+            "turns": 6
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186034403",
+      "completed_at": "2026-11-17T02:40:51.133142+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 3,
+            "rank": 1,
+            "turns": 0
+          },
+          {
+            "index": 1,
+            "name": "nateopp",
+            "vp": 3,
+            "rank": 2,
+            "turns": 0,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186034460",
+      "completed_at": "2026-11-17T02:55:26.775067+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 13
+          },
+          {
+            "index": 1,
+            "name": "GameBot3000",
+            "vp": 3,
+            "rank": 2,
+            "turns": 12,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186034884",
+      "completed_at": "2026-11-17T02:56:57.520379+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 3,
+            "rank": 1,
+            "turns": 1
+          },
+          {
+            "index": 1,
+            "name": "nateopp",
+            "vp": 3,
+            "rank": 2,
+            "turns": 0,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186034949",
+      "completed_at": "2026-11-17T03:04:50.220359+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "yukkiboi",
+            "vp": 0,
+            "rank": 2,
+            "turns": 9,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 8
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186035246",
+      "completed_at": "2026-11-17T03:24:57.337862+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 35,
+            "rank": 1,
+            "turns": 18
+          },
+          {
+            "index": 1,
+            "name": "dtbomber",
+            "vp": 26,
+            "rank": 2,
+            "turns": 17,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186035907",
+      "completed_at": "2026-11-17T03:34:20.979279+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 18,
+            "rank": 1,
+            "turns": 9
+          },
+          {
+            "index": 1,
+            "name": "Rok3",
+            "vp": 2,
+            "rank": 2,
+            "turns": 8,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186036166",
+      "completed_at": "2026-11-17T03:55:59.364058+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "Relicdog",
+            "vp": 30,
+            "rank": 1,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 19,
+            "rank": 2,
+            "turns": 15
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186039786",
+      "completed_at": "2026-11-17T06:14:45.374232+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "Noboyuki",
+            "vp": 35,
+            "rank": 2,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 42,
+            "rank": 1,
+            "turns": 16
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186040335",
+      "completed_at": "2026-11-17T06:52:37.057920+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 39,
+            "rank": 1,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "everybell",
+            "vp": 31,
+            "rank": 2,
+            "turns": 18
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186041477",
+      "completed_at": "2026-11-17T07:10:49.973030+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "rainshifter",
+            "vp": 0,
+            "rank": 2,
+            "turns": 0,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 0
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186041530",
+      "completed_at": "2026-11-17T07:18:43.505372+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 2,
+            "rank": 1,
+            "turns": 8
+          },
+          {
+            "index": 1,
+            "name": "Stemar",
+            "vp": 2,
+            "rank": 2,
+            "turns": 7,
+            "resigned": true
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186041689",
+      "completed_at": "2026-11-17T07:46:34.540888+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 28,
+            "rank": 2,
+            "turns": 19,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "ryutake",
+            "vp": 42,
+            "rank": 1,
+            "turns": 19
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186042286",
+      "completed_at": "2026-11-17T08:00:41.020007+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "34msms",
+            "vp": 49,
+            "rank": 1,
+            "turns": 12
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 15,
+            "rank": 2,
+            "turns": 11
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186042551",
+      "completed_at": "2026-11-17T08:20:56.014600+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "wyan",
+            "vp": 34,
+            "rank": 2,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 46,
+            "rank": 1,
+            "turns": 14
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186043033",
+      "completed_at": "2026-11-17T08:48:39.668901+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 30,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "Kaityo_777",
+            "vp": 28,
+            "rank": 2,
+            "turns": 13
+          }
+        ]
+      }
+    },
+    {
+      "game_id": "dominion.games:186043435",
+      "completed_at": "2026-11-17T09:02:16.478561+00:00",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "thepilferer",
+            "vp": 4,
+            "rank": 2,
+            "turns": 12,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 18,
+            "rank": 1,
+            "turns": 12
+          }
+        ]
+      }
+    }
+  ],
+  "active_game": null,
+  "awaiting_game": true,
+  "previous_game": "dominion.games:186043435",
+  "initial_checked": true,
+  "last_search_at": "2026-11-17T09:04:24.351984+00:00",
+  "phase": "needs_attention",
+  "updated_at": "2026-11-17T09:04:25.130077+00:00",
+  "target": 65,
+  "agent": "Sol High",
+  "account": "SolDominion",
+  "current_turn": {
+    "number": 12,
+    "player": 1,
+    "activePlayer": "SolDominion",
+    "yourTurn": true,
+    "phase": null,
+    "actions": 1,
+    "buys": 1,
+    "coins": 10,
+    "potions": 0
+  },
+  "subscription": {
+    "type": "Complete",
+    "paid_usd": 5.88,
+    "expires_at": "2026-12-16T23:50:00.582000+00:00",
+    "auto_renews": false,
+    "verified_owned_levels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "verified_card_pool_min": 10,
+    "verified_card_pool_max": 10,
+    "verified_banned_cards": [],
+    "verified_disliked_cards": []
+  },
+  "rating_after_first_game": 40.8,
+  "deployment": {
+    "revision": "539b4c4fb196f2ea3ac66089d492bdd872ea7236",
+    "package": "/nix/store/vqjwlya3687awd8mdp8g9yvyhrs2vyka-dominion-with-web-0.1.0",
+    "verified_at": "2026-11-17T01:43:43.923279+00:00",
+    "automatic_server_offered_opponent_timeouts": true
+  },
+  "queue_feedback": [
+    "redelliott",
+    "2Tacos",
+    "two_sum"
+  ],
+  "verified_final_rating": {
+    "level": 48.52,
+    "mu": 0.68,
+    "phi": 0.438,
+    "games": 15,
+    "source": "Official profile, Standard / 2 Players, Today / New",
+    "verified_at": "2026-11-17T05:30:27.430050+00:00",
+    "rating_period_start_level": 40.83,
+    "rating_period_start_mu": 0.19,
+    "rating_period_start_phi": 0.706,
+    "rating_period_start_games": 1,
+    "rank": 1811,
+    "period_note": "Official Today/New: rating now, pending daily recalculation; Current is start-of-day rating."
+  },
+  "target_phi": 0.35,
+  "initial_games": 15,
+  "continuation_of": "sol-rating-20261116",
+  "rating_history": [
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 15,
+      "level": 48.52875231902688,
+      "mu": 0.6805025916393458,
+      "phi": 0.43833447455121444,
+      "rank": 1812,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T05:48:35.580509+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 16,
+      "level": 49.13792476554981,
+      "mu": 0.7418513230584911,
+      "phi": 0.42839734382592454,
+      "rank": 1574,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T06:14:46.206898+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 17,
+      "level": 49.85898935464422,
+      "mu": 0.8195438226146743,
+      "phi": 0.41917262099772223,
+      "rank": 1344,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T07:08:39.110089+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 18,
+      "level": 50.307667094779895,
+      "mu": 0.8622672100263652,
+      "phi": 0.41062246536118924,
+      "rank": 1180,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T07:10:50.681765+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 19,
+      "level": 50.74026929510995,
+      "mu": 0.903790214661942,
+      "phi": 0.40254382099030755,
+      "rank": 1066,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T07:18:44.185027+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 20,
+      "level": 50.23636733945591,
+      "mu": 0.8220642145209014,
+      "phi": 0.3952742846300568,
+      "rank": 1203,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T07:46:45.991562+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 21,
+      "level": 49.60601761676915,
+      "mu": 0.7231640426268546,
+      "phi": 0.387847513528817,
+      "rank": 1411,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T08:00:41.676181+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 22,
+      "level": 50.14273790203378,
+      "mu": 0.7806709146774895,
+      "phi": 0.3808195972031594,
+      "rank": 1234,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T08:25:19.167923+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 23,
+      "level": 50.609110606548825,
+      "mu": 0.829466725561082,
+      "phi": 0.3741259890106193,
+      "rank": 1094,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T08:48:51.040539+00:00"
+    },
+    {
+      "account": "SolDominion",
+      "basis": "period.new",
+      "games": 24,
+      "level": 51.29014355955845,
+      "mu": 0.91010829414313,
+      "phi": 0.36904457643433475,
+      "rank": 926,
+      "rating_type": 0,
+      "verified_at": "2026-11-17T09:02:17.318405+00:00"
+    }
+  ],
+  "goal": "official Standard 2P deviation at or below target_phi",
+  "latest_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 24,
+    "level": 51.29014355955845,
+    "mu": 0.91010829414313,
+    "phi": 0.36904457643433475,
+    "rank": 926,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T09:04:25.043694+00:00"
+  },
+  "pending_rating_attempts": 0,
+  "reconnects": {
+    "dominion.games:186040335": 1
+  },
+  "manual_recovery_during_deployment_hold": {
+    "game": "dominion.games:186040335",
+    "time": "2026-11-17T06:29:29.997774+00:00",
+    "error": "protocol error: observation contradicts zone knowledge"
+  },
+  "pending_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 22,
+    "level": 50.14273790203378,
+    "mu": 0.7806709146774895,
+    "phi": 0.3808195972031594,
+    "rank": 1233,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T08:48:40.365856+00:00"
+  },
+  "error": "HTTP 409: {\"error\":\"REJECTED: LOGIN_REQUIRED\"}",
+  "idle_reconnects": {
+    "dominion.games:186043435": 1
+  },
+  "idle_connection_recoveries": [
+    {
+      "time": "2026-11-17T09:04:24.087502+00:00",
+      "previous_game": "dominion.games:186043435",
+      "error": "HTTP 409: {\"error\":\"official server requested reconnect; pending answers invalidated; call online_reconnect\"}",
+      "action": "One existing-owned-session reconnect after an explicit HTTP409 rejection; no independent matchmaking start.",
+      "before": {
+        "running": false,
+        "searching": false,
+        "agent": null
+      },
+      "after": {
+        "connected": true,
+        "running": false,
+        "searching": false
+      },
+      "pending_start_resolution": "Cleared only after authoritative idle checks before and after reconnect; previous final result and all completed IDs preserved."
+    }
+  ],
+  "user_goal_changes": [
+    {
+      "time": "2026-11-17T09:06:26.799042+00:00",
+      "old_target_phi": 0.3,
+      "target_phi": 0.35,
+      "reason": "User said uncertainty below0.35 is good enough."
+    }
+  ]
+}
