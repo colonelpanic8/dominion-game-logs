@@ -1,0 +1,979 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High buys Silver
+00005 Fable High gains Silver
+00006 Fable High draws 5 cards
+00007 Astra High starts turn 1
+00008 Astra High plays Copper
+00009 Astra High plays Copper
+00010 Astra High plays Copper
+00011 Astra High plays Copper
+00012 Astra High buys Deliver
+00013 Astra High gets +1 Buy
+00014 Astra High buys Druid
+00015 Astra High gains Druid
+00016 Astra High's Deliver resolves
+00017 Astra High sets aside Druid
+00018 Astra High draws 5 cards
+00019 Astra High's Deliver resolves
+00020 Astra High puts Druid they had set aside into their hand
+00021 Fable High starts turn 2
+00022 Fable High plays Copper
+00023 Fable High plays Copper
+00024 Fable High plays Copper
+00025 Fable High plays Copper
+00026 Fable High buys Potion
+00027 Fable High gains Potion
+00028 Fable High shuffles
+00029 Fable High draws 5 cards
+00030 Astra High starts turn 2
+00031 Astra High plays Druid
+00032 Astra High uses Way of the Goat for Druid
+00033 Astra High trashes Estate
+00034 Astra High plays Copper
+00035 Astra High plays Copper
+00036 Astra High plays Copper
+00037 Astra High buys Silver
+00038 Astra High gains Silver
+00039 Astra High shuffles
+00040 Astra High draws 5 cards
+00041 Fable High starts turn 3
+00042 Fable High plays Copper
+00043 Fable High plays Copper
+00044 Fable High plays Copper
+00045 Fable High plays Copper
+00046 Fable High plays Copper
+00047 Fable High buys Sentry
+00048 Fable High gains Sentry
+00049 Fable High draws 5 cards
+00050 Astra High starts turn 3
+00051 Astra High plays Silver
+00052 Astra High plays Copper
+00053 Astra High plays Copper
+00054 Astra High plays Copper
+00055 Astra High buys Sentry
+00056 Astra High gains Sentry
+00057 Astra High draws 5 cards
+00058 Fable High starts turn 4
+00059 Fable High plays Copper
+00060 Fable High plays Potion
+00061 Fable High plays Copper
+00062 Fable High buys Scrying Pool
+00063 Fable High gains Scrying Pool
+00064 Fable High shuffles
+00065 Fable High draws 5 cards
+00066 Astra High starts turn 4
+00067 Astra High plays Druid
+00068 Astra High chooses the Field's Gift (Druid)
+00069 Astra High receives The Field's Gift
+00070 Astra High plays Copper
+00071 Astra High plays Copper
+00072 Astra High plays Copper
+00073 Astra High buys Potion
+00074 Astra High gains Potion
+00075 Astra High shuffles
+00076 Astra High draws 5 cards
+00077 Fable High starts turn 5
+00078 Fable High plays Sentry
+00079 Fable High draws 1 card
+00080 Fable High looks at the top 2 cards of their deck
+00081 Fable High puts 2 cards back onto their deck
+00082 Fable High plays Silver
+00083 Fable High plays Copper
+00084 Fable High plays Potion
+00085 Fable High buys Scrying Pool
+00086 Fable High gains Scrying Pool
+00087 Fable High draws 5 cards
+00088 Astra High starts turn 5
+00089 Astra High plays Sentry
+00090 Astra High draws 1 card
+00091 Astra High looks at the top 2 cards of their deck
+00092 Astra High trashes Copper
+00093 Astra High trashes Estate
+00094 Astra High plays Copper
+00095 Astra High plays Copper
+00096 Astra High plays Copper
+00097 Astra High plays Silver
+00098 Astra High buys Margrave
+00099 Astra High gains Margrave
+00100 Astra High draws 5 cards
+00101 Fable High starts turn 6
+00102 Fable High plays Scrying Pool
+00103 Fable High reveals Copper
+00104 Fable High puts Copper back onto their deck
+00105 Astra High shuffles
+00106 Astra High reveals Copper
+00107 Astra High discards Copper
+00108 Fable High reveals Copper
+00109 Fable High puts Copper from the top of their deck into their hand
+00110 Fable High plays Copper
+00111 Fable High plays Copper
+00112 Fable High plays Copper
+00113 Fable High plays Copper
+00114 Fable High buys Potion
+00115 Fable High gains Potion
+00116 Fable High shuffles
+00117 Fable High draws 5 cards
+00118 Astra High starts turn 6
+00119 Astra High plays Druid
+00120 Astra High chooses the Field's Gift (Druid)
+00121 Astra High receives The Field's Gift
+00122 Astra High plays Copper
+00123 Astra High plays Potion
+00124 Astra High plays Copper
+00125 Astra High plays Copper
+00126 Astra High buys Scrying Pool
+00127 Astra High gains Scrying Pool
+00128 Astra High buys Druid
+00129 Astra High gains Druid
+00130 Astra High draws 5 cards
+00131 Fable High starts turn 7
+00132 Fable High plays Sentry
+00133 Fable High draws 1 card
+00134 Fable High looks at the top 2 cards of their deck
+00135 Fable High puts 2 cards back onto their deck
+00136 Fable High plays Copper
+00137 Fable High plays Copper
+00138 Fable High plays Copper
+00139 Fable High plays Silver
+00140 Fable High buys Margrave
+00141 Fable High gains Margrave
+00142 Fable High draws 5 cards
+00143 Astra High starts turn 7
+00144 Astra High plays Sentry
+00145 Astra High draws 1 card
+00146 Astra High shuffles
+00147 Astra High looks at the top 2 cards of their deck
+00148 Astra High trashes Copper
+00149 Astra High puts a card back onto their deck
+00150 Astra High plays Margrave
+00151 Astra High draws 3 cards
+00152 Fable High draws 1 card
+00153 Fable High discards Potion
+00154 Fable High discards Estate
+00155 Fable High discards Copper
+00156 Astra High plays Copper
+00157 Astra High plays Copper
+00158 Astra High plays Silver
+00159 Astra High plays Potion
+00160 Astra High plays Copper
+00161 Astra High buys Scrying Pool
+00162 Astra High gains Scrying Pool
+00163 Astra High buys Druid
+00164 Astra High gains Druid
+00165 Astra High shuffles
+00166 Astra High draws 5 cards
+00167 Fable High starts turn 8
+00168 Fable High plays Potion
+00169 Fable High plays Copper
+00170 Fable High plays Copper
+00171 Fable High buys Scrying Pool
+00172 Fable High gains Scrying Pool
+00173 Fable High shuffles
+00174 Fable High draws 5 cards
+00175 Astra High starts turn 8
+00176 Astra High plays Scrying Pool
+00177 Astra High reveals Estate
+00178 Astra High discards Estate
+00179 Fable High reveals Potion
+00180 Fable High puts Potion back onto their deck
+00181 Astra High reveals Potion
+00182 Astra High puts Potion from the top of their deck into their hand
+00183 Astra High plays Druid
+00184 Astra High chooses the River's Gift (Druid)
+00185 Astra High receives The River's Gift
+00186 Astra High plays Copper
+00187 Astra High plays Copper
+00188 Astra High plays Silver
+00189 Astra High plays Potion
+00190 Astra High buys Scrying Pool
+00191 Astra High gains Scrying Pool
+00192 Astra High buys Druid
+00193 Astra High gains Druid
+00194 Astra High draws 5 cards
+00195 Astra High's The River's Gift resolves
+00196 Astra High draws 1 card
+00197 Fable High starts turn 9
+00198 Fable High plays Scrying Pool
+00199 Fable High reveals Potion
+00200 Fable High puts Potion back onto their deck
+00201 Astra High reveals Druid
+00202 Astra High discards Druid
+00203 Fable High reveals Potion
+00204 Fable High puts Potion from the top of their deck into their hand
+00205 Fable High plays Scrying Pool
+00206 Fable High reveals Scrying Pool
+00207 Fable High puts Scrying Pool back onto their deck
+00208 Astra High reveals Copper
+00209 Astra High puts Copper back onto their deck
+00210 Fable High reveals Scrying Pool
+00211 Fable High reveals Silver
+00212 Fable High puts Silver, Scrying Pool from the top of their deck into their hand
+00213 Fable High plays Scrying Pool
+00214 Fable High reveals Copper
+00215 Fable High discards Copper
+00216 Astra High reveals Copper
+00217 Astra High puts Copper back onto their deck
+00218 Fable High reveals Margrave
+00219 Fable High reveals Estate
+00220 Fable High puts Estate, Margrave from the top of their deck into their hand
+00221 Fable High plays Margrave
+00222 Fable High draws 3 cards
+00223 Astra High draws 1 card
+00224 Astra High discards Druid
+00225 Astra High discards Copper
+00226 Astra High discards Copper
+00227 Astra High discards Copper
+00228 Fable High plays Copper
+00229 Fable High plays Copper
+00230 Fable High plays Potion
+00231 Fable High plays Silver
+00232 Fable High plays Copper
+00233 Fable High buys Scrying Pool
+00234 Fable High gains Scrying Pool
+00235 Fable High buys Druid
+00236 Fable High gains Druid
+00237 Fable High shuffles
+00238 Fable High draws 5 cards
+00239 Astra High starts turn 9
+00240 Astra High plays Sentry
+00241 Astra High shuffles
+00242 Astra High draws 1 card
+00243 Astra High looks at the top 2 cards of their deck
+00244 Astra High trashes Copper
+00245 Astra High puts a card back onto their deck
+00246 Astra High plays Scrying Pool
+00247 Astra High reveals Druid
+00248 Astra High puts Druid back onto their deck
+00249 Fable High reveals Copper
+00250 Fable High puts Copper back onto their deck
+00251 Astra High reveals Druid
+00252 Astra High reveals Copper
+00253 Astra High puts Copper, Druid from the top of their deck into their hand
+00254 Astra High plays Druid
+00255 Astra High chooses the Field's Gift (Druid)
+00256 Astra High receives The Field's Gift
+00257 Astra High plays Margrave
+00258 Astra High draws 3 cards
+00259 Fable High draws 1 card
+00260 Fable High discards Estate
+00261 Fable High discards Copper
+00262 Fable High discards Copper
+00263 Astra High plays Copper
+00264 Astra High plays Copper
+00265 Astra High buys City Quarter
+00266 Astra High takes 8 Debt
+00267 Astra High gains City Quarter
+00268 Astra High pays off 1 Debt
+00269 Astra High pays off 1 Debt
+00270 Astra High pays off 1 Debt
+00271 Astra High draws 5 cards
+00272 Fable High starts turn 10
+00273 Fable High plays Potion
+00274 Fable High plays Copper
+00275 Fable High plays Copper
+00276 Fable High buys Scrying Pool
+00277 Fable High gains Scrying Pool
+00278 Fable High draws 5 cards
+00279 Astra High starts turn 10
+00280 Astra High plays Druid
+00281 Astra High chooses the Field's Gift (Druid)
+00282 Astra High receives The Field's Gift
+00283 Astra High plays Silver
+00284 Astra High plays Potion
+00285 Astra High plays Copper
+00286 Astra High plays Copper
+00287 Astra High pays off 1 Debt
+00288 Astra High pays off 1 Debt
+00289 Astra High pays off 1 Debt
+00290 Astra High pays off 1 Debt
+00291 Astra High pays off 1 Debt
+00292 Astra High shuffles
+00293 Astra High draws 5 cards
+00294 Fable High starts turn 11
+00295 Fable High plays Scrying Pool
+00296 Fable High reveals Estate
+00297 Fable High discards Estate
+00298 Astra High reveals Margrave
+00299 Astra High discards Margrave
+00300 Fable High reveals Copper
+00301 Fable High puts Copper from the top of their deck into their hand
+00302 Fable High plays Scrying Pool
+00303 Fable High reveals Estate
+00304 Fable High discards Estate
+00305 Astra High reveals Estate
+00306 Astra High puts Estate back onto their deck
+00307 Fable High reveals Scrying Pool
+00308 Fable High reveals Potion
+00309 Fable High puts Potion, Scrying Pool from the top of their deck into their hand
+00310 Fable High plays Scrying Pool
+00311 Fable High reveals Sentry
+00312 Fable High puts Sentry back onto their deck
+00313 Astra High reveals Estate
+00314 Astra High puts Estate back onto their deck
+00315 Fable High reveals Sentry
+00316 Fable High reveals Copper
+00317 Fable High puts Copper, Sentry from the top of their deck into their hand
+00318 Fable High plays Scrying Pool
+00319 Fable High reveals Margrave
+00320 Fable High puts Margrave back onto their deck
+00321 Astra High reveals Estate
+00322 Astra High puts Estate back onto their deck
+00323 Fable High reveals Margrave
+00324 Fable High reveals Silver
+00325 Fable High puts Silver, Margrave from the top of their deck into their hand
+00326 Fable High plays Sentry
+00327 Fable High shuffles
+00328 Fable High draws 1 card
+00329 Fable High looks at the top 2 cards of their deck
+00330 Fable High trashes Estate
+00331 Fable High trashes Estate
+00332 Fable High plays Druid
+00333 Fable High chooses the Field's Gift (Druid)
+00334 Fable High receives The Field's Gift
+00335 Fable High plays Margrave
+00336 Fable High draws 3 cards
+00337 Astra High draws 1 card
+00338 Astra High discards Copper
+00339 Astra High discards Copper
+00340 Astra High discards Estate
+00341 Fable High plays Copper
+00342 Fable High plays Copper
+00343 Fable High plays Potion
+00344 Fable High plays Copper
+00345 Fable High plays Silver
+00346 Fable High plays Copper
+00347 Fable High plays Copper
+00348 Fable High buys Deliver
+00349 Fable High gets +1 Buy
+00350 Fable High buys Scrying Pool
+00351 Fable High gains Scrying Pool
+00352 Fable High's Deliver resolves
+00353 Fable High sets aside Scrying Pool
+00354 Fable High buys Druid
+00355 Fable High gains Druid
+00356 Fable High's Deliver resolves
+00357 Fable High sets aside Druid
+00358 Fable High buys Druid
+00359 Fable High gains Druid
+00360 Fable High's Deliver resolves
+00361 Fable High sets aside Druid
+00362 Fable High shuffles
+00363 Fable High draws 5 cards
+00364 Fable High's Deliver resolves
+00365 Fable High puts Scrying Pool, Druid, Druid they had set aside into their hand
+00366 Astra High starts turn 11
+00367 Astra High plays Scrying Pool
+00368 Astra High reveals City Quarter
+00369 Astra High puts City Quarter back onto their deck
+00370 Fable High reveals Scrying Pool
+00371 Fable High discards Scrying Pool
+00372 Astra High reveals City Quarter
+00373 Astra High reveals Scrying Pool
+00374 Astra High reveals Potion
+00375 Astra High puts Potion, Scrying Pool, City Quarter from the top of their deck into their hand
+00376 Astra High plays City Quarter
+00377 Astra High reveals their hand: Druid, Druid, Scrying Pool, Potion
+00378 Astra High draws 3 cards
+00379 Astra High plays Scrying Pool
+00380 Astra High reveals Silver
+00381 Astra High puts Silver back onto their deck
+00382 Fable High reveals Estate
+00383 Fable High puts Estate back onto their deck
+00384 Astra High reveals Silver
+00385 Astra High puts Silver from the top of their deck into their hand
+00386 Astra High plays Scrying Pool
+00387 Astra High reveals Druid
+00388 Astra High puts Druid back onto their deck
+00389 Fable High reveals Estate
+00390 Fable High puts Estate back onto their deck
+00391 Astra High reveals Druid
+00392 Astra High reveals Copper
+00393 Astra High puts Copper, Druid from the top of their deck into their hand
+00394 Astra High plays Druid
+00395 Astra High chooses the Sea's Gift (Druid)
+00396 Astra High receives The Sea's Gift
+00397 Astra High draws 1 card
+00398 Astra High plays Sentry
+00399 Astra High shuffles
+00400 Astra High draws 1 card
+00401 Astra High looks at the top 2 cards of their deck
+00402 Astra High trashes Copper
+00403 Astra High trashes Copper
+00404 Astra High plays Druid
+00405 Astra High chooses the Field's Gift (Druid)
+00406 Astra High receives The Field's Gift
+00407 Astra High plays Druid
+00408 Astra High chooses the Field's Gift (Druid)
+00409 Astra High receives The Field's Gift
+00410 Astra High plays Druid
+00411 Astra High uses Way of the Goat for Druid
+00412 Astra High trashes Estate
+00413 Astra High plays Potion
+00414 Astra High plays Copper
+00415 Astra High plays Silver
+00416 Astra High plays Copper
+00417 Astra High buys Scrying Pool
+00418 Astra High gains Scrying Pool
+00419 Astra High buys Druid
+00420 Astra High gains Druid
+00421 Astra High buys Druid
+00422 Astra High gains Druid
+00423 Astra High shuffles
+00424 Astra High draws 5 cards
+00425 Fable High starts turn 12
+00426 Fable High plays Scrying Pool
+00427 Fable High reveals Estate
+00428 Fable High discards Estate
+00429 Astra High reveals Druid
+00430 Astra High discards Druid
+00431 Fable High reveals Scrying Pool
+00432 Fable High reveals Scrying Pool
+00433 Fable High reveals Copper
+00434 Fable High puts Copper, Scrying Pool, Scrying Pool from the top of their deck into their hand
+00435 Fable High plays Scrying Pool
+00436 Fable High reveals Scrying Pool
+00437 Fable High puts Scrying Pool back onto their deck
+00438 Astra High reveals Druid
+00439 Astra High discards Druid
+00440 Fable High reveals Scrying Pool
+00441 Fable High reveals Sentry
+00442 Fable High reveals Potion
+00443 Fable High puts Sentry, Potion, Scrying Pool from the top of their deck into their hand
+00444 Fable High plays Scrying Pool
+00445 Fable High reveals Copper
+00446 Fable High puts Copper back onto their deck
+00447 Astra High reveals Druid
+00448 Astra High discards Druid
+00449 Fable High reveals Copper
+00450 Fable High puts Copper from the top of their deck into their hand
+00451 Fable High plays Scrying Pool
+00452 Fable High reveals Copper
+00453 Fable High puts Copper back onto their deck
+00454 Astra High reveals City Quarter
+00455 Astra High discards City Quarter
+00456 Fable High reveals Copper
+00457 Fable High puts Copper from the top of their deck into their hand
+00458 Fable High plays Scrying Pool
+00459 Fable High reveals Druid
+00460 Fable High puts Druid back onto their deck
+00461 Astra High reveals Potion
+00462 Astra High puts Potion back onto their deck
+00463 Fable High reveals Druid
+00464 Fable High reveals Margrave
+00465 Fable High reveals Silver
+00466 Fable High puts Silver, Margrave, Druid from the top of their deck into their hand
+00467 Fable High plays Druid
+00468 Fable High chooses the Field's Gift (Druid)
+00469 Fable High receives The Field's Gift
+00470 Fable High plays Druid
+00471 Fable High chooses the Field's Gift (Druid)
+00472 Fable High receives The Field's Gift
+00473 Fable High plays Druid
+00474 Fable High chooses the Field's Gift (Druid)
+00475 Fable High receives The Field's Gift
+00476 Fable High plays Sentry
+00477 Fable High draws 1 card
+00478 Fable High shuffles
+00479 Fable High looks at the top 2 cards of their deck
+00480 Fable High puts 2 cards back onto their deck
+00481 Fable High plays Margrave
+00482 Fable High draws 2 cards
+00483 Astra High draws 1 card
+00484 Astra High discards Copper
+00485 Astra High discards Copper
+00486 Astra High discards Potion
+00487 Fable High plays Copper
+00488 Fable High plays Copper
+00489 Fable High plays Potion
+00490 Fable High plays Copper
+00491 Fable High plays Copper
+00492 Fable High plays Potion
+00493 Fable High plays Copper
+00494 Fable High plays Copper
+00495 Fable High plays Silver
+00496 Fable High plays Copper
+00497 Fable High buys Province
+00498 Fable High gains Province
+00499 Fable High buys Druid
+00500 Fable High gains Druid
+00501 Fable High shuffles
+00502 Fable High draws 5 cards
+00503 Astra High starts turn 12
+00504 Astra High plays Scrying Pool
+00505 Astra High reveals Druid
+00506 Astra High puts Druid back onto their deck
+00507 Fable High reveals Copper
+00508 Fable High puts Copper back onto their deck
+00509 Astra High reveals Druid
+00510 Astra High reveals Silver
+00511 Astra High puts Silver, Druid from the top of their deck into their hand
+00512 Astra High plays Druid
+00513 Astra High chooses the Field's Gift (Druid)
+00514 Astra High receives The Field's Gift
+00515 Astra High plays Druid
+00516 Astra High chooses the Field's Gift (Druid)
+00517 Astra High receives The Field's Gift
+00518 Astra High plays Margrave
+00519 Astra High draws 3 cards
+00520 Fable High draws 1 card
+00521 Fable High discards Copper
+00522 Fable High discards Copper
+00523 Fable High discards Copper
+00524 Astra High plays Silver
+00525 Astra High buys Deliver
+00526 Astra High gets +1 Buy
+00527 Astra High buys City Quarter
+00528 Astra High takes 8 Debt
+00529 Astra High gains City Quarter
+00530 Astra High's Deliver resolves
+00531 Astra High sets aside City Quarter
+00532 Astra High pays off 1 Debt
+00533 Astra High pays off 1 Debt
+00534 Astra High shuffles
+00535 Astra High draws 5 cards
+00536 Astra High's Deliver resolves
+00537 Astra High puts City Quarter they had set aside into their hand
+00538 Fable High starts turn 13
+00539 Fable High plays Scrying Pool
+00540 Fable High reveals Potion
+00541 Fable High discards Potion
+00542 Astra High reveals Copper
+00543 Astra High puts Copper back onto their deck
+00544 Fable High reveals Scrying Pool
+00545 Fable High reveals Copper
+00546 Fable High puts Copper, Scrying Pool from the top of their deck into their hand
+00547 Fable High plays Scrying Pool
+00548 Fable High reveals Copper
+00549 Fable High discards Copper
+00550 Astra High reveals Copper
+00551 Astra High puts Copper back onto their deck
+00552 Fable High reveals Druid
+00553 Fable High reveals Potion
+00554 Fable High puts Potion, Druid from the top of their deck into their hand
+00555 Fable High plays Scrying Pool
+00556 Fable High reveals Silver
+00557 Fable High puts Silver back onto their deck
+00558 Astra High reveals Copper
+00559 Astra High puts Copper back onto their deck
+00560 Fable High reveals Silver
+00561 Fable High puts Silver from the top of their deck into their hand
+00562 Fable High plays Druid
+00563 Fable High chooses the Field's Gift (Druid)
+00564 Fable High receives The Field's Gift
+00565 Fable High plays Margrave
+00566 Fable High draws 3 cards
+00567 Astra High draws 1 card
+00568 Astra High discards Scrying Pool
+00569 Astra High discards Scrying Pool
+00570 Astra High discards Druid
+00571 Astra High discards Copper
+00572 Fable High plays Copper
+00573 Fable High plays Potion
+00574 Fable High plays Silver
+00575 Fable High buys Estate
+00576 Fable High gains Estate
+00577 Fable High buys Estate
+00578 Fable High gains Estate
+00579 Fable High draws 5 cards
+00580 Astra High starts turn 13
+00581 Astra High plays City Quarter
+00582 Astra High reveals their hand: Sentry, Scrying Pool
+00583 Astra High draws 2 cards
+00584 Astra High plays Scrying Pool
+00585 Astra High reveals Druid
+00586 Astra High puts Druid back onto their deck
+00587 Fable High reveals Estate
+00588 Fable High puts Estate back onto their deck
+00589 Astra High reveals Druid
+00590 Astra High reveals Druid
+00591 Astra High reveals City Quarter
+00592 Astra High reveals Druid
+00593 Astra High reveals Margrave
+00594 Astra High reveals Druid
+00595 Astra High reveals Scrying Pool
+00596 Astra High reveals Druid
+00597 Astra High reveals Silver
+00598 Astra High puts Silver, Scrying Pool, Margrave, City Quarter, Druid, Druid, Druid, Druid, Druid from the top of their deck into their hand
+00599 Astra High plays City Quarter
+00600 Astra High reveals their hand: Sentry, Potion, Copper, Druid, Druid, Druid, Margrave, Druid, Scrying Pool, Druid, Silver
+00601 Astra High shuffles
+00602 Astra High draws 4 cards
+00603 Astra High plays Scrying Pool
+00604 Astra High uses Way of the Goat for Scrying Pool
+00605 Astra High trashes Potion
+00606 Astra High plays Scrying Pool
+00607 Astra High uses Way of the Goat for Scrying Pool
+00608 Astra High trashes Copper
+00609 Astra High plays Druid
+00610 Astra High chooses the Field's Gift (Druid)
+00611 Astra High receives The Field's Gift
+00612 Astra High plays Druid
+00613 Astra High chooses the Field's Gift (Druid)
+00614 Astra High receives The Field's Gift
+00615 Astra High plays Druid
+00616 Astra High chooses the Field's Gift (Druid)
+00617 Astra High receives The Field's Gift
+00618 Astra High plays Druid
+00619 Astra High chooses the Field's Gift (Druid)
+00620 Astra High receives The Field's Gift
+00621 Astra High plays Druid
+00622 Astra High chooses the Field's Gift (Druid)
+00623 Astra High receives The Field's Gift
+00624 Astra High plays Druid
+00625 Astra High chooses the Field's Gift (Druid)
+00626 Astra High receives The Field's Gift
+00627 Astra High plays Margrave
+00628 Fable High draws 1 card
+00629 Fable High discards Druid
+00630 Fable High discards Copper
+00631 Fable High discards Estate
+00632 Astra High pays off 1 Debt
+00633 Astra High pays off 1 Debt
+00634 Astra High pays off 1 Debt
+00635 Astra High pays off 1 Debt
+00636 Astra High pays off 1 Debt
+00637 Astra High pays off 1 Debt
+00638 Astra High plays Silver
+00639 Astra High plays Copper
+00640 Astra High buys Silver
+00641 Astra High gains Silver
+00642 Astra High shuffles
+00643 Astra High draws 5 cards
+00644 Fable High starts turn 14
+00645 Fable High plays Scrying Pool
+00646 Fable High reveals Scrying Pool
+00647 Fable High puts Scrying Pool back onto their deck
+00648 Astra High reveals City Quarter
+00649 Astra High discards City Quarter
+00650 Fable High reveals Scrying Pool
+00651 Fable High reveals Copper
+00652 Fable High puts Copper, Scrying Pool from the top of their deck into their hand
+00653 Fable High plays Scrying Pool
+00654 Fable High shuffles
+00655 Fable High reveals Druid
+00656 Fable High puts Druid back onto their deck
+00657 Astra High reveals Druid
+00658 Astra High discards Druid
+00659 Fable High reveals Druid
+00660 Fable High reveals Copper
+00661 Fable High puts Copper, Druid from the top of their deck into their hand
+00662 Fable High plays Scrying Pool
+00663 Fable High reveals Sentry
+00664 Fable High puts Sentry back onto their deck
+00665 Astra High reveals Sentry
+00666 Astra High discards Sentry
+00667 Fable High reveals Sentry
+00668 Fable High reveals Scrying Pool
+00669 Fable High reveals Scrying Pool
+00670 Fable High reveals Scrying Pool
+00671 Fable High reveals Margrave
+00672 Fable High reveals Potion
+00673 Fable High puts Sentry, Potion, Scrying Pool, Scrying Pool, Scrying Pool, Margrave from the top of their deck into their hand
+00674 Fable High plays Sentry
+00675 Fable High draws 1 card
+00676 Fable High looks at the top 2 cards of their deck
+00677 Fable High discards Province
+00678 Fable High discards Estate
+00679 Fable High plays Scrying Pool
+00680 Fable High reveals Copper
+00681 Fable High puts Copper back onto their deck
+00682 Astra High reveals Silver
+00683 Astra High discards Silver
+00684 Fable High reveals Copper
+00685 Fable High puts Copper from the top of their deck into their hand
+00686 Fable High plays Scrying Pool
+00687 Fable High reveals Silver
+00688 Fable High puts Silver back onto their deck
+00689 Astra High reveals Scrying Pool
+00690 Astra High discards Scrying Pool
+00691 Fable High reveals Silver
+00692 Fable High puts Silver from the top of their deck into their hand
+00693 Fable High plays Scrying Pool
+00694 Fable High reveals Druid
+00695 Fable High puts Druid back onto their deck
+00696 Astra High reveals Margrave
+00697 Astra High discards Margrave
+00698 Fable High reveals Druid
+00699 Fable High reveals Estate
+00700 Fable High puts Estate, Druid from the top of their deck into their hand
+00701 Fable High plays Druid
+00702 Fable High chooses the Field's Gift (Druid)
+00703 Fable High receives The Field's Gift
+00704 Fable High plays Druid
+00705 Fable High chooses the Field's Gift (Druid)
+00706 Fable High receives The Field's Gift
+00707 Fable High plays Druid
+00708 Fable High chooses the Field's Gift (Druid)
+00709 Fable High receives The Field's Gift
+00710 Fable High plays Margrave
+00711 Fable High draws 3 cards
+00712 Astra High draws 1 card
+00713 Astra High discards Druid
+00714 Astra High discards Druid
+00715 Astra High discards Copper
+00716 Fable High plays Copper
+00717 Fable High plays Copper
+00718 Fable High plays Potion
+00719 Fable High plays Copper
+00720 Fable High plays Copper
+00721 Fable High plays Silver
+00722 Fable High plays Potion
+00723 Fable High plays Copper
+00724 Fable High buys Province
+00725 Fable High gains Province
+00726 Fable High buys Estate
+00727 Fable High gains Estate
+00728 Fable High shuffles
+00729 Fable High draws 5 cards
+00730 Astra High starts turn 14
+00731 Astra High plays City Quarter
+00732 Astra High reveals their hand: Druid, Druid
+00733 Astra High draws 2 cards
+00734 Astra High plays Scrying Pool
+00735 Astra High reveals Scrying Pool
+00736 Astra High puts Scrying Pool back onto their deck
+00737 Fable High reveals Potion
+00738 Fable High puts Potion back onto their deck
+00739 Astra High reveals Scrying Pool
+00740 Astra High reveals Scrying Pool
+00741 Astra High reveals Silver
+00742 Astra High puts Silver, Scrying Pool, Scrying Pool from the top of their deck into their hand
+00743 Astra High plays Scrying Pool
+00744 Astra High shuffles
+00745 Astra High reveals City Quarter
+00746 Astra High puts City Quarter back onto their deck
+00747 Fable High reveals Potion
+00748 Fable High puts Potion back onto their deck
+00749 Astra High reveals City Quarter
+00750 Astra High reveals Silver
+00751 Astra High puts Silver, City Quarter from the top of their deck into their hand
+00752 Astra High plays City Quarter
+00753 Astra High reveals their hand: Druid, Druid, Druid, Scrying Pool, Silver, Silver
+00754 Astra High draws 4 cards
+00755 Astra High plays Margrave
+00756 Astra High draws 3 cards
+00757 Fable High draws 1 card
+00758 Fable High discards Estate
+00759 Fable High discards Copper
+00760 Fable High discards Potion
+00761 Astra High plays Scrying Pool
+00762 Fable High reveals Copper
+00763 Fable High puts Copper back onto their deck
+00764 Astra High plays Druid
+00765 Astra High chooses the Field's Gift (Druid)
+00766 Astra High receives The Field's Gift
+00767 Astra High plays Druid
+00768 Astra High chooses the Field's Gift (Druid)
+00769 Astra High receives The Field's Gift
+00770 Astra High plays Druid
+00771 Astra High chooses the Field's Gift (Druid)
+00772 Astra High receives The Field's Gift
+00773 Astra High plays Druid
+00774 Astra High chooses the Field's Gift (Druid)
+00775 Astra High receives The Field's Gift
+00776 Astra High plays Druid
+00777 Astra High chooses the Field's Gift (Druid)
+00778 Astra High receives The Field's Gift
+00779 Astra High plays Druid
+00780 Astra High chooses the Field's Gift (Druid)
+00781 Astra High receives The Field's Gift
+00782 Astra High plays Silver
+00783 Astra High plays Silver
+00784 Astra High plays Copper
+00785 Astra High buys Province
+00786 Astra High gains Province
+00787 Astra High buys Silver
+00788 Astra High gains Silver
+00789 Astra High shuffles
+00790 Astra High draws 5 cards
+00791 Fable High starts turn 15
+00792 Fable High plays Scrying Pool
+00793 Fable High reveals Copper
+00794 Fable High discards Copper
+00795 Astra High reveals Copper
+00796 Astra High discards Copper
+00797 Fable High reveals Scrying Pool
+00798 Fable High reveals Estate
+00799 Fable High puts Estate, Scrying Pool from the top of their deck into their hand
+00800 Fable High plays Scrying Pool
+00801 Fable High reveals Potion
+00802 Fable High discards Potion
+00803 Astra High reveals Sentry
+00804 Astra High discards Sentry
+00805 Fable High reveals Druid
+00806 Fable High reveals Copper
+00807 Fable High puts Copper, Druid from the top of their deck into their hand
+00808 Fable High plays Druid
+00809 Fable High chooses the Field's Gift (Druid)
+00810 Fable High receives The Field's Gift
+00811 Fable High plays Margrave
+00812 Fable High draws 3 cards
+00813 Astra High draws 1 card
+00814 Astra High discards Druid
+00815 Astra High discards Druid
+00816 Astra High discards Druid
+00817 Fable High plays Copper
+00818 Fable High plays Copper
+00819 Fable High buys Estate
+00820 Fable High gains Estate
+00821 Fable High draws 5 cards
+00822 Astra High starts turn 15
+00823 Astra High plays Scrying Pool
+00824 Astra High reveals Province
+00825 Astra High discards Province
+00826 Fable High reveals Silver
+00827 Fable High discards Silver
+00828 Astra High reveals Silver
+00829 Astra High puts Silver from the top of their deck into their hand
+00830 Astra High plays Scrying Pool
+00831 Astra High reveals Druid
+00832 Astra High puts Druid back onto their deck
+00833 Fable High reveals Province
+00834 Fable High puts Province back onto their deck
+00835 Astra High reveals Druid
+00836 Astra High reveals Margrave
+00837 Astra High reveals Druid
+00838 Astra High reveals Scrying Pool
+00839 Astra High reveals Silver
+00840 Astra High puts Silver, Scrying Pool, Margrave, Druid, Druid from the top of their deck into their hand
+00841 Astra High plays City Quarter
+00842 Astra High reveals their hand: Silver, Druid, Margrave, Druid, Scrying Pool, Silver
+00843 Astra High draws 4 cards
+00844 Astra High plays City Quarter
+00845 Astra High reveals their hand: Silver, Druid, Margrave, Druid, Scrying Pool, Silver, Silver, Scrying Pool, Druid
+00846 Astra High shuffles
+00847 Astra High draws 6 cards
+00848 Astra High plays Margrave
+00849 Fable High draws 1 card
+00850 Fable High discards Copper
+00851 Fable High discards Copper
+00852 Fable High discards Province
+00853 Astra High plays Scrying Pool
+00854 Fable High reveals Druid
+00855 Fable High discards Druid
+00856 Astra High plays Scrying Pool
+00857 Fable High reveals Estate
+00858 Fable High puts Estate back onto their deck
+00859 Astra High plays Druid
+00860 Astra High chooses the Field's Gift (Druid)
+00861 Astra High receives The Field's Gift
+00862 Astra High plays Druid
+00863 Astra High chooses the Field's Gift (Druid)
+00864 Astra High receives The Field's Gift
+00865 Astra High plays Druid
+00866 Astra High chooses the Field's Gift (Druid)
+00867 Astra High receives The Field's Gift
+00868 Astra High plays Druid
+00869 Astra High chooses the Field's Gift (Druid)
+00870 Astra High receives The Field's Gift
+00871 Astra High plays Druid
+00872 Astra High chooses the Field's Gift (Druid)
+00873 Astra High receives The Field's Gift
+00874 Astra High plays Druid
+00875 Astra High chooses the Field's Gift (Druid)
+00876 Astra High receives The Field's Gift
+00877 Astra High plays Silver
+00878 Astra High plays Silver
+00879 Astra High plays Silver
+00880 Astra High plays Copper
+00881 Astra High buys Province
+00882 Astra High gains Province
+00883 Astra High buys Duchy
+00884 Astra High gains Duchy
+00885 Astra High shuffles
+00886 Astra High draws 5 cards
+00887 Fable High starts turn 16
+00888 Fable High plays Scrying Pool
+00889 Fable High reveals Estate
+00890 Fable High discards Estate
+00891 Astra High reveals Margrave
+00892 Astra High discards Margrave
+00893 Fable High reveals Copper
+00894 Fable High puts Copper from the top of their deck into their hand
+00895 Fable High plays Sentry
+00896 Fable High draws 1 card
+00897 Fable High looks at the top 2 cards of their deck
+00898 Fable High discards Estate
+00899 Fable High puts a card back onto their deck
+00900 Fable High plays Scrying Pool
+00901 Fable High reveals Scrying Pool
+00902 Fable High puts Scrying Pool back onto their deck
+00903 Astra High reveals Silver
+00904 Astra High discards Silver
+00905 Fable High reveals Scrying Pool
+00906 Fable High shuffles
+00907 Fable High reveals Potion
+00908 Fable High puts Potion, Scrying Pool from the top of their deck into their hand
+00909 Fable High plays Scrying Pool
+00910 Fable High reveals Scrying Pool
+00911 Fable High puts Scrying Pool back onto their deck
+00912 Astra High reveals Province
+00913 Astra High puts Province back onto their deck
+00914 Fable High reveals Scrying Pool
+00915 Fable High reveals Estate
+00916 Fable High puts Estate, Scrying Pool from the top of their deck into their hand
+00917 Fable High plays Scrying Pool
+00918 Fable High reveals Potion
+00919 Fable High discards Potion
+00920 Astra High reveals Province
+00921 Astra High puts Province back onto their deck
+00922 Fable High reveals Copper
+00923 Fable High puts Copper from the top of their deck into their hand
+00924 Fable High plays Druid
+00925 Fable High chooses the Field's Gift (Druid)
+00926 Fable High receives The Field's Gift
+00927 Fable High plays Copper
+00928 Fable High plays Potion
+00929 Fable High plays Copper
+00930 Fable High buys Estate
+00931 Fable High gains Estate
+00932 Fable High draws 5 cards
+00933 Astra High starts turn 16
+00934 Astra High plays Scrying Pool
+00935 Astra High reveals Province
+00936 Astra High discards Province
+00937 Fable High reveals Copper
+00938 Fable High puts Copper back onto their deck
+00939 Astra High reveals Scrying Pool
+00940 Astra High reveals Druid
+00941 Astra High reveals City Quarter
+00942 Astra High reveals Druid
+00943 Astra High reveals City Quarter
+00944 Astra High reveals Copper
+00945 Astra High puts Copper, Scrying Pool, City Quarter, City Quarter, Druid, Druid from the top of their deck into their hand
+00946 Astra High plays City Quarter
+00947 Astra High reveals their hand: Druid, Silver, Province, Sentry, Scrying Pool, Druid, Druid, City Quarter, Copper
+00948 Astra High draws 6 cards
+00949 Astra High plays City Quarter
+00950 Astra High reveals their hand: Druid, Silver, Province, Sentry, Scrying Pool, Druid, Druid, Copper, Druid, Scrying Pool, Scrying Pool, Duchy, Druid, Silver
+00951 Astra High shuffles
+00952 Astra High draws 4 cards
+00953 Astra High plays Druid
+00954 Astra High chooses the Field's Gift (Druid)
+00955 Astra High receives The Field's Gift
+00956 Astra High plays Druid
+00957 Astra High chooses the Field's Gift (Druid)
+00958 Astra High receives The Field's Gift
+00959 Astra High plays Druid
+00960 Astra High chooses the Field's Gift (Druid)
+00961 Astra High receives The Field's Gift
+00962 Astra High plays Druid
+00963 Astra High chooses the Field's Gift (Druid)
+00964 Astra High receives The Field's Gift
+00965 Astra High plays Silver
+00966 Astra High plays Copper
+00967 Astra High plays Silver
+00968 Astra High plays Silver
+00969 Astra High buys Duchy
+00970 Astra High gains Duchy
+00971 Astra High buys Estate
+00972 Astra High gains Estate
+00973 Astra High buys Estate
+00974 Astra High gains Estate
+00975 Astra High buys Estate
+00976 Astra High gains Estate
+00977 Astra High shuffles
+00978 Astra High draws 5 cards

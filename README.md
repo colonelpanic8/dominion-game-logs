@@ -40,6 +40,8 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 <!-- runs:start -->
 | Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-16/sol-high-186040335](runs/2026-11-16/sol-high-186040335) | gpt-6.1-sol high | human | 186040335: SolDominion 39, everybell 31 | ? | ? |  |
+| [2026-11-16/sol-high-186039786](runs/2026-11-16/sol-high-186039786) | gpt-6.1-sol high | human | 186039786: Noboyuki 35, SolDominion 42 | ? | ? |  |
 | [2026-11-16/sol-high-186036166](runs/2026-11-16/sol-high-186036166) | gpt-6.1-sol high | human | 186036166: Relicdog 30, SolDominion 19 | ? | ? |  |
 | [2026-11-16/sol-high-186035907](runs/2026-11-16/sol-high-186035907) | gpt-6.1-sol high | human | 186035907: SolDominion 18, Rok3 2 | ? | ? |  |
 | [2026-11-16/sol-high-186035246](runs/2026-11-16/sol-high-186035246) | gpt-6.1-sol high | human | 186035246: SolDominion 35, dtbomber 26 | ? | ? |  |
@@ -55,6 +57,7 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 | [2026-11-16/sol-high-186030563](runs/2026-11-16/sol-high-186030563) | gpt-6.1-sol high | human | 186030563: SolDominion 36, amiwan 5 | ? | ? |  |
 | [2026-11-16/sol-high-186029319](runs/2026-11-16/sol-high-186029319) | gpt-6.1-sol high | human | 186029319: SolDominion 37, weitzy 3 | ? | ? |  |
 | [2026-11-16/sol-high-186028514](runs/2026-11-16/sol-high-186028514) | gpt-6.1-sol high | human | 186028514: Quen_tin_Zug 18, SolDominion 36 | ? | ? |  |
+| [2026-11-16/fable-astra-g69](runs/2026-11-16/fable-astra-g69) | Fable High vs Astra High high | agent | g69: Fable High 18, Astra High 21 | ? | ? |  |
 | [2026-11-15/arena-g5](runs/2026-11-15/arena-g5) | Argon High vs Terra  | agent | g5: Argon High 27, Terra 13 | ? | ? |  |
 | [2026-11-15/arena-g4](runs/2026-11-15/arena-g4) | Terra vs Sonnet High  | agent | g4: Terra 40, Sonnet High 23 | ? | ? |  |
 | [2026-11-15/arena-g3](runs/2026-11-15/arena-g3) | Terra vs Sonnet Low  | agent | g3: Terra 36, Sonnet Low 28 | ? | ? |  |

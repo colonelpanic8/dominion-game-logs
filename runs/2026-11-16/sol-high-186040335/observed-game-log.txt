@@ -1,0 +1,990 @@
+00000 game 186040335
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 1 Lucky Coin.
+00003 SolDominion starts with 6 Copper.
+00004 everybell starts with 3 Estate.
+00005 everybell starts with 1 Lucky Coin.
+00006 everybell starts with 6 Copper.
+00007 SolDominion answered
+00008 everybell answered
+00009 SolDominion shuffles their deck.
+00010 everybell shuffles their deck.
+00011 SolDominion draws 3 Copper, 1 Estate, 1 Lucky Coin.
+00012 everybell draws 5 card.
+00013 SolDominion starts turn 1
+00014 SolDominion answered
+00015 SolDominion answered
+00016 SolDominion answered
+00017 play treasures for
+00018 SolDominion answered
+00019 play treasures for
+00020 SolDominion gains 1 Silver.
+00021 SolDominion answered
+00022 SolDominion buys and gains 1 Blockade.
+00023 SolDominion draws 3 Copper, 2 Estate.
+00024 everybell starts turn 1
+00025 everybell answered
+00026 play treasures for
+00027 everybell answered
+00028 everybell buys and gains 1 Blockade.
+00029 everybell draws 5 card.
+00030 SolDominion starts turn 2
+00031 SolDominion answered
+00032 SolDominion answered
+00033 SolDominion answered
+00034 play treasures for
+00035 SolDominion answered
+00036 SolDominion buys 1 Cathedral.
+00037 SolDominion shuffles their deck.
+00038 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Lucky Coin.
+00039 everybell starts turn 2
+00040 everybell answered
+00041 play treasures for
+00042 everybell answered
+00043 play treasures for
+00044 everybell gains 1 Silver.
+00045 everybell answered
+00046 everybell buys 1 Cathedral.
+00047 everybell shuffles their deck.
+00048 everybell draws 5 card.
+00049 SolDominion starts turn 3
+00050 SolDominion starts their turn.
+00051 SolDominion answered
+00052 SolDominion trashes 1 Estate. (Cathedral)
+00053 SolDominion answered
+00054 play treasures for
+00055 SolDominion answered
+00056 play treasures for
+00057 SolDominion gains 1 Silver.
+00058 SolDominion answered
+00059 SolDominion answered
+00060 play treasures for
+00061 SolDominion answered
+00062 SolDominion buys and gains 1 Cutthroat.
+00063 SolDominion draws 3 Copper, 2 Estate.
+00064 everybell starts turn 3
+00065 everybell starts their turn.
+00066 everybell answered
+00067 everybell trashes 1 Estate. (Cathedral)
+00068 everybell answered
+00069 play treasures for
+00070 everybell answered
+00071 play treasures for
+00072 everybell gains 1 Silver.
+00073 everybell answered
+00074 everybell buys and gains 1 Jack of All Trades.
+00075 everybell draws 5 card.
+00076 SolDominion starts turn 4
+00077 SolDominion starts their turn.
+00078 SolDominion answered
+00079 SolDominion trashes 1 Estate. (Cathedral)
+00080 SolDominion answered
+00081 SolDominion answered
+00082 SolDominion answered
+00083 play treasures for
+00084 SolDominion answered
+00085 SolDominion buys and gains 1 Grotto.
+00086 SolDominion shuffles their deck.
+00087 SolDominion draws 3 Copper, 1 Blockade, 1 Cutthroat.
+00088 everybell starts turn 4
+00089 everybell starts their turn.
+00090 everybell answered
+00091 everybell trashes 1 Estate. (Cathedral)
+00092 everybell answered
+00093 play treasures for
+00094 everybell answered
+00095 everybell buys and gains 1 Jack of All Trades.
+00096 everybell shuffles their deck.
+00097 everybell draws 5 card.
+00098 SolDominion starts turn 5
+00099 SolDominion starts their turn.
+00100 SolDominion answered
+00101 SolDominion trashes 1 Copper. (Cathedral)
+00102 SolDominion answered
+00103 SolDominion plays 1 Blockade.
+00104 SolDominion answered
+00105 SolDominion gains 1 Flagship setting it aside.
+00106 SolDominion answered
+00107 SolDominion answered
+00108 play treasures for
+00109 SolDominion answered
+00110 SolDominion buys and gains 1 Lighthouse.
+00111 SolDominion draws 3 Copper, 1 Silver, 1 Grotto.
+00112 everybell starts turn 5
+00113 everybell starts their turn.
+00114 everybell answered
+00115 everybell trashes 1 Copper. (Cathedral)
+00116 everybell answered
+00117 everybell plays 1 Blockade.
+00118 everybell answered
+00119 everybell gains 1 Jack of All Trades setting it aside.
+00120 everybell answered
+00121 play treasures for
+00122 everybell answered
+00123 play treasures for
+00124 everybell gains 1 Silver.
+00125 everybell answered
+00126 everybell buys and gains 1 Fool.
+00127 everybell draws 5 card.
+00128 SolDominion starts turn 6
+00129 SolDominion starts their turn.
+00130 SolDominion answered
+00131 SolDominion answered
+00132 SolDominion trashes 1 Copper. (Cathedral)
+00133 SolDominion puts 1 Flagship in hand (Blockade).
+00134 SolDominion answered
+00135 SolDominion plays 1 Flagship.
+00136 SolDominion gets +$2.
+00137 SolDominion answered
+00138 SolDominion answered
+00139 SolDominion answered
+00140 play treasures for
+00141 SolDominion answered
+00142 SolDominion buys and gains 1 Inn.
+00143 SolDominion looks at 2 Copper, 1 Lighthouse, 1 Inn, 1 Cutthroat.
+00144 SolDominion answered
+00145 SolDominion shuffles their deck.
+00146 SolDominion shuffles 1 Lighthouse, 1 Cutthroat, 1 Inn into their deck.
+00147 SolDominion draws 1 Silver, 1 Estate, 1 Inn, 1 Lucky Coin, 1 Cutthroat.
+00148 everybell starts turn 6
+00149 everybell starts their turn.
+00150 everybell answered
+00151 everybell answered
+00152 everybell trashes 1 Copper. (Cathedral)
+00153 everybell puts 1 Jack of All Trades in hand (Blockade).
+00154 everybell answered
+00155 everybell plays 1 Jack of All Trades.
+00156 everybell gains 1 Silver.
+00157 everybell looks at 1 card.
+00158 everybell answered
+00159 everybell topdecks 1 card.
+00160 everybell draws 1 card.
+00161 everybell answered
+00162 everybell answered
+00163 play treasures for
+00164 everybell answered
+00165 everybell buys and gains 1 Inn.
+00166 everybell looks at 6 card, 1 Silver.
+00167 everybell answered
+00168 everybell shuffles their deck.
+00169 everybell shuffles 1 Fool, 1 Inn into their deck.
+00170 everybell shuffles their deck.
+00171 everybell draws 5 card.
+00172 SolDominion starts turn 7
+00173 SolDominion starts their turn.
+00174 SolDominion answered
+00175 SolDominion trashes 1 Estate. (Cathedral)
+00176 SolDominion answered
+00177 SolDominion plays 1 Inn.
+00178 SolDominion shuffles their deck.
+00179 SolDominion draws 1 Copper, 1 Lighthouse.
+00180 SolDominion gets +2 Actions.
+00181 SolDominion answered
+00182 SolDominion discards 1 Copper, 1 Lighthouse.
+00183 play again with
+00184 SolDominion draws 1 Copper, 1 Grotto.
+00185 SolDominion gets +2 Actions.
+00186 SolDominion answered
+00187 SolDominion discards 1 Copper, 1 Grotto.
+00188 SolDominion answered
+00189 SolDominion plays 1 Cutthroat.
+00190 everybell answered
+00191 everybell discards 1 card, 1 Copper.
+00192 SolDominion answered
+00193 play treasures for
+00194 SolDominion gains 1 Silver.
+00195 SolDominion answered
+00196 play treasures for
+00197 SolDominion answered
+00198 SolDominion buys and gains 1 Grotto.
+00199 SolDominion shuffles their deck.
+00200 SolDominion draws 3 Copper, 1 Silver, 1 Blockade.
+00201 everybell starts turn 7
+00202 everybell starts their turn.
+00203 everybell answered
+00204 everybell trashes 1 Estate. (Cathedral)
+00205 everybell answered
+00206 everybell plays 1 Inn.
+00207 everybell draws 2 card.
+00208 everybell gets +2 Actions.
+00209 everybell answered
+00210 everybell discards 1 card, 1 Silver.
+00211 everybell answered
+00212 everybell plays 1 Jack of All Trades.
+00213 everybell gains 1 Silver.
+00214 everybell looks at 1 card.
+00215 everybell answered
+00216 everybell discards 1 Lucky Coin.
+00217 everybell draws 5 card.
+00218 everybell answered
+00219 everybell answered
+00220 everybell plays 1 Blockade.
+00221 everybell answered
+00222 everybell gains 1 Cabin Boy setting it aside.
+00223 everybell answered
+00224 play treasures for
+00225 everybell answered
+00226 everybell buys 1 Innovation.
+00227 everybell shuffles their deck.
+00228 everybell draws 5 card.
+00229 SolDominion starts turn 8
+00230 SolDominion starts their turn.
+00231 SolDominion answered
+00232 SolDominion trashes 1 Copper. (Cathedral)
+00233 SolDominion answered
+00234 SolDominion plays 1 Blockade.
+00235 SolDominion answered
+00236 SolDominion gains 1 Jack of All Trades setting it aside.
+00237 SolDominion answered
+00238 SolDominion answered
+00239 SolDominion answered
+00240 play treasures for
+00241 SolDominion answered
+00242 SolDominion buys and gains 1 Cabin Boy.
+00243 SolDominion gains 1 Curse.
+00244 SolDominion draws 1 Silver, 1 Inn, 1 Lucky Coin, 1 Grotto, 1 Flagship.
+00245 everybell starts turn 8
+00246 everybell starts their turn.
+00247 everybell answered
+00248 everybell answered
+00249 everybell trashes 1 Copper. (Cathedral)
+00250 everybell puts 1 Cabin Boy in hand (Blockade).
+00251 everybell answered
+00252 everybell plays 1 Cabin Boy.
+00253 everybell draws 1 card.
+00254 everybell gets +1 Action.
+00255 everybell answered
+00256 everybell plays 1 Jack of All Trades.
+00257 everybell gains 1 Silver.
+00258 everybell looks at 1 card.
+00259 everybell answered
+00260 everybell discards 1 Copper.
+00261 everybell draws 1 card.
+00262 everybell answered
+00263 everybell answered
+00264 play treasures for
+00265 everybell answered
+00266 play treasures for
+00267 everybell gains 1 Silver.
+00268 everybell answered
+00269 everybell buys and gains 1 Inn.
+00270 everybell answered
+00271 everybell plays 1 Inn.
+00272 everybell draws 2 card.
+00273 everybell gets +2 Actions.
+00274 everybell answered
+00275 everybell discards 1 card, 1 Inn.
+00276 everybell looks at 5 card.
+00277 everybell answered
+00278 everybell shuffles their deck.
+00279 everybell shuffles 1 Jack of All Trades, 1 Inn into their deck.
+00280 everybell draws 5 card.
+00281 SolDominion starts turn 9
+00282 SolDominion starts their turn.
+00283 SolDominion answered
+00284 SolDominion answered
+00285 SolDominion trashes 1 Lucky Coin. (Cathedral)
+00286 SolDominion puts 1 Jack of All Trades in hand (Blockade).
+00287 SolDominion answered
+00288 SolDominion plays 1 Inn.
+00289 SolDominion draws 1 Lighthouse, 1 Grotto.
+00290 SolDominion gets +2 Actions.
+00291 SolDominion answered
+00292 SolDominion discards 1 Silver, 1 Grotto.
+00293 SolDominion answered
+00294 SolDominion plays 1 Lighthouse.
+00295 SolDominion gets +1 Action.
+00296 SolDominion gets +$1.
+00297 SolDominion answered
+00298 SolDominion plays 1 Grotto.
+00299 SolDominion gets +1 Action.
+00300 SolDominion answered
+00301 SolDominion answered
+00302 SolDominion plays 1 Flagship.
+00303 SolDominion gets +$2.
+00304 SolDominion answered
+00305 SolDominion plays 1 Jack of All Trades.
+00306 SolDominion gains 1 Silver.
+00307 SolDominion looks at 1 Silver.
+00308 SolDominion answered
+00309 SolDominion topdecks 1 Silver.
+00310 SolDominion draws 1 Copper, 1 Silver.
+00311 SolDominion shuffles their deck.
+00312 SolDominion draws 1 Curse, 1 Silver, 1 Grotto.
+00313 SolDominion answered
+00314 SolDominion trashes 1 Curse.
+00315 play again with
+00316 SolDominion gains 1 Silver.
+00317 SolDominion looks at 1 Copper.
+00318 SolDominion answered
+00319 SolDominion discards 1 Copper.
+00320 SolDominion draws 1 Silver.
+00321 SolDominion answered
+00322 SolDominion answered
+00323 SolDominion answered
+00324 SolDominion answered
+00325 SolDominion answered
+00326 play treasures for
+00327 SolDominion answered
+00328 SolDominion buys and gains 1 Gold.
+00329 SolDominion reveals 1 Spell Scroll.
+00330 SolDominion gains 1 Spell Scroll. (Cutthroat)
+00331 SolDominion shuffles their deck.
+00332 SolDominion draws 1 Copper, 2 Silver, 1 Blockade, 1 Cabin Boy.
+00333 everybell starts turn 9
+00334 everybell starts their turn.
+00335 everybell answered
+00336 everybell answered
+00337 everybell trashes 1 Copper. (Cathedral)
+00338 everybell answered
+00339 everybell gets +$2. (Cabin Boy)
+00340 everybell answered
+00341 everybell plays 1 Inn.
+00342 everybell draws 2 card.
+00343 everybell gets +2 Actions.
+00344 everybell answered
+00345 everybell discards 1 card, 1 Copper.
+00346 everybell answered
+00347 everybell plays 1 Jack of All Trades.
+00348 everybell gains 1 Silver.
+00349 everybell shuffles their deck.
+00350 everybell looks at 1 card.
+00351 everybell answered
+00352 everybell topdecks 1 card.
+00353 everybell draws 3 card.
+00354 everybell answered
+00355 everybell answered
+00356 everybell plays 1 Fool.
+00357 everybell takes 1 Lost In The Woods.
+00358 everybell takes 1 The Sky's Gift.
+00359 everybell takes 1 The Sea's Gift.
+00360 everybell takes 1 The Forest's Gift.
+00361 everybell answered
+00362 everybell receives 1 The Sea's Gift.
+00363 everybell draws 1 card.
+00364 everybell discards 1 The Sea's Gift.
+00365 everybell answered
+00366 everybell receives 1 The Forest's Gift.
+00367 everybell gets +1 Buy.
+00368 everybell gets +$1.
+00369 everybell receives 1 The Sky's Gift.
+00370 everybell answered
+00371 everybell discards 2 card, 1 Copper.
+00372 everybell gains 1 Gold.
+00373 everybell discards 1 The Sky's Gift.
+00374 everybell answered
+00375 play treasures for
+00376 everybell answered
+00377 everybell buys and gains 1 Cutthroat.
+00378 everybell answered
+00379 everybell plays 1 Cutthroat.
+00380 everybell answered
+00381 everybell buys and gains 1 Lighthouse.
+00382 everybell discards 1 The Forest's Gift.
+00383 everybell draws 5 card.
+00384 SolDominion starts turn 10
+00385 SolDominion starts their turn.
+00386 SolDominion gets +$1. (Lighthouse)
+00387 SolDominion answered
+00388 SolDominion trashes 1 Copper. (Cathedral)
+00389 SolDominion answered
+00390 SolDominion plays 1 Cabin Boy.
+00391 SolDominion draws 1 Inn.
+00392 SolDominion gets +1 Action.
+00393 SolDominion answered
+00394 SolDominion plays 1 Inn.
+00395 SolDominion draws 1 Silver, 1 Gold.
+00396 SolDominion gets +2 Actions.
+00397 SolDominion answered
+00398 SolDominion discards 2 Silver.
+00399 SolDominion answered
+00400 SolDominion plays 1 Blockade.
+00401 SolDominion answered
+00402 SolDominion gains 1 Cabin Boy setting it aside.
+00403 SolDominion answered
+00404 SolDominion answered
+00405 play treasures for
+00406 SolDominion answered
+00407 SolDominion buys 1 Innovation.
+00408 SolDominion draws 2 Copper, 1 Silver, 1 Flagship, 1 Cutthroat.
+00409 everybell starts turn 10
+00410 everybell starts their turn.
+00411 everybell answered
+00412 everybell answered
+00413 everybell trashes 1 Copper. (Cathedral)
+00414 everybell answered
+00415 everybell plays 1 Inn.
+00416 everybell draws 2 card.
+00417 everybell gets +2 Actions.
+00418 everybell answered
+00419 everybell discards 1 card, 1 Silver.
+00420 everybell answered
+00421 everybell plays 1 Jack of All Trades.
+00422 everybell gains 1 Silver.
+00423 everybell looks at 1 card.
+00424 everybell answered
+00425 everybell topdecks 1 card.
+00426 everybell draws 3 card.
+00427 everybell answered
+00428 everybell answered
+00429 everybell plays 1 Blockade.
+00430 everybell answered
+00431 everybell gains 1 Lighthouse setting it aside.
+00432 everybell answered
+00433 everybell plays 1 Lighthouse.
+00434 everybell gets +1 Action.
+00435 everybell gets +$1.
+00436 everybell answered
+00437 play treasures for
+00438 everybell answered
+00439 play treasures for
+00440 everybell gains 1 Silver.
+00441 everybell answered
+00442 everybell buys and gains 1 Province.
+00443 everybell shuffles their deck.
+00444 everybell draws 5 card.
+00445 SolDominion starts turn 11
+00446 SolDominion starts their turn.
+00447 SolDominion answered
+00448 SolDominion answered
+00449 SolDominion trashes 1 Copper. (Cathedral)
+00450 SolDominion answered
+00451 SolDominion answered
+00452 SolDominion trashes 1 Cabin Boy. (Cabin Boy)
+00453 SolDominion answered
+00454 SolDominion gains 1 Flagship. (Cabin Boy)
+00455 SolDominion answered
+00456 play with
+00457 SolDominion gets +$2.
+00458 SolDominion puts 1 Cabin Boy in hand (Blockade).
+00459 SolDominion answered
+00460 SolDominion plays 1 Cabin Boy.
+00461 SolDominion draws 1 Silver.
+00462 SolDominion gets +1 Action.
+00463 play again with
+00464 SolDominion draws 1 Grotto.
+00465 SolDominion gets +1 Action.
+00466 SolDominion answered
+00467 SolDominion plays 1 Grotto.
+00468 SolDominion gets +1 Action.
+00469 SolDominion answered
+00470 SolDominion sets 1 Copper aside with Grotto.
+00471 SolDominion answered
+00472 SolDominion plays 1 Flagship.
+00473 SolDominion gets +$2.
+00474 SolDominion answered
+00475 SolDominion plays 1 Cutthroat.
+00476 play again with
+00477 SolDominion answered
+00478 SolDominion answered
+00479 play treasures for
+00480 SolDominion answered
+00481 SolDominion buys and gains 1 Gold.
+00482 SolDominion reveals 1 Orb.
+00483 SolDominion gains 1 Orb. (Cutthroat)
+00484 SolDominion reveals 1 Shield.
+00485 SolDominion gains 1 Shield. (Cutthroat)
+00486 everybell reveals 1 Sword.
+00487 everybell gains 1 Sword. (Cutthroat)
+00488 everybell discards 1 Cutthroat.
+00489 SolDominion shuffles their deck.
+00490 SolDominion draws 1 Gold, 1 Jack of All Trades, 1 Grotto, 1 Shield, 1 Spell Scroll.
+00491 everybell starts turn 11
+00492 everybell starts their turn.
+00493 everybell answered
+00494 everybell answered
+00495 everybell trashes 1 Copper. (Cathedral)
+00496 everybell answered
+00497 everybell gets +$1. (Lighthouse)
+00498 everybell answered
+00499 everybell answered
+00500 everybell discards 1 Lucky Coin. (Lost In The Woods)
+00501 everybell takes 1 The Earth's Gift.
+00502 everybell receives 1 The Earth's Gift.
+00503 everybell answered
+00504 everybell discards 1 Gold. (The Earth's Gift)
+00505 everybell answered
+00506 everybell gains 1 Cabin Boy. (The Earth's Gift)
+00507 everybell answered
+00508 everybell discards 1 The Earth's Gift.
+00509 everybell answered
+00510 everybell plays 1 Inn.
+00511 everybell draws 2 card.
+00512 everybell gets +2 Actions.
+00513 everybell answered
+00514 everybell discards 1 card, 1 Silver.
+00515 everybell answered
+00516 everybell plays 1 Jack of All Trades.
+00517 everybell gains 1 Silver.
+00518 everybell looks at 1 card.
+00519 everybell answered
+00520 everybell topdecks 1 card.
+00521 everybell draws 5 card.
+00522 everybell answered
+00523 everybell answered
+00524 everybell plays 1 Lighthouse.
+00525 everybell gets +1 Action.
+00526 everybell gets +$1.
+00527 everybell answered
+00528 everybell plays 1 Jack of All Trades.
+00529 everybell gains 1 Silver.
+00530 everybell looks at 1 card.
+00531 everybell answered
+00532 everybell topdecks 1 card.
+00533 everybell draws 2 card.
+00534 everybell answered
+00535 everybell answered
+00536 play treasures for
+00537 everybell answered
+00538 everybell buys and gains 1 Province.
+00539 everybell draws 5 card.
+00540 SolDominion starts turn 12
+00541 SolDominion starts their turn.
+00542 SolDominion answered
+00543 SolDominion discards 1 Copper.
+00544 SolDominion draws 1 Silver. (Grotto)
+00545 SolDominion answered
+00546 SolDominion answered
+00547 SolDominion gets +$2. (Cabin Boy)
+00548 SolDominion answered
+00549 SolDominion answered
+00550 SolDominion trashes 1 Silver. (Cathedral)
+00551 SolDominion answered
+00552 SolDominion trashes 1 Cabin Boy. (Cabin Boy)
+00553 SolDominion answered
+00554 SolDominion gains 1 Cutthroat. (Cabin Boy)
+00555 SolDominion answered
+00556 play with
+00557 SolDominion answered
+00558 SolDominion plays 1 Grotto.
+00559 SolDominion gets +1 Action.
+00560 SolDominion answered
+00561 SolDominion sets 1 Gold aside with Grotto.
+00562 SolDominion answered
+00563 SolDominion plays 1 Jack of All Trades.
+00564 SolDominion gains 1 Silver.
+00565 SolDominion looks at 1 Cutthroat.
+00566 SolDominion answered
+00567 SolDominion discards 1 Cutthroat.
+00568 SolDominion draws 1 Lighthouse, 1 Inn, 1 Flagship.
+00569 SolDominion answered
+00570 SolDominion answered
+00571 SolDominion plays 1 Spell Scroll.
+00572 SolDominion trashes 1 Spell Scroll.
+00573 SolDominion answered
+00574 SolDominion gains 1 Gold.
+00575 SolDominion reveals 1 Doubloons.
+00576 SolDominion gains 1 Doubloons. (Cutthroat)
+00577 SolDominion gains 1 Gold. (Doubloons)
+00578 SolDominion answered
+00579 play treasures for
+00580 SolDominion looks at 1 Silver, 1 Cutthroat, 1 Copper, 1 Doubloons, 2 Gold.
+00581 SolDominion answered
+00582 SolDominion plays 1 Shield.
+00583 SolDominion gets +1 Buy.
+00584 SolDominion gets +$3.
+00585 SolDominion answered
+00586 SolDominion buys and gains 1 Province.
+00587 SolDominion answered
+00588 SolDominion draws 2 Silver, 1 Gold, 1 Blockade, 1 Orb.
+00589 everybell starts turn 12
+00590 everybell starts their turn.
+00591 everybell answered
+00592 everybell gets +$1. (Lighthouse)
+00593 everybell answered
+00594 everybell answered
+00595 everybell trashes 1 Silver. (Cathedral)
+00596 everybell answered
+00597 everybell plays 1 Inn.
+00598 everybell draws 2 card.
+00599 everybell gets +2 Actions.
+00600 everybell answered
+00601 everybell discards 1 card, 1 Silver.
+00602 everybell answered
+00603 everybell plays 1 Blockade.
+00604 everybell answered
+00605 everybell gains 1 Lighthouse setting it aside.
+00606 everybell answered
+00607 everybell plays 1 Lighthouse.
+00608 everybell gets +1 Action.
+00609 everybell gets +$1.
+00610 everybell answered
+00611 play treasures for
+00612 everybell answered
+00613 everybell buys and gains 1 Cutthroat.
+00614 everybell shuffles their deck.
+00615 everybell draws 5 card.
+00616 SolDominion starts turn 13
+00617 SolDominion starts their turn.
+00618 SolDominion answered
+00619 SolDominion discards 1 Gold.
+00620 SolDominion draws 1 Silver. (Grotto)
+00621 SolDominion answered
+00622 SolDominion trashes 1 Silver. (Cathedral)
+00623 SolDominion answered
+00624 SolDominion plays 1 Blockade.
+00625 SolDominion answered
+00626 SolDominion gains 1 Cabin Boy setting it aside.
+00627 SolDominion answered
+00628 SolDominion plays 1 Cabin Boy.
+00629 SolDominion draws 1 Silver.
+00630 SolDominion gets +1 Action.
+00631 SolDominion answered
+00632 SolDominion answered
+00633 SolDominion answered
+00634 SolDominion answered
+00635 play treasures for
+00636 SolDominion answered
+00637 SolDominion plays 1 Orb.
+00638 SolDominion looks at 1 Copper, 1 Silver, 3 Gold, 1 Province, 1 Lighthouse, 1 Inn, 1 Jack of All Trades, 1 Grotto, 2 Flagship, 2 Cutthroat, 1 Doubloons, 1 Shield.
+00639 SolDominion answered
+00640 SolDominion plays 1 Jack of All Trades.
+00641 SolDominion looks at 1 Silver, 1 Province, 2 Cutthroat, 1 Lighthouse, 1 Copper, 1 Doubloons, 1 Grotto, 1 Jack of All Trades, 1 Inn, 1 Shield, 3 Gold, 2 Flagship.
+00642 SolDominion gains 1 Silver.
+00643 SolDominion shuffles their deck.
+00644 SolDominion looks at 1 Province.
+00645 SolDominion answered
+00646 SolDominion discards 1 Province.
+00647 SolDominion draws 1 Copper, 1 Gold, 1 Lighthouse, 1 Grotto, 1 Cutthroat.
+00648 SolDominion answered
+00649 SolDominion trashes 1 Cutthroat.
+00650 SolDominion answered
+00651 SolDominion answered
+00652 play treasures for
+00653 SolDominion answered
+00654 SolDominion buys and gains 1 Province.
+00655 SolDominion draws 1 Silver, 1 Gold, 1 Inn, 1 Flagship, 1 Doubloons.
+00656 everybell starts turn 13
+00657 everybell starts their turn.
+00658 everybell answered
+00659 everybell gets +$1. (Lighthouse)
+00660 everybell answered
+00661 everybell answered
+00662 everybell trashes 1 Silver. (Cathedral)
+00663 everybell answered
+00664 everybell answered
+00665 everybell discards 1 Jack of All Trades. (Lost In The Woods)
+00666 everybell takes 1 The Flame's Gift.
+00667 everybell receives 1 The Flame's Gift.
+00668 everybell answered
+00669 everybell discards 1 The Flame's Gift.
+00670 everybell answered
+00671 everybell plays 1 Cabin Boy.
+00672 everybell draws 1 card.
+00673 everybell gets +1 Action.
+00674 everybell answered
+00675 everybell plays 1 Jack of All Trades.
+00676 everybell gains 1 Silver.
+00677 everybell looks at 1 card.
+00678 everybell answered
+00679 everybell topdecks 1 card.
+00680 everybell draws 3 card.
+00681 everybell answered
+00682 everybell answered
+00683 play treasures for
+00684 everybell answered
+00685 everybell buys and gains 1 Duchy.
+00686 everybell draws 5 card.
+00687 SolDominion starts turn 14
+00688 SolDominion starts their turn.
+00689 SolDominion answered
+00690 SolDominion answered
+00691 SolDominion trashes 1 Silver. (Cathedral)
+00692 SolDominion answered
+00693 SolDominion trashes 1 Cabin Boy. (Cabin Boy)
+00694 SolDominion answered
+00695 SolDominion gains 1 Lighthouse. (Cabin Boy)
+00696 SolDominion answered
+00697 play with
+00698 SolDominion gets +1 Action.
+00699 SolDominion gets +$1.
+00700 SolDominion answered
+00701 SolDominion plays 1 Flagship.
+00702 SolDominion gets +$2.
+00703 SolDominion answered
+00704 SolDominion plays 1 Inn.
+00705 SolDominion draws 1 Gold, 1 Cutthroat.
+00706 SolDominion gets +2 Actions.
+00707 SolDominion answered
+00708 SolDominion discards 1 Gold, 1 Cutthroat.
+00709 play again with
+00710 SolDominion draws 1 Silver, 1 Flagship.
+00711 SolDominion gets +2 Actions.
+00712 SolDominion answered
+00713 SolDominion discards 1 Silver, 1 Doubloons.
+00714 SolDominion answered
+00715 SolDominion plays 1 Flagship.
+00716 SolDominion gets +$2.
+00717 SolDominion answered
+00718 play treasures for
+00719 SolDominion answered
+00720 SolDominion buys and gains 1 Province.
+00721 SolDominion shuffles their deck.
+00722 SolDominion draws 1 Silver, 2 Province, 1 Orb, 1 Shield.
+00723 everybell starts turn 14
+00724 everybell starts their turn.
+00725 everybell answered
+00726 everybell answered
+00727 everybell gets +$2. (Cabin Boy)
+00728 everybell answered
+00729 everybell answered
+00730 everybell trashes 1 Silver. (Cathedral)
+00731 everybell answered
+00732 everybell plays 1 Cutthroat.
+00733 everybell answered
+00734 play treasures for
+00735 everybell answered
+00736 everybell plays 1 Sword.
+00737 everybell gets +1 Buy.
+00738 everybell gets +$3.
+00739 everybell answered
+00740 everybell buys and gains 1 Province.
+00741 everybell answered
+00742 everybell buys and gains 1 Lighthouse.
+00743 everybell answered
+00744 everybell plays 1 Lighthouse.
+00745 everybell gets +1 Action.
+00746 everybell gets +$1.
+00747 everybell draws 5 card.
+00748 SolDominion starts turn 15
+00749 SolDominion starts their turn.
+00750 SolDominion gets +$1. (Lighthouse)
+00751 SolDominion answered
+00752 SolDominion trashes 1 Silver. (Cathedral)
+00753 SolDominion answered
+00754 SolDominion plays 1 Shield.
+00755 SolDominion gets +1 Buy.
+00756 SolDominion gets +$3.
+00757 SolDominion answered
+00758 SolDominion plays 1 Orb.
+00759 SolDominion gets +1 Buy.
+00760 SolDominion gets +$3.
+00761 SolDominion answered
+00762 SolDominion buys and gains 1 Duchy.
+00763 SolDominion answered
+00764 SolDominion buys and gains 1 Estate.
+00765 SolDominion answered
+00766 SolDominion draws 1 Silver, 2 Gold, 1 Inn, 1 Blockade.
+00767 everybell starts turn 15
+00768 everybell starts their turn.
+00769 everybell answered
+00770 everybell gets +$1. (Lighthouse)
+00771 everybell answered
+00772 everybell answered
+00773 everybell discards 1 Blockade. (Lost In The Woods)
+00774 everybell takes 1 The Mountain's Gift.
+00775 everybell receives 1 The Mountain's Gift.
+00776 everybell gains 1 Silver. (The Mountain's Gift)
+00777 everybell discards 1 The Mountain's Gift.
+00778 everybell answered
+00779 everybell trashes 1 Fool. (Cathedral)
+00780 everybell answered
+00781 play treasures for
+00782 everybell answered
+00783 everybell buys and gains 1 Duchy.
+00784 everybell draws 5 card.
+00785 SolDominion starts turn 16
+00786 SolDominion starts their turn.
+00787 SolDominion answered
+00788 SolDominion trashes 1 Silver. (Cathedral)
+00789 SolDominion answered
+00790 SolDominion plays 1 Blockade.
+00791 SolDominion answered
+00792 SolDominion gains 1 Remodel setting it aside.
+00793 SolDominion answered
+00794 SolDominion plays 1 Remodel.
+00795 SolDominion answered
+00796 SolDominion trashes 1 Inn.
+00797 SolDominion answered
+00798 SolDominion gains 1 Duchy.
+00799 play again with
+00800 SolDominion answered
+00801 SolDominion gains 1 Estate setting it aside.
+00802 SolDominion answered
+00803 SolDominion answered
+00804 play treasures for
+00805 SolDominion answered
+00806 SolDominion buys and gains 1 Duchy.
+00807 SolDominion draws 1 Silver, 1 Gold, 1 Jack of All Trades, 2 Grotto.
+00808 everybell starts turn 16
+00809 everybell starts their turn.
+00810 everybell answered
+00811 everybell answered
+00812 everybell trashes 1 Silver. (Cathedral)
+00813 everybell answered
+00814 everybell answered
+00815 everybell discards 1 Province. (Lost In The Woods)
+00816 everybell takes 1 The River's Gift.
+00817 everybell receives 1 The River's Gift.
+00818 everybell answered
+00819 everybell plays 1 Inn.
+00820 everybell draws 2 card.
+00821 everybell gets +2 Actions.
+00822 everybell answered
+00823 everybell discards 1 card, 1 Silver.
+00824 everybell answered
+00825 everybell plays 1 Lighthouse.
+00826 everybell gets +1 Action.
+00827 everybell gets +$1.
+00828 everybell answered
+00829 everybell plays 1 Jack of All Trades.
+00830 everybell gains 1 Silver.
+00831 everybell looks at 1 card.
+00832 everybell answered
+00833 everybell discards 1 Lighthouse.
+00834 everybell draws 2 card.
+00835 everybell shuffles their deck.
+00836 everybell draws 3 card.
+00837 everybell answered
+00838 everybell answered
+00839 everybell plays 1 Cabin Boy.
+00840 everybell draws 1 card.
+00841 everybell gets +1 Action.
+00842 everybell answered
+00843 everybell plays 1 Jack of All Trades.
+00844 everybell gains 1 Silver.
+00845 everybell looks at 1 card.
+00846 everybell answered
+00847 everybell discards 1 Blockade.
+00848 everybell draws 1 card.
+00849 everybell answered
+00850 everybell answered
+00851 play treasures for
+00852 everybell answered
+00853 everybell buys and gains 1 Duchy.
+00854 everybell discards 1 The River's Gift.
+00855 everybell draws 6 card.
+00856 SolDominion starts turn 17
+00857 SolDominion starts their turn.
+00858 SolDominion answered
+00859 SolDominion answered
+00860 SolDominion trashes 1 Silver. (Cathedral)
+00861 SolDominion puts 1 Estate in hand (Blockade).
+00862 SolDominion answered
+00863 SolDominion plays 1 Grotto.
+00864 SolDominion gets +1 Action.
+00865 SolDominion answered
+00866 SolDominion sets 1 Estate aside with Grotto.
+00867 SolDominion answered
+00868 SolDominion plays 1 Grotto.
+00869 SolDominion gets +1 Action.
+00870 SolDominion answered
+00871 SolDominion answered
+00872 SolDominion plays 1 Jack of All Trades.
+00873 SolDominion gains 1 Silver.
+00874 SolDominion looks at 1 Cutthroat.
+00875 SolDominion answered
+00876 SolDominion discards 1 Cutthroat.
+00877 SolDominion draws 1 Copper, 1 Gold, 1 Province, 1 Doubloons.
+00878 SolDominion answered
+00879 SolDominion answered
+00880 SolDominion answered
+00881 SolDominion answered
+00882 SolDominion answered
+00883 play treasures for
+00884 SolDominion answered
+00885 SolDominion buys and gains 1 Duchy.
+00886 SolDominion shuffles their deck.
+00887 SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Lighthouse, 1 Flagship.
+00888 everybell starts turn 17
+00889 everybell starts their turn.
+00890 everybell answered
+00891 everybell gets +$1. (Lighthouse)
+00892 everybell answered
+00893 everybell answered
+00894 everybell trashes 1 Silver. (Cathedral)
+00895 everybell answered
+00896 everybell answered
+00897 everybell discards 1 Duchy. (Lost In The Woods)
+00898 everybell takes 1 The Moon's Gift.
+00899 everybell receives 1 The Moon's Gift.
+00900 everybell looks at 11 card, 1 Silver.
+00901 everybell answered
+00902 everybell topdecks 1 card.
+00903 everybell discards 1 The Moon's Gift.
+00904 everybell answered
+00905 everybell gets +$2. (Cabin Boy)
+00906 everybell answered
+00907 everybell plays 1 Jack of All Trades.
+00908 everybell gains 1 Silver.
+00909 everybell looks at 1 card.
+00910 everybell answered
+00911 everybell topdecks 1 card.
+00912 everybell draws 2 card.
+00913 everybell answered
+00914 everybell answered
+00915 play treasures for
+00916 everybell answered
+00917 everybell plays 1 Sword.
+00918 everybell gets +1 Buy.
+00919 everybell gets +$3.
+00920 SolDominion answered
+00921 SolDominion discards 1 Province.
+00922 everybell answered
+00923 everybell buys and gains 1 Duchy.
+00924 everybell answered
+00925 everybell buys and gains 1 Grotto.
+00926 everybell answered
+00927 everybell plays 1 Grotto.
+00928 everybell gets +1 Action.
+00929 everybell answered
+00930 everybell sets 1 card aside with Grotto.
+00931 everybell draws 5 card.
+00932 SolDominion starts turn 18
+00933 SolDominion starts their turn.
+00934 SolDominion answered
+00935 SolDominion discards 1 Estate.
+00936 SolDominion draws 1 Silver. (Grotto)
+00937 SolDominion answered
+00938 SolDominion trashes 1 Silver. (Cathedral)
+00939 SolDominion answered
+00940 SolDominion plays 1 Lighthouse.
+00941 SolDominion gets +1 Action.
+00942 SolDominion gets +$1.
+00943 SolDominion answered
+00944 SolDominion plays 1 Flagship.
+00945 SolDominion gets +$2.
+00946 SolDominion answered
+00947 SolDominion answered
+00948 play treasures for
+00949 SolDominion answered
+00950 SolDominion buys and gains 1 Province.
+00951 SolDominion draws 1 Gold, 2 Duchy, 1 Province, 1 Remodel.
+00952 everybell starts turn 18
+00953 everybell starts their turn.
+00954 everybell answered
+00955 everybell answered
+00956 everybell trashes 1 Lucky Coin. (Cathedral)
+00957 everybell answered
+00958 everybell answered
+00959 everybell discards 1 Province. (Lost In The Woods)
+00960 everybell takes 1 The Field's Gift.
+00961 everybell receives 1 The Field's Gift.
+00962 everybell gets +1 Action. (The Field's Gift)
+00963 everybell gets +$1. (The Field's Gift)
+00964 everybell discards 1 Lighthouse.
+00965 everybell draws 1 card. (Grotto)
+00966 everybell answered
+00967 play treasures for
+00968 everybell answered
+00969 everybell buys and gains 1 Estate.
+00970 everybell discards 1 The Field's Gift.
+00971 everybell draws 5 card.
+00972 SolDominion starts turn 19
+00973 SolDominion starts their turn.
+00974 SolDominion gets +$1. (Lighthouse)
+00975 SolDominion answered
+00976 SolDominion trashes 1 Duchy. (Cathedral)
+00977 SolDominion answered
+00978 SolDominion plays 1 Remodel.
+00979 SolDominion answered
+00980 SolDominion trashes 1 Gold.
+00981 SolDominion answered
+00982 SolDominion gains 1 Province.
+00983 play again with
+00984 SolDominion answered
+00985 SolDominion trashes 1 Duchy.
+00986 SolDominion answered
+00987 SolDominion gains 1 Estate.
+00988 SolDominion answered
+00989 SolDominion draws 1 Jack of All Trades, 1 Blockade, 1 Flagship, 1 Cutthroat, 1 Shield.

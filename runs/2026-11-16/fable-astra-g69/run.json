@@ -1,0 +1,163 @@
+{
+  "run": "2026-11-16/fable-astra-g69",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g69",
+  "official_game_id": null,
+  "series_game_number": 1,
+  "captured": "2026-11-17T07:10:42.268742+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Fable High vs Astra High",
+    "effort": "high",
+    "opponent": "agent",
+    "players": 2,
+    "rated": false,
+    "configuration": {
+      "players": 2,
+      "names": [
+        "Fable High",
+        "Astra High"
+      ],
+      "agents": [
+        "Fable High",
+        "Astra High"
+      ],
+      "seed": 16356449617697193807,
+      "watchable": true
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "539b4c4fb196f2ea3ac66089d492bdd872ea7236",
+      "dirty": false,
+      "package": "/nix/store/vqjwlya3687awd8mdp8g9yvyhrs2vyka-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "?",
+      "note": "Not independently recorded. Available exact native prompt and CLI executable metadata remain in raw journals."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794895654905-59e3cc37976ea077",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6-astra",
+        "name": "Astra High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794895654906,
+      "last_event_ms": 1794898990158,
+      "files": [
+        {
+          "file": "sessions/1794895654905-59e3cc37976ea077/interactions.jsonl.gz",
+          "source_sha256": "db19005b48650b3c477c8c00da56d51787231b0df48aedda16797dc4bcf553be",
+          "source_bytes": 24411042
+        },
+        {
+          "file": "sessions/1794895654905-59e3cc37976ea077/transcript.jsonl.gz",
+          "source_sha256": "773950a55b4994f3db8cce8eb51442475d7bede694c0eecb57c03b6e3488e845",
+          "source_bytes": 249270
+        }
+      ],
+      "has_recorded_result": true
+    },
+    {
+      "id": "1794895654905-f52b9c9e8f8198f9",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794895654906,
+      "last_event_ms": 1794899004797,
+      "files": [
+        {
+          "file": "sessions/1794895654905-f52b9c9e8f8198f9/interactions.jsonl.gz",
+          "source_sha256": "291485065336e7cb9e31cde2a0c705467a6176ce9b9a26d272a152df6946aa17",
+          "source_bytes": 11528872
+        },
+        {
+          "file": "sessions/1794895654905-f52b9c9e8f8198f9/network.jsonl.gz",
+          "source_sha256": "bdb735de03b83765495a1347f0e6d24eb8aa45a61f1e500adc6cd4fae1b188d0",
+          "source_bytes": 110
+        },
+        {
+          "file": "sessions/1794895654905-f52b9c9e8f8198f9/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794895654905-f52b9c9e8f8198f9/response-000001.stdout.jsonl.gz",
+          "source_sha256": "2d2f33eff9a37b3b9cff53ee4497f093a7147ff7258d81fcb49a7a122ec78d9a",
+          "source_bytes": 8487660
+        },
+        {
+          "file": "sessions/1794895654905-f52b9c9e8f8198f9/transcript.jsonl.gz",
+          "source_sha256": "2b8e2ca41d877b72e4843aba310dbecc2ac8a787d0f7d4a8c33a9658669e6870",
+          "source_bytes": 1794119
+        }
+      ],
+      "has_recorded_result": true
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 979,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "g69",
+        "result": {
+          "reason": "piles-empty",
+          "players": [
+            {
+              "index": 0,
+              "name": "Fable High",
+              "vp": 18,
+              "rank": 2,
+              "turns": 16,
+              "points": 18
+            },
+            {
+              "index": 1,
+              "name": "Astra High",
+              "vp": 21,
+              "rank": 1,
+              "turns": 16,
+              "points": 21
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-16-before-guest-deployment/README.md"
+}

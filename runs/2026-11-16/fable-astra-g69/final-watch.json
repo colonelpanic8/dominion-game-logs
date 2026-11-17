@@ -1,0 +1,7299 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g69",
+      "running": false,
+      "result": {
+        "reason": "piles-empty",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 18,
+            "rank": 2,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "Astra High",
+            "vp": 21,
+            "rank": 1,
+            "turns": 16
+          }
+        ]
+      },
+      "kingdom": [
+        "Develop",
+        "Margrave",
+        "Expand",
+        "City Quarter",
+        "Patrol",
+        "Scrying Pool",
+        "Druid",
+        "Sentry",
+        "Golem",
+        "Swamp Hag"
+      ],
+      "landscapes": [
+        "Way of the Goat",
+        "Deliver"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Fable High",
+        "vp": 18,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Druid": 1,
+            "Estate": 2,
+            "Province": 2
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 13,
+          "known": {
+            "Copper": 5,
+            "Druid": 2,
+            "Estate": 2,
+            "Margrave": 1,
+            "Scrying Pool": 2,
+            "Silver": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 12,
+          "known": {
+            "Copper": 2,
+            "Druid": 1,
+            "Estate": 2,
+            "Potion": 2,
+            "Scrying Pool": 4,
+            "Sentry": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 7,
+            "Druid": 4,
+            "Estate": 6,
+            "Margrave": 1,
+            "Potion": 2,
+            "Province": 2,
+            "Scrying Pool": 6,
+            "Sentry": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 16,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Astra High",
+        "vp": 21,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Druid": 2,
+            "Estate": 1,
+            "Scrying Pool": 1,
+            "Sentry": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 20,
+          "known": {
+            "City Quarter": 2,
+            "Copper": 1,
+            "Druid": 4,
+            "Duchy": 2,
+            "Estate": 2,
+            "Margrave": 1,
+            "Province": 2,
+            "Scrying Pool": 3,
+            "Silver": 3
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "City Quarter": 2,
+            "Copper": 1,
+            "Druid": 6,
+            "Duchy": 2,
+            "Estate": 3,
+            "Margrave": 1,
+            "Province": 2,
+            "Scrying Pool": 4,
+            "Sentry": 1,
+            "Silver": 3
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 16,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 46,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 36,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 30,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 0,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 6,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 4,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 10,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Develop",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Develop",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Margrave",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Attack"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Margrave",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Expand",
+        "count": 10,
+        "cost": {
+          "coins": 7
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Expand",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "City Quarter",
+        "count": 8,
+        "cost": {
+          "coins": 0,
+          "debt": 8
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "City Quarter",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Patrol",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Patrol",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Scrying Pool",
+        "count": 0,
+        "cost": {
+          "coins": 2,
+          "potions": 1
+        },
+        "types": [
+          "Action",
+          "Attack"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Scrying Pool",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Druid",
+        "count": 0,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action",
+          "Fate"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Druid",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Sentry",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Sentry",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Golem",
+        "count": 10,
+        "cost": {
+          "coins": 4,
+          "potions": 1
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Golem",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Swamp Hag",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Attack",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Swamp Hag",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Potion",
+        "count": 13,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Potion",
+              "count": 16
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Will-o'-Wisp",
+        "count": 12,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Action",
+          "Spirit"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Will-o'-Wisp",
+              "count": 12
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Way of the Goat",
+        "kind": "way",
+        "types": [
+          "Way"
+        ]
+      },
+      {
+        "card": "Deliver",
+        "kind": "event",
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Event"
+        ]
+      }
+    ],
+    "trash": {
+      "count": 12,
+      "known": {
+        "Copper": 6,
+        "Estate": 5,
+        "Potion": 1
+      },
+      "unknown": 0
+    },
+    "boons": {
+      "count": 9,
+      "discard": []
+    },
+    "notes": [
+      {
+        "source": "Druid",
+        "card": "The River's Gift",
+        "count": 0,
+        "setup": "set-aside"
+      },
+      {
+        "source": "Druid",
+        "card": "The Sea's Gift",
+        "count": 0,
+        "setup": "set-aside"
+      },
+      {
+        "source": "Druid",
+        "card": "The Field's Gift",
+        "count": 0,
+        "setup": "set-aside"
+      }
+    ],
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 2,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 3,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 4,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 5,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 6,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 7,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 1"
+      },
+      {
+        "seq": 8,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 9,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 10,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 11,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 12,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High buys Deliver"
+      },
+      {
+        "seq": 13,
+        "type": "bonus",
+        "player": 1,
+        "text": "Astra High gets +1 Buy"
+      },
+      {
+        "seq": 14,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 15,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 16,
+        "type": "resolved",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High's Deliver resolves"
+      },
+      {
+        "seq": 17,
+        "type": "set-aside",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High sets aside Druid"
+      },
+      {
+        "seq": 18,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 19,
+        "type": "resolved",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High's Deliver resolves"
+      },
+      {
+        "seq": 20,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid they had set aside into their hand"
+      },
+      {
+        "seq": 21,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 22,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 23,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 24,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 25,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 26,
+        "type": "bought",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High buys Potion"
+      },
+      {
+        "seq": 27,
+        "type": "gained",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High gains Potion"
+      },
+      {
+        "seq": 28,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 29,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 30,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 2"
+      },
+      {
+        "seq": 31,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 32,
+        "type": "used-way",
+        "player": 1,
+        "card": "Way of the Goat",
+        "text": "Astra High uses Way of the Goat for Druid"
+      },
+      {
+        "seq": 33,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High trashes Estate"
+      },
+      {
+        "seq": 34,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 35,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 36,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 37,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High buys Silver"
+      },
+      {
+        "seq": 38,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 39,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 40,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 41,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 42,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 43,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 44,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 45,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 46,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 47,
+        "type": "bought",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High buys Sentry"
+      },
+      {
+        "seq": 48,
+        "type": "gained",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High gains Sentry"
+      },
+      {
+        "seq": 49,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 50,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 3"
+      },
+      {
+        "seq": 51,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 52,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 53,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 54,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 55,
+        "type": "bought",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High buys Sentry"
+      },
+      {
+        "seq": 56,
+        "type": "gained",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High gains Sentry"
+      },
+      {
+        "seq": 57,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 58,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 59,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 60,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 61,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 62,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 63,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 64,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 65,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 66,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 4"
+      },
+      {
+        "seq": 67,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 68,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 69,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 70,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 71,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 72,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 73,
+        "type": "bought",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High buys Potion"
+      },
+      {
+        "seq": 74,
+        "type": "gained",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High gains Potion"
+      },
+      {
+        "seq": 75,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 76,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 77,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 78,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 79,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 80,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 81,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 82,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 83,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 84,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 85,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 86,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 87,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 88,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 5"
+      },
+      {
+        "seq": 89,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High plays Sentry"
+      },
+      {
+        "seq": 90,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 91,
+        "type": "looked",
+        "player": 1,
+        "text": "Astra High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 92,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 93,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High trashes Estate"
+      },
+      {
+        "seq": 94,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 95,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 96,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 97,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 98,
+        "type": "bought",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High buys Margrave"
+      },
+      {
+        "seq": 99,
+        "type": "gained",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High gains Margrave"
+      },
+      {
+        "seq": 100,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 101,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 102,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 103,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 104,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 105,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 106,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 107,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 108,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 109,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 110,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 111,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 112,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 113,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 114,
+        "type": "bought",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High buys Potion"
+      },
+      {
+        "seq": 115,
+        "type": "gained",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High gains Potion"
+      },
+      {
+        "seq": 116,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 117,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 118,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 6"
+      },
+      {
+        "seq": 119,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 120,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 121,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 122,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 123,
+        "type": "played",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High plays Potion"
+      },
+      {
+        "seq": 124,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 125,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 126,
+        "type": "bought",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High buys Scrying Pool"
+      },
+      {
+        "seq": 127,
+        "type": "gained",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High gains Scrying Pool"
+      },
+      {
+        "seq": 128,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 129,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 130,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 131,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 132,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 133,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 134,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 135,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 136,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 137,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 138,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 139,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 140,
+        "type": "bought",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High buys Margrave"
+      },
+      {
+        "seq": 141,
+        "type": "gained",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High gains Margrave"
+      },
+      {
+        "seq": 142,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 143,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 7"
+      },
+      {
+        "seq": 144,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High plays Sentry"
+      },
+      {
+        "seq": 145,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 146,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 147,
+        "type": "looked",
+        "player": 1,
+        "text": "Astra High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 148,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 149,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts a card back onto their deck"
+      },
+      {
+        "seq": 150,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 151,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 3 cards"
+      },
+      {
+        "seq": 152,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 153,
+        "type": "discarded",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High discards Potion"
+      },
+      {
+        "seq": 154,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 155,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 156,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 157,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 158,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 159,
+        "type": "played",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High plays Potion"
+      },
+      {
+        "seq": 160,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 161,
+        "type": "bought",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High buys Scrying Pool"
+      },
+      {
+        "seq": 162,
+        "type": "gained",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High gains Scrying Pool"
+      },
+      {
+        "seq": 163,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 164,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 165,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 166,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 167,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 168,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 169,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 170,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 171,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 172,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 173,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 174,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 175,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 8"
+      },
+      {
+        "seq": 176,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 177,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High reveals Estate"
+      },
+      {
+        "seq": 178,
+        "type": "discarded",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High discards Estate"
+      },
+      {
+        "seq": 179,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 180,
+        "type": "moved",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High puts Potion back onto their deck"
+      },
+      {
+        "seq": 181,
+        "type": "revealed",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High reveals Potion"
+      },
+      {
+        "seq": 182,
+        "type": "moved",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High puts Potion from the top of their deck into their hand"
+      },
+      {
+        "seq": 183,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 184,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the River's Gift (Druid)"
+      },
+      {
+        "seq": 185,
+        "type": "received",
+        "player": 1,
+        "card": "The River's Gift",
+        "text": "Astra High receives The River's Gift"
+      },
+      {
+        "seq": 186,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 187,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 188,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 189,
+        "type": "played",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High plays Potion"
+      },
+      {
+        "seq": 190,
+        "type": "bought",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High buys Scrying Pool"
+      },
+      {
+        "seq": 191,
+        "type": "gained",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High gains Scrying Pool"
+      },
+      {
+        "seq": 192,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 193,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 194,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 195,
+        "type": "resolved",
+        "player": 1,
+        "card": "The River's Gift",
+        "text": "Astra High's The River's Gift resolves"
+      },
+      {
+        "seq": 196,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 197,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 198,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 199,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 200,
+        "type": "moved",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High puts Potion back onto their deck"
+      },
+      {
+        "seq": 201,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 202,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 203,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 204,
+        "type": "moved",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High puts Potion from the top of their deck into their hand"
+      },
+      {
+        "seq": 205,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 206,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 207,
+        "type": "moved",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 208,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 209,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High puts Copper back onto their deck"
+      },
+      {
+        "seq": 210,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 211,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 212,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Silver, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 213,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 214,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 215,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 216,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 217,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High puts Copper back onto their deck"
+      },
+      {
+        "seq": 218,
+        "type": "revealed",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High reveals Margrave"
+      },
+      {
+        "seq": 219,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 220,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Estate, Margrave from the top of their deck into their hand"
+      },
+      {
+        "seq": 221,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 222,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 223,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 224,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 225,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 226,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 227,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 228,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 229,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 230,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 231,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 232,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 233,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 234,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 235,
+        "type": "bought",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High buys Druid"
+      },
+      {
+        "seq": 236,
+        "type": "gained",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High gains Druid"
+      },
+      {
+        "seq": 237,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 238,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 239,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 9"
+      },
+      {
+        "seq": 240,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High plays Sentry"
+      },
+      {
+        "seq": 241,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 242,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 243,
+        "type": "looked",
+        "player": 1,
+        "text": "Astra High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 244,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 245,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts a card back onto their deck"
+      },
+      {
+        "seq": 246,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 247,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 248,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid back onto their deck"
+      },
+      {
+        "seq": 249,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 250,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 251,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 252,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 253,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Copper, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 254,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 255,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 256,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 257,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 258,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 3 cards"
+      },
+      {
+        "seq": 259,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 260,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 261,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 262,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 263,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 264,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 265,
+        "type": "bought",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High buys City Quarter"
+      },
+      {
+        "seq": 266,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 8 Debt"
+      },
+      {
+        "seq": 267,
+        "type": "gained",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High gains City Quarter"
+      },
+      {
+        "seq": 268,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 269,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 270,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 271,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 272,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 273,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 274,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 275,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 276,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 277,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 278,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 279,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 10"
+      },
+      {
+        "seq": 280,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 281,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 282,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 283,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 284,
+        "type": "played",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High plays Potion"
+      },
+      {
+        "seq": 285,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 286,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 287,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 288,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 289,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 290,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 291,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 292,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 293,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 294,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 295,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 296,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 297,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 298,
+        "type": "revealed",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High reveals Margrave"
+      },
+      {
+        "seq": 299,
+        "type": "discarded",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High discards Margrave"
+      },
+      {
+        "seq": 300,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 301,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 302,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 303,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 304,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 305,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High reveals Estate"
+      },
+      {
+        "seq": 306,
+        "type": "moved",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High puts Estate back onto their deck"
+      },
+      {
+        "seq": 307,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 308,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 309,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Potion, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 310,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 311,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High reveals Sentry"
+      },
+      {
+        "seq": 312,
+        "type": "moved",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High puts Sentry back onto their deck"
+      },
+      {
+        "seq": 313,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High reveals Estate"
+      },
+      {
+        "seq": 314,
+        "type": "moved",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High puts Estate back onto their deck"
+      },
+      {
+        "seq": 315,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High reveals Sentry"
+      },
+      {
+        "seq": 316,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 317,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Sentry from the top of their deck into their hand"
+      },
+      {
+        "seq": 318,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 319,
+        "type": "revealed",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High reveals Margrave"
+      },
+      {
+        "seq": 320,
+        "type": "moved",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High puts Margrave back onto their deck"
+      },
+      {
+        "seq": 321,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High reveals Estate"
+      },
+      {
+        "seq": 322,
+        "type": "moved",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High puts Estate back onto their deck"
+      },
+      {
+        "seq": 323,
+        "type": "revealed",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High reveals Margrave"
+      },
+      {
+        "seq": 324,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 325,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Silver, Margrave from the top of their deck into their hand"
+      },
+      {
+        "seq": 326,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 327,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 328,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 329,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 330,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 331,
+        "type": "trashed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High trashes Estate"
+      },
+      {
+        "seq": 332,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 333,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 334,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 335,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 336,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 337,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 338,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 339,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 340,
+        "type": "discarded",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High discards Estate"
+      },
+      {
+        "seq": 341,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 342,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 343,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 344,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 345,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 346,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 347,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 348,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Deliver",
+        "text": "Fable High buys Deliver"
+      },
+      {
+        "seq": 349,
+        "type": "bonus",
+        "player": 0,
+        "text": "Fable High gets +1 Buy"
+      },
+      {
+        "seq": 350,
+        "type": "bought",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High buys Scrying Pool"
+      },
+      {
+        "seq": 351,
+        "type": "gained",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High gains Scrying Pool"
+      },
+      {
+        "seq": 352,
+        "type": "resolved",
+        "player": 0,
+        "card": "Deliver",
+        "text": "Fable High's Deliver resolves"
+      },
+      {
+        "seq": 353,
+        "type": "set-aside",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High sets aside Scrying Pool"
+      },
+      {
+        "seq": 354,
+        "type": "bought",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High buys Druid"
+      },
+      {
+        "seq": 355,
+        "type": "gained",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High gains Druid"
+      },
+      {
+        "seq": 356,
+        "type": "resolved",
+        "player": 0,
+        "card": "Deliver",
+        "text": "Fable High's Deliver resolves"
+      },
+      {
+        "seq": 357,
+        "type": "set-aside",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High sets aside Druid"
+      },
+      {
+        "seq": 358,
+        "type": "bought",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High buys Druid"
+      },
+      {
+        "seq": 359,
+        "type": "gained",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High gains Druid"
+      },
+      {
+        "seq": 360,
+        "type": "resolved",
+        "player": 0,
+        "card": "Deliver",
+        "text": "Fable High's Deliver resolves"
+      },
+      {
+        "seq": 361,
+        "type": "set-aside",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High sets aside Druid"
+      },
+      {
+        "seq": 362,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 363,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 364,
+        "type": "resolved",
+        "player": 0,
+        "card": "Deliver",
+        "text": "Fable High's Deliver resolves"
+      },
+      {
+        "seq": 365,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Scrying Pool, Druid, Druid they had set aside into their hand"
+      },
+      {
+        "seq": 366,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 11"
+      },
+      {
+        "seq": 367,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 368,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 369,
+        "type": "moved",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High puts City Quarter back onto their deck"
+      },
+      {
+        "seq": 370,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 371,
+        "type": "discarded",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High discards Scrying Pool"
+      },
+      {
+        "seq": 372,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 373,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 374,
+        "type": "revealed",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High reveals Potion"
+      },
+      {
+        "seq": 375,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Potion, Scrying Pool, City Quarter from the top of their deck into their hand"
+      },
+      {
+        "seq": 376,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 377,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Druid, Druid, Scrying Pool, Potion"
+      },
+      {
+        "seq": 378,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 3 cards"
+      },
+      {
+        "seq": 379,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 380,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 381,
+        "type": "moved",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High puts Silver back onto their deck"
+      },
+      {
+        "seq": 382,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 383,
+        "type": "moved",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High puts Estate back onto their deck"
+      },
+      {
+        "seq": 384,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 385,
+        "type": "moved",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High puts Silver from the top of their deck into their hand"
+      },
+      {
+        "seq": 386,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 387,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 388,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid back onto their deck"
+      },
+      {
+        "seq": 389,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 390,
+        "type": "moved",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High puts Estate back onto their deck"
+      },
+      {
+        "seq": 391,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 392,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 393,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Copper, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 394,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 395,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Sea's Gift (Druid)"
+      },
+      {
+        "seq": 396,
+        "type": "received",
+        "player": 1,
+        "card": "The Sea's Gift",
+        "text": "Astra High receives The Sea's Gift"
+      },
+      {
+        "seq": 397,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 398,
+        "type": "played",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High plays Sentry"
+      },
+      {
+        "seq": 399,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 400,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 401,
+        "type": "looked",
+        "player": 1,
+        "text": "Astra High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 402,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 403,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 404,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 405,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 406,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 407,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 408,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 409,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 410,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 411,
+        "type": "used-way",
+        "player": 1,
+        "card": "Way of the Goat",
+        "text": "Astra High uses Way of the Goat for Druid"
+      },
+      {
+        "seq": 412,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High trashes Estate"
+      },
+      {
+        "seq": 413,
+        "type": "played",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High plays Potion"
+      },
+      {
+        "seq": 414,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 415,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 416,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 417,
+        "type": "bought",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High buys Scrying Pool"
+      },
+      {
+        "seq": 418,
+        "type": "gained",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High gains Scrying Pool"
+      },
+      {
+        "seq": 419,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 420,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 421,
+        "type": "bought",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High buys Druid"
+      },
+      {
+        "seq": 422,
+        "type": "gained",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High gains Druid"
+      },
+      {
+        "seq": 423,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 424,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 425,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 12"
+      },
+      {
+        "seq": 426,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 427,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 428,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 429,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 430,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 431,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 432,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 433,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 434,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Scrying Pool, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 435,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 436,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 437,
+        "type": "moved",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 438,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 439,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 440,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 441,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High reveals Sentry"
+      },
+      {
+        "seq": 442,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 443,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Sentry, Potion, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 444,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 445,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 446,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 447,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 448,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 449,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 450,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 451,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 452,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 453,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 454,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 455,
+        "type": "discarded",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High discards City Quarter"
+      },
+      {
+        "seq": 456,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 457,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 458,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 459,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 460,
+        "type": "moved",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High puts Druid back onto their deck"
+      },
+      {
+        "seq": 461,
+        "type": "revealed",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High reveals Potion"
+      },
+      {
+        "seq": 462,
+        "type": "moved",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High puts Potion back onto their deck"
+      },
+      {
+        "seq": 463,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 464,
+        "type": "revealed",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High reveals Margrave"
+      },
+      {
+        "seq": 465,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 466,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Silver, Margrave, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 467,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 468,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 469,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 470,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 471,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 472,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 473,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 474,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 475,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 476,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 477,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 478,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 479,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 480,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts 2 cards back onto their deck"
+      },
+      {
+        "seq": 481,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 482,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 483,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 484,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 485,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 486,
+        "type": "discarded",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High discards Potion"
+      },
+      {
+        "seq": 487,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 488,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 489,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 490,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 491,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 492,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 493,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 494,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 495,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 496,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 497,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 498,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 499,
+        "type": "bought",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High buys Druid"
+      },
+      {
+        "seq": 500,
+        "type": "gained",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High gains Druid"
+      },
+      {
+        "seq": 501,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 502,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 503,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 12"
+      },
+      {
+        "seq": 504,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 505,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 506,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid back onto their deck"
+      },
+      {
+        "seq": 507,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 508,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 509,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 510,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 511,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Silver, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 512,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 513,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 514,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 515,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 516,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 517,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 518,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 519,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 3 cards"
+      },
+      {
+        "seq": 520,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 521,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 522,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 523,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 524,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 525,
+        "type": "bought-landscape",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High buys Deliver"
+      },
+      {
+        "seq": 526,
+        "type": "bonus",
+        "player": 1,
+        "text": "Astra High gets +1 Buy"
+      },
+      {
+        "seq": 527,
+        "type": "bought",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High buys City Quarter"
+      },
+      {
+        "seq": 528,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 8 Debt"
+      },
+      {
+        "seq": 529,
+        "type": "gained",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High gains City Quarter"
+      },
+      {
+        "seq": 530,
+        "type": "resolved",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High's Deliver resolves"
+      },
+      {
+        "seq": 531,
+        "type": "set-aside",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High sets aside City Quarter"
+      },
+      {
+        "seq": 532,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 533,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 534,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 535,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 536,
+        "type": "resolved",
+        "player": 1,
+        "card": "Deliver",
+        "text": "Astra High's Deliver resolves"
+      },
+      {
+        "seq": 537,
+        "type": "moved",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High puts City Quarter they had set aside into their hand"
+      },
+      {
+        "seq": 538,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 13"
+      },
+      {
+        "seq": 539,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 540,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 541,
+        "type": "discarded",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High discards Potion"
+      },
+      {
+        "seq": 542,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 543,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High puts Copper back onto their deck"
+      },
+      {
+        "seq": 544,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 545,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 546,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 547,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 548,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 549,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 550,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 551,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High puts Copper back onto their deck"
+      },
+      {
+        "seq": 552,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 553,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 554,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Potion, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 555,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 556,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 557,
+        "type": "moved",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High puts Silver back onto their deck"
+      },
+      {
+        "seq": 558,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 559,
+        "type": "moved",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High puts Copper back onto their deck"
+      },
+      {
+        "seq": 560,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 561,
+        "type": "moved",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High puts Silver from the top of their deck into their hand"
+      },
+      {
+        "seq": 562,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 563,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 564,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 565,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 566,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 567,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 568,
+        "type": "discarded",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High discards Scrying Pool"
+      },
+      {
+        "seq": 569,
+        "type": "discarded",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High discards Scrying Pool"
+      },
+      {
+        "seq": 570,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 571,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 572,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 573,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 574,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 575,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 576,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 577,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 578,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 579,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 580,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 13"
+      },
+      {
+        "seq": 581,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 582,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Sentry, Scrying Pool"
+      },
+      {
+        "seq": 583,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 584,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 585,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 586,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid back onto their deck"
+      },
+      {
+        "seq": 587,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 588,
+        "type": "moved",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High puts Estate back onto their deck"
+      },
+      {
+        "seq": 589,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 590,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 591,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 592,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 593,
+        "type": "revealed",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High reveals Margrave"
+      },
+      {
+        "seq": 594,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 595,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 596,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 597,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 598,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Silver, Scrying Pool, Margrave, City Quarter, Druid, Druid, Druid, Druid, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 599,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 600,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Sentry, Potion, Copper, Druid, Druid, Druid, Margrave, Druid, Scrying Pool, Druid, Silver"
+      },
+      {
+        "seq": 601,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 602,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 603,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 604,
+        "type": "used-way",
+        "player": 1,
+        "card": "Way of the Goat",
+        "text": "Astra High uses Way of the Goat for Scrying Pool"
+      },
+      {
+        "seq": 605,
+        "type": "trashed",
+        "player": 1,
+        "card": "Potion",
+        "text": "Astra High trashes Potion"
+      },
+      {
+        "seq": 606,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 607,
+        "type": "used-way",
+        "player": 1,
+        "card": "Way of the Goat",
+        "text": "Astra High uses Way of the Goat for Scrying Pool"
+      },
+      {
+        "seq": 608,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High trashes Copper"
+      },
+      {
+        "seq": 609,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 610,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 611,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 612,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 613,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 614,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 615,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 616,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 617,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 618,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 619,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 620,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 621,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 622,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 623,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 624,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 625,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 626,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 627,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 628,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 629,
+        "type": "discarded",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High discards Druid"
+      },
+      {
+        "seq": 630,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 631,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 632,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 633,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 634,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 635,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 636,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 637,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High pays off 1 Debt"
+      },
+      {
+        "seq": 638,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 639,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 640,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High buys Silver"
+      },
+      {
+        "seq": 641,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 642,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 643,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 644,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 14"
+      },
+      {
+        "seq": 645,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 646,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 647,
+        "type": "moved",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 648,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 649,
+        "type": "discarded",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High discards City Quarter"
+      },
+      {
+        "seq": 650,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 651,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 652,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 653,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 654,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 655,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 656,
+        "type": "moved",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High puts Druid back onto their deck"
+      },
+      {
+        "seq": 657,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 658,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 659,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 660,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 661,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 662,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 663,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High reveals Sentry"
+      },
+      {
+        "seq": 664,
+        "type": "moved",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High puts Sentry back onto their deck"
+      },
+      {
+        "seq": 665,
+        "type": "revealed",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High reveals Sentry"
+      },
+      {
+        "seq": 666,
+        "type": "discarded",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High discards Sentry"
+      },
+      {
+        "seq": 667,
+        "type": "revealed",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High reveals Sentry"
+      },
+      {
+        "seq": 668,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 669,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 670,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 671,
+        "type": "revealed",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High reveals Margrave"
+      },
+      {
+        "seq": 672,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 673,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Sentry, Potion, Scrying Pool, Scrying Pool, Scrying Pool, Margrave from the top of their deck into their hand"
+      },
+      {
+        "seq": 674,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 675,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 676,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 677,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High discards Province"
+      },
+      {
+        "seq": 678,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 679,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 680,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 681,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 682,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 683,
+        "type": "discarded",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High discards Silver"
+      },
+      {
+        "seq": 684,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 685,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 686,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 687,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 688,
+        "type": "moved",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High puts Silver back onto their deck"
+      },
+      {
+        "seq": 689,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 690,
+        "type": "discarded",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High discards Scrying Pool"
+      },
+      {
+        "seq": 691,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 692,
+        "type": "moved",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High puts Silver from the top of their deck into their hand"
+      },
+      {
+        "seq": 693,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 694,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 695,
+        "type": "moved",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High puts Druid back onto their deck"
+      },
+      {
+        "seq": 696,
+        "type": "revealed",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High reveals Margrave"
+      },
+      {
+        "seq": 697,
+        "type": "discarded",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High discards Margrave"
+      },
+      {
+        "seq": 698,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 699,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 700,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Estate, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 701,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 702,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 703,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 704,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 705,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 706,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 707,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 708,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 709,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 710,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 711,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 712,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 713,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 714,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 715,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 716,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 717,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 718,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 719,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 720,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 721,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 722,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 723,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 724,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 725,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 726,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 727,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 728,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 729,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 730,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 14"
+      },
+      {
+        "seq": 731,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 732,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Druid, Druid"
+      },
+      {
+        "seq": 733,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 734,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 735,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 736,
+        "type": "moved",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 737,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 738,
+        "type": "moved",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High puts Potion back onto their deck"
+      },
+      {
+        "seq": 739,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 740,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 741,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 742,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Silver, Scrying Pool, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 743,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 744,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 745,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 746,
+        "type": "moved",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High puts City Quarter back onto their deck"
+      },
+      {
+        "seq": 747,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 748,
+        "type": "moved",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High puts Potion back onto their deck"
+      },
+      {
+        "seq": 749,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 750,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 751,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Silver, City Quarter from the top of their deck into their hand"
+      },
+      {
+        "seq": 752,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 753,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Druid, Druid, Druid, Scrying Pool, Silver, Silver"
+      },
+      {
+        "seq": 754,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 755,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 756,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 3 cards"
+      },
+      {
+        "seq": 757,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 758,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 759,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 760,
+        "type": "discarded",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High discards Potion"
+      },
+      {
+        "seq": 761,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 762,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 763,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 764,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 765,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 766,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 767,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 768,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 769,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 770,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 771,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 772,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 773,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 774,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 775,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 776,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 777,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 778,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 779,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 780,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 781,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 782,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 783,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 784,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 785,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 786,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 787,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High buys Silver"
+      },
+      {
+        "seq": 788,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 789,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 790,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 791,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 15"
+      },
+      {
+        "seq": 792,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 793,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 794,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 795,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 796,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 797,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 798,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 799,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Estate, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 800,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 801,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 802,
+        "type": "discarded",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High discards Potion"
+      },
+      {
+        "seq": 803,
+        "type": "revealed",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High reveals Sentry"
+      },
+      {
+        "seq": 804,
+        "type": "discarded",
+        "player": 1,
+        "card": "Sentry",
+        "text": "Astra High discards Sentry"
+      },
+      {
+        "seq": 805,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 806,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 807,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Copper, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 808,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 809,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 810,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 811,
+        "type": "played",
+        "player": 0,
+        "card": "Margrave",
+        "text": "Fable High plays Margrave"
+      },
+      {
+        "seq": 812,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 3 cards"
+      },
+      {
+        "seq": 813,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 1 card"
+      },
+      {
+        "seq": 814,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 815,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 816,
+        "type": "discarded",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High discards Druid"
+      },
+      {
+        "seq": 817,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 818,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 819,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 820,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 821,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 822,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 15"
+      },
+      {
+        "seq": 823,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 824,
+        "type": "revealed",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High reveals Province"
+      },
+      {
+        "seq": 825,
+        "type": "discarded",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High discards Province"
+      },
+      {
+        "seq": 826,
+        "type": "revealed",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High reveals Silver"
+      },
+      {
+        "seq": 827,
+        "type": "discarded",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High discards Silver"
+      },
+      {
+        "seq": 828,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 829,
+        "type": "moved",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High puts Silver from the top of their deck into their hand"
+      },
+      {
+        "seq": 830,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 831,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 832,
+        "type": "moved",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High puts Druid back onto their deck"
+      },
+      {
+        "seq": 833,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High reveals Province"
+      },
+      {
+        "seq": 834,
+        "type": "moved",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High puts Province back onto their deck"
+      },
+      {
+        "seq": 835,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 836,
+        "type": "revealed",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High reveals Margrave"
+      },
+      {
+        "seq": 837,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 838,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 839,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 840,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Silver, Scrying Pool, Margrave, Druid, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 841,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 842,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Silver, Druid, Margrave, Druid, Scrying Pool, Silver"
+      },
+      {
+        "seq": 843,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 844,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 845,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Silver, Druid, Margrave, Druid, Scrying Pool, Silver, Silver, Scrying Pool, Druid"
+      },
+      {
+        "seq": 846,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 847,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 6 cards"
+      },
+      {
+        "seq": 848,
+        "type": "played",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High plays Margrave"
+      },
+      {
+        "seq": 849,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 850,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 851,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 852,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High discards Province"
+      },
+      {
+        "seq": 853,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 854,
+        "type": "revealed",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High reveals Druid"
+      },
+      {
+        "seq": 855,
+        "type": "discarded",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High discards Druid"
+      },
+      {
+        "seq": 856,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 857,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 858,
+        "type": "moved",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High puts Estate back onto their deck"
+      },
+      {
+        "seq": 859,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 860,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 861,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 862,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 863,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 864,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 865,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 866,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 867,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 868,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 869,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 870,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 871,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 872,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 873,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 874,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 875,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 876,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 877,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 878,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 879,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 880,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 881,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 882,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 883,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High buys Duchy"
+      },
+      {
+        "seq": 884,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High gains Duchy"
+      },
+      {
+        "seq": 885,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 886,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 887,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 16"
+      },
+      {
+        "seq": 888,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 889,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 890,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 891,
+        "type": "revealed",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High reveals Margrave"
+      },
+      {
+        "seq": 892,
+        "type": "discarded",
+        "player": 1,
+        "card": "Margrave",
+        "text": "Astra High discards Margrave"
+      },
+      {
+        "seq": 893,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 894,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 895,
+        "type": "played",
+        "player": 0,
+        "card": "Sentry",
+        "text": "Fable High plays Sentry"
+      },
+      {
+        "seq": 896,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 1 card"
+      },
+      {
+        "seq": 897,
+        "type": "looked",
+        "player": 0,
+        "text": "Fable High looks at the top 2 cards of their deck"
+      },
+      {
+        "seq": 898,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 899,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts a card back onto their deck"
+      },
+      {
+        "seq": 900,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 901,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 902,
+        "type": "moved",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 903,
+        "type": "revealed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High reveals Silver"
+      },
+      {
+        "seq": 904,
+        "type": "discarded",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High discards Silver"
+      },
+      {
+        "seq": 905,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 906,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 907,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 908,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Potion, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 909,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 910,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 911,
+        "type": "moved",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High puts Scrying Pool back onto their deck"
+      },
+      {
+        "seq": 912,
+        "type": "revealed",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High reveals Province"
+      },
+      {
+        "seq": 913,
+        "type": "moved",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High puts Province back onto their deck"
+      },
+      {
+        "seq": 914,
+        "type": "revealed",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High reveals Scrying Pool"
+      },
+      {
+        "seq": 915,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 916,
+        "type": "moved",
+        "player": 0,
+        "text": "Fable High puts Estate, Scrying Pool from the top of their deck into their hand"
+      },
+      {
+        "seq": 917,
+        "type": "played",
+        "player": 0,
+        "card": "Scrying Pool",
+        "text": "Fable High plays Scrying Pool"
+      },
+      {
+        "seq": 918,
+        "type": "revealed",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High reveals Potion"
+      },
+      {
+        "seq": 919,
+        "type": "discarded",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High discards Potion"
+      },
+      {
+        "seq": 920,
+        "type": "revealed",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High reveals Province"
+      },
+      {
+        "seq": 921,
+        "type": "moved",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High puts Province back onto their deck"
+      },
+      {
+        "seq": 922,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 923,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper from the top of their deck into their hand"
+      },
+      {
+        "seq": 924,
+        "type": "played",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High plays Druid"
+      },
+      {
+        "seq": 925,
+        "type": "chosen",
+        "player": 0,
+        "card": "Druid",
+        "text": "Fable High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 926,
+        "type": "received",
+        "player": 0,
+        "card": "The Field's Gift",
+        "text": "Fable High receives The Field's Gift"
+      },
+      {
+        "seq": 927,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 928,
+        "type": "played",
+        "player": 0,
+        "card": "Potion",
+        "text": "Fable High plays Potion"
+      },
+      {
+        "seq": 929,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 930,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 931,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 932,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 933,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 16"
+      },
+      {
+        "seq": 934,
+        "type": "played",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High plays Scrying Pool"
+      },
+      {
+        "seq": 935,
+        "type": "revealed",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High reveals Province"
+      },
+      {
+        "seq": 936,
+        "type": "discarded",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High discards Province"
+      },
+      {
+        "seq": 937,
+        "type": "revealed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High reveals Copper"
+      },
+      {
+        "seq": 938,
+        "type": "moved",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High puts Copper back onto their deck"
+      },
+      {
+        "seq": 939,
+        "type": "revealed",
+        "player": 1,
+        "card": "Scrying Pool",
+        "text": "Astra High reveals Scrying Pool"
+      },
+      {
+        "seq": 940,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 941,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 942,
+        "type": "revealed",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High reveals Druid"
+      },
+      {
+        "seq": 943,
+        "type": "revealed",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High reveals City Quarter"
+      },
+      {
+        "seq": 944,
+        "type": "revealed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High reveals Copper"
+      },
+      {
+        "seq": 945,
+        "type": "moved",
+        "player": 1,
+        "text": "Astra High puts Copper, Scrying Pool, City Quarter, City Quarter, Druid, Druid from the top of their deck into their hand"
+      },
+      {
+        "seq": 946,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 947,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Druid, Silver, Province, Sentry, Scrying Pool, Druid, Druid, City Quarter, Copper"
+      },
+      {
+        "seq": 948,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 6 cards"
+      },
+      {
+        "seq": 949,
+        "type": "played",
+        "player": 1,
+        "card": "City Quarter",
+        "text": "Astra High plays City Quarter"
+      },
+      {
+        "seq": 950,
+        "type": "revealed-hand",
+        "player": 1,
+        "text": "Astra High reveals their hand: Druid, Silver, Province, Sentry, Scrying Pool, Druid, Druid, Copper, Druid, Scrying Pool, Scrying Pool, Duchy, Druid, Silver"
+      },
+      {
+        "seq": 951,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 952,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 953,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 954,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 955,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 956,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 957,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 958,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 959,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 960,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 961,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 962,
+        "type": "played",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High plays Druid"
+      },
+      {
+        "seq": 963,
+        "type": "chosen",
+        "player": 1,
+        "card": "Druid",
+        "text": "Astra High chooses the Field's Gift (Druid)"
+      },
+      {
+        "seq": 964,
+        "type": "received",
+        "player": 1,
+        "card": "The Field's Gift",
+        "text": "Astra High receives The Field's Gift"
+      },
+      {
+        "seq": 965,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 966,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 967,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 968,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 969,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High buys Duchy"
+      },
+      {
+        "seq": 970,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High gains Duchy"
+      },
+      {
+        "seq": 971,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High buys Estate"
+      },
+      {
+        "seq": 972,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High gains Estate"
+      },
+      {
+        "seq": 973,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High buys Estate"
+      },
+      {
+        "seq": 974,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High gains Estate"
+      },
+      {
+        "seq": 975,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High buys Estate"
+      },
+      {
+        "seq": 976,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High gains Estate"
+      },
+      {
+        "seq": 977,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 978,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      }
+    ]
+  },
+  "version": 514,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": "Estate"
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": null
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      },
+      {
+        "name": "Astra High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 0,
+    "now": 1794898978741
+  }
+}

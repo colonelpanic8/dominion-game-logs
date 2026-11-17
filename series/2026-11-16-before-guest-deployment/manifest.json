@@ -1,0 +1,51 @@
+{
+  "captured": "2026-11-17T07:10:42.268742+00:00",
+  "games": [
+    {
+      "run": "2026-11-16/sol-high-186039786",
+      "game_id": "dominion.games:186039786",
+      "sessions": 1,
+      "coverage": {
+        "observed_log_entries": 846,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/sol-high-186040335",
+      "game_id": "dominion.games:186040335",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 990,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/fable-astra-g69",
+      "game_id": "g69",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 979,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "old_deployment": "539b4c4fb196f2ea3ac66089d492bdd872ea7236",
+  "next_deployment": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "latest_verified_sol_rating": {
+    "account": "SolDominion",
+    "basis": "period.new",
+    "games": 17,
+    "level": 49.85898935464422,
+    "mu": 0.8195438226146743,
+    "phi": 0.41917262099772223,
+    "rank": 1344,
+    "rating_type": 0,
+    "verified_at": "2026-11-17T07:08:39.110089+00:00"
+  }
+}

@@ -1,0 +1,6216 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186040335",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 1 Lucky Coin.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "SolDominion starts with 6 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "everybell starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 5,
+    "text": "everybell starts with 1 Lucky Coin.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "everybell starts with 6 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Lucky Coin.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 12,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 0,
+    "seq": 19,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 21,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 22,
+    "text": "SolDominion buys and gains 1 Blockade.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 23,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "everybell starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 27,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 28,
+    "text": "everybell buys and gains 1 Blockade.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 29,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cathedral",
+    "player": 0,
+    "seq": 36,
+    "text": "SolDominion buys 1 Cathedral.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 37,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 38,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Lucky Coin.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "everybell starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 43,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 44,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cathedral",
+    "player": 1,
+    "seq": 46,
+    "text": "everybell buys 1 Cathedral.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 47,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 48,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "SolDominion trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 53,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 54,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 0,
+    "seq": 56,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 57,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion buys and gains 1 Cutthroat.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "everybell starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 66,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "everybell trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 69,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 70,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 71,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 72,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 74,
+    "text": "everybell buys and gains 1 Jack of All Trades.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 76,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 78,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "SolDominion trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 82,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 83,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 84,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 85,
+    "text": "SolDominion buys and gains 1 Grotto.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "SolDominion draws 3 Copper, 1 Blockade, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "everybell starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "everybell trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 92,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 95,
+    "text": "everybell buys and gains 1 Jack of All Trades.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 97,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "SolDominion trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 103,
+    "text": "SolDominion plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 105,
+    "text": "SolDominion gains 1 Flagship setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 106,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 110,
+    "text": "SolDominion buys and gains 1 Lighthouse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "everybell starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 117,
+    "text": "everybell plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 119,
+    "text": "everybell gains 1 Jack of All Trades setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 122,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 123,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 124,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 125,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fool",
+    "player": 1,
+    "seq": 126,
+    "text": "everybell buys and gains 1 Fool.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 127,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "SolDominion trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "SolDominion puts 1 Flagship in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 135,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 138,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 140,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 141,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 142,
+    "text": "SolDominion buys and gains 1 Inn.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "SolDominion looks at 2 Copper, 1 Lighthouse, 1 Inn, 1 Cutthroat.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 144,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "SolDominion shuffles 1 Lighthouse, 1 Cutthroat, 1 Inn into their deck.",
+    "type": "official-shuffle-into-deck"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "SolDominion draws 1 Silver, 1 Estate, 1 Inn, 1 Lucky Coin, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "everybell starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "everybell puts 1 Jack of All Trades in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 155,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 156,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 157,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 159,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 160,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 161,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 162,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 163,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 165,
+    "text": "everybell buys and gains 1 Inn.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "everybell looks at 6 card, 1 Silver.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "everybell shuffles 1 Fool, 1 Inn into their deck.",
+    "type": "official-shuffle-into-deck"
+  },
+  {
+    "player": 1,
+    "seq": 170,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 172,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 175,
+    "text": "SolDominion trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 177,
+    "text": "SolDominion plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 178,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "SolDominion draws 1 Copper, 1 Lighthouse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion discards 1 Copper, 1 Lighthouse.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion draws 1 Copper, 1 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 187,
+    "text": "SolDominion discards 1 Copper, 1 Grotto.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 190,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 191,
+    "text": "everybell discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 192,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 0,
+    "seq": 193,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 194,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 195,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 196,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 197,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 198,
+    "text": "SolDominion buys and gains 1 Grotto.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 199,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 200,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Blockade.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "everybell starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 202,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "everybell trashes 1 Estate. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 206,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 209,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "everybell discards 1 card, 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 212,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 213,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 214,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 215,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 216,
+    "text": "everybell discards 1 Lucky Coin.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 217,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 218,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 219,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 220,
+    "text": "everybell plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 221,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 222,
+    "text": "everybell gains 1 Cabin Boy setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 1,
+    "seq": 223,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 224,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 225,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Innovation",
+    "player": 1,
+    "seq": 226,
+    "text": "everybell buys 1 Innovation.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 228,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 229,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "SolDominion trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion gains 1 Jack of All Trades setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 241,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 242,
+    "text": "SolDominion buys and gains 1 Cabin Boy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 243,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 244,
+    "text": "SolDominion draws 1 Silver, 1 Inn, 1 Lucky Coin, 1 Grotto, 1 Flagship.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "everybell starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "everybell puts 1 Cabin Boy in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 252,
+    "text": "everybell plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 253,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 255,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 256,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 257,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 258,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 259,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 260,
+    "text": "everybell discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 261,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 262,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 264,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 265,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 266,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 267,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 269,
+    "text": "everybell buys and gains 1 Inn.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 271,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "everybell discards 1 card, 1 Inn.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "everybell looks at 5 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "everybell shuffles 1 Jack of All Trades, 1 Inn into their deck.",
+    "type": "official-shuffle-into-deck"
+  },
+  {
+    "player": 1,
+    "seq": 280,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 281,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 282,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 283,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 284,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "SolDominion trashes 1 Lucky Coin. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "SolDominion puts 1 Jack of All Trades in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 287,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 288,
+    "text": "SolDominion plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 289,
+    "text": "SolDominion draws 1 Lighthouse, 1 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 290,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 291,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 292,
+    "text": "SolDominion discards 1 Silver, 1 Grotto.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 294,
+    "text": "SolDominion plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 295,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 302,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion looks at 1 Silver.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 309,
+    "text": "SolDominion topdecks 1 Silver.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 310,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "SolDominion draws 1 Curse, 1 Silver, 1 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 314,
+    "text": "SolDominion trashes 1 Curse.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 317,
+    "text": "SolDominion looks at 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 326,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 329,
+    "text": "SolDominion reveals 1 Spell Scroll.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 330,
+    "text": "SolDominion gains 1 Spell Scroll. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 332,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Blockade, 1 Cabin Boy.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 333,
+    "text": "everybell starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 334,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 336,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 337,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 339,
+    "text": "everybell gets +$2. (Cabin Boy)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 340,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 341,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 343,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "everybell discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 347,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 348,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 350,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 352,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "everybell draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 355,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Fool",
+    "player": 1,
+    "seq": 356,
+    "text": "everybell plays 1 Fool.",
+    "type": "official-play"
+  },
+  {
+    "card": "Lost In The Woods",
+    "player": 1,
+    "seq": 357,
+    "text": "everybell takes 1 Lost In The Woods.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Sky's Gift",
+    "player": 1,
+    "seq": 358,
+    "text": "everybell takes 1 The Sky's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Sea's Gift",
+    "player": 1,
+    "seq": 359,
+    "text": "everybell takes 1 The Sea's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Forest's Gift",
+    "player": 1,
+    "seq": 360,
+    "text": "everybell takes 1 The Forest's Gift.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 361,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Sea's Gift",
+    "player": 1,
+    "seq": 362,
+    "text": "everybell receives 1 The Sea's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 363,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "The Sea's Gift",
+    "player": 1,
+    "seq": 364,
+    "text": "everybell discards 1 The Sea's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Forest's Gift",
+    "player": 1,
+    "seq": 366,
+    "text": "everybell receives 1 The Forest's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 367,
+    "text": "everybell gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "card": "The Sky's Gift",
+    "player": 1,
+    "seq": 369,
+    "text": "everybell receives 1 The Sky's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "everybell discards 2 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 372,
+    "text": "everybell gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "The Sky's Gift",
+    "player": 1,
+    "seq": 373,
+    "text": "everybell discards 1 The Sky's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 375,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 377,
+    "text": "everybell buys and gains 1 Cutthroat.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 379,
+    "text": "everybell plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 381,
+    "text": "everybell buys and gains 1 Lighthouse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "The Forest's Gift",
+    "player": 1,
+    "seq": 382,
+    "text": "everybell discards 1 The Forest's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 383,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 390,
+    "text": "SolDominion plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 391,
+    "text": "SolDominion draws 1 Inn.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 392,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 395,
+    "text": "SolDominion draws 1 Silver, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 396,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "SolDominion discards 2 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 399,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 400,
+    "text": "SolDominion plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 402,
+    "text": "SolDominion gains 1 Cabin Boy setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 404,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Innovation",
+    "player": 0,
+    "seq": 407,
+    "text": "SolDominion buys 1 Innovation.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 408,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Flagship, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 409,
+    "text": "everybell starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 412,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 414,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 415,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 417,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 419,
+    "text": "everybell discards 1 card, 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 421,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 422,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 423,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 425,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "everybell draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 429,
+    "text": "everybell plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 430,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 431,
+    "text": "everybell gains 1 Lighthouse setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 1,
+    "seq": 432,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 433,
+    "text": "everybell plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 435,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 436,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 438,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lucky Coin",
+    "player": 1,
+    "seq": 439,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 440,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 441,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 442,
+    "text": "everybell buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 444,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 446,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 448,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "SolDominion trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 452,
+    "text": "SolDominion trashes 1 Cabin Boy. (Cabin Boy)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 454,
+    "text": "SolDominion gains 1 Flagship. (Cabin Boy)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 455,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 456,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 457,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "SolDominion puts 1 Cabin Boy in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 459,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 460,
+    "text": "SolDominion plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 461,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 462,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 464,
+    "text": "SolDominion draws 1 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 467,
+    "text": "SolDominion plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 468,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 469,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "SolDominion sets 1 Copper aside with Grotto.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 472,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 474,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 476,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 479,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 481,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 482,
+    "text": "SolDominion reveals 1 Orb.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "SolDominion gains 1 Orb. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 484,
+    "text": "SolDominion reveals 1 Shield.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 485,
+    "text": "SolDominion gains 1 Shield. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 486,
+    "text": "everybell reveals 1 Sword.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 487,
+    "text": "everybell gains 1 Sword. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 488,
+    "text": "everybell discards 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 490,
+    "text": "SolDominion draws 1 Gold, 1 Jack of All Trades, 1 Grotto, 1 Shield, 1 Spell Scroll.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 491,
+    "text": "everybell starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 492,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 495,
+    "text": "everybell trashes 1 Copper. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 497,
+    "text": "everybell gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 498,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "everybell discards 1 Lucky Coin. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The Earth's Gift",
+    "player": 1,
+    "seq": 501,
+    "text": "everybell takes 1 The Earth's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Earth's Gift",
+    "player": 1,
+    "seq": 502,
+    "text": "everybell receives 1 The Earth's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 503,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "everybell discards 1 Gold. (The Earth's Gift)",
+    "type": "official-discard-with"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 506,
+    "text": "everybell gains 1 Cabin Boy. (The Earth's Gift)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 507,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Earth's Gift",
+    "player": 1,
+    "seq": 508,
+    "text": "everybell discards 1 The Earth's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 509,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 510,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 511,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 512,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "everybell discards 1 card, 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 515,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 516,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 517,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 518,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 520,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 521,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 522,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 523,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 524,
+    "text": "everybell plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 525,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 526,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 528,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 529,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 530,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 532,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 534,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 536,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 538,
+    "text": "everybell buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 540,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 541,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 542,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 543,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 544,
+    "text": "SolDominion draws 1 Silver. (Grotto)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 546,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 547,
+    "text": "SolDominion gets +$2. (Cabin Boy)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 548,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 549,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 550,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 551,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 552,
+    "text": "SolDominion trashes 1 Cabin Boy. (Cabin Boy)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 553,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 554,
+    "text": "SolDominion gains 1 Cutthroat. (Cabin Boy)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 556,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 558,
+    "text": "SolDominion plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 559,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "SolDominion sets 1 Gold aside with Grotto.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 562,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 564,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 565,
+    "text": "SolDominion looks at 1 Cutthroat.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 567,
+    "text": "SolDominion discards 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "SolDominion draws 1 Lighthouse, 1 Inn, 1 Flagship.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 569,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 571,
+    "text": "SolDominion plays 1 Spell Scroll.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 0,
+    "seq": 572,
+    "text": "SolDominion trashes 1 Spell Scroll.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 573,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 574,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Doubloons",
+    "player": 0,
+    "seq": 575,
+    "text": "SolDominion reveals 1 Doubloons.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "SolDominion gains 1 Doubloons. (Cutthroat)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 577,
+    "text": "SolDominion gains 1 Gold. (Doubloons)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 578,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 579,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 580,
+    "text": "SolDominion looks at 1 Silver, 1 Cutthroat, 1 Copper, 1 Doubloons, 2 Gold.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 581,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 582,
+    "text": "SolDominion plays 1 Shield.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 583,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 584,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 585,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 586,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 587,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 588,
+    "text": "SolDominion draws 2 Silver, 1 Gold, 1 Blockade, 1 Orb.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 589,
+    "text": "everybell starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 591,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 592,
+    "text": "everybell gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 593,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 594,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 595,
+    "text": "everybell trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 596,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 597,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 598,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 599,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 600,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 601,
+    "text": "everybell discards 1 card, 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 602,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 603,
+    "text": "everybell plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 604,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 605,
+    "text": "everybell gains 1 Lighthouse setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 1,
+    "seq": 606,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 607,
+    "text": "everybell plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 608,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 609,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 611,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 612,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 613,
+    "text": "everybell buys and gains 1 Cutthroat.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 614,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 615,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 616,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 617,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 618,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 619,
+    "text": "SolDominion discards 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "SolDominion draws 1 Silver. (Grotto)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 621,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 622,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 623,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 624,
+    "text": "SolDominion plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 625,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 626,
+    "text": "SolDominion gains 1 Cabin Boy setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 627,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 0,
+    "seq": 628,
+    "text": "SolDominion plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 629,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 631,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 632,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 633,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 634,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 635,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 636,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 637,
+    "text": "SolDominion plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 638,
+    "text": "SolDominion looks at 1 Copper, 1 Silver, 3 Gold, 1 Province, 1 Lighthouse, 1 Inn, 1 Jack of All Trades, 1 Grotto, 2 Flagship, 2 Cutthroat, 1 Doubloons, 1 Shield.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 639,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 0,
+    "seq": 640,
+    "text": "SolDominion plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 641,
+    "text": "SolDominion looks at 1 Silver, 1 Province, 2 Cutthroat, 1 Lighthouse, 1 Copper, 1 Doubloons, 1 Grotto, 1 Jack of All Trades, 1 Inn, 1 Shield, 3 Gold, 2 Flagship.",
+    "type": "official-look-at"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 642,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 643,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 644,
+    "text": "SolDominion looks at 1 Province.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 646,
+    "text": "SolDominion discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Lighthouse, 1 Grotto, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 648,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 649,
+    "text": "SolDominion trashes 1 Cutthroat.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 650,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 651,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 652,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 653,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 654,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 655,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Inn, 1 Flagship, 1 Doubloons.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 656,
+    "text": "everybell starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 657,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 658,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 659,
+    "text": "everybell gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 660,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 662,
+    "text": "everybell trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 663,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 664,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "everybell discards 1 Jack of All Trades. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The Flame's Gift",
+    "player": 1,
+    "seq": 666,
+    "text": "everybell takes 1 The Flame's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Flame's Gift",
+    "player": 1,
+    "seq": 667,
+    "text": "everybell receives 1 The Flame's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Flame's Gift",
+    "player": 1,
+    "seq": 669,
+    "text": "everybell discards 1 The Flame's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 670,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 671,
+    "text": "everybell plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 672,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 673,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 674,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 675,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 676,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 677,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 678,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 679,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 680,
+    "text": "everybell draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 682,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 683,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 684,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 685,
+    "text": "everybell buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 686,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 687,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 688,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 689,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 690,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 691,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 692,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 693,
+    "text": "SolDominion trashes 1 Cabin Boy. (Cabin Boy)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 694,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 695,
+    "text": "SolDominion gains 1 Lighthouse. (Cabin Boy)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 696,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 697,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 698,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 699,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 700,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 701,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 702,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 704,
+    "text": "SolDominion plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 705,
+    "text": "SolDominion draws 1 Gold, 1 Cutthroat.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 706,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 707,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 708,
+    "text": "SolDominion discards 1 Gold, 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 709,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "player": 0,
+    "seq": 710,
+    "text": "SolDominion draws 1 Silver, 1 Flagship.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 711,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 712,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 713,
+    "text": "SolDominion discards 1 Silver, 1 Doubloons.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 714,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 715,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 716,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 717,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 718,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 719,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 720,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 721,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 722,
+    "text": "SolDominion draws 1 Silver, 2 Province, 1 Orb, 1 Shield.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 723,
+    "text": "everybell starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 724,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 725,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 726,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 727,
+    "text": "everybell gets +$2. (Cabin Boy)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 728,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 729,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 730,
+    "text": "everybell trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 731,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 1,
+    "seq": 732,
+    "text": "everybell plays 1 Cutthroat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 733,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 734,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 735,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 736,
+    "text": "everybell plays 1 Sword.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 737,
+    "text": "everybell gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 738,
+    "text": "everybell gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 739,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 740,
+    "text": "everybell buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 741,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 742,
+    "text": "everybell buys and gains 1 Lighthouse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 743,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 744,
+    "text": "everybell plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 745,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 746,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 747,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 748,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 749,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 750,
+    "text": "SolDominion gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 751,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 752,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 753,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shield",
+    "player": 0,
+    "seq": 754,
+    "text": "SolDominion plays 1 Shield.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 755,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 756,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 757,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 758,
+    "text": "SolDominion plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 759,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 760,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 761,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 762,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 763,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 764,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 765,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 766,
+    "text": "SolDominion draws 1 Silver, 2 Gold, 1 Inn, 1 Blockade.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 767,
+    "text": "everybell starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 768,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 769,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 770,
+    "text": "everybell gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 771,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 772,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 773,
+    "text": "everybell discards 1 Blockade. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The Mountain's Gift",
+    "player": 1,
+    "seq": 774,
+    "text": "everybell takes 1 The Mountain's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Mountain's Gift",
+    "player": 1,
+    "seq": 775,
+    "text": "everybell receives 1 The Mountain's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 776,
+    "text": "everybell gains 1 Silver. (The Mountain's Gift)",
+    "type": "official-gain-with"
+  },
+  {
+    "card": "The Mountain's Gift",
+    "player": 1,
+    "seq": 777,
+    "text": "everybell discards 1 The Mountain's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 778,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 779,
+    "text": "everybell trashes 1 Fool. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 780,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 781,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 782,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 783,
+    "text": "everybell buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 784,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 785,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 786,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 787,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 788,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 789,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 0,
+    "seq": 790,
+    "text": "SolDominion plays 1 Blockade.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 791,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Remodel",
+    "player": 0,
+    "seq": 792,
+    "text": "SolDominion gains 1 Remodel setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 793,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Remodel",
+    "player": 0,
+    "seq": 794,
+    "text": "SolDominion plays 1 Remodel.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 795,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 0,
+    "seq": 796,
+    "text": "SolDominion trashes 1 Inn.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 797,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 798,
+    "text": "SolDominion gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 799,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "player": 0,
+    "seq": 800,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 801,
+    "text": "SolDominion gains 1 Estate setting it aside.",
+    "type": "official-gain-setting-aside"
+  },
+  {
+    "player": 0,
+    "seq": 802,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 803,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 804,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 805,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 806,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 807,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Jack of All Trades, 2 Grotto.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 808,
+    "text": "everybell starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 809,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 810,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 811,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 812,
+    "text": "everybell trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 813,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 814,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 815,
+    "text": "everybell discards 1 Province. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The River's Gift",
+    "player": 1,
+    "seq": 816,
+    "text": "everybell takes 1 The River's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The River's Gift",
+    "player": 1,
+    "seq": 817,
+    "text": "everybell receives 1 The River's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 818,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Inn",
+    "player": 1,
+    "seq": 819,
+    "text": "everybell plays 1 Inn.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 820,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 821,
+    "text": "everybell gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 822,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 823,
+    "text": "everybell discards 1 card, 1 Silver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 824,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 825,
+    "text": "everybell plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 826,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 827,
+    "text": "everybell gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 828,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 829,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 830,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 831,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 832,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 833,
+    "text": "everybell discards 1 Lighthouse.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 834,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 835,
+    "text": "everybell shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 836,
+    "text": "everybell draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 837,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 838,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 839,
+    "text": "everybell plays 1 Cabin Boy.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 840,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 841,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 842,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 843,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 844,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 845,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 846,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Blockade",
+    "player": 1,
+    "seq": 847,
+    "text": "everybell discards 1 Blockade.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 848,
+    "text": "everybell draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 849,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 850,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 851,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 852,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 853,
+    "text": "everybell buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "The River's Gift",
+    "player": 1,
+    "seq": 854,
+    "text": "everybell discards 1 The River's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 855,
+    "text": "everybell draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 856,
+    "text": "SolDominion starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 857,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 858,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 859,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 860,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 861,
+    "text": "SolDominion puts 1 Estate in hand (Blockade).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 862,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 863,
+    "text": "SolDominion plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 864,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 865,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 866,
+    "text": "SolDominion sets 1 Estate aside with Grotto.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 867,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 0,
+    "seq": 868,
+    "text": "SolDominion plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 869,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 870,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 871,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 0,
+    "seq": 872,
+    "text": "SolDominion plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 873,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 874,
+    "text": "SolDominion looks at 1 Cutthroat.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 875,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cutthroat",
+    "player": 0,
+    "seq": 876,
+    "text": "SolDominion discards 1 Cutthroat.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 877,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Province, 1 Doubloons.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 878,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 879,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 880,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 881,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 882,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 883,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 884,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 885,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 886,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 887,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Lighthouse, 1 Flagship.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 888,
+    "text": "everybell starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 889,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 890,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 891,
+    "text": "everybell gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 892,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 893,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 894,
+    "text": "everybell trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 895,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 896,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 897,
+    "text": "everybell discards 1 Duchy. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 1,
+    "seq": 898,
+    "text": "everybell takes 1 The Moon's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 1,
+    "seq": 899,
+    "text": "everybell receives 1 The Moon's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 900,
+    "text": "everybell looks at 11 card, 1 Silver.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 901,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 902,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 1,
+    "seq": 903,
+    "text": "everybell discards 1 The Moon's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 904,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cabin Boy",
+    "player": 1,
+    "seq": 905,
+    "text": "everybell gets +$2. (Cabin Boy)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 906,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jack of All Trades",
+    "player": 1,
+    "seq": 907,
+    "text": "everybell plays 1 Jack of All Trades.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 908,
+    "text": "everybell gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 909,
+    "text": "everybell looks at 1 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 910,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 911,
+    "text": "everybell topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 912,
+    "text": "everybell draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 913,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 914,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 915,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 916,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 917,
+    "text": "everybell plays 1 Sword.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 918,
+    "text": "everybell gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 919,
+    "text": "everybell gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 920,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 921,
+    "text": "SolDominion discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 922,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 923,
+    "text": "everybell buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 924,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 1,
+    "seq": 925,
+    "text": "everybell buys and gains 1 Grotto.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 926,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Grotto",
+    "player": 1,
+    "seq": 927,
+    "text": "everybell plays 1 Grotto.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 928,
+    "text": "everybell gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 929,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 930,
+    "text": "everybell sets 1 card aside with Grotto.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 931,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 932,
+    "text": "SolDominion starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 933,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 934,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 935,
+    "text": "SolDominion discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 936,
+    "text": "SolDominion draws 1 Silver. (Grotto)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 0,
+    "seq": 937,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 938,
+    "text": "SolDominion trashes 1 Silver. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 939,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 940,
+    "text": "SolDominion plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 941,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 942,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 943,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flagship",
+    "player": 0,
+    "seq": 944,
+    "text": "SolDominion plays 1 Flagship.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 945,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 946,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 947,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 948,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 949,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 950,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 951,
+    "text": "SolDominion draws 1 Gold, 2 Duchy, 1 Province, 1 Remodel.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 952,
+    "text": "everybell starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 953,
+    "text": "everybell starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 954,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 955,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 956,
+    "text": "everybell trashes 1 Lucky Coin. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 957,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 958,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 959,
+    "text": "everybell discards 1 Province. (Lost In The Woods)",
+    "type": "official-discard-with"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 1,
+    "seq": 960,
+    "text": "everybell takes 1 The Field's Gift.",
+    "type": "official-take"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 1,
+    "seq": 961,
+    "text": "everybell receives 1 The Field's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 1,
+    "seq": 962,
+    "text": "everybell gets +1 Action. (The Field's Gift)",
+    "type": "official-gets-action-from"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 1,
+    "seq": 963,
+    "text": "everybell gets +$1. (The Field's Gift)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 1,
+    "seq": 964,
+    "text": "everybell discards 1 Lighthouse.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 965,
+    "text": "everybell draws 1 card. (Grotto)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 966,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 967,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 968,
+    "text": "everybell answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 969,
+    "text": "everybell buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 1,
+    "seq": 970,
+    "text": "everybell discards 1 The Field's Gift.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 971,
+    "text": "everybell draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 972,
+    "text": "SolDominion starts turn 19",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 973,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 974,
+    "text": "SolDominion gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 975,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 976,
+    "text": "SolDominion trashes 1 Duchy. (Cathedral)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 977,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Remodel",
+    "player": 0,
+    "seq": 978,
+    "text": "SolDominion plays 1 Remodel.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 979,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 980,
+    "text": "SolDominion trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 981,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 982,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 983,
+    "text": "play again with",
+    "type": "official-play-again-with"
+  },
+  {
+    "player": 0,
+    "seq": 984,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 985,
+    "text": "SolDominion trashes 1 Duchy.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 986,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 987,
+    "text": "SolDominion gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 988,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 989,
+    "text": "SolDominion draws 1 Jack of All Trades, 1 Blockade, 1 Flagship, 1 Cutthroat, 1 Shield.",
+    "type": "official-draw"
+  }
+]

@@ -1,0 +1,846 @@
+00000 game 186039786
+00001 Noboyuki starts with 3 Estate.
+00002 Noboyuki starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 Noboyuki answered
+00007 Noboyuki shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 Noboyuki draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 Noboyuki starts turn 1
+00012 Noboyuki answered
+00013 play treasures for
+00014 Noboyuki answered
+00015 Noboyuki buys and gains 1 Bureaucrat.
+00016 Noboyuki draws 5 card.
+00017 SolDominion starts turn 1
+00018 SolDominion answered
+00019 SolDominion answered
+00020 SolDominion answered
+00021 play treasures for
+00022 SolDominion answered
+00023 SolDominion buys and gains 1 Experiment.
+00024 SolDominion gains 1 Experiment.
+00025 SolDominion draws 4 Copper, 1 Estate.
+00026 Noboyuki starts turn 2
+00027 Noboyuki answered
+00028 play treasures for
+00029 Noboyuki answered
+00030 Noboyuki buys 1 Star Chart.
+00031 Noboyuki answered
+00032 Noboyuki answered
+00033 Noboyuki topdecks 1 card.
+00034 Noboyuki shuffles their deck.
+00035 Noboyuki draws 5 card.
+00036 SolDominion starts turn 2
+00037 SolDominion answered
+00038 SolDominion answered
+00039 SolDominion answered
+00040 SolDominion answered
+00041 play treasures for
+00042 SolDominion answered
+00043 SolDominion buys and gains 1 Weaver.
+00044 SolDominion shuffles their deck.
+00045 SolDominion draws 2 Copper, 2 Estate, 1 Experiment.
+00046 Noboyuki starts turn 3
+00047 Noboyuki answered
+00048 Noboyuki plays 1 Bureaucrat.
+00049 Noboyuki gains 1 Silver.
+00050 SolDominion topdecks 1 Estate.
+00051 Noboyuki answered
+00052 play treasures for
+00053 Noboyuki answered
+00054 Noboyuki buys and gains 1 Silver.
+00055 Noboyuki draws 5 card.
+00056 SolDominion starts turn 3
+00057 SolDominion answered
+00058 SolDominion plays 1 Experiment.
+00059 SolDominion draws 1 Estate, 1 Weaver.
+00060 SolDominion gets +1 Action.
+00061 SolDominion returns 1 Experiment to Player 0 supply.
+00062 SolDominion answered
+00063 SolDominion plays 1 Weaver.
+00064 SolDominion answered
+00065 SolDominion gains 2 Silver.
+00066 SolDominion answered
+00067 SolDominion answered
+00068 play treasures for
+00069 SolDominion answered
+00070 SolDominion buys and gains 1 Encampment.
+00071 SolDominion draws 4 Copper, 1 Experiment.
+00072 Noboyuki starts turn 4
+00073 Noboyuki answered
+00074 play treasures for
+00075 Noboyuki answered
+00076 Noboyuki buys and gains 1 Bandit.
+00077 Noboyuki answered
+00078 Noboyuki answered
+00079 Noboyuki topdecks 1 card.
+00080 Noboyuki shuffles their deck.
+00081 Noboyuki draws 5 card.
+00082 SolDominion starts turn 4
+00083 SolDominion answered
+00084 SolDominion plays 1 Experiment.
+00085 SolDominion draws 1 Copper, 1 Estate.
+00086 SolDominion gets +1 Action.
+00087 SolDominion returns 1 Experiment to Player 0 supply.
+00088 SolDominion answered
+00089 SolDominion answered
+00090 SolDominion answered
+00091 SolDominion answered
+00092 SolDominion answered
+00093 play treasures for
+00094 SolDominion answered
+00095 SolDominion buys and gains 1 Bandit.
+00096 SolDominion shuffles their deck.
+00097 SolDominion draws 2 Copper, 2 Estate, 1 Weaver.
+00098 Noboyuki starts turn 5
+00099 Noboyuki answered
+00100 Noboyuki plays 1 Bandit.
+00101 Noboyuki gains 1 Gold.
+00102 SolDominion reveals 1 Copper, 1 Encampment.
+00103 SolDominion discards 1 Copper, 1 Encampment.
+00104 Noboyuki answered
+00105 play treasures for
+00106 Noboyuki answered
+00107 Noboyuki buys and gains 1 Encampment.
+00108 Noboyuki draws 5 card.
+00109 SolDominion starts turn 5
+00110 SolDominion answered
+00111 SolDominion plays 1 Weaver.
+00112 SolDominion answered
+00113 SolDominion gains 1 Villa.
+00114 SolDominion puts 1 Villa into their hand.
+00115 SolDominion gets +1 Action.
+00116 SolDominion answered
+00117 SolDominion plays 1 Villa.
+00118 SolDominion gets +2 Actions.
+00119 SolDominion gets +1 Buy.
+00120 SolDominion gets +$1.
+00121 SolDominion answered
+00122 SolDominion answered
+00123 play treasures for
+00124 SolDominion answered
+00125 SolDominion buys and gains 1 Encampment.
+00126 SolDominion answered
+00127 SolDominion draws 3 Copper, 1 Silver, 1 Bandit.
+00128 Noboyuki starts turn 6
+00129 Noboyuki answered
+00130 Noboyuki plays 1 Bureaucrat.
+00131 Noboyuki gains 1 Silver.
+00132 SolDominion reveals their hand: 1 Silver, 3 Copper, 1 Bandit.
+00133 Noboyuki answered
+00134 play treasures for
+00135 Noboyuki answered
+00136 Noboyuki buys and gains 1 Encampment.
+00137 Noboyuki draws 5 card.
+00138 SolDominion starts turn 6
+00139 SolDominion answered
+00140 SolDominion plays 1 Bandit.
+00141 SolDominion gains 1 Gold.
+00142 Noboyuki answered
+00143 Noboyuki answered
+00144 Noboyuki topdecks 1 card.
+00145 Noboyuki shuffles their deck.
+00146 Noboyuki reveals 1 Copper, 1 Estate.
+00147 Noboyuki discards 1 Copper, 1 Estate.
+00148 SolDominion answered
+00149 SolDominion answered
+00150 SolDominion answered
+00151 SolDominion answered
+00152 play treasures for
+00153 SolDominion answered
+00154 SolDominion buys and gains 1 Encampment.
+00155 SolDominion shuffles their deck.
+00156 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00157 Noboyuki starts turn 7
+00158 Noboyuki answered
+00159 play treasures for
+00160 Noboyuki answered
+00161 Noboyuki buys and gains 1 Plunder.
+00162 Noboyuki draws 5 card.
+00163 SolDominion starts turn 7
+00164 SolDominion answered
+00165 SolDominion answered
+00166 SolDominion answered
+00167 SolDominion answered
+00168 play treasures for
+00169 SolDominion answered
+00170 SolDominion buys 1 Deliver.
+00171 SolDominion gets +1 Buy.
+00172 SolDominion answered
+00173 SolDominion buys and gains 1 Experiment.
+00174 SolDominion answered
+00175 SolDominion gains 1 Experiment.
+00176 SolDominion sets 1 Experiment aside with Deliver.
+00177 SolDominion sets 1 Experiment aside with Deliver.
+00178 SolDominion draws 3 Copper, 1 Estate, 1 Encampment.
+00179 SolDominion puts 2 Experiment in hand (Deliver).
+00180 Noboyuki starts turn 8
+00181 Noboyuki answered
+00182 Noboyuki plays 1 Encampment.
+00183 Noboyuki draws 2 card.
+00184 Noboyuki gets +2 Actions.
+00185 Noboyuki sets 1 Encampment aside.
+00186 Noboyuki answered
+00187 Noboyuki plays 1 Encampment.
+00188 Noboyuki draws 2 card.
+00189 Noboyuki gets +2 Actions.
+00190 Noboyuki sets 1 Encampment aside.
+00191 Noboyuki answered
+00192 Noboyuki plays 1 Bandit.
+00193 Noboyuki gains 1 Gold.
+00194 SolDominion reveals 1 Bandit, 1 Encampment.
+00195 SolDominion discards 1 Bandit, 1 Encampment.
+00196 Noboyuki answered
+00197 play treasures for
+00198 Noboyuki answered
+00199 Noboyuki buys and gains 1 Plunder.
+00200 Noboyuki begins their Cleanup phase.
+00201 Noboyuki returns 2 Encampment to Player 0 supply.
+00202 Noboyuki answered
+00203 Noboyuki answered
+00204 Noboyuki topdecks 1 card.
+00205 Noboyuki shuffles their deck.
+00206 Noboyuki draws 5 card.
+00207 SolDominion starts turn 8
+00208 SolDominion answered
+00209 SolDominion plays 1 Experiment.
+00210 SolDominion draws 1 Gold, 1 Encampment.
+00211 SolDominion gets +1 Action.
+00212 SolDominion returns 1 Experiment to Player 0 supply.
+00213 SolDominion answered
+00214 SolDominion plays 1 Encampment.
+00215 SolDominion draws 1 Estate, 1 Villa.
+00216 SolDominion gets +2 Actions.
+00217 SolDominion answered
+00218 SolDominion reveals 1 Gold.
+00219 SolDominion answered
+00220 SolDominion plays 1 Encampment.
+00221 SolDominion draws 1 Copper, 1 Weaver.
+00222 SolDominion gets +2 Actions.
+00223 SolDominion answered
+00224 SolDominion reveals 1 Gold.
+00225 SolDominion answered
+00226 SolDominion plays 1 Weaver.
+00227 SolDominion answered
+00228 SolDominion gains 1 Encampment.
+00229 SolDominion answered
+00230 SolDominion plays 1 Experiment.
+00231 SolDominion shuffles their deck.
+00232 SolDominion draws 1 Copper, 1 Silver.
+00233 SolDominion gets +1 Action.
+00234 SolDominion returns 1 Experiment to Player 0 supply.
+00235 SolDominion answered
+00236 SolDominion plays 1 Villa.
+00237 SolDominion gets +2 Actions.
+00238 SolDominion gets +1 Buy.
+00239 SolDominion gets +$1.
+00240 SolDominion answered
+00241 SolDominion answered
+00242 SolDominion answered
+00243 SolDominion answered
+00244 SolDominion answered
+00245 SolDominion answered
+00246 SolDominion answered
+00247 play treasures for
+00248 SolDominion answered
+00249 SolDominion buys 1 Deliver.
+00250 SolDominion gets +1 Buy.
+00251 SolDominion answered
+00252 SolDominion buys and gains 1 Encampment.
+00253 SolDominion sets 1 Encampment aside with Deliver.
+00254 SolDominion answered
+00255 SolDominion buys and gains 1 Plunder.
+00256 SolDominion sets 1 Plunder aside with Deliver.
+00257 SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Bandit, 1 Encampment.
+00258 SolDominion puts 1 Encampment, 1 Plunder in hand (Deliver).
+00259 Noboyuki starts turn 9
+00260 Noboyuki answered
+00261 Noboyuki plays 1 Bureaucrat.
+00262 Noboyuki gains 1 Silver.
+00263 SolDominion topdecks 1 Estate.
+00264 Noboyuki answered
+00265 play treasures for
+00266 play treasures for
+00267 Noboyuki gets 1 VP.
+00268 Noboyuki answered
+00269 Noboyuki buys and gains 1 Plunder.
+00270 Noboyuki draws 5 card.
+00271 SolDominion starts turn 9
+00272 SolDominion answered
+00273 SolDominion plays 1 Encampment.
+00274 SolDominion draws 1 Copper, 1 Estate.
+00275 SolDominion gets +2 Actions.
+00276 SolDominion answered
+00277 SolDominion reveals 1 Plunder.
+00278 SolDominion answered
+00279 SolDominion plays 1 Bandit.
+00280 SolDominion gains 1 Gold.
+00281 Noboyuki reveals 1 Silver, 1 Bandit.
+00282 Noboyuki trashes 1 Silver.
+00283 Noboyuki discards 1 Bandit.
+00284 SolDominion answered
+00285 SolDominion plays 1 Encampment.
+00286 SolDominion shuffles their deck.
+00287 SolDominion draws 2 Encampment.
+00288 SolDominion gets +2 Actions.
+00289 SolDominion answered
+00290 SolDominion reveals 1 Plunder.
+00291 SolDominion answered
+00292 SolDominion plays 1 Encampment.
+00293 SolDominion draws 1 Silver, 1 Gold.
+00294 SolDominion gets +2 Actions.
+00295 SolDominion answered
+00296 SolDominion reveals 1 Gold.
+00297 SolDominion answered
+00298 SolDominion plays 1 Encampment.
+00299 SolDominion draws 1 Villa, 1 Weaver.
+00300 SolDominion gets +2 Actions.
+00301 SolDominion answered
+00302 SolDominion reveals 1 Gold.
+00303 SolDominion answered
+00304 SolDominion plays 1 Weaver.
+00305 SolDominion answered
+00306 SolDominion gains 1 Villa.
+00307 SolDominion puts 1 Villa into their hand.
+00308 SolDominion gets +1 Action.
+00309 SolDominion answered
+00310 SolDominion plays 1 Villa.
+00311 SolDominion gets +2 Actions.
+00312 SolDominion gets +1 Buy.
+00313 SolDominion gets +$1.
+00314 SolDominion answered
+00315 SolDominion plays 1 Villa.
+00316 SolDominion gets +2 Actions.
+00317 SolDominion gets +1 Buy.
+00318 SolDominion gets +$1.
+00319 SolDominion answered
+00320 SolDominion answered
+00321 SolDominion answered
+00322 play treasures for
+00323 SolDominion answered
+00324 play treasures for
+00325 SolDominion gets 1 VP.
+00326 SolDominion answered
+00327 SolDominion answered
+00328 play treasures for
+00329 SolDominion answered
+00330 SolDominion buys 1 Deliver.
+00331 SolDominion gets +1 Buy.
+00332 SolDominion answered
+00333 SolDominion buys and gains 1 Province.
+00334 SolDominion sets 1 Province aside with Deliver.
+00335 SolDominion answered
+00336 SolDominion buys and gains 1 Experiment.
+00337 SolDominion answered
+00338 SolDominion gains 1 Experiment.
+00339 SolDominion sets 1 Experiment aside with Deliver.
+00340 SolDominion sets 1 Experiment aside with Deliver.
+00341 SolDominion answered
+00342 SolDominion draws 3 Copper, 2 Estate.
+00343 SolDominion puts 1 Province, 2 Experiment in hand (Deliver).
+00344 Noboyuki starts turn 10
+00345 Noboyuki answered
+00346 play treasures for
+00347 Noboyuki answered
+00348 Noboyuki buys and gains 1 Province.
+00349 Noboyuki draws 5 card.
+00350 SolDominion starts turn 10
+00351 SolDominion answered
+00352 SolDominion plays 1 Experiment.
+00353 SolDominion draws 1 Copper, 1 Gold.
+00354 SolDominion gets +1 Action.
+00355 SolDominion returns 1 Experiment to Player 0 supply.
+00356 SolDominion answered
+00357 SolDominion plays 1 Experiment.
+00358 SolDominion draws 1 Copper, 1 Encampment.
+00359 SolDominion gets +1 Action.
+00360 SolDominion returns 1 Experiment to Player 0 supply.
+00361 SolDominion answered
+00362 SolDominion plays 1 Encampment.
+00363 SolDominion shuffles their deck.
+00364 SolDominion draws 1 Silver, 1 Bandit.
+00365 SolDominion gets +2 Actions.
+00366 SolDominion answered
+00367 SolDominion reveals 1 Gold.
+00368 SolDominion answered
+00369 SolDominion plays 1 Bandit.
+00370 SolDominion gains 1 Gold.
+00371 Noboyuki reveals 1 Copper, 1 Estate.
+00372 Noboyuki discards 1 Copper, 1 Estate.
+00373 SolDominion answered
+00374 SolDominion answered
+00375 SolDominion answered
+00376 SolDominion answered
+00377 SolDominion answered
+00378 SolDominion answered
+00379 SolDominion answered
+00380 play treasures for
+00381 SolDominion answered
+00382 SolDominion buys and gains 1 Villa.
+00383 SolDominion puts 1 Villa into their hand.
+00384 SolDominion gets +1 Action.
+00385 SolDominion answered
+00386 SolDominion plays 1 Villa.
+00387 SolDominion gets +2 Actions.
+00388 SolDominion gets +1 Buy.
+00389 SolDominion gets +$1.
+00390 SolDominion answered
+00391 SolDominion buys 1 Deliver.
+00392 SolDominion gets +1 Buy.
+00393 SolDominion answered
+00394 SolDominion buys and gains 1 Cartographer.
+00395 SolDominion sets 1 Cartographer aside with Deliver.
+00396 SolDominion draws 1 Gold, 2 Encampment, 1 Villa, 1 Weaver.
+00397 SolDominion puts 1 Cartographer in hand (Deliver).
+00398 Noboyuki starts turn 11
+00399 Noboyuki answered
+00400 play treasures for
+00401 play treasures for
+00402 Noboyuki gets 1 VP.
+00403 Noboyuki answered
+00404 Noboyuki buys and gains 1 Plunder.
+00405 Noboyuki answered
+00406 Noboyuki answered
+00407 Noboyuki topdecks 1 card.
+00408 Noboyuki shuffles their deck.
+00409 Noboyuki draws 5 card.
+00410 SolDominion starts turn 11
+00411 SolDominion answered
+00412 SolDominion plays 1 Cartographer.
+00413 SolDominion draws 1 Copper.
+00414 SolDominion gets +1 Action.
+00415 SolDominion looks at 1 Copper, 1 Silver, 1 Encampment, 1 Plunder.
+00416 SolDominion answered
+00417 SolDominion discards 1 Copper.
+00418 SolDominion answered
+00419 SolDominion topdecks 1 Silver, 1 Encampment, 1 Plunder.
+00420 SolDominion answered
+00421 SolDominion plays 1 Encampment.
+00422 SolDominion draws 1 Encampment, 1 Plunder.
+00423 SolDominion gets +2 Actions.
+00424 SolDominion answered
+00425 SolDominion reveals 1 Gold.
+00426 SolDominion answered
+00427 SolDominion plays 1 Encampment.
+00428 SolDominion draws 1 Silver, 1 Estate.
+00429 SolDominion gets +2 Actions.
+00430 SolDominion answered
+00431 SolDominion reveals 1 Gold.
+00432 SolDominion answered
+00433 SolDominion plays 1 Weaver.
+00434 SolDominion answered
+00435 SolDominion gains 1 Experiment.
+00436 SolDominion gains 1 Experiment.
+00437 SolDominion answered
+00438 SolDominion plays 1 Encampment.
+00439 SolDominion draws 1 Encampment, 1 Villa.
+00440 SolDominion gets +2 Actions.
+00441 SolDominion answered
+00442 SolDominion reveals 1 Gold.
+00443 SolDominion answered
+00444 SolDominion plays 1 Encampment.
+00445 SolDominion shuffles their deck.
+00446 SolDominion draws 1 Estate, 1 Encampment.
+00447 SolDominion gets +2 Actions.
+00448 SolDominion answered
+00449 SolDominion reveals 1 Gold.
+00450 SolDominion answered
+00451 SolDominion plays 1 Encampment.
+00452 SolDominion draws 1 Copper, 1 Villa.
+00453 SolDominion gets +2 Actions.
+00454 SolDominion answered
+00455 SolDominion reveals 1 Gold.
+00456 SolDominion answered
+00457 SolDominion plays 1 Villa.
+00458 SolDominion gets +2 Actions.
+00459 SolDominion gets +1 Buy.
+00460 SolDominion gets +$1.
+00461 SolDominion answered
+00462 SolDominion plays 1 Villa.
+00463 SolDominion gets +2 Actions.
+00464 SolDominion gets +1 Buy.
+00465 SolDominion gets +$1.
+00466 SolDominion answered
+00467 SolDominion plays 1 Villa.
+00468 SolDominion gets +2 Actions.
+00469 SolDominion gets +1 Buy.
+00470 SolDominion gets +$1.
+00471 SolDominion answered
+00472 play treasures for
+00473 SolDominion answered
+00474 play treasures for
+00475 SolDominion gets 1 VP.
+00476 SolDominion answered
+00477 SolDominion answered
+00478 SolDominion answered
+00479 play treasures for
+00480 SolDominion answered
+00481 SolDominion buys 1 Deliver.
+00482 SolDominion gets +1 Buy.
+00483 SolDominion answered
+00484 SolDominion buys and gains 1 Cartographer.
+00485 SolDominion sets 1 Cartographer aside with Deliver.
+00486 SolDominion answered
+00487 SolDominion buys and gains 1 Experiment.
+00488 SolDominion answered
+00489 SolDominion gains 1 Experiment.
+00490 SolDominion sets 1 Experiment aside with Deliver.
+00491 SolDominion sets 1 Experiment aside with Deliver.
+00492 SolDominion answered
+00493 SolDominion draws 3 Copper, 1 Gold, 1 Province.
+00494 SolDominion puts 1 Cartographer, 2 Experiment in hand (Deliver).
+00495 Noboyuki starts turn 12
+00496 Noboyuki answered
+00497 Noboyuki plays 1 Bandit.
+00498 Noboyuki gains 1 Gold.
+00499 SolDominion reveals 1 Gold, 1 Experiment.
+00500 SolDominion trashes 1 Gold.
+00501 SolDominion discards 1 Experiment.
+00502 Noboyuki answered
+00503 play treasures for
+00504 play treasures for
+00505 Noboyuki gets 1 VP.
+00506 Noboyuki answered
+00507 Noboyuki buys and gains 1 Duchy.
+00508 Noboyuki draws 5 card.
+00509 SolDominion starts turn 12
+00510 SolDominion answered
+00511 SolDominion plays 1 Cartographer.
+00512 SolDominion draws 1 Copper.
+00513 SolDominion gets +1 Action.
+00514 SolDominion looks at 1 Copper, 1 Silver, 1 Bandit, 1 Experiment.
+00515 SolDominion answered
+00516 SolDominion discards 1 Copper.
+00517 SolDominion answered
+00518 SolDominion topdecks 1 Silver, 1 Bandit, 1 Experiment.
+00519 SolDominion answered
+00520 SolDominion plays 1 Experiment.
+00521 SolDominion draws 1 Bandit, 1 Experiment.
+00522 SolDominion gets +1 Action.
+00523 SolDominion returns 1 Experiment to Player 0 supply.
+00524 SolDominion answered
+00525 SolDominion plays 1 Experiment.
+00526 SolDominion draws 1 Silver, 1 Estate.
+00527 SolDominion gets +1 Action.
+00528 SolDominion returns 1 Experiment to Player 0 supply.
+00529 SolDominion answered
+00530 SolDominion plays 1 Experiment.
+00531 SolDominion shuffles their deck.
+00532 SolDominion draws 1 Villa, 1 Weaver.
+00533 SolDominion gets +1 Action.
+00534 SolDominion returns 1 Experiment to Player 0 supply.
+00535 SolDominion answered
+00536 SolDominion plays 1 Villa.
+00537 SolDominion gets +2 Actions.
+00538 SolDominion gets +1 Buy.
+00539 SolDominion gets +$1.
+00540 SolDominion answered
+00541 SolDominion plays 1 Weaver.
+00542 SolDominion answered
+00543 SolDominion gains 1 Experiment.
+00544 SolDominion gains 1 Experiment.
+00545 SolDominion answered
+00546 SolDominion plays 1 Bandit.
+00547 SolDominion gains 1 Gold.
+00548 Noboyuki reveals 2 Copper.
+00549 Noboyuki discards 2 Copper.
+00550 SolDominion answered
+00551 SolDominion answered
+00552 SolDominion answered
+00553 SolDominion answered
+00554 SolDominion answered
+00555 SolDominion answered
+00556 play treasures for
+00557 SolDominion answered
+00558 SolDominion buys and gains 1 Province.
+00559 SolDominion answered
+00560 SolDominion draws 1 Copper, 1 Silver, 1 Gold, 1 Encampment, 1 Experiment.
+00561 Noboyuki starts turn 13
+00562 Noboyuki answered
+00563 play treasures for
+00564 Noboyuki answered
+00565 play treasures for
+00566 Noboyuki gets 1 VP.
+00567 Noboyuki answered
+00568 play treasures for
+00569 Noboyuki gets 1 VP.
+00570 Noboyuki answered
+00571 Noboyuki buys and gains 1 Duchy.
+00572 Noboyuki draws 5 card.
+00573 SolDominion starts turn 13
+00574 SolDominion answered
+00575 SolDominion plays 1 Encampment.
+00576 SolDominion draws 1 Encampment, 1 Villa.
+00577 SolDominion gets +2 Actions.
+00578 SolDominion answered
+00579 SolDominion reveals 1 Gold.
+00580 SolDominion answered
+00581 SolDominion plays 1 Encampment.
+00582 SolDominion draws 1 Copper, 1 Encampment.
+00583 SolDominion gets +2 Actions.
+00584 SolDominion answered
+00585 SolDominion reveals 1 Gold.
+00586 SolDominion answered
+00587 SolDominion plays 1 Encampment.
+00588 SolDominion draws 1 Estate, 1 Encampment.
+00589 SolDominion gets +2 Actions.
+00590 SolDominion answered
+00591 SolDominion reveals 1 Gold.
+00592 SolDominion answered
+00593 SolDominion plays 1 Encampment.
+00594 SolDominion draws 1 Copper, 1 Plunder.
+00595 SolDominion gets +2 Actions.
+00596 SolDominion answered
+00597 SolDominion reveals 1 Gold.
+00598 SolDominion answered
+00599 SolDominion plays 1 Experiment.
+00600 SolDominion draws 1 Estate, 1 Cartographer.
+00601 SolDominion gets +1 Action.
+00602 SolDominion returns 1 Experiment to Player 0 supply.
+00603 SolDominion answered
+00604 SolDominion plays 1 Cartographer.
+00605 SolDominion draws 1 Villa.
+00606 SolDominion gets +1 Action.
+00607 SolDominion shuffles their deck.
+00608 SolDominion looks at 1 Copper, 1 Encampment, 1 Villa, 1 Weaver.
+00609 SolDominion answered
+00610 SolDominion discards 1 Copper, 1 Weaver.
+00611 SolDominion answered
+00612 SolDominion answered
+00613 SolDominion topdecks 1 Encampment, 1 Villa.
+00614 SolDominion answered
+00615 SolDominion plays 1 Villa.
+00616 SolDominion gets +2 Actions.
+00617 SolDominion gets +1 Buy.
+00618 SolDominion gets +$1.
+00619 SolDominion answered
+00620 SolDominion plays 1 Villa.
+00621 SolDominion gets +2 Actions.
+00622 SolDominion gets +1 Buy.
+00623 SolDominion gets +$1.
+00624 SolDominion answered
+00625 SolDominion answered
+00626 SolDominion answered
+00627 SolDominion answered
+00628 play treasures for
+00629 SolDominion answered
+00630 play treasures for
+00631 SolDominion gets 1 VP.
+00632 SolDominion answered
+00633 play treasures for
+00634 SolDominion answered
+00635 SolDominion buys and gains 1 Province.
+00636 SolDominion answered
+00637 SolDominion buys 1 Star Chart.
+00638 SolDominion answered
+00639 SolDominion draws 1 Bandit, 1 Cartographer, 1 Encampment, 1 Villa, 1 Experiment.
+00640 Noboyuki starts turn 14
+00641 Noboyuki answered
+00642 Noboyuki plays 1 Bureaucrat.
+00643 Noboyuki gains 1 Silver.
+00644 SolDominion reveals their hand: 1 Villa, 1 Experiment, 1 Cartographer, 1 Encampment, 1 Bandit.
+00645 Noboyuki answered
+00646 play treasures for
+00647 Noboyuki answered
+00648 Noboyuki buys and gains 1 Duchy.
+00649 Noboyuki draws 5 card.
+00650 SolDominion starts turn 14
+00651 SolDominion answered
+00652 SolDominion plays 1 Cartographer.
+00653 SolDominion draws 1 Copper.
+00654 SolDominion gets +1 Action.
+00655 SolDominion looks at 1 Copper, 1 Silver, 1 Gold, 1 Province.
+00656 SolDominion answered
+00657 SolDominion discards 1 Copper, 1 Silver, 1 Province.
+00658 SolDominion topdecks 1 Gold.
+00659 SolDominion answered
+00660 SolDominion plays 1 Encampment.
+00661 SolDominion draws 1 Copper, 1 Gold.
+00662 SolDominion gets +2 Actions.
+00663 SolDominion answered
+00664 SolDominion reveals 1 Gold.
+00665 SolDominion answered
+00666 SolDominion plays 1 Bandit.
+00667 SolDominion gains 1 Gold.
+00668 Noboyuki answered
+00669 Noboyuki answered
+00670 Noboyuki topdecks 1 card.
+00671 Noboyuki shuffles their deck.
+00672 Noboyuki reveals 1 Silver, 1 Estate.
+00673 Noboyuki trashes 1 Silver.
+00674 Noboyuki discards 1 Estate.
+00675 SolDominion answered
+00676 SolDominion plays 1 Experiment.
+00677 SolDominion draws 1 Province, 1 Experiment.
+00678 SolDominion gets +1 Action.
+00679 SolDominion returns 1 Experiment to Player 0 supply.
+00680 SolDominion answered
+00681 SolDominion plays 1 Experiment.
+00682 SolDominion draws 1 Gold, 1 Estate.
+00683 SolDominion gets +1 Action.
+00684 SolDominion returns 1 Experiment to Player 0 supply.
+00685 SolDominion answered
+00686 SolDominion plays 1 Villa.
+00687 SolDominion gets +2 Actions.
+00688 SolDominion gets +1 Buy.
+00689 SolDominion gets +$1.
+00690 SolDominion answered
+00691 SolDominion answered
+00692 SolDominion answered
+00693 SolDominion answered
+00694 play treasures for
+00695 SolDominion answered
+00696 SolDominion buys and gains 1 Province.
+00697 SolDominion answered
+00698 SolDominion answered
+00699 SolDominion answered
+00700 SolDominion topdecks 1 Cartographer.
+00701 SolDominion shuffles their deck.
+00702 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Cartographer.
+00703 Noboyuki starts turn 15
+00704 Noboyuki answered
+00705 play treasures for
+00706 play treasures for
+00707 Noboyuki gets 1 VP.
+00708 Noboyuki answered
+00709 Noboyuki buys and gains 1 Duchy.
+00710 Noboyuki draws 5 card.
+00711 SolDominion starts turn 15
+00712 SolDominion answered
+00713 SolDominion plays 1 Cartographer.
+00714 SolDominion draws 1 Weaver.
+00715 SolDominion gets +1 Action.
+00716 SolDominion looks at 2 Province, 1 Encampment, 1 Villa.
+00717 SolDominion answered
+00718 SolDominion discards 2 Province.
+00719 SolDominion answered
+00720 SolDominion topdecks 1 Encampment, 1 Villa.
+00721 SolDominion answered
+00722 SolDominion plays 1 Weaver.
+00723 SolDominion answered
+00724 SolDominion gains 1 Villa.
+00725 SolDominion puts 1 Villa into their hand.
+00726 SolDominion gets +1 Action.
+00727 SolDominion answered
+00728 SolDominion plays 1 Villa.
+00729 SolDominion gets +2 Actions.
+00730 SolDominion gets +1 Buy.
+00731 SolDominion gets +$1.
+00732 SolDominion answered
+00733 SolDominion answered
+00734 SolDominion answered
+00735 play treasures for
+00736 SolDominion answered
+00737 SolDominion buys 1 Deliver.
+00738 SolDominion gets +1 Buy.
+00739 SolDominion answered
+00740 SolDominion buys and gains 1 Experiment.
+00741 SolDominion answered
+00742 SolDominion gains 1 Experiment.
+00743 SolDominion sets 1 Experiment aside with Deliver.
+00744 SolDominion sets 1 Experiment aside with Deliver.
+00745 SolDominion answered
+00746 SolDominion draws 1 Gold, 1 Province, 2 Encampment, 1 Villa.
+00747 SolDominion puts 2 Experiment in hand (Deliver).
+00748 Noboyuki starts turn 16
+00749 Noboyuki answered
+00750 Noboyuki plays 1 Bandit.
+00751 Noboyuki gains 1 Gold.
+00752 SolDominion reveals 1 Encampment, 1 Villa.
+00753 SolDominion discards 1 Encampment, 1 Villa.
+00754 Noboyuki answered
+00755 play treasures for
+00756 Noboyuki answered
+00757 Noboyuki buys and gains 1 Experiment.
+00758 Noboyuki gains 1 Experiment.
+00759 Noboyuki draws 5 card.
+00760 SolDominion starts turn 16
+00761 SolDominion answered
+00762 SolDominion plays 1 Encampment.
+00763 SolDominion draws 1 Bandit, 1 Cartographer.
+00764 SolDominion gets +2 Actions.
+00765 SolDominion answered
+00766 SolDominion reveals 1 Gold.
+00767 SolDominion answered
+00768 SolDominion plays 1 Cartographer.
+00769 SolDominion draws 1 Encampment.
+00770 SolDominion gets +1 Action.
+00771 SolDominion looks at 1 Copper, 1 Gold, 1 Estate, 1 Encampment.
+00772 SolDominion answered
+00773 SolDominion discards 1 Copper, 1 Estate.
+00774 SolDominion answered
+00775 SolDominion topdecks 1 Gold, 1 Encampment.
+00776 SolDominion answered
+00777 SolDominion plays 1 Encampment.
+00778 SolDominion draws 1 Gold, 1 Encampment.
+00779 SolDominion gets +2 Actions.
+00780 SolDominion answered
+00781 SolDominion reveals 1 Gold.
+00782 SolDominion answered
+00783 SolDominion plays 1 Encampment.
+00784 SolDominion draws 1 Copper, 1 Province.
+00785 SolDominion gets +2 Actions.
+00786 SolDominion answered
+00787 SolDominion reveals 1 Gold.
+00788 SolDominion answered
+00789 SolDominion plays 1 Encampment.
+00790 SolDominion draws 1 Copper, 1 Gold.
+00791 SolDominion gets +2 Actions.
+00792 SolDominion answered
+00793 SolDominion reveals 1 Gold.
+00794 SolDominion answered
+00795 SolDominion plays 1 Experiment.
+00796 SolDominion draws 1 Estate, 1 Villa.
+00797 SolDominion gets +1 Action.
+00798 SolDominion returns 1 Experiment to Player 0 supply.
+00799 SolDominion answered
+00800 SolDominion plays 1 Experiment.
+00801 SolDominion draws 1 Copper, 1 Silver.
+00802 SolDominion gets +1 Action.
+00803 SolDominion returns 1 Experiment to Player 0 supply.
+00804 SolDominion answered
+00805 SolDominion plays 1 Bandit.
+00806 SolDominion gains 1 Gold.
+00807 Noboyuki reveals 1 Duchy, 1 Province.
+00808 Noboyuki discards 1 Duchy, 1 Province.
+00809 SolDominion answered
+00810 SolDominion plays 1 Villa.
+00811 SolDominion gets +2 Actions.
+00812 SolDominion gets +1 Buy.
+00813 SolDominion gets +$1.
+00814 SolDominion answered
+00815 SolDominion plays 1 Villa.
+00816 SolDominion gets +2 Actions.
+00817 SolDominion gets +1 Buy.
+00818 SolDominion gets +$1.
+00819 SolDominion answered
+00820 SolDominion answered
+00821 SolDominion answered
+00822 SolDominion answered
+00823 SolDominion answered
+00824 SolDominion answered
+00825 SolDominion answered
+00826 play treasures for
+00827 SolDominion answered
+00828 SolDominion answered
+00829 SolDominion buys and gains 2 Province.
+00830 SolDominion answered
+00831 SolDominion answered
+00832 SolDominion answered
+00833 SolDominion topdecks 1 Cartographer.
+00834 SolDominion shuffles their deck.
+00835 SolDominion draws 1 Copper, 1 Gold, 1 Estate, 1 Cartographer, 1 Plunder.
+00836 Noboyuki starts turn 17
+00837 Noboyuki answered
+00838 play treasures for
+00839 play treasures for
+00840 Noboyuki gets 1 VP.
+00841 play treasures for
+00842 Noboyuki gets 1 VP.
+00843 Noboyuki answered
+00844 Noboyuki buys and gains 1 Province.
+00845 Noboyuki draws 5 card.

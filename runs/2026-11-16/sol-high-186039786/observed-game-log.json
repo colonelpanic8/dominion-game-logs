@@ -1,0 +1,5307 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186039786",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "Noboyuki starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "Noboyuki starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "Noboyuki starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bureaucrat",
+    "player": 0,
+    "seq": 15,
+    "text": "Noboyuki buys and gains 1 Bureaucrat.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 17,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "Noboyuki starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Star Chart",
+    "player": 0,
+    "seq": 30,
+    "text": "Noboyuki buys 1 Star Chart.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 33,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 43,
+    "text": "SolDominion buys and gains 1 Weaver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 44,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "Noboyuki starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bureaucrat",
+    "player": 0,
+    "seq": 48,
+    "text": "Noboyuki plays 1 Bureaucrat.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 49,
+    "text": "Noboyuki gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 50,
+    "text": "SolDominion topdecks 1 Estate.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 53,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 54,
+    "text": "Noboyuki buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 58,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 59,
+    "text": "SolDominion draws 1 Estate, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 60,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 61,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 62,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 63,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "SolDominion gains 2 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 66,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "SolDominion draws 4 Copper, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "Noboyuki starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 75,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 76,
+    "text": "Noboyuki buys and gains 1 Bandit.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 78,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 79,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 84,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "SolDominion draws 1 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 86,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 87,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 92,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 95,
+    "text": "SolDominion buys and gains 1 Bandit.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 97,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "Noboyuki starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 100,
+    "text": "Noboyuki plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 101,
+    "text": "Noboyuki gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion reveals 1 Copper, 1 Encampment.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion discards 1 Copper, 1 Encampment.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 105,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 106,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 107,
+    "text": "Noboyuki buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 113,
+    "text": "SolDominion gains 1 Villa.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion puts 1 Villa into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 117,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 119,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 122,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 123,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 124,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 125,
+    "text": "SolDominion buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 126,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 127,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Bandit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "Noboyuki starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bureaucrat",
+    "player": 0,
+    "seq": 130,
+    "text": "Noboyuki plays 1 Bureaucrat.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 131,
+    "text": "Noboyuki gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 132,
+    "text": "SolDominion reveals their hand: 1 Silver, 3 Copper, 1 Bandit.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 136,
+    "text": "Noboyuki buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 139,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 140,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 144,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "Noboyuki reveals 1 Copper, 1 Estate.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "Noboyuki discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 156,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "Noboyuki starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 160,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 161,
+    "text": "Noboyuki buys and gains 1 Plunder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 163,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 165,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 170,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 173,
+    "text": "SolDominion buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 175,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 178,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "SolDominion puts 2 Experiment in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "Noboyuki starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 182,
+    "text": "Noboyuki plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "Noboyuki draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "Noboyuki gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 185,
+    "text": "Noboyuki sets 1 Encampment aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 187,
+    "text": "Noboyuki plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "Noboyuki draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 189,
+    "text": "Noboyuki gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Encampment",
+    "player": 0,
+    "seq": 190,
+    "text": "Noboyuki sets 1 Encampment aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 191,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 192,
+    "text": "Noboyuki plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 193,
+    "text": "Noboyuki gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion reveals 1 Bandit, 1 Encampment.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion discards 1 Bandit, 1 Encampment.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 197,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 199,
+    "text": "Noboyuki buys and gains 1 Plunder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 200,
+    "text": "Noboyuki begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "Noboyuki returns 2 Encampment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 202,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 203,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 204,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 205,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 206,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 209,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "SolDominion draws 1 Gold, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 212,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 214,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 215,
+    "text": "SolDominion draws 1 Estate, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 216,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 217,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 218,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 219,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 220,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 221,
+    "text": "SolDominion draws 1 Copper, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 222,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 223,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 224,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 225,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 226,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 228,
+    "text": "SolDominion gains 1 Encampment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 229,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 230,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 231,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 232,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 233,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 234,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 235,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 236,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 237,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 240,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 244,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion buys and gains 1 Encampment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion sets 1 Encampment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion buys and gains 1 Plunder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion sets 1 Plunder aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 257,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Bandit, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 258,
+    "text": "SolDominion puts 1 Encampment, 1 Plunder in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "Noboyuki starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bureaucrat",
+    "player": 0,
+    "seq": 261,
+    "text": "Noboyuki plays 1 Bureaucrat.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 262,
+    "text": "Noboyuki gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 263,
+    "text": "SolDominion topdecks 1 Estate.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 266,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 267,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 269,
+    "text": "Noboyuki buys and gains 1 Plunder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 270,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 273,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion draws 1 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion reveals 1 Plunder.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 279,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 280,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 281,
+    "text": "Noboyuki reveals 1 Silver, 1 Bandit.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 282,
+    "text": "Noboyuki trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 283,
+    "text": "Noboyuki discards 1 Bandit.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 284,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 285,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 286,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "SolDominion draws 2 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 290,
+    "text": "SolDominion reveals 1 Plunder.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 292,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 293,
+    "text": "SolDominion draws 1 Silver, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 294,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 295,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 296,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 297,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 298,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 299,
+    "text": "SolDominion draws 1 Villa, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 300,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 301,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 302,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 303,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 304,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 305,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 306,
+    "text": "SolDominion gains 1 Villa.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 307,
+    "text": "SolDominion puts 1 Villa into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 308,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 309,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 310,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 311,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 312,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 313,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 314,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 315,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 316,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 317,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 318,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 319,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 320,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 321,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 322,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 323,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 324,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 325,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 1,
+    "seq": 326,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 327,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 328,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 329,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 330,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 331,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 333,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 334,
+    "text": "SolDominion sets 1 Province aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 336,
+    "text": "SolDominion buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 337,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 338,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 340,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 343,
+    "text": "SolDominion puts 1 Province, 2 Experiment in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 344,
+    "text": "Noboyuki starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 345,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 346,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 347,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 348,
+    "text": "Noboyuki buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 350,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 352,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "SolDominion draws 1 Copper, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 355,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 356,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 357,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 358,
+    "text": "SolDominion draws 1 Copper, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 360,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 361,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 362,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 363,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "SolDominion draws 1 Silver, 1 Bandit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 366,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 367,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 369,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 371,
+    "text": "Noboyuki reveals 1 Copper, 1 Estate.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 372,
+    "text": "Noboyuki discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 377,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 379,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 381,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 382,
+    "text": "SolDominion buys and gains 1 Villa.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 383,
+    "text": "SolDominion puts 1 Villa into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 384,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 385,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 386,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 387,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 388,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 389,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 390,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 391,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 392,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 394,
+    "text": "SolDominion buys and gains 1 Cartographer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 395,
+    "text": "SolDominion sets 1 Cartographer aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 396,
+    "text": "SolDominion draws 1 Gold, 2 Encampment, 1 Villa, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 397,
+    "text": "SolDominion puts 1 Cartographer in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "Noboyuki starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 399,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 400,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 401,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 402,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 404,
+    "text": "Noboyuki buys and gains 1 Plunder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 407,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 408,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 412,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 413,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 414,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 415,
+    "text": "SolDominion looks at 1 Copper, 1 Silver, 1 Encampment, 1 Plunder.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 419,
+    "text": "SolDominion topdecks 1 Silver, 1 Encampment, 1 Plunder.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 422,
+    "text": "SolDominion draws 1 Encampment, 1 Plunder.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 423,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 425,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "SolDominion draws 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 429,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 430,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 431,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 432,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 433,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 435,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 436,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 438,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 439,
+    "text": "SolDominion draws 1 Encampment, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 440,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 441,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 442,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 444,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 445,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 446,
+    "text": "SolDominion draws 1 Estate, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 448,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 449,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 450,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 451,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "SolDominion draws 1 Copper, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 453,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 454,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 455,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 457,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 459,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 461,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 462,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 463,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 464,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 465,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 467,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 468,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 469,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 470,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 471,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 472,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 473,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 474,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 475,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 1,
+    "seq": 476,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 477,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 478,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 481,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 482,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 484,
+    "text": "SolDominion buys and gains 1 Cartographer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 485,
+    "text": "SolDominion sets 1 Cartographer aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 487,
+    "text": "SolDominion buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 488,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 489,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 490,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 491,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 492,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "SolDominion draws 3 Copper, 1 Gold, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "SolDominion puts 1 Cartographer, 2 Experiment in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 495,
+    "text": "Noboyuki starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 496,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 497,
+    "text": "Noboyuki plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 498,
+    "text": "Noboyuki gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "SolDominion reveals 1 Gold, 1 Experiment.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 500,
+    "text": "SolDominion trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 501,
+    "text": "SolDominion discards 1 Experiment.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 502,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 503,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 504,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 505,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 506,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 507,
+    "text": "Noboyuki buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 508,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 509,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 511,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 512,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 513,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "SolDominion looks at 1 Copper, 1 Silver, 1 Bandit, 1 Experiment.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 515,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 516,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 517,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 518,
+    "text": "SolDominion topdecks 1 Silver, 1 Bandit, 1 Experiment.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 520,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 521,
+    "text": "SolDominion draws 1 Bandit, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 522,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 523,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 525,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 526,
+    "text": "SolDominion draws 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 528,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 530,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 532,
+    "text": "SolDominion draws 1 Villa, 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 534,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 535,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 536,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 541,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 543,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 544,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 546,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 547,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 548,
+    "text": "Noboyuki reveals 2 Copper.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 549,
+    "text": "Noboyuki discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 551,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 552,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 554,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 556,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 558,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 559,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 560,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Gold, 1 Encampment, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "Noboyuki starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 562,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 563,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 565,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 567,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 568,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 569,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 571,
+    "text": "Noboyuki buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 572,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 573,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 574,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 575,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 576,
+    "text": "SolDominion draws 1 Encampment, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 577,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 578,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 579,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 580,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 581,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "SolDominion draws 1 Copper, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 583,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 585,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 586,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 587,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 588,
+    "text": "SolDominion draws 1 Estate, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 589,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 591,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 592,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 593,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 594,
+    "text": "SolDominion draws 1 Copper, 1 Plunder.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 595,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 596,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 597,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 598,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 599,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 600,
+    "text": "SolDominion draws 1 Estate, 1 Cartographer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 601,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 602,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 603,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 604,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 605,
+    "text": "SolDominion draws 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 606,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 607,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 608,
+    "text": "SolDominion looks at 1 Copper, 1 Encampment, 1 Villa, 1 Weaver.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 609,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "SolDominion discards 1 Copper, 1 Weaver.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 611,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 612,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 613,
+    "text": "SolDominion topdecks 1 Encampment, 1 Villa.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 614,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 615,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 616,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 617,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 618,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 619,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 620,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 621,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 622,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 623,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 624,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 625,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 626,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 627,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 628,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 629,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plunder",
+    "player": 1,
+    "seq": 630,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 631,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 1,
+    "seq": 632,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 633,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 634,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 635,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 636,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Star Chart",
+    "player": 1,
+    "seq": 637,
+    "text": "SolDominion buys 1 Star Chart.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 638,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 639,
+    "text": "SolDominion draws 1 Bandit, 1 Cartographer, 1 Encampment, 1 Villa, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 640,
+    "text": "Noboyuki starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 641,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bureaucrat",
+    "player": 0,
+    "seq": 642,
+    "text": "Noboyuki plays 1 Bureaucrat.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 643,
+    "text": "Noboyuki gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 644,
+    "text": "SolDominion reveals their hand: 1 Villa, 1 Experiment, 1 Cartographer, 1 Encampment, 1 Bandit.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 646,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 648,
+    "text": "Noboyuki buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 650,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 651,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 652,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 653,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 654,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 655,
+    "text": "SolDominion looks at 1 Copper, 1 Silver, 1 Gold, 1 Province.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 656,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 657,
+    "text": "SolDominion discards 1 Copper, 1 Silver, 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 658,
+    "text": "SolDominion topdecks 1 Gold.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 659,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 660,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "SolDominion draws 1 Copper, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 662,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 663,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 664,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 666,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 667,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 668,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 669,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 670,
+    "text": "Noboyuki topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 671,
+    "text": "Noboyuki shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 672,
+    "text": "Noboyuki reveals 1 Silver, 1 Estate.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 673,
+    "text": "Noboyuki trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 674,
+    "text": "Noboyuki discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 675,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 676,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 677,
+    "text": "SolDominion draws 1 Province, 1 Experiment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 678,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 679,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 680,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 681,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 682,
+    "text": "SolDominion draws 1 Gold, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 683,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 684,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 685,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 686,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 687,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 688,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 689,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 690,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 691,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 692,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 693,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 694,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 695,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 696,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 697,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 698,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 699,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 700,
+    "text": "SolDominion topdecks 1 Cartographer.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 701,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 702,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Cartographer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "Noboyuki starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 704,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 705,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 706,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 707,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 708,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 709,
+    "text": "Noboyuki buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 710,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 711,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 712,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 713,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 714,
+    "text": "SolDominion draws 1 Weaver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 715,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 716,
+    "text": "SolDominion looks at 2 Province, 1 Encampment, 1 Villa.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 717,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 718,
+    "text": "SolDominion discards 2 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 719,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 720,
+    "text": "SolDominion topdecks 1 Encampment, 1 Villa.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 721,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Weaver",
+    "player": 1,
+    "seq": 722,
+    "text": "SolDominion plays 1 Weaver.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 723,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 724,
+    "text": "SolDominion gains 1 Villa.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 725,
+    "text": "SolDominion puts 1 Villa into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 726,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 727,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 728,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 729,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 730,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 731,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 732,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 733,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 734,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 735,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 736,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Deliver",
+    "player": 1,
+    "seq": 737,
+    "text": "SolDominion buys 1 Deliver.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 738,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 739,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 740,
+    "text": "SolDominion buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 741,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 742,
+    "text": "SolDominion gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 743,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 744,
+    "text": "SolDominion sets 1 Experiment aside with Deliver.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 745,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 746,
+    "text": "SolDominion draws 1 Gold, 1 Province, 2 Encampment, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 747,
+    "text": "SolDominion puts 2 Experiment in hand (Deliver).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 748,
+    "text": "Noboyuki starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 749,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 750,
+    "text": "Noboyuki plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 751,
+    "text": "Noboyuki gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 752,
+    "text": "SolDominion reveals 1 Encampment, 1 Villa.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 753,
+    "text": "SolDominion discards 1 Encampment, 1 Villa.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 754,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 755,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 756,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 0,
+    "seq": 757,
+    "text": "Noboyuki buys and gains 1 Experiment.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Experiment",
+    "player": 0,
+    "seq": 758,
+    "text": "Noboyuki gains 1 Experiment.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 759,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 760,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 761,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 762,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 763,
+    "text": "SolDominion draws 1 Bandit, 1 Cartographer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 764,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 765,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 766,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 767,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 768,
+    "text": "SolDominion plays 1 Cartographer.",
+    "type": "official-play"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 769,
+    "text": "SolDominion draws 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 770,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 771,
+    "text": "SolDominion looks at 1 Copper, 1 Gold, 1 Estate, 1 Encampment.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 772,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 773,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 774,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 775,
+    "text": "SolDominion topdecks 1 Gold, 1 Encampment.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 776,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 777,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 778,
+    "text": "SolDominion draws 1 Gold, 1 Encampment.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 779,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 780,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 781,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 782,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 783,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 784,
+    "text": "SolDominion draws 1 Copper, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 785,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 786,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 787,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 788,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Encampment",
+    "player": 1,
+    "seq": 789,
+    "text": "SolDominion plays 1 Encampment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 790,
+    "text": "SolDominion draws 1 Copper, 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 791,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 792,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 793,
+    "text": "SolDominion reveals 1 Gold.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 1,
+    "seq": 794,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 795,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 796,
+    "text": "SolDominion draws 1 Estate, 1 Villa.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 797,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 798,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 799,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 800,
+    "text": "SolDominion plays 1 Experiment.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 801,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 802,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Experiment",
+    "player": 1,
+    "seq": 803,
+    "text": "SolDominion returns 1 Experiment to Player 0 supply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 804,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 1,
+    "seq": 805,
+    "text": "SolDominion plays 1 Bandit.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 806,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 807,
+    "text": "Noboyuki reveals 1 Duchy, 1 Province.",
+    "type": "official-reveal"
+  },
+  {
+    "player": 0,
+    "seq": 808,
+    "text": "Noboyuki discards 1 Duchy, 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 809,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 810,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 811,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 812,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 813,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 814,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Villa",
+    "player": 1,
+    "seq": 815,
+    "text": "SolDominion plays 1 Villa.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 816,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 817,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 818,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 819,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 820,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 821,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 822,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 823,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 824,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 825,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 826,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 827,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 828,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 829,
+    "text": "SolDominion buys and gains 2 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 830,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 831,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 832,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cartographer",
+    "player": 1,
+    "seq": 833,
+    "text": "SolDominion topdecks 1 Cartographer.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 834,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 835,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Estate, 1 Cartographer, 1 Plunder.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 836,
+    "text": "Noboyuki starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 837,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 838,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 839,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 840,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "card": "Plunder",
+    "player": 0,
+    "seq": 841,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 842,
+    "text": "Noboyuki gets 1 VP.",
+    "type": "official-player-gets-vp"
+  },
+  {
+    "player": 0,
+    "seq": 843,
+    "text": "Noboyuki answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 844,
+    "text": "Noboyuki buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 845,
+    "text": "Noboyuki draws 5 card.",
+    "type": "official-draw"
+  }
+]
