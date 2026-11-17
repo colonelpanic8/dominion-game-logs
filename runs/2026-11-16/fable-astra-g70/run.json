@@ -1,0 +1,306 @@
+{
+  "run": "2026-11-16/fable-astra-g70",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g70",
+  "official_game_id": null,
+  "series_game_number": 2,
+  "captured": "2026-11-17T08:04:37.761071+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Fable High vs Astra High",
+    "effort": "high",
+    "opponent": "agent",
+    "players": 2,
+    "rated": false,
+    "configuration": {
+      "players": 2,
+      "names": [
+        "Astra High",
+        "Fable High"
+      ],
+      "agents": [
+        "Astra High",
+        "Fable High"
+      ],
+      "seed": 4835158610943872013,
+      "watchable": true
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "?",
+      "note": "Not independently recorded. Available exact native prompt and CLI executable metadata remain in raw journals."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794899318491-6a37739de200638e",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6-astra",
+        "name": "Astra High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794899318492,
+      "last_event_ms": 1794899672281,
+      "files": [
+        {
+          "file": "sessions/1794899318491-6a37739de200638e/interactions.jsonl.gz",
+          "source_sha256": "19b1af8a5f3ccdf46c413f31fa67b4b6e6819e8b453f85d3e87b761d3cbc74a4",
+          "source_bytes": 235615
+        },
+        {
+          "file": "sessions/1794899318491-6a37739de200638e/transcript.jsonl.gz",
+          "source_sha256": "5e1fb688aafa042e56d735cd48b35262def24c375e3374e2156d329fb05aa48e",
+          "source_bytes": 6700
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {},
+      "cli_results": [],
+      "actual_model_note": "Empty model counts for direct OpenAI: model is recorded in agent specification and direct_request events."
+    },
+    {
+      "id": "1794899318491-7ce3286daacbbf24",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794899318492,
+      "last_event_ms": 1794899328624,
+      "files": [
+        {
+          "file": "sessions/1794899318491-7ce3286daacbbf24/interactions.jsonl.gz",
+          "source_sha256": "8320ff0e30c31e6c55dead1d8a4df13448229a0f01d2a6f2cde0a50664453462",
+          "source_bytes": 83161
+        },
+        {
+          "file": "sessions/1794899318491-7ce3286daacbbf24/network.jsonl.gz",
+          "source_sha256": "bdb735de03b83765495a1347f0e6d24eb8aa45a61f1e500adc6cd4fae1b188d0",
+          "source_bytes": 110
+        },
+        {
+          "file": "sessions/1794899318491-7ce3286daacbbf24/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794899318491-7ce3286daacbbf24/response-000001.stdout.jsonl.gz",
+          "source_sha256": "d098585b2470aeefc8cdb3699eab6ae3c4d3e2aae8fb02a36084840583782c41",
+          "source_bytes": 50514
+        },
+        {
+          "file": "sessions/1794899318491-7ce3286daacbbf24/transcript.jsonl.gz",
+          "source_sha256": "d64a056f4de7bf64f0dd03cb682c3a9440ac669c6639e9bf7408840b22d4bb55",
+          "source_bytes": 13989
+        }
+      ],
+      "has_recorded_result": false,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 2,
+        "claude-opus-5": 1,
+        "<synthetic>": 1
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": true,
+          "stop_reason": "refusal"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    },
+    {
+      "id": "1794899333628-414b49b35a1cb4bd",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794899333628,
+      "last_event_ms": 1794899343340,
+      "files": [
+        {
+          "file": "sessions/1794899333628-414b49b35a1cb4bd/interactions.jsonl.gz",
+          "source_sha256": "05b3dc358e6f8a395ea73e2477710e2d4557389ddebc352f39ac14ea704ac7f6",
+          "source_bytes": 81692
+        },
+        {
+          "file": "sessions/1794899333628-414b49b35a1cb4bd/network.jsonl.gz",
+          "source_sha256": "bdb735de03b83765495a1347f0e6d24eb8aa45a61f1e500adc6cd4fae1b188d0",
+          "source_bytes": 110
+        },
+        {
+          "file": "sessions/1794899333628-414b49b35a1cb4bd/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794899333628-414b49b35a1cb4bd/response-000001.stdout.jsonl.gz",
+          "source_sha256": "4f3e15ddd56d29ccc6c9c25a8d38471f4c2fe7a2b9059f76eb93643f433a04bd",
+          "source_bytes": 49310
+        },
+        {
+          "file": "sessions/1794899333628-414b49b35a1cb4bd/transcript.jsonl.gz",
+          "source_sha256": "6598628c2bb22f826243a48703973bec0c82403d6815ae151dbac1f7149938b5",
+          "source_bytes": 13604
+        }
+      ],
+      "has_recorded_result": false,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 2,
+        "claude-opus-5": 1,
+        "<synthetic>": 1
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": true,
+          "stop_reason": "refusal"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    },
+    {
+      "id": "1794899353346-07e5aebc024c465f",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794899353346,
+      "last_event_ms": 1794899362818,
+      "files": [
+        {
+          "file": "sessions/1794899353346-07e5aebc024c465f/interactions.jsonl.gz",
+          "source_sha256": "544f2a92bef5c717eecdd23b30acd09d2f2dd2ac25c3b593dda4d9f5ba03a074",
+          "source_bytes": 81073
+        },
+        {
+          "file": "sessions/1794899353346-07e5aebc024c465f/network.jsonl.gz",
+          "source_sha256": "bdb735de03b83765495a1347f0e6d24eb8aa45a61f1e500adc6cd4fae1b188d0",
+          "source_bytes": 110
+        },
+        {
+          "file": "sessions/1794899353346-07e5aebc024c465f/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794899353346-07e5aebc024c465f/response-000001.stdout.jsonl.gz",
+          "source_sha256": "e1f7ab8d9581391f222cd90c98a326f1a3d0e163bc15078cb4d0b54189123123",
+          "source_bytes": 48795
+        },
+        {
+          "file": "sessions/1794899353346-07e5aebc024c465f/transcript.jsonl.gz",
+          "source_sha256": "1a58027ac4b7725b159543e236856496e7cda9b963e335ca7e7d8fd06557a777",
+          "source_bytes": 13487
+        }
+      ],
+      "has_recorded_result": false,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 2,
+        "claude-opus-5": 1,
+        "<synthetic>": 1
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": true,
+          "stop_reason": "refusal"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 10,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "g70",
+        "result": {
+          "reason": "resigned",
+          "players": [
+            {
+              "index": 0,
+              "name": "Astra High",
+              "vp": 2,
+              "rank": 1,
+              "turns": 1,
+              "points": 2
+            },
+            {
+              "index": 1,
+              "name": "Fable High",
+              "vp": 3,
+              "rank": 2,
+              "turns": 1,
+              "resigned": true,
+              "points": 3
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-16-fable-astra-investigation-pause/README.md"
+}

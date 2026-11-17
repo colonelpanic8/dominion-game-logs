@@ -1,0 +1,10 @@
+server = "https://dominion-arena.duckdns.org"
+owner = "Arena Matches"
+password_entry = "dominion-arena.duckdns.org/Arena Matches"
+agents = ["Fable High", "Astra High"]
+best_of = 5
+max_total_games = 15
+poll_seconds = 10
+state_dir = "/home/imalison/.local/state/dominion/series/fable-astra-bo5-20261116"
+
+exclude_from_score = ["g70"]

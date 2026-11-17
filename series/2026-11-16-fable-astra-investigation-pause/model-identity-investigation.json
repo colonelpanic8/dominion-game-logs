@@ -1,0 +1,6 @@
+{
+  "g69": "Requested Fable High, emitted assistant messages and final usage show claude-opus-5 fallback",
+  "g71": "Requested Fable High, emitted assistant messages show claude-opus-5 fallback; allow active game to finish",
+  "adjudication": "No further score changes made; original g70 replay exclusion remains. All outcomes retained. Hold remains until requested Fable model can be validated.",
+  "thread": "mcp:launch:c33e2fbb012d0093b37e92a41b48a8669300815f9ac76abf20d6a0e2b1f5640d"
+}

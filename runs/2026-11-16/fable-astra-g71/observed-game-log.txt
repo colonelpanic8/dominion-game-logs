@@ -1,0 +1,608 @@
+00000 Fable High starts turn 1
+00001 Fable High plays Copper
+00002 Fable High plays Copper
+00003 Fable High plays Copper
+00004 Fable High plays Copper
+00005 Fable High buys Silk Merchant
+00006 Fable High gains Silk Merchant
+00007 Fable High's Silk Merchant resolves
+00008 Fable High takes a Coffers
+00009 Fable High takes 1 Villager
+00010 Fable High draws 5 cards
+00011 Astra High starts turn 1
+00012 Astra High plays Copper
+00013 Astra High plays Copper
+00014 Astra High plays Copper
+00015 Astra High buys Hermit
+00016 Astra High gains Hermit
+00017 Astra High draws 5 cards
+00018 Fable High starts turn 2
+00019 Fable High plays Copper
+00020 Fable High plays Copper
+00021 Fable High plays Copper
+00022 Fable High buys Anvil
+00023 Fable High gains Anvil
+00024 Fable High shuffles
+00025 Fable High draws 5 cards
+00026 Astra High starts turn 2
+00027 Astra High plays Copper
+00028 Astra High plays Copper
+00029 Astra High plays Copper
+00030 Astra High plays Copper
+00031 Astra High buys Silk Merchant
+00032 Astra High gains Silk Merchant
+00033 Astra High's Silk Merchant resolves
+00034 Astra High takes a Coffers
+00035 Astra High takes 1 Villager
+00036 Astra High shuffles
+00037 Astra High draws 5 cards
+00038 Fable High starts turn 3
+00039 Fable High plays Silk Merchant
+00040 Fable High draws 2 cards
+00041 Fable High plays Copper
+00042 Fable High plays Copper
+00043 Fable High plays Copper
+00044 Fable High plays Copper
+00045 Fable High buys Silk Merchant
+00046 Fable High gains Silk Merchant
+00047 Fable High's Silk Merchant resolves
+00048 Fable High takes a Coffers
+00049 Fable High takes 1 Villager
+00050 Fable High draws 5 cards
+00051 Astra High starts turn 3
+00052 Astra High plays Hermit
+00053 Astra High gains Anvil
+00054 Astra High plays Copper
+00055 Astra High plays Copper
+00056 Astra High plays Copper
+00057 Astra High plays Copper
+00058 Astra High buys Silk Merchant
+00059 Astra High gains Silk Merchant
+00060 Astra High's Silk Merchant resolves
+00061 Astra High takes a Coffers
+00062 Astra High takes 1 Villager
+00063 Astra High draws 5 cards
+00064 Fable High starts turn 4
+00065 Fable High plays Anvil
+00066 Fable High discards Copper
+00067 Fable High gains Silk Merchant
+00068 Fable High's Silk Merchant resolves
+00069 Fable High takes a Coffers
+00070 Fable High takes 1 Villager
+00071 Fable High plays Copper
+00072 Fable High plays Copper
+00073 Fable High spends a Coffers
+00074 Fable High spends a Coffers
+00075 Fable High buys Guildmaster
+00076 Fable High gains Guildmaster
+00077 Fable High shuffles
+00078 Fable High draws 5 cards
+00079 Astra High starts turn 4
+00080 Astra High plays Copper
+00081 Astra High plays Copper
+00082 Astra High spends a Coffers
+00083 Astra High spends a Coffers
+00084 Astra High buys Silk Merchant
+00085 Astra High gains Silk Merchant
+00086 Astra High's Silk Merchant resolves
+00087 Astra High takes a Coffers
+00088 Astra High takes 1 Villager
+00089 Astra High shuffles
+00090 Astra High draws 5 cards
+00091 Fable High starts turn 5
+00092 Fable High plays Silk Merchant
+00093 Fable High draws 2 cards
+00094 Fable High spends 1 Villager
+00095 Fable High plays Silk Merchant
+00096 Fable High draws 2 cards
+00097 Fable High spends 1 Villager
+00098 Fable High plays Guildmaster
+00099 Fable High plays Copper
+00100 Fable High plays Copper
+00101 Fable High plays Copper
+00102 Fable High plays Copper
+00103 Fable High plays Copper
+00104 Fable High buys Silk Merchant
+00105 Fable High gains Silk Merchant
+00106 Fable High's Guildmaster resolves
+00107 Fable High takes 1 Favor
+00108 Fable High's Silk Merchant resolves
+00109 Fable High takes a Coffers
+00110 Fable High takes 1 Villager
+00111 Fable High's Architects' Guild resolves
+00112 Fable High spends 2 Favors
+00113 Fable High gains Merchant Camp
+00114 Fable High's Guildmaster resolves
+00115 Fable High takes 1 Favor
+00116 Fable High spends a Coffers
+00117 Fable High buys Guildmaster
+00118 Fable High gains Guildmaster
+00119 Fable High's Guildmaster resolves
+00120 Fable High takes 1 Favor
+00121 Fable High's Architects' Guild resolves
+00122 Fable High spends 2 Favors
+00123 Fable High gains Silk Merchant
+00124 Fable High's Guildmaster resolves
+00125 Fable High takes 1 Favor
+00126 Fable High's Silk Merchant resolves
+00127 Fable High takes a Coffers
+00128 Fable High takes 1 Villager
+00129 Fable High draws 5 cards
+00130 Astra High starts turn 5
+00131 Astra High plays Silk Merchant
+00132 Astra High draws 2 cards
+00133 Astra High spends 1 Villager
+00134 Astra High plays Silk Merchant
+00135 Astra High draws 2 cards
+00136 Astra High spends 1 Villager
+00137 Astra High plays Silk Merchant
+00138 Astra High draws 2 cards
+00139 Astra High plays Anvil
+00140 Astra High discards Copper
+00141 Astra High gains Silk Merchant
+00142 Astra High's Silk Merchant resolves
+00143 Astra High takes a Coffers
+00144 Astra High takes 1 Villager
+00145 Astra High plays Copper
+00146 Astra High plays Copper
+00147 Astra High plays Copper
+00148 Astra High buys Silk Merchant
+00149 Astra High gains Silk Merchant
+00150 Astra High's Silk Merchant resolves
+00151 Astra High takes a Coffers
+00152 Astra High takes 1 Villager
+00153 Astra High spends a Coffers
+00154 Astra High spends a Coffers
+00155 Astra High spends a Coffers
+00156 Astra High buys Merchant Camp
+00157 Astra High gains Merchant Camp
+00158 Astra High shuffles
+00159 Astra High draws 5 cards
+00160 Fable High starts turn 6
+00161 Fable High plays Silk Merchant
+00162 Fable High shuffles
+00163 Fable High draws 2 cards
+00164 Fable High spends 1 Villager
+00165 Fable High plays Silk Merchant
+00166 Fable High draws 2 cards
+00167 Fable High spends 1 Villager
+00168 Fable High plays Guildmaster
+00169 Fable High plays Anvil
+00170 Fable High discards Copper
+00171 Fable High gains Merchant Camp
+00172 Fable High's Guildmaster resolves
+00173 Fable High takes 1 Favor
+00174 Fable High plays Copper
+00175 Fable High plays Copper
+00176 Fable High buys Gold
+00177 Fable High gains Gold
+00178 Fable High's Guildmaster resolves
+00179 Fable High takes 1 Favor
+00180 Fable High's Architects' Guild resolves
+00181 Fable High spends 2 Favors
+00182 Fable High gains Guildmaster
+00183 Fable High's Guildmaster resolves
+00184 Fable High takes 1 Favor
+00185 Fable High's Architects' Guild resolves
+00186 Fable High spends 2 Favors
+00187 Fable High gains Changeling
+00188 Fable High's Guildmaster resolves
+00189 Fable High takes 1 Favor
+00190 Fable High draws 5 cards
+00191 Astra High starts turn 6
+00192 Astra High plays Silk Merchant
+00193 Astra High draws 2 cards
+00194 Astra High spends 1 Villager
+00195 Astra High plays Merchant Camp
+00196 Astra High plays Silk Merchant
+00197 Astra High draws 2 cards
+00198 Astra High plays Hermit
+00199 Astra High gains Merchant Camp
+00200 Astra High plays Anvil
+00201 Astra High discards Copper
+00202 Astra High gains Merchant Camp
+00203 Astra High plays Copper
+00204 Astra High plays Copper
+00205 Astra High plays Copper
+00206 Astra High buys Guildmaster
+00207 Astra High gains Guildmaster
+00208 Astra High's Merchant Camp resolves
+00209 Astra High puts Merchant Camp onto their deck
+00210 Astra High draws 5 cards
+00211 Fable High starts turn 7
+00212 Fable High plays Silk Merchant
+00213 Fable High draws 2 cards
+00214 Fable High spends 1 Villager
+00215 Fable High plays Guildmaster
+00216 Fable High plays Copper
+00217 Fable High plays Copper
+00218 Fable High plays Copper
+00219 Fable High plays Copper
+00220 Fable High buys Gold
+00221 Fable High gains Gold
+00222 Fable High's Guildmaster resolves
+00223 Fable High takes 1 Favor
+00224 Fable High's Architects' Guild resolves
+00225 Fable High spends 2 Favors
+00226 Fable High gains Changeling
+00227 Fable High's Guildmaster resolves
+00228 Fable High takes 1 Favor
+00229 Fable High shuffles
+00230 Fable High draws 5 cards
+00231 Astra High starts turn 7
+00232 Astra High plays Merchant Camp
+00233 Astra High plays Silk Merchant
+00234 Astra High draws 2 cards
+00235 Astra High plays Silk Merchant
+00236 Astra High draws 2 cards
+00237 Astra High spends 1 Villager
+00238 Astra High plays Silk Merchant
+00239 Astra High shuffles
+00240 Astra High draws 2 cards
+00241 Astra High plays Copper
+00242 Astra High plays Copper
+00243 Astra High plays Copper
+00244 Astra High plays Copper
+00245 Astra High buys Guildmaster
+00246 Astra High gains Guildmaster
+00247 Astra High's Merchant Camp resolves
+00248 Astra High puts Merchant Camp onto their deck
+00249 Astra High draws 5 cards
+00250 Fable High starts turn 8
+00251 Fable High plays Merchant Camp
+00252 Fable High plays Silk Merchant
+00253 Fable High draws 2 cards
+00254 Fable High plays Guildmaster
+00255 Fable High plays Gold
+00256 Fable High spends a Coffers
+00257 Fable High buys Province
+00258 Fable High gains Province
+00259 Fable High's Guildmaster resolves
+00260 Fable High takes 1 Favor
+00261 Fable High's Architects' Guild resolves
+00262 Fable High spends 2 Favors
+00263 Fable High gains Gold
+00264 Fable High's Guildmaster resolves
+00265 Fable High takes 1 Favor
+00266 Fable High's Merchant Camp resolves
+00267 Fable High puts Merchant Camp onto their deck
+00268 Fable High draws 5 cards
+00269 Astra High starts turn 8
+00270 Astra High plays Merchant Camp
+00271 Astra High plays Silk Merchant
+00272 Astra High draws 2 cards
+00273 Astra High plays Merchant Camp
+00274 Astra High plays Guildmaster
+00275 Astra High plays Anvil
+00276 Astra High discards Copper
+00277 Astra High gains Remodel
+00278 Astra High's Guildmaster resolves
+00279 Astra High takes 1 Favor
+00280 Astra High plays Copper
+00281 Astra High buys Gold
+00282 Astra High gains Gold
+00283 Astra High's Guildmaster resolves
+00284 Astra High takes 1 Favor
+00285 Astra High's Architects' Guild resolves
+00286 Astra High spends 2 Favors
+00287 Astra High gains Guildmaster
+00288 Astra High's Guildmaster resolves
+00289 Astra High takes 1 Favor
+00290 Astra High's Architects' Guild resolves
+00291 Astra High spends 2 Favors
+00292 Astra High gains Merchant Camp
+00293 Astra High's Guildmaster resolves
+00294 Astra High takes 1 Favor
+00295 Astra High's Merchant Camp resolves
+00296 Astra High puts Merchant Camp onto their deck
+00297 Astra High draws 5 cards
+00298 Fable High starts turn 9
+00299 Fable High plays Merchant Camp
+00300 Fable High plays Anvil
+00301 Fable High discards Copper
+00302 Fable High gains Changeling
+00303 Fable High plays Copper
+00304 Fable High plays Copper
+00305 Fable High spends a Coffers
+00306 Fable High buys Guildmaster
+00307 Fable High gains Guildmaster
+00308 Fable High's Merchant Camp resolves
+00309 Fable High puts Merchant Camp onto their deck
+00310 Fable High draws 5 cards
+00311 Astra High starts turn 9
+00312 Astra High plays Merchant Camp
+00313 Astra High plays Merchant Camp
+00314 Astra High plays Hermit
+00315 Astra High trashes Estate
+00316 Astra High gains Hermit
+00317 Astra High plays Silk Merchant
+00318 Astra High shuffles
+00319 Astra High draws 2 cards
+00320 Astra High plays Hermit
+00321 Astra High gains Hermit
+00322 Astra High's Hermit resolves
+00323 Astra High exchanges Hermit for Madman
+00324 Astra High's Hermit resolves
+00325 Astra High exchanges Hermit for Madman
+00326 Astra High's Merchant Camp resolves
+00327 Astra High puts Merchant Camp onto their deck
+00328 Astra High draws 5 cards
+00329 Fable High starts turn 10
+00330 Fable High plays Merchant Camp
+00331 Fable High plays Merchant Camp
+00332 Fable High plays Copper
+00333 Fable High buys Silver
+00334 Fable High gains Silver
+00335 Fable High's Merchant Camp resolves
+00336 Fable High puts Merchant Camp onto their deck
+00337 Fable High draws 5 cards
+00338 Astra High starts turn 10
+00339 Astra High plays Merchant Camp
+00340 Astra High plays Merchant Camp
+00341 Astra High plays Silk Merchant
+00342 Astra High draws 2 cards
+00343 Astra High plays Merchant Camp
+00344 Astra High plays Silk Merchant
+00345 Astra High draws 2 cards
+00346 Astra High plays Silk Merchant
+00347 Astra High draws 2 cards
+00348 Astra High plays Guildmaster
+00349 Astra High spends 1 Villager
+00350 Astra High plays Guildmaster
+00351 Astra High plays Anvil
+00352 Astra High buys Province
+00353 Astra High gains Province
+00354 Astra High's Guildmaster resolves
+00355 Astra High takes 1 Favor
+00356 Astra High's Guildmaster resolves
+00357 Astra High takes 1 Favor
+00358 Astra High's Architects' Guild resolves
+00359 Astra High spends 2 Favors
+00360 Astra High gains Gold
+00361 Astra High's Guildmaster resolves
+00362 Astra High takes 1 Favor
+00363 Astra High's Guildmaster resolves
+00364 Astra High takes 1 Favor
+00365 Astra High's Architects' Guild resolves
+00366 Astra High spends 2 Favors
+00367 Astra High gains Silver
+00368 Astra High's Guildmaster resolves
+00369 Astra High takes 1 Favor
+00370 Astra High's Guildmaster resolves
+00371 Astra High takes 1 Favor
+00372 Astra High's Merchant Camp resolves
+00373 Astra High puts Merchant Camp onto their deck
+00374 Astra High draws 5 cards
+00375 Fable High starts turn 11
+00376 Fable High plays Merchant Camp
+00377 Fable High plays Silk Merchant
+00378 Fable High draws 2 cards
+00379 Fable High plays Guildmaster
+00380 Fable High plays Copper
+00381 Fable High plays Copper
+00382 Fable High buys Gold
+00383 Fable High gains Gold
+00384 Fable High's Guildmaster resolves
+00385 Fable High takes 1 Favor
+00386 Fable High's Architects' Guild resolves
+00387 Fable High spends 2 Favors
+00388 Fable High gains Guildmaster
+00389 Fable High's Guildmaster resolves
+00390 Fable High takes 1 Favor
+00391 Fable High shuffles
+00392 Fable High draws 5 cards
+00393 Astra High starts turn 11
+00394 Astra High plays Merchant Camp
+00395 Astra High plays Silk Merchant
+00396 Astra High draws 2 cards
+00397 Astra High plays Guildmaster
+00398 Astra High plays Copper
+00399 Astra High plays Gold
+00400 Astra High plays Copper
+00401 Astra High plays Copper
+00402 Astra High buys Province
+00403 Astra High gains Province
+00404 Astra High's Guildmaster resolves
+00405 Astra High takes 1 Favor
+00406 Astra High's Architects' Guild resolves
+00407 Astra High spends 2 Favors
+00408 Astra High gains Gold
+00409 Astra High's Guildmaster resolves
+00410 Astra High takes 1 Favor
+00411 Astra High shuffles
+00412 Astra High draws 5 cards
+00413 Fable High starts turn 12
+00414 Fable High plays Gold
+00415 Fable High plays Copper
+00416 Fable High buys Remodel
+00417 Fable High gains Remodel
+00418 Fable High plays Changeling
+00419 Fable High trashes Changeling
+00420 Fable High gains Gold
+00421 Fable High plays Changeling
+00422 Fable High trashes Changeling
+00423 Fable High gains Gold
+00424 Fable High draws 5 cards
+00425 Astra High starts turn 12
+00426 Astra High plays Merchant Camp
+00427 Astra High plays Remodel
+00428 Astra High trashes Estate
+00429 Astra High gains Silver
+00430 Astra High plays Copper
+00431 Astra High plays Copper
+00432 Astra High buys Changeling
+00433 Astra High gains Changeling
+00434 Astra High's Merchant Camp resolves
+00435 Astra High puts Merchant Camp onto their deck
+00436 Astra High draws 5 cards
+00437 Fable High starts turn 13
+00438 Fable High plays Guildmaster
+00439 Fable High plays Gold
+00440 Fable High plays Gold
+00441 Fable High buys Province
+00442 Fable High gains Province
+00443 Fable High's Guildmaster resolves
+00444 Fable High takes 1 Favor
+00445 Fable High's Architects' Guild resolves
+00446 Fable High spends 2 Favors
+00447 Fable High gains Remodel
+00448 Fable High's Guildmaster resolves
+00449 Fable High takes 1 Favor
+00450 Fable High draws 5 cards
+00451 Astra High starts turn 13
+00452 Astra High plays Madman
+00453 Astra High returns Madman from play to the Madman pile
+00454 Astra High draws 4 cards
+00455 Astra High plays Silk Merchant
+00456 Astra High draws 2 cards
+00457 Astra High plays Merchant Camp
+00458 Astra High plays Merchant Camp
+00459 Astra High plays Guildmaster
+00460 Astra High plays Guildmaster
+00461 Astra High plays Hermit
+00462 Astra High gains Estate
+00463 Astra High's Guildmaster resolves
+00464 Astra High takes 1 Favor
+00465 Astra High's Guildmaster resolves
+00466 Astra High takes 1 Favor
+00467 Astra High plays Gold
+00468 Astra High plays Copper
+00469 Astra High plays Copper
+00470 Astra High plays Copper
+00471 Astra High buys Province
+00472 Astra High gains Province
+00473 Astra High's Guildmaster resolves
+00474 Astra High takes 1 Favor
+00475 Astra High's Guildmaster resolves
+00476 Astra High takes 1 Favor
+00477 Astra High's Architects' Guild resolves
+00478 Astra High spends 2 Favors
+00479 Astra High gains Gold
+00480 Astra High's Guildmaster resolves
+00481 Astra High takes 1 Favor
+00482 Astra High's Guildmaster resolves
+00483 Astra High takes 1 Favor
+00484 Astra High buys Duchy
+00485 Astra High gains Duchy
+00486 Astra High's Guildmaster resolves
+00487 Astra High takes 1 Favor
+00488 Astra High's Guildmaster resolves
+00489 Astra High takes 1 Favor
+00490 Astra High's Merchant Camp resolves
+00491 Astra High puts Merchant Camp onto their deck
+00492 Astra High draws 5 cards
+00493 Fable High starts turn 14
+00494 Fable High plays Guildmaster
+00495 Fable High plays Copper
+00496 Fable High plays Copper
+00497 Fable High buys Duchy
+00498 Fable High gains Duchy
+00499 Fable High's Guildmaster resolves
+00500 Fable High takes 1 Favor
+00501 Fable High's Architects' Guild resolves
+00502 Fable High spends 2 Favors
+00503 Fable High gains Remodel
+00504 Fable High's Guildmaster resolves
+00505 Fable High takes 1 Favor
+00506 Fable High draws 5 cards
+00507 Astra High starts turn 14
+00508 Astra High plays Merchant Camp
+00509 Astra High plays Silk Merchant
+00510 Astra High draws 2 cards
+00511 Astra High plays Merchant Camp
+00512 Astra High plays Anvil
+00513 Astra High plays Gold
+00514 Astra High plays Copper
+00515 Astra High plays Copper
+00516 Astra High buys Province
+00517 Astra High gains Province
+00518 Astra High's Architects' Guild resolves
+00519 Astra High spends 2 Favors
+00520 Astra High gains Gold
+00521 Astra High's Merchant Camp resolves
+00522 Astra High puts Merchant Camp onto their deck
+00523 Astra High draws 5 cards
+00524 Fable High starts turn 15
+00525 Fable High plays Silk Merchant
+00526 Fable High draws 2 cards
+00527 Fable High plays Anvil
+00528 Fable High discards Copper
+00529 Fable High gains Estate
+00530 Fable High plays Copper
+00531 Fable High buys Estate
+00532 Fable High gains Estate
+00533 Fable High draws 5 cards
+00534 Astra High starts turn 15
+00535 Astra High plays Merchant Camp
+00536 Astra High plays Silk Merchant
+00537 Astra High draws 2 cards
+00538 Astra High plays Madman
+00539 Astra High returns Madman from play to the Madman pile
+00540 Astra High draws 4 cards
+00541 Astra High plays Silk Merchant
+00542 Astra High shuffles
+00543 Astra High draws 2 cards
+00544 Astra High plays Merchant Camp
+00545 Astra High plays Silk Merchant
+00546 Astra High draws 2 cards
+00547 Astra High plays Remodel
+00548 Astra High trashes Gold
+00549 Astra High gains Province
+00550 Astra High's Architects' Guild resolves
+00551 Astra High spends 2 Favors
+00552 Astra High gains Gold
+00553 Astra High plays Silver
+00554 Astra High plays Copper
+00555 Astra High buys Duchy
+00556 Astra High gains Duchy
+00557 Astra High's Merchant Camp resolves
+00558 Astra High puts Merchant Camp onto their deck
+00559 Astra High draws 5 cards
+00560 Fable High starts turn 16
+00561 Fable High plays Merchant Camp
+00562 Fable High plays Silk Merchant
+00563 Fable High draws 2 cards
+00564 Fable High plays Silk Merchant
+00565 Fable High draws 2 cards
+00566 Fable High plays Silver
+00567 Fable High plays Gold
+00568 Fable High plays Copper
+00569 Fable High buys Duchy
+00570 Fable High gains Duchy
+00571 Fable High buys Estate
+00572 Fable High gains Estate
+00573 Fable High's Merchant Camp resolves
+00574 Fable High puts Merchant Camp onto their deck
+00575 Fable High shuffles
+00576 Fable High draws 5 cards
+00577 Astra High starts turn 16
+00578 Astra High plays Merchant Camp
+00579 Astra High plays Silk Merchant
+00580 Astra High draws 2 cards
+00581 Astra High plays Merchant Camp
+00582 Astra High plays Copper
+00583 Astra High plays Copper
+00584 Astra High plays Copper
+00585 Astra High buys Duchy
+00586 Astra High gains Duchy
+00587 Astra High draws 5 cards
+00588 Fable High starts turn 17
+00589 Fable High plays Merchant Camp
+00590 Fable High plays Copper
+00591 Fable High plays Gold
+00592 Fable High plays Silver
+00593 Fable High buys Duchy
+00594 Fable High gains Duchy
+00595 Fable High's Merchant Camp resolves
+00596 Fable High puts Merchant Camp onto their deck
+00597 Fable High draws 5 cards
+00598 Astra High starts turn 17
+00599 Astra High plays Guildmaster
+00600 Astra High plays Anvil
+00601 Astra High plays Gold
+00602 Astra High plays Copper
+00603 Astra High buys Province
+00604 Astra High gains Province
+00605 Astra High's Guildmaster resolves
+00606 Astra High takes 1 Favor
+00607 Astra High draws 5 cards

@@ -1,0 +1,7 @@
+{
+  "reason": "Investigating repeated Fable CLI failures in game2; let game3 finish, then hold further games",
+  "kind": "agent_failure",
+  "started_at": "2026-11-17T07:17:14.913703+00:00",
+  "playbook_validation": "/home/imalison/.local/state/dominion/series/fable-astra-bo5-20261116/playbook-validation-6863517.json",
+  "validation_summary": "Two fresh Fable High opening sessions passed using revised playbook; zero refusal/fallback. Production runner still has old playbook; keep hold."
+}

@@ -1,0 +1,690 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g70",
+      "running": false,
+      "result": {
+        "reason": "resigned",
+        "players": [
+          {
+            "index": 0,
+            "name": "Astra High",
+            "vp": 2,
+            "rank": 1,
+            "turns": 1
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 3,
+            "rank": 2,
+            "turns": 1,
+            "resigned": true
+          }
+        ]
+      },
+      "kingdom": [
+        "Dungeon",
+        "Bandit Camp",
+        "Craftsman",
+        "River Shrine",
+        "Pooka",
+        "Rustic Village",
+        "Patrician",
+        "Fool",
+        "Necromancer",
+        "Wine Merchant"
+      ],
+      "landscapes": [
+        "Save",
+        "Biding Time"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Astra High",
+        "vp": 2,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Copper": 4,
+            "Estate": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 0,
+          "known": {},
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 8,
+          "known": {
+            "Copper": 1,
+            "Curse": 1,
+            "Cursed Gold": 1,
+            "Estate": 2,
+            "Lucky Coin": 1,
+            "Pooka": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 5,
+            "Curse": 1,
+            "Cursed Gold": 1,
+            "Estate": 3,
+            "Lucky Coin": 1,
+            "Pooka": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 1,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 3,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Copper": 4,
+            "Cursed Gold": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 5,
+          "known": {
+            "Copper": 1,
+            "Estate": 3,
+            "Lucky Coin": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 5,
+            "Cursed Gold": 1,
+            "Estate": 3,
+            "Lucky Coin": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 1,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 50,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 50
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 39,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 30,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 8,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 8,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 9,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Dungeon",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Dungeon",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Bandit Camp",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Bandit Camp",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Craftsman",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Craftsman",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "River Shrine",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "River Shrine",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Pooka",
+        "count": 9,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Pooka",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Rustic Village",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Rustic Village",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Patrician",
+        "count": 10,
+        "members": [
+          "Emporium",
+          "Patrician"
+        ],
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Patrician",
+              "count": 5
+            },
+            {
+              "card": "Emporium",
+              "count": 5
+            }
+          ]
+        }
+      },
+      {
+        "card": "Fool",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Fate"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Fool",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Necromancer",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Necromancer",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Wine Merchant",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Reserve"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Wine Merchant",
+              "count": 10
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Spoils",
+        "count": 15,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Spoils",
+              "count": 15
+            }
+          ]
+        }
+      },
+      {
+        "card": "Will-o'-Wisp",
+        "count": 12,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Action",
+          "Spirit"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Will-o'-Wisp",
+              "count": 12
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Save",
+        "kind": "event",
+        "cost": {
+          "coins": 1
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Biding Time",
+        "kind": "prophecy",
+        "types": [
+          "Prophecy"
+        ],
+        "suns": 5,
+        "active": false
+      }
+    ],
+    "trash": {
+      "count": 3,
+      "known": {
+        "Zombie Apprentice": 1,
+        "Zombie Mason": 1,
+        "Zombie Spy": 1
+      },
+      "unknown": 0
+    },
+    "boons": {
+      "count": 12,
+      "discard": []
+    },
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Astra High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Cursed Gold",
+        "text": "Astra High plays Cursed Gold"
+      },
+      {
+        "seq": 2,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Astra High gains Curse"
+      },
+      {
+        "seq": 3,
+        "type": "played",
+        "player": 0,
+        "card": "Lucky Coin",
+        "text": "Astra High plays Lucky Coin"
+      },
+      {
+        "seq": 4,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 5,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 6,
+        "type": "bought",
+        "player": 0,
+        "card": "Pooka",
+        "text": "Astra High buys Pooka"
+      },
+      {
+        "seq": 7,
+        "type": "gained",
+        "player": 0,
+        "card": "Pooka",
+        "text": "Astra High gains Pooka"
+      },
+      {
+        "seq": 8,
+        "type": "drew",
+        "player": 0,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 9,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 1"
+      }
+    ]
+  },
+  "version": 4,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": "Estate"
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": null
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Astra High",
+        "kind": "bot"
+      },
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      false
+    ],
+    "watchers": 0,
+    "ended": "abandoned",
+    "now": 1794899669597
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "game_id": "g71",
+  "completed_at": "2026-11-17T08:02:55.434747+00:00",
+  "winner": "Astra High",
+  "result": {
+    "reason": "provinces-gone",
+    "players": [
+      {
+        "index": 0,
+        "name": "Fable High",
+        "vp": 27,
+        "rank": 2,
+        "turns": 17
+      },
+      {
+        "index": 1,
+        "name": "Astra High",
+        "vp": 47,
+        "rank": 1,
+        "turns": 17
+      }
+    ]
+  },
+  "request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 13584205274121819727,
+    "watchable": true
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "created_at": "2026-11-17T06:07:34.772086+00:00",
+  "phase": "awaiting_investigation",
+  "completed": [
+    {
+      "game_id": "g69",
+      "completed_at": "2026-11-17T07:02:58.760535+00:00",
+      "winner": "Astra High",
+      "result": {
+        "reason": "piles-empty",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 18,
+            "rank": 2,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "Astra High",
+            "vp": 21,
+            "rank": 1,
+            "turns": 16
+          }
+        ]
+      },
+      "request": {
+        "players": 2,
+        "names": [
+          "Fable High",
+          "Astra High"
+        ],
+        "agents": [
+          "Fable High",
+          "Astra High"
+        ],
+        "seed": 16356449617697193807,
+        "watchable": true
+      }
+    },
+    {
+      "game_id": "g70",
+      "completed_at": "2026-11-17T07:14:29.603353+00:00",
+      "winner": "Astra High",
+      "result": {
+        "reason": "resigned",
+        "players": [
+          {
+            "index": 0,
+            "name": "Astra High",
+            "vp": 2,
+            "rank": 1,
+            "turns": 1
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 3,
+            "rank": 2,
+            "turns": 1,
+            "resigned": true
+          }
+        ]
+      },
+      "request": {
+        "players": 2,
+        "names": [
+          "Astra High",
+          "Fable High"
+        ],
+        "agents": [
+          "Astra High",
+          "Fable High"
+        ],
+        "seed": 4835158610943872013,
+        "watchable": true
+      }
+    },
+    {
+      "game_id": "g71",
+      "completed_at": "2026-11-17T08:02:55.434747+00:00",
+      "winner": "Astra High",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 27,
+            "rank": 2,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "Astra High",
+            "vp": 47,
+            "rank": 1,
+            "turns": 17
+          }
+        ]
+      },
+      "request": {
+        "players": 2,
+        "names": [
+          "Fable High",
+          "Astra High"
+        ],
+        "agents": [
+          "Fable High",
+          "Astra High"
+        ],
+        "seed": 13584205274121819727,
+        "watchable": true
+      }
+    }
+  ],
+  "active_game": null,
+  "updated_at": "2026-11-17T08:04:35.443001+00:00",
+  "agents": [
+    "Fable High",
+    "Astra High"
+  ],
+  "best_of": 5,
+  "wins_needed": 3,
+  "pending_request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 13584205274121819727,
+    "watchable": true
+  },
+  "creation_pending": false,
+  "score": {
+    "Fable High": 0,
+    "Astra High": 2
+  },
+  "active_request": {
+    "players": 2,
+    "names": [
+      "Fable High",
+      "Astra High"
+    ],
+    "agents": [
+      "Fable High",
+      "Astra High"
+    ],
+    "seed": 13584205274121819727,
+    "watchable": true
+  },
+  "current_turn": {
+    "number": 17,
+    "player": 1,
+    "activePlayer": "Astra High",
+    "yourTurn": false,
+    "phase": "buy",
+    "actions": 0,
+    "buys": 1,
+    "coins": 8,
+    "potions": 0
+  },
+  "series_adjudications": {
+    "g70": {
+      "decision": "exclude from series score and replay after Fable is healthy",
+      "reason": "Claude provider safeguard refusal caused a turn1 technical forfeit",
+      "authorized_by": "user",
+      "recorded_at": "2026-11-17T07:21:05.425030+00:00"
+    }
+  }
+}

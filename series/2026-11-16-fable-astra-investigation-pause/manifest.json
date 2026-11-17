@@ -1,0 +1,35 @@
+{
+  "captured": "2026-11-17T08:04:37.761071+00:00",
+  "games": [
+    {
+      "run": "2026-11-16/fable-astra-g70",
+      "game_id": "g70",
+      "sessions": 4,
+      "coverage": {
+        "observed_log_entries": 10,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-16/fable-astra-g71",
+      "game_id": "g71",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 608,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "raw_score": {
+    "Fable High": 0,
+    "Astra High": 2
+  },
+  "score_note": "g70 excluded by user. g69 and g71 used Opus fallback; their adjudication remains pending. Raw score is not a pure-Fable comparison.",
+  "schedule_paused": "scheduled-task:7ced4cc8-466f-42bf-9f42-a81655a14e0d",
+  "sol_unchanged": true,
+  "deployment": "7d439ac36afa205ee8b37e36f2f4f0589ae53248"
+}

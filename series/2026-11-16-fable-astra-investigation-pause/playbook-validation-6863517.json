@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "archive_run": "2026-11-16/fable-high-playbook-6863517-opening",
+  "actual_models": [
+    {
+      "claude-fable-5-2": 14
+    },
+    {
+      "claude-fable-5-2": 20
+    }
+  ],
+  "refusals": 0,
+  "fallbacks": 0,
+  "scope": "Recreates g70 kingdom/seed and exercises fresh plan, lookup commands and live MCP actions. Two native Claude sessions complete normally as Fable High. Opening-only evidence; no full-game reliability claim. Does not count in any series.",
+  "playbook_commit": "686351798394ee507cefcc58a5a67891e224c416",
+  "production_playbook_updated": false,
+  "next_step": "Retain investigation hold until production playbook is updated safely and full-game Fable identity is verified. Current games remain untouched."
+}

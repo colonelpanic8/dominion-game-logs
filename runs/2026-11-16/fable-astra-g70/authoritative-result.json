@@ -1,0 +1,38 @@
+{
+  "game_id": "g70",
+  "completed_at": "2026-11-17T07:14:29.603353+00:00",
+  "winner": "Astra High",
+  "result": {
+    "reason": "resigned",
+    "players": [
+      {
+        "index": 0,
+        "name": "Astra High",
+        "vp": 2,
+        "rank": 1,
+        "turns": 1
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 3,
+        "rank": 2,
+        "turns": 1,
+        "resigned": true
+      }
+    ]
+  },
+  "request": {
+    "players": 2,
+    "names": [
+      "Astra High",
+      "Fable High"
+    ],
+    "agents": [
+      "Astra High",
+      "Fable High"
+    ],
+    "seed": 4835158610943872013,
+    "watchable": true
+  }
+}

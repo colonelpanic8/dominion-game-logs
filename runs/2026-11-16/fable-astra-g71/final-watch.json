@@ -1,0 +1,4706 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g71",
+      "running": false,
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 27,
+            "rank": 2,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "Astra High",
+            "vp": 47,
+            "rank": 1,
+            "turns": 17
+          }
+        ]
+      },
+      "kingdom": [
+        "Anvil",
+        "Gladiator",
+        "Band of Misfits",
+        "Silk Merchant",
+        "Guildmaster",
+        "Changeling",
+        "Hermit",
+        "Merchant Camp",
+        "Remodel",
+        "Familiar"
+      ],
+      "landscapes": [
+        "Fair",
+        "Architects' Guild"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Fable High",
+        "vp": 27,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Changeling": 1,
+            "Copper": 3,
+            "Merchant Camp": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 32,
+          "known": {
+            "Anvil": 1,
+            "Copper": 3,
+            "Duchy": 2,
+            "Estate": 5,
+            "Gold": 5,
+            "Guildmaster": 5,
+            "Merchant Camp": 1,
+            "Province": 2,
+            "Remodel": 3,
+            "Silk Merchant": 5
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 5,
+          "known": {
+            "Copper": 1,
+            "Duchy": 1,
+            "Estate": 1,
+            "Gold": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Anvil": 1,
+            "Changeling": 1,
+            "Copper": 7,
+            "Duchy": 3,
+            "Estate": 6,
+            "Gold": 6,
+            "Guildmaster": 5,
+            "Merchant Camp": 2,
+            "Province": 2,
+            "Remodel": 3,
+            "Silk Merchant": 5,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "favors": 1
+        },
+        "turnsTaken": 17,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Astra High",
+        "vp": 47,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Changeling": 1,
+            "Gold": 2,
+            "Hermit": 1,
+            "Silk Merchant": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 7,
+          "known": {
+            "Copper": 2,
+            "Estate": 1,
+            "Gold": 1,
+            "Merchant Camp": 1,
+            "Province": 1,
+            "Silver": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 29,
+          "known": {
+            "Anvil": 1,
+            "Copper": 5,
+            "Duchy": 3,
+            "Estate": 1,
+            "Gold": 2,
+            "Guildmaster": 3,
+            "Merchant Camp": 3,
+            "Province": 5,
+            "Remodel": 1,
+            "Silk Merchant": 4,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Anvil": 1,
+            "Changeling": 1,
+            "Copper": 7,
+            "Duchy": 3,
+            "Estate": 2,
+            "Gold": 5,
+            "Guildmaster": 3,
+            "Hermit": 1,
+            "Merchant Camp": 4,
+            "Province": 6,
+            "Remodel": 1,
+            "Silk Merchant": 5,
+            "Silver": 2
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "favors": 6
+        },
+        "turnsTaken": 17,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 46,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 37,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 18,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 4,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 2,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 0,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 10,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Anvil",
+        "count": 8,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Anvil",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gladiator",
+        "count": 10,
+        "members": [
+          "Fortune",
+          "Gladiator"
+        ],
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gladiator",
+              "count": 5
+            },
+            {
+              "card": "Fortune",
+              "count": 5
+            }
+          ]
+        }
+      },
+      {
+        "card": "Band of Misfits",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Command"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Band of Misfits",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silk Merchant",
+        "count": 0,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silk Merchant",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Guildmaster",
+        "count": 2,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Liaison"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Guildmaster",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Changeling",
+        "count": 6,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Night"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Changeling",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Hermit",
+        "count": 9,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Hermit",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Merchant Camp",
+        "count": 4,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Merchant Camp",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Remodel",
+        "count": 6,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Remodel",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Familiar",
+        "count": 10,
+        "cost": {
+          "coins": 3,
+          "potions": 1
+        },
+        "types": [
+          "Action",
+          "Attack"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Familiar",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Potion",
+        "count": 16,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Potion",
+              "count": 16
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Madman",
+        "count": 10,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Action"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Madman",
+              "count": 10
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Fair",
+        "kind": "project",
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Project"
+        ]
+      },
+      {
+        "card": "Architects' Guild",
+        "kind": "ally",
+        "types": [
+          "Ally"
+        ]
+      }
+    ],
+    "trash": {
+      "count": 5,
+      "known": {
+        "Changeling": 2,
+        "Estate": 2,
+        "Gold": 1
+      },
+      "unknown": 0
+    },
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 2,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 3,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 4,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 5,
+        "type": "bought",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High buys Silk Merchant"
+      },
+      {
+        "seq": 6,
+        "type": "gained",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High gains Silk Merchant"
+      },
+      {
+        "seq": 7,
+        "type": "resolved",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High's Silk Merchant resolves"
+      },
+      {
+        "seq": 8,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes a Coffers"
+      },
+      {
+        "seq": 9,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Villager"
+      },
+      {
+        "seq": 10,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 11,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 1"
+      },
+      {
+        "seq": 12,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 13,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 14,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 15,
+        "type": "bought",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High buys Hermit"
+      },
+      {
+        "seq": 16,
+        "type": "gained",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High gains Hermit"
+      },
+      {
+        "seq": 17,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 18,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 19,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 20,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 21,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 22,
+        "type": "bought",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High buys Anvil"
+      },
+      {
+        "seq": 23,
+        "type": "gained",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High gains Anvil"
+      },
+      {
+        "seq": 24,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 25,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 26,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 2"
+      },
+      {
+        "seq": 27,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 28,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 29,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 30,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 31,
+        "type": "bought",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High buys Silk Merchant"
+      },
+      {
+        "seq": 32,
+        "type": "gained",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High gains Silk Merchant"
+      },
+      {
+        "seq": 33,
+        "type": "resolved",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High's Silk Merchant resolves"
+      },
+      {
+        "seq": 34,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes a Coffers"
+      },
+      {
+        "seq": 35,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Villager"
+      },
+      {
+        "seq": 36,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 37,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 38,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 39,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 40,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 41,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 42,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 43,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 44,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 45,
+        "type": "bought",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High buys Silk Merchant"
+      },
+      {
+        "seq": 46,
+        "type": "gained",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High gains Silk Merchant"
+      },
+      {
+        "seq": 47,
+        "type": "resolved",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High's Silk Merchant resolves"
+      },
+      {
+        "seq": 48,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes a Coffers"
+      },
+      {
+        "seq": 49,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Villager"
+      },
+      {
+        "seq": 50,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 51,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 3"
+      },
+      {
+        "seq": 52,
+        "type": "played",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High plays Hermit"
+      },
+      {
+        "seq": 53,
+        "type": "gained",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High gains Anvil"
+      },
+      {
+        "seq": 54,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 55,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 56,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 57,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 58,
+        "type": "bought",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High buys Silk Merchant"
+      },
+      {
+        "seq": 59,
+        "type": "gained",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High gains Silk Merchant"
+      },
+      {
+        "seq": 60,
+        "type": "resolved",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High's Silk Merchant resolves"
+      },
+      {
+        "seq": 61,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes a Coffers"
+      },
+      {
+        "seq": 62,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Villager"
+      },
+      {
+        "seq": 63,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 64,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 65,
+        "type": "played",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High plays Anvil"
+      },
+      {
+        "seq": 66,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 67,
+        "type": "gained",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High gains Silk Merchant"
+      },
+      {
+        "seq": 68,
+        "type": "resolved",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High's Silk Merchant resolves"
+      },
+      {
+        "seq": 69,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes a Coffers"
+      },
+      {
+        "seq": 70,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Villager"
+      },
+      {
+        "seq": 71,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 72,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 73,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends a Coffers"
+      },
+      {
+        "seq": 74,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends a Coffers"
+      },
+      {
+        "seq": 75,
+        "type": "bought",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High buys Guildmaster"
+      },
+      {
+        "seq": 76,
+        "type": "gained",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High gains Guildmaster"
+      },
+      {
+        "seq": 77,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 78,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 79,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 4"
+      },
+      {
+        "seq": 80,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 81,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 82,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends a Coffers"
+      },
+      {
+        "seq": 83,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends a Coffers"
+      },
+      {
+        "seq": 84,
+        "type": "bought",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High buys Silk Merchant"
+      },
+      {
+        "seq": 85,
+        "type": "gained",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High gains Silk Merchant"
+      },
+      {
+        "seq": 86,
+        "type": "resolved",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High's Silk Merchant resolves"
+      },
+      {
+        "seq": 87,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes a Coffers"
+      },
+      {
+        "seq": 88,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Villager"
+      },
+      {
+        "seq": 89,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 90,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 91,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 92,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 93,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 94,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 95,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 96,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 97,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 98,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 99,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 100,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 101,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 102,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 103,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 104,
+        "type": "bought",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High buys Silk Merchant"
+      },
+      {
+        "seq": 105,
+        "type": "gained",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High gains Silk Merchant"
+      },
+      {
+        "seq": 106,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 107,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 108,
+        "type": "resolved",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High's Silk Merchant resolves"
+      },
+      {
+        "seq": 109,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes a Coffers"
+      },
+      {
+        "seq": 110,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Villager"
+      },
+      {
+        "seq": 111,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 112,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 113,
+        "type": "gained",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High gains Merchant Camp"
+      },
+      {
+        "seq": 114,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 115,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 116,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends a Coffers"
+      },
+      {
+        "seq": 117,
+        "type": "bought",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High buys Guildmaster"
+      },
+      {
+        "seq": 118,
+        "type": "gained",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High gains Guildmaster"
+      },
+      {
+        "seq": 119,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 120,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 121,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 122,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 123,
+        "type": "gained",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High gains Silk Merchant"
+      },
+      {
+        "seq": 124,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 125,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 126,
+        "type": "resolved",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High's Silk Merchant resolves"
+      },
+      {
+        "seq": 127,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes a Coffers"
+      },
+      {
+        "seq": 128,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Villager"
+      },
+      {
+        "seq": 129,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 130,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 5"
+      },
+      {
+        "seq": 131,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 132,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 133,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 1 Villager"
+      },
+      {
+        "seq": 134,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 135,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 136,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 1 Villager"
+      },
+      {
+        "seq": 137,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 138,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 139,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 140,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 141,
+        "type": "gained",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High gains Silk Merchant"
+      },
+      {
+        "seq": 142,
+        "type": "resolved",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High's Silk Merchant resolves"
+      },
+      {
+        "seq": 143,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes a Coffers"
+      },
+      {
+        "seq": 144,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Villager"
+      },
+      {
+        "seq": 145,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 146,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 147,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 148,
+        "type": "bought",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High buys Silk Merchant"
+      },
+      {
+        "seq": 149,
+        "type": "gained",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High gains Silk Merchant"
+      },
+      {
+        "seq": 150,
+        "type": "resolved",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High's Silk Merchant resolves"
+      },
+      {
+        "seq": 151,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes a Coffers"
+      },
+      {
+        "seq": 152,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Villager"
+      },
+      {
+        "seq": 153,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends a Coffers"
+      },
+      {
+        "seq": 154,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends a Coffers"
+      },
+      {
+        "seq": 155,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends a Coffers"
+      },
+      {
+        "seq": 156,
+        "type": "bought",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High buys Merchant Camp"
+      },
+      {
+        "seq": 157,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High gains Merchant Camp"
+      },
+      {
+        "seq": 158,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 159,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 160,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 161,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 162,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 163,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 164,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 165,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 166,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 167,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 168,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 169,
+        "type": "played",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High plays Anvil"
+      },
+      {
+        "seq": 170,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 171,
+        "type": "gained",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High gains Merchant Camp"
+      },
+      {
+        "seq": 172,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 173,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 174,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 175,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 176,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 177,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 178,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 179,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 180,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 181,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 182,
+        "type": "gained",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High gains Guildmaster"
+      },
+      {
+        "seq": 183,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 184,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 185,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 186,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 187,
+        "type": "gained",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High gains Changeling"
+      },
+      {
+        "seq": 188,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 189,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 190,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 191,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 6"
+      },
+      {
+        "seq": 192,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 193,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 194,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 1 Villager"
+      },
+      {
+        "seq": 195,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 196,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 197,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 198,
+        "type": "played",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High plays Hermit"
+      },
+      {
+        "seq": 199,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High gains Merchant Camp"
+      },
+      {
+        "seq": 200,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 201,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 202,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High gains Merchant Camp"
+      },
+      {
+        "seq": 203,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 204,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 205,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 206,
+        "type": "bought",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High buys Guildmaster"
+      },
+      {
+        "seq": 207,
+        "type": "gained",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High gains Guildmaster"
+      },
+      {
+        "seq": 208,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 209,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 210,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 211,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 212,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 213,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 214,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 215,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 216,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 217,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 218,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 219,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 220,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 221,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 222,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 223,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 224,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 225,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 226,
+        "type": "gained",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High gains Changeling"
+      },
+      {
+        "seq": 227,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 228,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 229,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 230,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 231,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 7"
+      },
+      {
+        "seq": 232,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 233,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 234,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 235,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 236,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 237,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 1 Villager"
+      },
+      {
+        "seq": 238,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 239,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 240,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 241,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 242,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 243,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 244,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 245,
+        "type": "bought",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High buys Guildmaster"
+      },
+      {
+        "seq": 246,
+        "type": "gained",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High gains Guildmaster"
+      },
+      {
+        "seq": 247,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 248,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 249,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 250,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 251,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 252,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 253,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 254,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 255,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 256,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends a Coffers"
+      },
+      {
+        "seq": 257,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 258,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 259,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 260,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 261,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 262,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 263,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 264,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 265,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 266,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 267,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 268,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 269,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 8"
+      },
+      {
+        "seq": 270,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 271,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 272,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 273,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 274,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 275,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 276,
+        "type": "discarded",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High discards Copper"
+      },
+      {
+        "seq": 277,
+        "type": "gained",
+        "player": 1,
+        "card": "Remodel",
+        "text": "Astra High gains Remodel"
+      },
+      {
+        "seq": 278,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 279,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 280,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 281,
+        "type": "bought",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High buys Gold"
+      },
+      {
+        "seq": 282,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 283,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 284,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 285,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 286,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 287,
+        "type": "gained",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High gains Guildmaster"
+      },
+      {
+        "seq": 288,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 289,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 290,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 291,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 292,
+        "type": "gained",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High gains Merchant Camp"
+      },
+      {
+        "seq": 293,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 294,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 295,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 296,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 297,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 298,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 299,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 300,
+        "type": "played",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High plays Anvil"
+      },
+      {
+        "seq": 301,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 302,
+        "type": "gained",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High gains Changeling"
+      },
+      {
+        "seq": 303,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 304,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 305,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends a Coffers"
+      },
+      {
+        "seq": 306,
+        "type": "bought",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High buys Guildmaster"
+      },
+      {
+        "seq": 307,
+        "type": "gained",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High gains Guildmaster"
+      },
+      {
+        "seq": 308,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 309,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 310,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 311,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 9"
+      },
+      {
+        "seq": 312,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 313,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 314,
+        "type": "played",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High plays Hermit"
+      },
+      {
+        "seq": 315,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High trashes Estate"
+      },
+      {
+        "seq": 316,
+        "type": "gained",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High gains Hermit"
+      },
+      {
+        "seq": 317,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 318,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 319,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 320,
+        "type": "played",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High plays Hermit"
+      },
+      {
+        "seq": 321,
+        "type": "gained",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High gains Hermit"
+      },
+      {
+        "seq": 322,
+        "type": "resolved",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High's Hermit resolves"
+      },
+      {
+        "seq": 323,
+        "type": "exchanged",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High exchanges Hermit for Madman"
+      },
+      {
+        "seq": 324,
+        "type": "resolved",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High's Hermit resolves"
+      },
+      {
+        "seq": 325,
+        "type": "exchanged",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High exchanges Hermit for Madman"
+      },
+      {
+        "seq": 326,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 327,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 328,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 329,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 330,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 331,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 332,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 333,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 334,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 335,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 336,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 337,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 338,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 10"
+      },
+      {
+        "seq": 339,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 340,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 341,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 342,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 343,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 344,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 345,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 346,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 347,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 348,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 349,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 1 Villager"
+      },
+      {
+        "seq": 350,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 351,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 352,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 353,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 354,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 355,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 356,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 357,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 358,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 359,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 360,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 361,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 362,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 363,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 364,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 365,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 366,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 367,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 368,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 369,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 370,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 371,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 372,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 373,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 374,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 375,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 376,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 377,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 378,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 379,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 380,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 381,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 382,
+        "type": "bought",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 383,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 384,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 385,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 386,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 387,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 388,
+        "type": "gained",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High gains Guildmaster"
+      },
+      {
+        "seq": 389,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 390,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 391,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 392,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 393,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 11"
+      },
+      {
+        "seq": 394,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 395,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 396,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 397,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 398,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 399,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High plays Gold"
+      },
+      {
+        "seq": 400,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 401,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 402,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 403,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 404,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 405,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 406,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 407,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 408,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 409,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 410,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 411,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 412,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 413,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 12"
+      },
+      {
+        "seq": 414,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 415,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 416,
+        "type": "bought",
+        "player": 0,
+        "card": "Remodel",
+        "text": "Fable High buys Remodel"
+      },
+      {
+        "seq": 417,
+        "type": "gained",
+        "player": 0,
+        "card": "Remodel",
+        "text": "Fable High gains Remodel"
+      },
+      {
+        "seq": 418,
+        "type": "played",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High plays Changeling"
+      },
+      {
+        "seq": 419,
+        "type": "trashed",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High trashes Changeling"
+      },
+      {
+        "seq": 420,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 421,
+        "type": "played",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High plays Changeling"
+      },
+      {
+        "seq": 422,
+        "type": "trashed",
+        "player": 0,
+        "card": "Changeling",
+        "text": "Fable High trashes Changeling"
+      },
+      {
+        "seq": 423,
+        "type": "gained",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 424,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 425,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 12"
+      },
+      {
+        "seq": 426,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 427,
+        "type": "played",
+        "player": 1,
+        "card": "Remodel",
+        "text": "Astra High plays Remodel"
+      },
+      {
+        "seq": 428,
+        "type": "trashed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High trashes Estate"
+      },
+      {
+        "seq": 429,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High gains Silver"
+      },
+      {
+        "seq": 430,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 431,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 432,
+        "type": "bought",
+        "player": 1,
+        "card": "Changeling",
+        "text": "Astra High buys Changeling"
+      },
+      {
+        "seq": 433,
+        "type": "gained",
+        "player": 1,
+        "card": "Changeling",
+        "text": "Astra High gains Changeling"
+      },
+      {
+        "seq": 434,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 435,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 436,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 437,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 13"
+      },
+      {
+        "seq": 438,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 439,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 440,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 441,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 442,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 443,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 444,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 445,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 446,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 447,
+        "type": "gained",
+        "player": 0,
+        "card": "Remodel",
+        "text": "Fable High gains Remodel"
+      },
+      {
+        "seq": 448,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 449,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 450,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 451,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 13"
+      },
+      {
+        "seq": 452,
+        "type": "played",
+        "player": 1,
+        "card": "Madman",
+        "text": "Astra High plays Madman"
+      },
+      {
+        "seq": 453,
+        "type": "moved",
+        "player": 1,
+        "card": "Madman",
+        "text": "Astra High returns Madman from play to the Madman pile"
+      },
+      {
+        "seq": 454,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 455,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 456,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 457,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 458,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 459,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 460,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 461,
+        "type": "played",
+        "player": 1,
+        "card": "Hermit",
+        "text": "Astra High plays Hermit"
+      },
+      {
+        "seq": 462,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Astra High gains Estate"
+      },
+      {
+        "seq": 463,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 464,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 465,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 466,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 467,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High plays Gold"
+      },
+      {
+        "seq": 468,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 469,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 470,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 471,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 472,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 473,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 474,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 475,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 476,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 477,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 478,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 479,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 480,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 481,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 482,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 483,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 484,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High buys Duchy"
+      },
+      {
+        "seq": 485,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High gains Duchy"
+      },
+      {
+        "seq": 486,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 487,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 488,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 489,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 490,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 491,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 492,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 493,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 14"
+      },
+      {
+        "seq": 494,
+        "type": "played",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High plays Guildmaster"
+      },
+      {
+        "seq": 495,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 496,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 497,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 498,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 499,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 500,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 501,
+        "type": "resolved",
+        "player": 0,
+        "card": "Architects' Guild",
+        "text": "Fable High's Architects' Guild resolves"
+      },
+      {
+        "seq": 502,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High spends 2 Favors"
+      },
+      {
+        "seq": 503,
+        "type": "gained",
+        "player": 0,
+        "card": "Remodel",
+        "text": "Fable High gains Remodel"
+      },
+      {
+        "seq": 504,
+        "type": "resolved",
+        "player": 0,
+        "card": "Guildmaster",
+        "text": "Fable High's Guildmaster resolves"
+      },
+      {
+        "seq": 505,
+        "type": "counter",
+        "player": 0,
+        "text": "Fable High takes 1 Favor"
+      },
+      {
+        "seq": 506,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 507,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 14"
+      },
+      {
+        "seq": 508,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 509,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 510,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 511,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 512,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 513,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High plays Gold"
+      },
+      {
+        "seq": 514,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 515,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 516,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 517,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 518,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 519,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 520,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 521,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 522,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 523,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 524,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 15"
+      },
+      {
+        "seq": 525,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 526,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 527,
+        "type": "played",
+        "player": 0,
+        "card": "Anvil",
+        "text": "Fable High plays Anvil"
+      },
+      {
+        "seq": 528,
+        "type": "discarded",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High discards Copper"
+      },
+      {
+        "seq": 529,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 530,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 531,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 532,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 533,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 534,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 15"
+      },
+      {
+        "seq": 535,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 536,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 537,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 538,
+        "type": "played",
+        "player": 1,
+        "card": "Madman",
+        "text": "Astra High plays Madman"
+      },
+      {
+        "seq": 539,
+        "type": "moved",
+        "player": 1,
+        "card": "Madman",
+        "text": "Astra High returns Madman from play to the Madman pile"
+      },
+      {
+        "seq": 540,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 4 cards"
+      },
+      {
+        "seq": 541,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 542,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Astra High shuffles"
+      },
+      {
+        "seq": 543,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 544,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 545,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 546,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 547,
+        "type": "played",
+        "player": 1,
+        "card": "Remodel",
+        "text": "Astra High plays Remodel"
+      },
+      {
+        "seq": 548,
+        "type": "trashed",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High trashes Gold"
+      },
+      {
+        "seq": 549,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 550,
+        "type": "resolved",
+        "player": 1,
+        "card": "Architects' Guild",
+        "text": "Astra High's Architects' Guild resolves"
+      },
+      {
+        "seq": 551,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High spends 2 Favors"
+      },
+      {
+        "seq": 552,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High gains Gold"
+      },
+      {
+        "seq": 553,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Astra High plays Silver"
+      },
+      {
+        "seq": 554,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 555,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High buys Duchy"
+      },
+      {
+        "seq": 556,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High gains Duchy"
+      },
+      {
+        "seq": 557,
+        "type": "resolved",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High's Merchant Camp resolves"
+      },
+      {
+        "seq": 558,
+        "type": "top-decked",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 559,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 560,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 16"
+      },
+      {
+        "seq": 561,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 562,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 563,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 564,
+        "type": "played",
+        "player": 0,
+        "card": "Silk Merchant",
+        "text": "Fable High plays Silk Merchant"
+      },
+      {
+        "seq": 565,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 566,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 567,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 568,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 569,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 570,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 571,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 572,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 573,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 574,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 575,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 576,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 577,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 16"
+      },
+      {
+        "seq": 578,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 579,
+        "type": "played",
+        "player": 1,
+        "card": "Silk Merchant",
+        "text": "Astra High plays Silk Merchant"
+      },
+      {
+        "seq": 580,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 2 cards"
+      },
+      {
+        "seq": 581,
+        "type": "played",
+        "player": 1,
+        "card": "Merchant Camp",
+        "text": "Astra High plays Merchant Camp"
+      },
+      {
+        "seq": 582,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 583,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 584,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 585,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High buys Duchy"
+      },
+      {
+        "seq": 586,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Astra High gains Duchy"
+      },
+      {
+        "seq": 587,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      },
+      {
+        "seq": 588,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Fable High starts turn 17"
+      },
+      {
+        "seq": 589,
+        "type": "played",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High plays Merchant Camp"
+      },
+      {
+        "seq": 590,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 591,
+        "type": "played",
+        "player": 0,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 592,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 593,
+        "type": "bought",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 594,
+        "type": "gained",
+        "player": 0,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 595,
+        "type": "resolved",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High's Merchant Camp resolves"
+      },
+      {
+        "seq": 596,
+        "type": "top-decked",
+        "player": 0,
+        "card": "Merchant Camp",
+        "text": "Fable High puts Merchant Camp onto their deck"
+      },
+      {
+        "seq": 597,
+        "type": "drew",
+        "player": 0,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 598,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Astra High starts turn 17"
+      },
+      {
+        "seq": 599,
+        "type": "played",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High plays Guildmaster"
+      },
+      {
+        "seq": 600,
+        "type": "played",
+        "player": 1,
+        "card": "Anvil",
+        "text": "Astra High plays Anvil"
+      },
+      {
+        "seq": 601,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Astra High plays Gold"
+      },
+      {
+        "seq": 602,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Astra High plays Copper"
+      },
+      {
+        "seq": 603,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High buys Province"
+      },
+      {
+        "seq": 604,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Astra High gains Province"
+      },
+      {
+        "seq": 605,
+        "type": "resolved",
+        "player": 1,
+        "card": "Guildmaster",
+        "text": "Astra High's Guildmaster resolves"
+      },
+      {
+        "seq": 606,
+        "type": "counter",
+        "player": 1,
+        "text": "Astra High takes 1 Favor"
+      },
+      {
+        "seq": 607,
+        "type": "drew",
+        "player": 1,
+        "text": "Astra High draws 5 cards"
+      }
+    ]
+  },
+  "version": 382,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": "Estate"
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": "Duchy"
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      },
+      {
+        "name": "Astra High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 0,
+    "now": 1794902575270
+  }
+}

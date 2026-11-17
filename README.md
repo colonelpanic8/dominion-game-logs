@@ -62,6 +62,8 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 | [2026-11-16/sol-high-186029319](runs/2026-11-16/sol-high-186029319) | gpt-6.1-sol high | human | 186029319: SolDominion 37, weitzy 3 | ? | ? |  |
 | [2026-11-16/sol-high-186028514](runs/2026-11-16/sol-high-186028514) | gpt-6.1-sol high | human | 186028514: Quen_tin_Zug 18, SolDominion 36 | ? | ? |  |
 | [2026-11-16/fable-high-playbook-6863517-opening](runs/2026-11-16/fable-high-playbook-6863517-opening) | claude-fable-5-2 (both seats) high | Fable High diagnostic seat | isolated-g1 (opening diagnostic only): Test (1) 2, Test (2) 3 | 6863517 | ? |  |
+| [2026-11-16/fable-astra-g71](runs/2026-11-16/fable-astra-g71) | Fable High vs Astra High high | agent | g71: Fable High 27, Astra High 47 | ? | ? |  |
+| [2026-11-16/fable-astra-g70](runs/2026-11-16/fable-astra-g70) | Fable High vs Astra High high | agent | g70: Astra High 2, Fable High 3 | ? | ? |  |
 | [2026-11-16/fable-astra-g69](runs/2026-11-16/fable-astra-g69) | Fable High vs Astra High high | agent | g69: Fable High 18, Astra High 21 | ? | ? |  |
 | [2026-11-15/arena-g5](runs/2026-11-15/arena-g5) | Argon High vs Terra  | agent | g5: Argon High 27, Terra 13 | ? | ? |  |
 | [2026-11-15/arena-g4](runs/2026-11-15/arena-g4) | Terra vs Sonnet High  | agent | g4: Terra 40, Sonnet High 23 | ? | ? |  |

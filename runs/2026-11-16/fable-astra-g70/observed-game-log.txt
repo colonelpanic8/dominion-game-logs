@@ -1,0 +1,10 @@
+00000 Astra High starts turn 1
+00001 Astra High plays Cursed Gold
+00002 Astra High gains Curse
+00003 Astra High plays Lucky Coin
+00004 Astra High gains Silver
+00005 Astra High plays Copper
+00006 Astra High buys Pooka
+00007 Astra High gains Pooka
+00008 Astra High draws 5 cards
+00009 Fable High starts turn 1

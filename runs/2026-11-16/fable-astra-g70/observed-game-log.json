@@ -1,0 +1,69 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Cursed Gold",
+    "text": "Astra High plays Cursed Gold"
+  },
+  {
+    "seq": 2,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Astra High gains Curse"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Lucky Coin",
+    "text": "Astra High plays Lucky Coin"
+  },
+  {
+    "seq": 4,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High gains Silver"
+  },
+  {
+    "seq": 5,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 6,
+    "type": "bought",
+    "player": 0,
+    "card": "Pooka",
+    "text": "Astra High buys Pooka"
+  },
+  {
+    "seq": 7,
+    "type": "gained",
+    "player": 0,
+    "card": "Pooka",
+    "text": "Astra High gains Pooka"
+  },
+  {
+    "seq": 8,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 9,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 1"
+  }
+]
