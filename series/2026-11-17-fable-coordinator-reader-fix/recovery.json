@@ -1,0 +1,8 @@
+{
+  "time": "2026-11-17T08:57:22.069105+00:00",
+  "error": "Malformed complete archive record",
+  "fix": "Read a fixed bytes snapshot and parse only newline-terminated records, ignoring the incomplete tail; no journal edits.",
+  "checks": "5 snapshot regression checks, 7 model checks, 6 lifecycle checks and Ruff passed.",
+  "active_game": "g72",
+  "agents_undisturbed": true
+}
