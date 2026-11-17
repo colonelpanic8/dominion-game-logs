@@ -1,0 +1,35 @@
+{
+  "captured": "2026-11-17T09:36:54.980484+00:00",
+  "games": [
+    {
+      "run": "2026-11-17/fable-astra-g72",
+      "game_id": "g72",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 575,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "run": "2026-11-17/fable-astra-g73",
+      "game_id": "g73",
+      "sessions": 2,
+      "coverage": {
+        "observed_log_entries": 537,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "score": {
+    "Fable High": 0,
+    "Astra High": 2
+  },
+  "status": "Holding further game creation for safe Sol login refresh, not final series result.",
+  "playbook": "686351798394ee507cefcc58a5a67891e224c416",
+  "application": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "models_verified": true
+}

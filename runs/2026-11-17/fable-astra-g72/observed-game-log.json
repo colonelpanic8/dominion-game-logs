@@ -1,0 +1,3861 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 2,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 4,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 5,
+    "type": "bought",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High buys Skulk"
+  },
+  {
+    "seq": 6,
+    "type": "gained",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High gains Skulk"
+  },
+  {
+    "seq": 7,
+    "type": "resolved",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High's Skulk resolves"
+  },
+  {
+    "seq": 8,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 9,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 10,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 1"
+  },
+  {
+    "seq": 11,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 12,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 13,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 14,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 15,
+    "type": "bought",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High buys Hideout"
+  },
+  {
+    "seq": 16,
+    "type": "gained",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High gains Hideout"
+  },
+  {
+    "seq": 17,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 18,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 2"
+  },
+  {
+    "seq": 19,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 20,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 21,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 22,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends a Coffers"
+  },
+  {
+    "seq": 23,
+    "type": "bought",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High buys Skulk"
+  },
+  {
+    "seq": 24,
+    "type": "gained",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High gains Skulk"
+  },
+  {
+    "seq": 25,
+    "type": "resolved",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High's Skulk resolves"
+  },
+  {
+    "seq": 26,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 27,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 28,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 29,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 2"
+  },
+  {
+    "seq": 30,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 31,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 32,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 33,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 34,
+    "type": "bought",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High buys Skulk"
+  },
+  {
+    "seq": 35,
+    "type": "gained",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High gains Skulk"
+  },
+  {
+    "seq": 36,
+    "type": "resolved",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High's Skulk resolves"
+  },
+  {
+    "seq": 37,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High gains Gold"
+  },
+  {
+    "seq": 38,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 39,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 40,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 3"
+  },
+  {
+    "seq": 41,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 42,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 43,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 44,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 45,
+    "type": "bought",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High buys Skulk"
+  },
+  {
+    "seq": 46,
+    "type": "gained",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High gains Skulk"
+  },
+  {
+    "seq": 47,
+    "type": "resolved",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High's Skulk resolves"
+  },
+  {
+    "seq": 48,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 49,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 50,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 3"
+  },
+  {
+    "seq": 51,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 52,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 53,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High trashes Estate"
+  },
+  {
+    "seq": 54,
+    "type": "gained",
+    "player": 1,
+    "card": "Curse",
+    "text": "Astra High gains Curse"
+  },
+  {
+    "seq": 55,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 56,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 57,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 58,
+    "type": "bought",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High buys Carnival"
+  },
+  {
+    "seq": 59,
+    "type": "gained",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High gains Carnival"
+  },
+  {
+    "seq": 60,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 61,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 4"
+  },
+  {
+    "seq": 62,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 63,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 64,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 65,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 66,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 67,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 68,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 69,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 70,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 4"
+  },
+  {
+    "seq": 71,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 72,
+    "type": "received",
+    "player": 0,
+    "card": "Plague",
+    "text": "Fable High receives Plague"
+  },
+  {
+    "seq": 73,
+    "type": "gained",
+    "player": 0,
+    "card": "Curse",
+    "text": "Fable High gains Curse to their hand"
+  },
+  {
+    "seq": 74,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 75,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 76,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 77,
+    "type": "bought",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High buys Workshop"
+  },
+  {
+    "seq": 78,
+    "type": "gained",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High gains Workshop"
+  },
+  {
+    "seq": 79,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 80,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 81,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 5"
+  },
+  {
+    "seq": 82,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 83,
+    "type": "received",
+    "player": 1,
+    "card": "Bad Omens",
+    "text": "Astra High receives Bad Omens"
+  },
+  {
+    "seq": 84,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts 10 cards from their deck into their discard pile"
+  },
+  {
+    "seq": 85,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High puts Copper onto their deck"
+  },
+  {
+    "seq": 86,
+    "type": "top-decked",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High puts Copper onto their deck"
+  },
+  {
+    "seq": 87,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 88,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 89,
+    "type": "bought",
+    "player": 0,
+    "card": "Search",
+    "text": "Fable High buys Search"
+  },
+  {
+    "seq": 90,
+    "type": "gained",
+    "player": 0,
+    "card": "Search",
+    "text": "Fable High gains Search"
+  },
+  {
+    "seq": 91,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 92,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 5"
+  },
+  {
+    "seq": 93,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 94,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 95,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 96,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 97,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 98,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 99,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 100,
+    "type": "bought",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High buys Baker"
+  },
+  {
+    "seq": 101,
+    "type": "gained",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High gains Baker"
+  },
+  {
+    "seq": 102,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 103,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 104,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 6"
+  },
+  {
+    "seq": 105,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 106,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 107,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 108,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 109,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 110,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 111,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 112,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 6"
+  },
+  {
+    "seq": 113,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 114,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 115,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 116,
+    "type": "bought",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High buys Carnival"
+  },
+  {
+    "seq": 117,
+    "type": "gained",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High gains Carnival"
+  },
+  {
+    "seq": 118,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 119,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 7"
+  },
+  {
+    "seq": 120,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 121,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 122,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 123,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 124,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 125,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 126,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 127,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 128,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 7"
+  },
+  {
+    "seq": 129,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 130,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 131,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 132,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 133,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 134,
+    "type": "revealed",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High reveals Baker"
+  },
+  {
+    "seq": 135,
+    "type": "revealed",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High reveals Workshop"
+  },
+  {
+    "seq": 136,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 137,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Workshop, Baker from the top of their deck into their hand"
+  },
+  {
+    "seq": 138,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High discards Copper"
+  },
+  {
+    "seq": 139,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 140,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 141,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 142,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 143,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 144,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 145,
+    "type": "gained",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High gains Village Green"
+  },
+  {
+    "seq": 146,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 147,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 148,
+    "type": "revealed",
+    "player": 1,
+    "card": "Curse",
+    "text": "Astra High reveals Curse"
+  },
+  {
+    "seq": 149,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 150,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High reveals Estate"
+  },
+  {
+    "seq": 151,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Curse, Estate from the top of their deck into their hand"
+  },
+  {
+    "seq": 152,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High discards Copper"
+  },
+  {
+    "seq": 153,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 154,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 155,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 156,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 157,
+    "type": "bought",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High buys Skulk"
+  },
+  {
+    "seq": 158,
+    "type": "gained",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High gains Skulk"
+  },
+  {
+    "seq": 159,
+    "type": "resolved",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High's Skulk resolves"
+  },
+  {
+    "seq": 160,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High gains Gold"
+  },
+  {
+    "seq": 161,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 162,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 163,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 8"
+  },
+  {
+    "seq": 164,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 165,
+    "type": "received",
+    "player": 1,
+    "card": "Locusts",
+    "text": "Astra High receives Locusts"
+  },
+  {
+    "seq": 166,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 167,
+    "type": "trashed",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High trashes Skulk"
+  },
+  {
+    "seq": 168,
+    "type": "gained",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High gains Native Village"
+  },
+  {
+    "seq": 169,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 170,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 171,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 172,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 173,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 174,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 8"
+  },
+  {
+    "seq": 175,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 176,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 177,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 178,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 179,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 180,
+    "type": "trashed",
+    "player": 1,
+    "card": "Curse",
+    "text": "Astra High trashes Curse"
+  },
+  {
+    "seq": 181,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 182,
+    "type": "gained",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High gains Village Green"
+  },
+  {
+    "seq": 183,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 184,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 185,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 186,
+    "type": "bought",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High buys Carnival"
+  },
+  {
+    "seq": 187,
+    "type": "gained",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High gains Carnival"
+  },
+  {
+    "seq": 188,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 189,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 9"
+  },
+  {
+    "seq": 190,
+    "type": "played",
+    "player": 0,
+    "card": "Search",
+    "text": "Fable High plays Search"
+  },
+  {
+    "seq": 191,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 192,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 193,
+    "type": "bought",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High buys Skulk"
+  },
+  {
+    "seq": 194,
+    "type": "gained",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High gains Skulk"
+  },
+  {
+    "seq": 195,
+    "type": "resolved",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High's Skulk resolves"
+  },
+  {
+    "seq": 196,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 197,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 198,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 9"
+  },
+  {
+    "seq": 199,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 200,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High reveals Estate"
+  },
+  {
+    "seq": 201,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 202,
+    "type": "revealed",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High reveals Baker"
+  },
+  {
+    "seq": 203,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High reveals Estate"
+  },
+  {
+    "seq": 204,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Estate, Baker, Carnival from the top of their deck into their hand"
+  },
+  {
+    "seq": 205,
+    "type": "discarded",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High discards Estate"
+  },
+  {
+    "seq": 206,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 207,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 208,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 209,
+    "type": "bought",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High buys Baker"
+  },
+  {
+    "seq": 210,
+    "type": "gained",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High gains Baker"
+  },
+  {
+    "seq": 211,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 212,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 213,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 10"
+  },
+  {
+    "seq": 214,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 215,
+    "type": "received",
+    "player": 1,
+    "card": "War",
+    "text": "Astra High receives War"
+  },
+  {
+    "seq": 216,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 217,
+    "type": "trashed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High trashes Village Green"
+  },
+  {
+    "seq": 218,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 219,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 220,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 221,
+    "type": "bought",
+    "player": 0,
+    "card": "Baker",
+    "text": "Fable High buys Baker"
+  },
+  {
+    "seq": 222,
+    "type": "gained",
+    "player": 0,
+    "card": "Baker",
+    "text": "Fable High gains Baker"
+  },
+  {
+    "seq": 223,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 224,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 10"
+  },
+  {
+    "seq": 225,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 226,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 227,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 228,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 229,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 230,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Gold, Carnival from the top of their deck into their hand"
+  },
+  {
+    "seq": 231,
+    "type": "discarded",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High discards Gold"
+  },
+  {
+    "seq": 232,
+    "type": "discarded",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High discards Carnival"
+  },
+  {
+    "seq": 233,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 234,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 235,
+    "type": "bought",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High buys Village Green"
+  },
+  {
+    "seq": 236,
+    "type": "gained",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High gains Village Green"
+  },
+  {
+    "seq": 237,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 238,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 11"
+  },
+  {
+    "seq": 239,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 240,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 241,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 242,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 243,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 244,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 245,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 246,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 247,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 11"
+  },
+  {
+    "seq": 248,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 249,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 250,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 251,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 252,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 253,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 254,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 255,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 256,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 257,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 258,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 259,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 260,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the top card of their deck on their mat (Native Village)"
+  },
+  {
+    "seq": 261,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 262,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from the top of their deck on their Native Village mat"
+  },
+  {
+    "seq": 263,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 264,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 265,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 266,
+    "type": "bought",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High buys Native Village"
+  },
+  {
+    "seq": 267,
+    "type": "gained",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High gains Native Village"
+  },
+  {
+    "seq": 268,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 269,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 270,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 12"
+  },
+  {
+    "seq": 271,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 272,
+    "type": "received",
+    "player": 1,
+    "card": "Fear",
+    "text": "Astra High receives Fear"
+  },
+  {
+    "seq": 273,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High discards Copper"
+  },
+  {
+    "seq": 274,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 275,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 276,
+    "type": "bought",
+    "player": 0,
+    "card": "Gardens",
+    "text": "Fable High buys Gardens"
+  },
+  {
+    "seq": 277,
+    "type": "gained",
+    "player": 0,
+    "card": "Gardens",
+    "text": "Fable High gains Gardens"
+  },
+  {
+    "seq": 278,
+    "type": "bought",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High buys Copper"
+  },
+  {
+    "seq": 279,
+    "type": "gained",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High gains Copper"
+  },
+  {
+    "seq": 280,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 281,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 12"
+  },
+  {
+    "seq": 282,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 283,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 284,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 285,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 286,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 287,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 288,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 289,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High reveals Estate"
+  },
+  {
+    "seq": 290,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 291,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Estate, Carnival, Village Green from the top of their deck into their hand"
+  },
+  {
+    "seq": 292,
+    "type": "discarded",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High discards Village Green"
+  },
+  {
+    "seq": 293,
+    "type": "resolved",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High's Village Green resolves"
+  },
+  {
+    "seq": 294,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 295,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 296,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 297,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 298,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 299,
+    "type": "revealed",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High reveals Skulk"
+  },
+  {
+    "seq": 300,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 301,
+    "type": "revealed",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High reveals Baker"
+  },
+  {
+    "seq": 302,
+    "type": "revealed",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High reveals Native Village"
+  },
+  {
+    "seq": 303,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Native Village, Baker, Skulk from the top of their deck into their hand"
+  },
+  {
+    "seq": 304,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 305,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 306,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 307,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 308,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 309,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the cards from their mat into their hand (Native Village)"
+  },
+  {
+    "seq": 310,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from their Native Village mat into their hand"
+  },
+  {
+    "seq": 311,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 312,
+    "type": "gained",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High gains Skulk"
+  },
+  {
+    "seq": 313,
+    "type": "resolved",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High's Skulk resolves"
+  },
+  {
+    "seq": 314,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High gains Gold"
+  },
+  {
+    "seq": 315,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 316,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 317,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 318,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 319,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 320,
+    "type": "revealed",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High reveals Native Village"
+  },
+  {
+    "seq": 321,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 322,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 323,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 324,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Gold, Native Village from the top of their deck into their hand"
+  },
+  {
+    "seq": 325,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High discards Copper"
+  },
+  {
+    "seq": 326,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 327,
+    "type": "received",
+    "player": 0,
+    "card": "Poverty",
+    "text": "Fable High receives Poverty"
+  },
+  {
+    "seq": 328,
+    "type": "discarded",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High discards Estate"
+  },
+  {
+    "seq": 329,
+    "type": "discarded",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High discards Skulk"
+  },
+  {
+    "seq": 330,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 331,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the top card of their deck on their mat (Native Village)"
+  },
+  {
+    "seq": 332,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 333,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from the top of their deck on their Native Village mat"
+  },
+  {
+    "seq": 334,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 335,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 336,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 337,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 338,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 339,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 340,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 341,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 342,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 343,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 344,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 345,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 346,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 347,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 348,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 349,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 350,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 351,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 352,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 353,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 13"
+  },
+  {
+    "seq": 354,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 355,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 356,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 357,
+    "type": "bought",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High buys Tunnel"
+  },
+  {
+    "seq": 358,
+    "type": "gained",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High gains Tunnel"
+  },
+  {
+    "seq": 359,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 360,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 13"
+  },
+  {
+    "seq": 361,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 362,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 363,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 364,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 365,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 366,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Astra High reveals Estate"
+  },
+  {
+    "seq": 367,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 368,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 369,
+    "type": "revealed",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High reveals Skulk"
+  },
+  {
+    "seq": 370,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Estate, Gold, Skulk from the top of their deck into their hand"
+  },
+  {
+    "seq": 371,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 372,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 373,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 374,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 375,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the cards from their mat into their hand (Native Village)"
+  },
+  {
+    "seq": 376,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from their Native Village mat into their hand"
+  },
+  {
+    "seq": 377,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 378,
+    "type": "received",
+    "player": 0,
+    "card": "Greed",
+    "text": "Fable High receives Greed"
+  },
+  {
+    "seq": 379,
+    "type": "gained",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High gains Copper onto their deck"
+  },
+  {
+    "seq": 380,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 381,
+    "type": "received",
+    "player": 0,
+    "card": "Delusion",
+    "text": "Fable High receives Delusion"
+  },
+  {
+    "seq": 382,
+    "type": "received",
+    "player": 0,
+    "card": "Deluded",
+    "text": "Fable High receives Deluded"
+  },
+  {
+    "seq": 383,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 384,
+    "type": "gained",
+    "player": 1,
+    "card": "Gardens",
+    "text": "Astra High gains Gardens"
+  },
+  {
+    "seq": 385,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 386,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 387,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 388,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 389,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 390,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 391,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 392,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 14"
+  },
+  {
+    "seq": 393,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 394,
+    "type": "received",
+    "player": 1,
+    "card": "Famine",
+    "text": "Astra High receives Famine"
+  },
+  {
+    "seq": 395,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 396,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 397,
+    "type": "revealed",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High reveals Province"
+  },
+  {
+    "seq": 398,
+    "type": "discarded",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High discards Village Green"
+  },
+  {
+    "seq": 399,
+    "type": "discarded",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High discards Carnival"
+  },
+  {
+    "seq": 400,
+    "type": "resolved",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High's Village Green resolves"
+  },
+  {
+    "seq": 401,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 402,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 403,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses at the start of their next turn (Village Green)"
+  },
+  {
+    "seq": 404,
+    "type": "moved",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High puts Province back onto their deck"
+  },
+  {
+    "seq": 405,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 406,
+    "type": "resolved",
+    "player": 0,
+    "card": "Deluded",
+    "text": "Fable High's Deluded resolves"
+  },
+  {
+    "seq": 407,
+    "type": "returned",
+    "player": 0,
+    "card": "Deluded",
+    "text": "Fable High returns Deluded"
+  },
+  {
+    "seq": 408,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 409,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 410,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 411,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 412,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 413,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 414,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 14"
+  },
+  {
+    "seq": 415,
+    "type": "resolved",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High's Village Green resolves"
+  },
+  {
+    "seq": 416,
+    "type": "bonus",
+    "player": 1,
+    "text": "Astra High gets +2 Actions"
+  },
+  {
+    "seq": 417,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 418,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 419,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 420,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 421,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 422,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 423,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the top card of their deck on their mat (Native Village)"
+  },
+  {
+    "seq": 424,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 425,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from the top of their deck on their Native Village mat"
+  },
+  {
+    "seq": 426,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 427,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 428,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 429,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 430,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 431,
+    "type": "revealed",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High reveals Province"
+  },
+  {
+    "seq": 432,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 433,
+    "type": "revealed",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High reveals Hideout"
+  },
+  {
+    "seq": 434,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 435,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Province, Carnival, Hideout from the top of their deck into their hand"
+  },
+  {
+    "seq": 436,
+    "type": "discarded",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High discards Carnival"
+  },
+  {
+    "seq": 437,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 438,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gardens",
+    "text": "Astra High reveals Gardens"
+  },
+  {
+    "seq": 439,
+    "type": "revealed",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High reveals Province"
+  },
+  {
+    "seq": 440,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 441,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 442,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Gold, Province, Gardens from the top of their deck into their hand"
+  },
+  {
+    "seq": 443,
+    "type": "discarded",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High discards Gold"
+  },
+  {
+    "seq": 444,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 445,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 446,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 447,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 448,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the cards from their mat into their hand (Native Village)"
+  },
+  {
+    "seq": 449,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from their Native Village mat into their hand"
+  },
+  {
+    "seq": 450,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 451,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 452,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 453,
+    "type": "bought",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Astra High buys Duchy"
+  },
+  {
+    "seq": 454,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Astra High gains Duchy"
+  },
+  {
+    "seq": 455,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 456,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 15"
+  },
+  {
+    "seq": 457,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 458,
+    "type": "received",
+    "player": 1,
+    "card": "Envy",
+    "text": "Astra High receives Envy"
+  },
+  {
+    "seq": 459,
+    "type": "received",
+    "player": 1,
+    "card": "Envious",
+    "text": "Astra High receives Envious"
+  },
+  {
+    "seq": 460,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 461,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 462,
+    "type": "bought",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High buys Estate"
+  },
+  {
+    "seq": 463,
+    "type": "gained",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High gains Estate"
+  },
+  {
+    "seq": 464,
+    "type": "bought",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High buys Copper"
+  },
+  {
+    "seq": 465,
+    "type": "gained",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High gains Copper"
+  },
+  {
+    "seq": 466,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 467,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 15"
+  },
+  {
+    "seq": 468,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 469,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 470,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 471,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 472,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 473,
+    "type": "received",
+    "player": 0,
+    "card": "Misery",
+    "text": "Fable High receives Misery"
+  },
+  {
+    "seq": 474,
+    "type": "received",
+    "player": 0,
+    "card": "Miserable",
+    "text": "Fable High receives Miserable"
+  },
+  {
+    "seq": 475,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 476,
+    "type": "gained",
+    "player": 1,
+    "card": "Gardens",
+    "text": "Astra High gains Gardens"
+  },
+  {
+    "seq": 477,
+    "type": "resolved",
+    "player": 1,
+    "card": "Envious",
+    "text": "Astra High's Envious resolves"
+  },
+  {
+    "seq": 478,
+    "type": "returned",
+    "player": 1,
+    "card": "Envious",
+    "text": "Astra High returns Envious"
+  },
+  {
+    "seq": 479,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 480,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 481,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 482,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 16"
+  },
+  {
+    "seq": 483,
+    "type": "played",
+    "player": 0,
+    "card": "Baker",
+    "text": "Fable High plays Baker"
+  },
+  {
+    "seq": 484,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High takes a Coffers"
+  },
+  {
+    "seq": 485,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 486,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 487,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 488,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 489,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 490,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 491,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 492,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 493,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 494,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 495,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 16"
+  },
+  {
+    "seq": 496,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 497,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the top card of their deck on their mat (Native Village)"
+  },
+  {
+    "seq": 498,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 499,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from the top of their deck on their Native Village mat"
+  },
+  {
+    "seq": 500,
+    "type": "played",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High plays Native Village"
+  },
+  {
+    "seq": 501,
+    "type": "chosen",
+    "player": 1,
+    "card": "Native Village",
+    "text": "Astra High chooses to put the top card of their deck on their mat (Native Village)"
+  },
+  {
+    "seq": 502,
+    "type": "looked",
+    "player": 1,
+    "text": "Astra High looks at the top card of their deck"
+  },
+  {
+    "seq": 503,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts a card from the top of their deck on their Native Village mat"
+  },
+  {
+    "seq": 504,
+    "type": "played",
+    "player": 1,
+    "card": "Workshop",
+    "text": "Astra High plays Workshop"
+  },
+  {
+    "seq": 505,
+    "type": "gained",
+    "player": 1,
+    "card": "Gardens",
+    "text": "Astra High gains Gardens"
+  },
+  {
+    "seq": 506,
+    "type": "bought",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High buys Copper"
+  },
+  {
+    "seq": 507,
+    "type": "gained",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High gains Copper"
+  },
+  {
+    "seq": 508,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 509,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Fable High starts turn 17"
+  },
+  {
+    "seq": 510,
+    "type": "played",
+    "player": 0,
+    "card": "Skulk",
+    "text": "Fable High plays Skulk"
+  },
+  {
+    "seq": 511,
+    "type": "received",
+    "player": 1,
+    "card": "Haunting",
+    "text": "Astra High receives Haunting"
+  },
+  {
+    "seq": 512,
+    "type": "top-decked",
+    "player": 1,
+    "text": "Astra High puts a card onto their deck"
+  },
+  {
+    "seq": 513,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 514,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 515,
+    "type": "counter",
+    "player": 0,
+    "text": "Fable High spends a Coffers"
+  },
+  {
+    "seq": 516,
+    "type": "bought",
+    "player": 0,
+    "card": "Gardens",
+    "text": "Fable High buys Gardens"
+  },
+  {
+    "seq": 517,
+    "type": "gained",
+    "player": 0,
+    "card": "Gardens",
+    "text": "Fable High gains Gardens"
+  },
+  {
+    "seq": 518,
+    "type": "bought",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High buys Tunnel"
+  },
+  {
+    "seq": 519,
+    "type": "gained",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High gains Tunnel"
+  },
+  {
+    "seq": 520,
+    "type": "drew",
+    "player": 0,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 521,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Astra High starts turn 17"
+  },
+  {
+    "seq": 522,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 523,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 524,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 525,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 526,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 527,
+    "type": "revealed",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High reveals Carnival"
+  },
+  {
+    "seq": 528,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High reveals Gold"
+  },
+  {
+    "seq": 529,
+    "type": "revealed",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High reveals Skulk"
+  },
+  {
+    "seq": 530,
+    "type": "revealed",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High reveals Province"
+  },
+  {
+    "seq": 531,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Gold, Province, Carnival, Skulk from the top of their deck into their hand"
+  },
+  {
+    "seq": 532,
+    "type": "played",
+    "player": 1,
+    "card": "Hideout",
+    "text": "Astra High plays Hideout"
+  },
+  {
+    "seq": 533,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 534,
+    "type": "trashed",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High trashes Skulk"
+  },
+  {
+    "seq": 535,
+    "type": "played",
+    "player": 1,
+    "card": "Baker",
+    "text": "Astra High plays Baker"
+  },
+  {
+    "seq": 536,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High takes a Coffers"
+  },
+  {
+    "seq": 537,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 538,
+    "type": "resolved",
+    "player": 1,
+    "card": "Inspiring",
+    "text": "Astra High's Inspiring resolves"
+  },
+  {
+    "seq": 539,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 540,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 541,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 542,
+    "type": "played",
+    "player": 1,
+    "card": "Carnival",
+    "text": "Astra High plays Carnival"
+  },
+  {
+    "seq": 543,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 544,
+    "type": "revealed",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High reveals Village Green"
+  },
+  {
+    "seq": 545,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 546,
+    "type": "revealed",
+    "player": 1,
+    "card": "Gardens",
+    "text": "Astra High reveals Gardens"
+  },
+  {
+    "seq": 547,
+    "type": "moved",
+    "player": 1,
+    "text": "Astra High puts Copper, Gardens, Village Green from the top of their deck into their hand"
+  },
+  {
+    "seq": 548,
+    "type": "discarded",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High discards Copper"
+  },
+  {
+    "seq": 549,
+    "type": "played",
+    "player": 1,
+    "card": "Skulk",
+    "text": "Astra High plays Skulk"
+  },
+  {
+    "seq": 550,
+    "type": "received",
+    "player": 0,
+    "card": "Poverty",
+    "text": "Fable High receives Poverty"
+  },
+  {
+    "seq": 551,
+    "type": "discarded",
+    "player": 0,
+    "card": "Estate",
+    "text": "Fable High discards Estate"
+  },
+  {
+    "seq": 552,
+    "type": "discarded",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High discards Tunnel"
+  },
+  {
+    "seq": 553,
+    "type": "resolved",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High's Tunnel resolves"
+  },
+  {
+    "seq": 554,
+    "type": "revealed",
+    "player": 0,
+    "card": "Tunnel",
+    "text": "Fable High reveals Tunnel"
+  },
+  {
+    "seq": 555,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 556,
+    "type": "played",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High plays Village Green"
+  },
+  {
+    "seq": 557,
+    "type": "chosen",
+    "player": 1,
+    "card": "Village Green",
+    "text": "Astra High chooses now (Village Green)"
+  },
+  {
+    "seq": 558,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 559,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 560,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 561,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 562,
+    "type": "bought",
+    "player": 1,
+    "card": "Tunnel",
+    "text": "Astra High buys Tunnel"
+  },
+  {
+    "seq": 563,
+    "type": "gained",
+    "player": 1,
+    "card": "Tunnel",
+    "text": "Astra High gains Tunnel"
+  },
+  {
+    "seq": 564,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 565,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 566,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 567,
+    "type": "counter",
+    "player": 1,
+    "text": "Astra High spends a Coffers"
+  },
+  {
+    "seq": 568,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 569,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 570,
+    "type": "resolved",
+    "player": 0,
+    "card": "Search",
+    "text": "Fable High's Search resolves"
+  },
+  {
+    "seq": 571,
+    "type": "trashed",
+    "player": 0,
+    "card": "Search",
+    "text": "Fable High trashes Search"
+  },
+  {
+    "seq": 572,
+    "type": "gained",
+    "player": 0,
+    "card": "Shield",
+    "text": "Fable High gains Shield"
+  },
+  {
+    "seq": 573,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 574,
+    "type": "drew",
+    "player": 1,
+    "text": "Astra High draws 5 cards"
+  }
+]

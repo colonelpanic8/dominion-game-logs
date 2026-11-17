@@ -1,0 +1,216 @@
+{
+  "created_at": "2026-11-17T08:23:01.166997+00:00",
+  "phase": "awaiting_deployment",
+  "completed": [
+    {
+      "game_id": "g72",
+      "completed_at": "2026-11-17T09:00:05.439974+00:00",
+      "winner": "Astra High",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 35,
+            "rank": 2,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "Astra High",
+            "vp": 37,
+            "rank": 1,
+            "turns": 17
+          }
+        ]
+      },
+      "request": {
+        "players": 2,
+        "names": [
+          "Fable High",
+          "Astra High"
+        ],
+        "agents": [
+          "Fable High",
+          "Astra High"
+        ],
+        "seed": 13205529954211679146,
+        "watchable": true
+      },
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794903918486-f6fec1405a27333e",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794903918486-fc3f20bde0e69b58",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "game_id": "g73",
+      "completed_at": "2026-11-17T09:35:22.723592+00:00",
+      "winner": "Astra High",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Astra High",
+            "vp": 36,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 27,
+            "rank": 2,
+            "turns": 13
+          }
+        ]
+      },
+      "request": {
+        "players": 2,
+        "names": [
+          "Astra High",
+          "Fable High"
+        ],
+        "agents": [
+          "Astra High",
+          "Fable High"
+        ],
+        "seed": 7462559952469106388,
+        "watchable": true
+      },
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794906005517-e513fad29919bad3",
+            "agent": "Astra High",
+            "models": [
+              "gpt-6-astra"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794906005517-fa7047d222eed7ec",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      }
+    }
+  ],
+  "active_game": null,
+  "creation_pending": false,
+  "score": {
+    "Fable High": 0,
+    "Astra High": 2
+  },
+  "previous_attempt": "fable-astra-bo5-20261116",
+  "user_adjudication": "Start a fresh best-of-five. Prior mixed-model games and technical forfeit retained separately and do not count here.",
+  "playbook_revision": "686351798394ee507cefcc58a5a67891e224c416",
+  "application_revision": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "updated_at": "2026-11-17T09:36:52.732848+00:00",
+  "agents": [
+    "Fable High",
+    "Astra High"
+  ],
+  "best_of": 5,
+  "wins_needed": 3,
+  "pending_request": {
+    "players": 2,
+    "names": [
+      "Astra High",
+      "Fable High"
+    ],
+    "agents": [
+      "Astra High",
+      "Fable High"
+    ],
+    "seed": 7462559952469106388,
+    "watchable": true
+  },
+  "active_request": {
+    "players": 2,
+    "names": [
+      "Astra High",
+      "Fable High"
+    ],
+    "agents": [
+      "Astra High",
+      "Fable High"
+    ],
+    "seed": 7462559952469106388,
+    "watchable": true
+  },
+  "current_turn": {
+    "number": 14,
+    "player": 0,
+    "activePlayer": "Astra High",
+    "yourTurn": false,
+    "phase": "buy",
+    "actions": 0,
+    "buys": 1,
+    "coins": 0,
+    "potions": 0
+  },
+  "model_verification": {
+    "eligible": true,
+    "finished": false,
+    "sessions": [
+      {
+        "archive": "1794906005517-e513fad29919bad3",
+        "agent": "Astra High",
+        "models": [
+          "gpt-6-astra"
+        ],
+        "finished": false
+      },
+      {
+        "archive": "1794906005517-fa7047d222eed7ec",
+        "agent": "Fable High",
+        "models": [
+          "claude-fable-5-2"
+        ],
+        "finished": false
+      }
+    ],
+    "problems": []
+  },
+  "error": null,
+  "coordinator_recoveries": [
+    {
+      "time": "2026-11-17T08:57:22.069105+00:00",
+      "error": "Malformed complete archive record",
+      "fix": "Read a fixed bytes snapshot and parse only newline-terminated records, ignoring the incomplete tail; no journal edits.",
+      "checks": "5 snapshot regression checks, 7 model checks, 6 lifecycle checks and Ruff passed.",
+      "active_game": "g72",
+      "agents_undisturbed": true
+    }
+  ]
+}

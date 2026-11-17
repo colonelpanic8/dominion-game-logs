@@ -1,0 +1,177 @@
+{
+  "run": "2026-11-17/fable-astra-g73",
+  "source": "dominion-arena",
+  "source_url": "https://dominion-arena.duckdns.org/game/g73",
+  "official_game_id": null,
+  "series_game_number": 2,
+  "captured": "2026-11-17T09:36:54.980484+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "Fable High vs Astra High",
+    "effort": "high",
+    "opponent": "agent",
+    "players": 2,
+    "rated": false,
+    "configuration": {
+      "players": 2,
+      "names": [
+        "Astra High",
+        "Fable High"
+      ],
+      "agents": [
+        "Astra High",
+        "Fable High"
+      ],
+      "seed": 7462559952469106388,
+      "watchable": true
+    }
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+      "dirty": false,
+      "package": "/nix/store/57fy96isnmxmi71kf9gk1q3m7p4m7fx3-dominion-with-web-0.1.0"
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "note": "Verified live revised playbook and exact requested profiles; actual native model messages independently checked."
+    }
+  },
+  "sessions": [
+    {
+      "id": "1794906005517-e513fad29919bad3",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6-astra",
+        "name": "Astra High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "started_ms": 1794906005517,
+      "last_event_ms": 1794908117000,
+      "files": [
+        {
+          "file": "sessions/1794906005517-e513fad29919bad3/interactions.jsonl.gz",
+          "source_sha256": "b9e86b86658ff06eb52080b8acd200ae0eb8f14ae21692710b0ae4327df29912",
+          "source_bytes": 4248155
+        },
+        {
+          "file": "sessions/1794906005517-e513fad29919bad3/transcript.jsonl.gz",
+          "source_sha256": "3f34076e4a023eeff6b4171aa0e61da9d63007332c21d6059c7221087271b6f2",
+          "source_bytes": 123354
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {},
+      "cli_results": [],
+      "actual_model_note": "Empty model counts for direct OpenAI: model is recorded in agent specification and direct_request events."
+    },
+    {
+      "id": "1794906005517-fa7047d222eed7ec",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "claude-fable-5-2",
+        "name": "Fable High",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 1,
+      "started_ms": 1794906005517,
+      "last_event_ms": 1794908113765,
+      "files": [
+        {
+          "file": "sessions/1794906005517-fa7047d222eed7ec/interactions.jsonl.gz",
+          "source_sha256": "232ffe5ed6ddc01d699f88dcb148801be5f8ae58508e0430dfb7ded7af36df74",
+          "source_bytes": 10169786
+        },
+        {
+          "file": "sessions/1794906005517-fa7047d222eed7ec/network.jsonl.gz",
+          "source_sha256": "4d39e09595a2c6a79f1d320a1ab778220f0d788fa1ddddc535c0c2f9183b273e",
+          "source_bytes": 222
+        },
+        {
+          "file": "sessions/1794906005517-fa7047d222eed7ec/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/1794906005517-fa7047d222eed7ec/response-000001.stdout.jsonl.gz",
+          "source_sha256": "f14b00a5d0ccb451f411177b4466c3f5f8039eee603977c5fd53717e5574a9d8",
+          "source_bytes": 8203574
+        },
+        {
+          "file": "sessions/1794906005517-fa7047d222eed7ec/transcript.jsonl.gz",
+          "source_sha256": "db68a23abaf2f265ae59f05ab941c0ba14a694ff8f14f6acc84cd1217af91681",
+          "source_bytes": 2018550
+        }
+      ],
+      "has_recorded_result": true,
+      "actual_assistant_models": {
+        "claude-fable-5-2": 161
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": false,
+          "stop_reason": "end_turn"
+        }
+      ],
+      "actual_model_note": "Observed native assistant-message models; requested profile alone does not identify the actual model."
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 537,
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "g73",
+        "result": {
+          "reason": "provinces-gone",
+          "players": [
+            {
+              "index": 0,
+              "name": "Astra High",
+              "vp": 36,
+              "rank": 1,
+              "turns": 14,
+              "points": 36
+            },
+            {
+              "index": 1,
+              "name": "Fable High",
+              "vp": 27,
+              "rank": 2,
+              "turns": 13,
+              "points": 27
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series_snapshot": "../../../series/2026-11-17-clean-fable-astra-before-session-refresh/README.md"
+}

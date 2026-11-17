@@ -1,0 +1,3624 @@
+[
+  {
+    "seq": 0,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 1"
+  },
+  {
+    "seq": 1,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 2,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 3,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 4,
+    "type": "bought",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High buys Silver"
+  },
+  {
+    "seq": 5,
+    "type": "gained",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High gains Silver"
+  },
+  {
+    "seq": 6,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 7,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 1"
+  },
+  {
+    "seq": 8,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 9,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 2"
+  },
+  {
+    "seq": 10,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 11,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 12,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 13,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 14,
+    "type": "bought",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High buys Priest"
+  },
+  {
+    "seq": 15,
+    "type": "gained",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High gains Priest"
+  },
+  {
+    "seq": 16,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 17,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 18,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 2"
+  },
+  {
+    "seq": 19,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 20,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 21,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 22,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 23,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 24,
+    "type": "bought",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High buys Priest"
+  },
+  {
+    "seq": 25,
+    "type": "gained",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High gains Priest"
+  },
+  {
+    "seq": 26,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 27,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 28,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 3"
+  },
+  {
+    "seq": 29,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 30,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Astra High trashes Estate"
+  },
+  {
+    "seq": 31,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 32,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 33,
+    "type": "bought",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High buys Longship"
+  },
+  {
+    "seq": 34,
+    "type": "gained",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High gains Longship"
+  },
+  {
+    "seq": 35,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 36,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 3"
+  },
+  {
+    "seq": 37,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 38,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 39,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 40,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 41,
+    "type": "bought",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High buys Poet"
+  },
+  {
+    "seq": 42,
+    "type": "gained",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High gains Poet"
+  },
+  {
+    "seq": 43,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 44,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 4"
+  },
+  {
+    "seq": 45,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 46,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 47,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 48,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 49,
+    "type": "bought",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High buys Poet"
+  },
+  {
+    "seq": 50,
+    "type": "gained",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High gains Poet"
+  },
+  {
+    "seq": 51,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 52,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 53,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 4"
+  },
+  {
+    "seq": 54,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 55,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 56,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 57,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 58,
+    "type": "bought",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High buys Silver"
+  },
+  {
+    "seq": 59,
+    "type": "gained",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High gains Silver"
+  },
+  {
+    "seq": 60,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 61,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 62,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 5"
+  },
+  {
+    "seq": 63,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 64,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 65,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 66,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 67,
+    "type": "bought",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High buys Poet"
+  },
+  {
+    "seq": 68,
+    "type": "gained",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High gains Poet"
+  },
+  {
+    "seq": 69,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 70,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 5"
+  },
+  {
+    "seq": 71,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 72,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 73,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 74,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 75,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 76,
+    "type": "bought",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High buys Journeyman"
+  },
+  {
+    "seq": 77,
+    "type": "gained",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High gains Journeyman"
+  },
+  {
+    "seq": 78,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 79,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 6"
+  },
+  {
+    "seq": 80,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 81,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Astra High trashes Estate"
+  },
+  {
+    "seq": 82,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 83,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 84,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 85,
+    "type": "bought",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High buys Hunting Grounds"
+  },
+  {
+    "seq": 86,
+    "type": "gained",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High gains Hunting Grounds"
+  },
+  {
+    "seq": 87,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 88,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 89,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 6"
+  },
+  {
+    "seq": 90,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 91,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 92,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 93,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 94,
+    "type": "bought",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High buys Longship"
+  },
+  {
+    "seq": 95,
+    "type": "gained",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High gains Longship"
+  },
+  {
+    "seq": 96,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 97,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 98,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 7"
+  },
+  {
+    "seq": 99,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 100,
+    "type": "counter",
+    "text": "1 Sun token removed from Rapid Expansion"
+  },
+  {
+    "seq": 101,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 102,
+    "type": "revealed",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High reveals Priest"
+  },
+  {
+    "seq": 103,
+    "type": "moved",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High puts Priest back onto their deck"
+  },
+  {
+    "seq": 104,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 105,
+    "type": "counter",
+    "text": "1 Sun token removed from Rapid Expansion"
+  },
+  {
+    "seq": 106,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 107,
+    "type": "revealed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 108,
+    "type": "moved",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 109,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 110,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 111,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 112,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 113,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 114,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 115,
+    "type": "bought",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High buys Longship"
+  },
+  {
+    "seq": 116,
+    "type": "gained",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High gains Longship"
+  },
+  {
+    "seq": 117,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 118,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 7"
+  },
+  {
+    "seq": 119,
+    "type": "played",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High plays Poet"
+  },
+  {
+    "seq": 120,
+    "type": "counter",
+    "text": "1 Sun token removed from Rapid Expansion"
+  },
+  {
+    "seq": 121,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 122,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 123,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 124,
+    "type": "played",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High plays Journeyman"
+  },
+  {
+    "seq": 125,
+    "type": "named",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High names Priest"
+  },
+  {
+    "seq": 126,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 127,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 128,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High reveals Estate"
+  },
+  {
+    "seq": 129,
+    "type": "moved",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High puts Estate from the top of their deck into their hand"
+  },
+  {
+    "seq": 130,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 131,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 132,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 133,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 134,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 135,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 136,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 137,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 138,
+    "type": "bought",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High buys Gold"
+  },
+  {
+    "seq": 139,
+    "type": "gained",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High gains Gold"
+  },
+  {
+    "seq": 140,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 141,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 142,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 8"
+  },
+  {
+    "seq": 143,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 144,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 145,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 146,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 147,
+    "type": "counter",
+    "text": "1 Sun token removed from Rapid Expansion"
+  },
+  {
+    "seq": 148,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 149,
+    "type": "revealed",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High reveals Longship"
+  },
+  {
+    "seq": 150,
+    "type": "moved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High puts Longship back onto their deck"
+  },
+  {
+    "seq": 151,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 152,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 153,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 154,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 155,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 156,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 157,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 158,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 159,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 160,
+    "type": "bought-landscape",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High buys Fair"
+  },
+  {
+    "seq": 161,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 162,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 163,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 8"
+  },
+  {
+    "seq": 164,
+    "type": "played",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High plays Longship"
+  },
+  {
+    "seq": 165,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 166,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 167,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 168,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 169,
+    "type": "bought-landscape",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High buys Fair"
+  },
+  {
+    "seq": 170,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 171,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 9"
+  },
+  {
+    "seq": 172,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 173,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 174,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 175,
+    "type": "counter",
+    "text": "1 Sun token removed from Rapid Expansion"
+  },
+  {
+    "seq": 176,
+    "type": "received",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High receives Rapid Expansion"
+  },
+  {
+    "seq": 177,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 178,
+    "type": "revealed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 179,
+    "type": "moved",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 180,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 181,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 182,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 183,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 184,
+    "type": "trashed",
+    "player": 0,
+    "card": "Estate",
+    "text": "Astra High trashes Estate"
+  },
+  {
+    "seq": 185,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 186,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 187,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 188,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 189,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 190,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 191,
+    "type": "bought",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High buys Longship"
+  },
+  {
+    "seq": 192,
+    "type": "gained",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High gains Longship"
+  },
+  {
+    "seq": 193,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 194,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High sets aside Longship"
+  },
+  {
+    "seq": 195,
+    "type": "bought",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High buys Crucible"
+  },
+  {
+    "seq": 196,
+    "type": "gained",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High gains Crucible"
+  },
+  {
+    "seq": 197,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 198,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High sets aside Crucible"
+  },
+  {
+    "seq": 199,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 200,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 201,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 9"
+  },
+  {
+    "seq": 202,
+    "type": "resolved",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High's Fair resolves"
+  },
+  {
+    "seq": 203,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +1 Buy"
+  },
+  {
+    "seq": 204,
+    "type": "resolved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High's Longship resolves"
+  },
+  {
+    "seq": 205,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 2 cards"
+  },
+  {
+    "seq": 206,
+    "type": "played",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High plays Journeyman"
+  },
+  {
+    "seq": 207,
+    "type": "named",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High names Poet"
+  },
+  {
+    "seq": 208,
+    "type": "revealed",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High reveals Poet"
+  },
+  {
+    "seq": 209,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 210,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 211,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 212,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 213,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 214,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 215,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 216,
+    "type": "discarded",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High discards Poet"
+  },
+  {
+    "seq": 217,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 218,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 219,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 220,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 221,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 222,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 223,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 224,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 225,
+    "type": "bought",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High buys Hunting Grounds"
+  },
+  {
+    "seq": 226,
+    "type": "gained",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High gains Hunting Grounds"
+  },
+  {
+    "seq": 227,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 228,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 229,
+    "type": "bought",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High buys Longship"
+  },
+  {
+    "seq": 230,
+    "type": "gained",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High gains Longship"
+  },
+  {
+    "seq": 231,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 232,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High sets aside Longship"
+  },
+  {
+    "seq": 233,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 234,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 235,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 10"
+  },
+  {
+    "seq": 236,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 237,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 238,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 239,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 240,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 241,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 242,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 243,
+    "type": "played",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High plays Crucible"
+  },
+  {
+    "seq": 244,
+    "type": "trashed",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High trashes Longship"
+  },
+  {
+    "seq": 245,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 246,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 247,
+    "type": "revealed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 248,
+    "type": "moved",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 249,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 250,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 251,
+    "type": "revealed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High reveals Copper"
+  },
+  {
+    "seq": 252,
+    "type": "moved",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 253,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 254,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 255,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 256,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 257,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 258,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 259,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 260,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 261,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 262,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 263,
+    "type": "bought",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High buys Hunting Grounds"
+  },
+  {
+    "seq": 264,
+    "type": "gained",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High gains Hunting Grounds"
+  },
+  {
+    "seq": 265,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 266,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 267,
+    "type": "bought",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High buys Gold"
+  },
+  {
+    "seq": 268,
+    "type": "gained",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High gains Gold"
+  },
+  {
+    "seq": 269,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 270,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High sets aside Gold"
+  },
+  {
+    "seq": 271,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 272,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 273,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 10"
+  },
+  {
+    "seq": 274,
+    "type": "resolved",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High's Fair resolves"
+  },
+  {
+    "seq": 275,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +1 Buy"
+  },
+  {
+    "seq": 276,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 277,
+    "type": "played",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High plays Hunting Grounds"
+  },
+  {
+    "seq": 278,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 4 cards"
+  },
+  {
+    "seq": 279,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 280,
+    "type": "played",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High plays Longship"
+  },
+  {
+    "seq": 281,
+    "type": "played",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High plays Poet"
+  },
+  {
+    "seq": 282,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 1 card"
+  },
+  {
+    "seq": 283,
+    "type": "revealed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High reveals Copper"
+  },
+  {
+    "seq": 284,
+    "type": "moved",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High puts Copper from the top of their deck into their hand"
+  },
+  {
+    "seq": 285,
+    "type": "played",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High plays Journeyman"
+  },
+  {
+    "seq": 286,
+    "type": "named",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High names Province"
+  },
+  {
+    "seq": 287,
+    "type": "revealed",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High reveals Longship"
+  },
+  {
+    "seq": 288,
+    "type": "moved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High puts Longship from the top of their deck into their hand"
+  },
+  {
+    "seq": 289,
+    "type": "revealed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High reveals Estate"
+  },
+  {
+    "seq": 290,
+    "type": "moved",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High puts Estate from the top of their deck into their hand"
+  },
+  {
+    "seq": 291,
+    "type": "played",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High plays Longship"
+  },
+  {
+    "seq": 292,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 293,
+    "type": "trashed",
+    "player": 1,
+    "card": "Estate",
+    "text": "Fable High trashes Estate"
+  },
+  {
+    "seq": 294,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 295,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 296,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 297,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 298,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 299,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 300,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 301,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 302,
+    "type": "bought",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High buys Hunting Grounds"
+  },
+  {
+    "seq": 303,
+    "type": "gained",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High gains Hunting Grounds"
+  },
+  {
+    "seq": 304,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 305,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 306,
+    "type": "bought",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High buys Crucible"
+  },
+  {
+    "seq": 307,
+    "type": "gained",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High gains Crucible"
+  },
+  {
+    "seq": 308,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 309,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High sets aside Crucible"
+  },
+  {
+    "seq": 310,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 311,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 312,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 11"
+  },
+  {
+    "seq": 313,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 314,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 315,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 316,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 317,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 318,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 319,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 320,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 321,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 322,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 323,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 324,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 325,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 326,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 327,
+    "type": "played",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High plays Crucible"
+  },
+  {
+    "seq": 328,
+    "type": "trashed",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High trashes Hunting Grounds"
+  },
+  {
+    "seq": 329,
+    "type": "resolved",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High's Hunting Grounds resolves"
+  },
+  {
+    "seq": 330,
+    "type": "chosen",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High chooses to gain a Duchy (Hunting Grounds)"
+  },
+  {
+    "seq": 331,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Astra High gains Duchy"
+  },
+  {
+    "seq": 332,
+    "type": "resolved",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High's Priest resolves"
+  },
+  {
+    "seq": 333,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +$2"
+  },
+  {
+    "seq": 334,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 335,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 336,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 337,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 338,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 339,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 340,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 341,
+    "type": "bought",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High buys Hunting Grounds"
+  },
+  {
+    "seq": 342,
+    "type": "gained",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High gains Hunting Grounds"
+  },
+  {
+    "seq": 343,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 344,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 345,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 346,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 347,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 11"
+  },
+  {
+    "seq": 348,
+    "type": "resolved",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High's Fair resolves"
+  },
+  {
+    "seq": 349,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +1 Buy"
+  },
+  {
+    "seq": 350,
+    "type": "resolved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High's Longship resolves"
+  },
+  {
+    "seq": 351,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 2 cards"
+  },
+  {
+    "seq": 352,
+    "type": "resolved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High's Longship resolves"
+  },
+  {
+    "seq": 353,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 2 cards"
+  },
+  {
+    "seq": 354,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 355,
+    "type": "played",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High plays Hunting Grounds"
+  },
+  {
+    "seq": 356,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 3 cards"
+  },
+  {
+    "seq": 357,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 358,
+    "type": "played",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High plays Crucible"
+  },
+  {
+    "seq": 359,
+    "type": "trashed",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High trashes Hunting Grounds"
+  },
+  {
+    "seq": 360,
+    "type": "resolved",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High's Hunting Grounds resolves"
+  },
+  {
+    "seq": 361,
+    "type": "chosen",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High chooses to gain a Duchy (Hunting Grounds)"
+  },
+  {
+    "seq": 362,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 363,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 364,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 365,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 366,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 367,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 368,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 369,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 370,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 371,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 372,
+    "type": "bought",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High buys Hunting Grounds"
+  },
+  {
+    "seq": 373,
+    "type": "gained",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High gains Hunting Grounds"
+  },
+  {
+    "seq": 374,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 375,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 376,
+    "type": "bought",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High buys Hunting Grounds"
+  },
+  {
+    "seq": 377,
+    "type": "gained",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High gains Hunting Grounds"
+  },
+  {
+    "seq": 378,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 379,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 380,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 381,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 382,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 12"
+  },
+  {
+    "seq": 383,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 384,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 385,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 386,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 387,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 388,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 389,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 390,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 391,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 392,
+    "type": "revealed",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High reveals Longship"
+  },
+  {
+    "seq": 393,
+    "type": "moved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High puts Longship back onto their deck"
+  },
+  {
+    "seq": 394,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 395,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 396,
+    "type": "revealed",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High reveals Priest"
+  },
+  {
+    "seq": 397,
+    "type": "moved",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High puts Priest back onto their deck"
+  },
+  {
+    "seq": 398,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 399,
+    "type": "played",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High plays Crucible"
+  },
+  {
+    "seq": 400,
+    "type": "trashed",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High trashes Hunting Grounds"
+  },
+  {
+    "seq": 401,
+    "type": "resolved",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High's Hunting Grounds resolves"
+  },
+  {
+    "seq": 402,
+    "type": "chosen",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High chooses to gain a Duchy (Hunting Grounds)"
+  },
+  {
+    "seq": 403,
+    "type": "gained",
+    "player": 0,
+    "card": "Duchy",
+    "text": "Astra High gains Duchy"
+  },
+  {
+    "seq": 404,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 405,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 406,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 407,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 408,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 409,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 410,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 411,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 412,
+    "type": "bought",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High buys Hunting Grounds"
+  },
+  {
+    "seq": 413,
+    "type": "gained",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High gains Hunting Grounds"
+  },
+  {
+    "seq": 414,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 415,
+    "type": "set-aside",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 416,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 417,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 418,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 12"
+  },
+  {
+    "seq": 419,
+    "type": "resolved",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High's Fair resolves"
+  },
+  {
+    "seq": 420,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +1 Buy"
+  },
+  {
+    "seq": 421,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 422,
+    "type": "played",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High plays Hunting Grounds"
+  },
+  {
+    "seq": 423,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 4 cards"
+  },
+  {
+    "seq": 424,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 425,
+    "type": "played",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High plays Hunting Grounds"
+  },
+  {
+    "seq": 426,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 4 cards"
+  },
+  {
+    "seq": 427,
+    "type": "played",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High plays Longship"
+  },
+  {
+    "seq": 428,
+    "type": "played",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High plays Longship"
+  },
+  {
+    "seq": 429,
+    "type": "played",
+    "player": 1,
+    "card": "Journeyman",
+    "text": "Fable High plays Journeyman"
+  },
+  {
+    "seq": 430,
+    "type": "named",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High names Province"
+  },
+  {
+    "seq": 431,
+    "type": "revealed",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High reveals Silver"
+  },
+  {
+    "seq": 432,
+    "type": "moved",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High puts Silver from the top of their deck into their hand"
+  },
+  {
+    "seq": 433,
+    "type": "revealed",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High reveals Poet"
+  },
+  {
+    "seq": 434,
+    "type": "moved",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High puts Poet from the top of their deck into their hand"
+  },
+  {
+    "seq": 435,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 436,
+    "type": "trashed",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High trashes Copper"
+  },
+  {
+    "seq": 437,
+    "type": "played",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High plays Crucible"
+  },
+  {
+    "seq": 438,
+    "type": "trashed",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High trashes Hunting Grounds"
+  },
+  {
+    "seq": 439,
+    "type": "resolved",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High's Hunting Grounds resolves"
+  },
+  {
+    "seq": 440,
+    "type": "chosen",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High chooses to gain a Duchy (Hunting Grounds)"
+  },
+  {
+    "seq": 441,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 442,
+    "type": "resolved",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High's Priest resolves"
+  },
+  {
+    "seq": 443,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +$2"
+  },
+  {
+    "seq": 444,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 445,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 446,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 447,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 448,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 449,
+    "type": "played",
+    "player": 1,
+    "card": "Silver",
+    "text": "Fable High plays Silver"
+  },
+  {
+    "seq": 450,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 451,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 452,
+    "type": "bought",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High buys Hunting Grounds"
+  },
+  {
+    "seq": 453,
+    "type": "gained",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High gains Hunting Grounds"
+  },
+  {
+    "seq": 454,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 455,
+    "type": "set-aside",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High sets aside Hunting Grounds"
+  },
+  {
+    "seq": 456,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 457,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 458,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 13"
+  },
+  {
+    "seq": 459,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 460,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 461,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 462,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 463,
+    "type": "resolved",
+    "player": 0,
+    "card": "Rapid Expansion",
+    "text": "Astra High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 464,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 465,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 466,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 467,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 468,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 469,
+    "type": "played",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High plays Poet"
+  },
+  {
+    "seq": 470,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 1 card"
+  },
+  {
+    "seq": 471,
+    "type": "played",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High plays Priest"
+  },
+  {
+    "seq": 472,
+    "type": "trashed",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High trashes Copper"
+  },
+  {
+    "seq": 473,
+    "type": "played",
+    "player": 0,
+    "card": "Crucible",
+    "text": "Astra High plays Crucible"
+  },
+  {
+    "seq": 474,
+    "type": "trashed",
+    "player": 0,
+    "card": "Poet",
+    "text": "Astra High trashes Poet"
+  },
+  {
+    "seq": 475,
+    "type": "resolved",
+    "player": 0,
+    "card": "Priest",
+    "text": "Astra High's Priest resolves"
+  },
+  {
+    "seq": 476,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +$2"
+  },
+  {
+    "seq": 477,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 478,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 479,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 480,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 481,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 482,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 483,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 484,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 485,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 486,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 487,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  },
+  {
+    "seq": 488,
+    "type": "turn-start",
+    "player": 1,
+    "text": "Fable High starts turn 13"
+  },
+  {
+    "seq": 489,
+    "type": "resolved",
+    "player": 1,
+    "card": "Fair",
+    "text": "Fable High's Fair resolves"
+  },
+  {
+    "seq": 490,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +1 Buy"
+  },
+  {
+    "seq": 491,
+    "type": "resolved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High's Longship resolves"
+  },
+  {
+    "seq": 492,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 2 cards"
+  },
+  {
+    "seq": 493,
+    "type": "resolved",
+    "player": 1,
+    "card": "Longship",
+    "text": "Fable High's Longship resolves"
+  },
+  {
+    "seq": 494,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 2 cards"
+  },
+  {
+    "seq": 495,
+    "type": "resolved",
+    "player": 1,
+    "card": "Rapid Expansion",
+    "text": "Fable High's Rapid Expansion resolves"
+  },
+  {
+    "seq": 496,
+    "type": "played",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High plays Hunting Grounds"
+  },
+  {
+    "seq": 497,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 4 cards"
+  },
+  {
+    "seq": 498,
+    "type": "played",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High plays Priest"
+  },
+  {
+    "seq": 499,
+    "type": "trashed",
+    "player": 1,
+    "card": "Poet",
+    "text": "Fable High trashes Poet"
+  },
+  {
+    "seq": 500,
+    "type": "played",
+    "player": 1,
+    "card": "Crucible",
+    "text": "Fable High plays Crucible"
+  },
+  {
+    "seq": 501,
+    "type": "trashed",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High trashes Hunting Grounds"
+  },
+  {
+    "seq": 502,
+    "type": "resolved",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High's Hunting Grounds resolves"
+  },
+  {
+    "seq": 503,
+    "type": "chosen",
+    "player": 1,
+    "card": "Hunting Grounds",
+    "text": "Fable High chooses to gain a Duchy (Hunting Grounds)"
+  },
+  {
+    "seq": 504,
+    "type": "gained",
+    "player": 1,
+    "card": "Duchy",
+    "text": "Fable High gains Duchy"
+  },
+  {
+    "seq": 505,
+    "type": "resolved",
+    "player": 1,
+    "card": "Priest",
+    "text": "Fable High's Priest resolves"
+  },
+  {
+    "seq": 506,
+    "type": "bonus",
+    "player": 1,
+    "text": "Fable High gets +$2"
+  },
+  {
+    "seq": 507,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 508,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 509,
+    "type": "played",
+    "player": 1,
+    "card": "Gold",
+    "text": "Fable High plays Gold"
+  },
+  {
+    "seq": 510,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 511,
+    "type": "played",
+    "player": 1,
+    "card": "Copper",
+    "text": "Fable High plays Copper"
+  },
+  {
+    "seq": 512,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 513,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 514,
+    "type": "bought",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High buys Province"
+  },
+  {
+    "seq": 515,
+    "type": "gained",
+    "player": 1,
+    "card": "Province",
+    "text": "Fable High gains Province"
+  },
+  {
+    "seq": 516,
+    "type": "shuffled",
+    "player": 1,
+    "text": "Fable High shuffles"
+  },
+  {
+    "seq": 517,
+    "type": "drew",
+    "player": 1,
+    "text": "Fable High draws 5 cards"
+  },
+  {
+    "seq": 518,
+    "type": "turn-start",
+    "player": 0,
+    "text": "Astra High starts turn 14"
+  },
+  {
+    "seq": 519,
+    "type": "resolved",
+    "player": 0,
+    "card": "Fair",
+    "text": "Astra High's Fair resolves"
+  },
+  {
+    "seq": 520,
+    "type": "bonus",
+    "player": 0,
+    "text": "Astra High gets +1 Buy"
+  },
+  {
+    "seq": 521,
+    "type": "resolved",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High's Longship resolves"
+  },
+  {
+    "seq": 522,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 2 cards"
+  },
+  {
+    "seq": 523,
+    "type": "played",
+    "player": 0,
+    "card": "Longship",
+    "text": "Astra High plays Longship"
+  },
+  {
+    "seq": 524,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 525,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 526,
+    "type": "played",
+    "player": 0,
+    "card": "Hunting Grounds",
+    "text": "Astra High plays Hunting Grounds"
+  },
+  {
+    "seq": 527,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 4 cards"
+  },
+  {
+    "seq": 528,
+    "type": "played",
+    "player": 0,
+    "card": "Gold",
+    "text": "Astra High plays Gold"
+  },
+  {
+    "seq": 529,
+    "type": "played",
+    "player": 0,
+    "card": "Silver",
+    "text": "Astra High plays Silver"
+  },
+  {
+    "seq": 530,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 531,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 532,
+    "type": "played",
+    "player": 0,
+    "card": "Copper",
+    "text": "Astra High plays Copper"
+  },
+  {
+    "seq": 533,
+    "type": "bought",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High buys Province"
+  },
+  {
+    "seq": 534,
+    "type": "gained",
+    "player": 0,
+    "card": "Province",
+    "text": "Astra High gains Province"
+  },
+  {
+    "seq": 535,
+    "type": "shuffled",
+    "player": 0,
+    "text": "Astra High shuffles"
+  },
+  {
+    "seq": 536,
+    "type": "drew",
+    "player": 0,
+    "text": "Astra High draws 5 cards"
+  }
+]

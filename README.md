@@ -47,6 +47,8 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 | [2026-11-17/sol-high-186043435](runs/2026-11-17/sol-high-186043435) | gpt-6.1-sol high | human | 186043435: thepilferer 4, SolDominion 18 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186043033](runs/2026-11-17/sol-high-186043033) | gpt-6.1-sol high | human | 186043033: SolDominion 30, Kaityo_777 28 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186042551](runs/2026-11-17/sol-high-186042551) | gpt-6.1-sol high | human | 186042551: wyan 34, SolDominion 46 | e565fe8 | ? |  |
+| [2026-11-17/fable-astra-g73](runs/2026-11-17/fable-astra-g73) | Fable High vs Astra High high | agent | g73: Astra High 36, Fable High 27 | 6863517 | ? |  |
+| [2026-11-17/fable-astra-g72](runs/2026-11-17/fable-astra-g72) | Fable High vs Astra High high | agent | g72: Fable High 35, Astra High 37 | 6863517 | ? |  |
 | [2026-11-16/sol-high-186042286](runs/2026-11-16/sol-high-186042286) | gpt-6.1-sol high | human | 186042286: 34msms 49, SolDominion 15 | e565fe8 | ? |  |
 | [2026-11-16/sol-high-186041689](runs/2026-11-16/sol-high-186041689) | gpt-6.1-sol high | human | 186041689: SolDominion 28, ryutake 42 | e565fe8 | ? |  |
 | [2026-11-16/sol-high-186041530](runs/2026-11-16/sol-high-186041530) | gpt-6.1-sol high | human | 186041530: SolDominion 2, Stemar 2 | e565fe8 | ? |  |
