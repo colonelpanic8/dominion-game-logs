@@ -1,0 +1,612 @@
+{
+  "view": {
+    "boons": {
+      "count": 12,
+      "discard": []
+    },
+    "decision": null,
+    "game": {
+      "id": "g1",
+      "kingdom": [
+        "Dungeon",
+        "Bandit Camp",
+        "Craftsman",
+        "River Shrine",
+        "Pooka",
+        "Rustic Village",
+        "Patrician",
+        "Fool",
+        "Necromancer",
+        "Wine Merchant"
+      ],
+      "landscapes": [
+        "Save",
+        "Biding Time"
+      ],
+      "result": {
+        "players": [
+          {
+            "index": 0,
+            "name": "Test (1)",
+            "rank": 2,
+            "turns": 1,
+            "vp": 2
+          },
+          {
+            "index": 1,
+            "name": "Test (2)",
+            "rank": 1,
+            "turns": 1,
+            "vp": 3
+          }
+        ],
+        "reason": "turn-limit"
+      },
+      "running": false
+    },
+    "landscapes": [
+      {
+        "card": "Save",
+        "cost": {
+          "coins": 1
+        },
+        "kind": "event",
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "active": false,
+        "card": "Biding Time",
+        "kind": "prophecy",
+        "suns": 5,
+        "types": [
+          "Prophecy"
+        ]
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Spoils",
+        "cost": {
+          "coins": 0
+        },
+        "count": 15,
+        "structure": {
+          "cards": [
+            {
+              "card": "Spoils",
+              "count": 15
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Treasure"
+        ]
+      },
+      {
+        "card": "Will-o'-Wisp",
+        "cost": {
+          "coins": 0
+        },
+        "count": 12,
+        "structure": {
+          "cards": [
+            {
+              "card": "Will-o'-Wisp",
+              "count": 12
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Spirit"
+        ]
+      }
+    ],
+    "opponents": [
+      {
+        "counters": {},
+        "deck": {
+          "count": 0,
+          "known": {},
+          "orderKnown": false,
+          "unknown": 0
+        },
+        "discard": {
+          "count": 8,
+          "known": {
+            "Copper": 1,
+            "Curse": 1,
+            "Cursed Gold": 1,
+            "Estate": 1,
+            "Lucky Coin": 1,
+            "Pooka": 1,
+            "Silver": 1
+          },
+          "unknown": 1
+        },
+        "hand": {
+          "count": 5,
+          "known": {
+            "Copper": 3,
+            "Estate": 1
+          },
+          "unknown": 1
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "index": 0,
+        "name": "Test (1)",
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 5,
+            "Curse": 1,
+            "Cursed Gold": 1,
+            "Estate": 3,
+            "Lucky Coin": 1,
+            "Pooka": 1,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "turnsTaken": 1,
+        "uncertain": [
+          {
+            "candidates": {
+              "Copper": 4,
+              "Estate": 2
+            },
+            "count": 6,
+            "outside": 0,
+            "zones": [
+              "hand",
+              "discard"
+            ]
+          }
+        ],
+        "vp": 2
+      }
+    ],
+    "schema": "dominion/agent-view@2",
+    "seat": 1,
+    "sinceLastDecision": [
+      {
+        "card": "River Shrine",
+        "player": 1,
+        "seq": 14,
+        "text": "Test (2) buys River Shrine",
+        "type": "bought"
+      },
+      {
+        "card": "River Shrine",
+        "player": 1,
+        "seq": 15,
+        "text": "Test (2) gains River Shrine",
+        "type": "gained"
+      },
+      {
+        "player": 1,
+        "seq": 16,
+        "text": "Test (2) draws 5 cards",
+        "type": "drew"
+      }
+    ],
+    "spectating": false,
+    "supply": [
+      {
+        "card": "Copper",
+        "cost": {
+          "coins": 0
+        },
+        "count": 50,
+        "structure": {
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 50
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Treasure"
+        ]
+      },
+      {
+        "card": "Silver",
+        "cost": {
+          "coins": 3
+        },
+        "count": 39,
+        "structure": {
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Treasure"
+        ]
+      },
+      {
+        "card": "Gold",
+        "cost": {
+          "coins": 6
+        },
+        "count": 30,
+        "structure": {
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Treasure"
+        ]
+      },
+      {
+        "card": "Estate",
+        "cost": {
+          "coins": 2
+        },
+        "count": 8,
+        "structure": {
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Victory"
+        ]
+      },
+      {
+        "card": "Duchy",
+        "cost": {
+          "coins": 5
+        },
+        "count": 8,
+        "structure": {
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Victory"
+        ]
+      },
+      {
+        "card": "Province",
+        "cost": {
+          "coins": 8
+        },
+        "count": 8,
+        "structure": {
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Victory"
+        ]
+      },
+      {
+        "card": "Curse",
+        "cost": {
+          "coins": 0
+        },
+        "count": 9,
+        "structure": {
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Curse"
+        ]
+      },
+      {
+        "card": "Dungeon",
+        "cost": {
+          "coins": 3
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Dungeon",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Duration"
+        ]
+      },
+      {
+        "card": "Bandit Camp",
+        "cost": {
+          "coins": 5
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Bandit Camp",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action"
+        ]
+      },
+      {
+        "card": "Craftsman",
+        "cost": {
+          "coins": 3
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Craftsman",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action"
+        ]
+      },
+      {
+        "card": "River Shrine",
+        "cost": {
+          "coins": 4
+        },
+        "count": 9,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "River Shrine",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ]
+      },
+      {
+        "card": "Pooka",
+        "cost": {
+          "coins": 5
+        },
+        "count": 9,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Pooka",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action"
+        ]
+      },
+      {
+        "card": "Rustic Village",
+        "cost": {
+          "coins": 4
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Rustic Village",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ]
+      },
+      {
+        "card": "Patrician",
+        "cost": {
+          "coins": 2
+        },
+        "count": 10,
+        "kingdom": true,
+        "members": [
+          "Emporium",
+          "Patrician"
+        ],
+        "structure": {
+          "cards": [
+            {
+              "card": "Patrician",
+              "count": 5
+            },
+            {
+              "card": "Emporium",
+              "count": 5
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action"
+        ]
+      },
+      {
+        "card": "Fool",
+        "cost": {
+          "coins": 3
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Fool",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Fate"
+        ]
+      },
+      {
+        "card": "Necromancer",
+        "cost": {
+          "coins": 4
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Necromancer",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action"
+        ]
+      },
+      {
+        "card": "Wine Merchant",
+        "cost": {
+          "coins": 5
+        },
+        "count": 10,
+        "kingdom": true,
+        "structure": {
+          "cards": [
+            {
+              "card": "Wine Merchant",
+              "count": 10
+            }
+          ],
+          "kind": "stacked"
+        },
+        "types": [
+          "Action",
+          "Reserve"
+        ]
+      }
+    ],
+    "trash": {
+      "count": 3,
+      "known": {
+        "Zombie Apprentice": 1,
+        "Zombie Mason": 1,
+        "Zombie Spy": 1
+      },
+      "unknown": 0
+    },
+    "turn": {
+      "phase": null,
+      "yourTurn": false
+    },
+    "you": {
+      "counters": {},
+      "deck": {
+        "count": 0,
+        "known": {},
+        "orderKnown": false,
+        "unknown": 0
+      },
+      "discard": {
+        "count": 6,
+        "known": {
+          "Copper": 4,
+          "Cursed Gold": 1,
+          "River Shrine": 1
+        },
+        "unknown": 0
+      },
+      "hand": {
+        "count": 5,
+        "known": {
+          "Copper": 1,
+          "Estate": 3,
+          "Lucky Coin": 1
+        },
+        "unknown": 0
+      },
+      "inPlay": {
+        "count": 0,
+        "known": {},
+        "unknown": 0
+      },
+      "index": 1,
+      "name": "Test (2)",
+      "otherZones": {},
+      "owned": {
+        "known": {
+          "Copper": 5,
+          "Cursed Gold": 1,
+          "Estate": 3,
+          "Lucky Coin": 1,
+          "River Shrine": 1
+        },
+        "unknown": 0
+      },
+      "turnsTaken": 1,
+      "uncertain": [],
+      "vp": 3
+    }
+  }
+}

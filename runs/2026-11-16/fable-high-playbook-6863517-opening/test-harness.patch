@@ -1,0 +1,29 @@
+--- a/crates/dominion-server/tests/native.rs
++++ b/crates/dominion-server/tests/native.rs
+@@ -655,7 +655,8 @@
+     let mut spec: dominion_server::runner::AgentSpec =
+         serde_json::from_value(serde_json::json!({"name":"Test","program":program})).unwrap();
+     spec.command = std::env::var("DOMINION_LIVE_COMMAND").ok();
+-    spec.response_seconds = Some(60);
++    spec.response_seconds = Some(300);
++    spec.effort = Some("high".into());
+     spec.model = std::env::var("DOMINION_LIVE_MODEL").ok();
+     spec.instructions = Some(std::env::var("DOMINION_LIVE_INSTRUCTIONS").unwrap_or_else(|_| "This short integration game should finish quickly: end your Buy phase as soon as it is offered.".into()));
+     h.sandbox.playbook = std::env::var_os("DOMINION_LIVE_PLAYBOOK").map(Into::into);
+@@ -744,14 +745,14 @@
+         });
+     }
+     eprintln!("Live archive: {}", root.display());
+-    tokio::time::timeout(std::time::Duration::from_secs(180), async {
++    tokio::time::timeout(std::time::Duration::from_secs(900), async {
+         while let Some(result) = tasks.join_next().await {
+             let result = result.unwrap();
+             assert!(result.is_ok(), "{result:?}");
+         }
+     })
+     .await
+-    .expect("native verification exceeded three minutes");
++    .expect("native verification exceeded fifteen minutes");
+     assert!(!h.arena.hub.list()[0].running);
+     assert!(h.arena.hub.list()[0].watchable);
+     for seat in 0..2 {

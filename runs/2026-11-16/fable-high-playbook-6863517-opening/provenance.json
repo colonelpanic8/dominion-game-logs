@@ -1,0 +1,23 @@
+{
+  "playbook": "686351798394ee507cefcc58a5a67891e224c416",
+  "engine_source": "/nix/store/vwkwx6f93zv0hrwpi86sf16x7v9v17mb-source",
+  "test_adjustments": [
+    "high effort",
+    "300-second inactivity",
+    "900-second outer deadline"
+  ],
+  "production_reference_commit": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "production_harness_and_engine_sources_identical": false,
+  "source_note": "Diagnostic uses an earlier immutable source matching fe91607. Native harness files are byte-identical to production 7d439ac. Engine projection helper additions and guest access differ; this is an opening validation, not a production deployment or full regression run.",
+  "original_test_sha256": "8f4442bb0da3e6b99b3491f4cfa2abc3f57ca27db2f0c30b4b72ff6fba8b06ce",
+  "modified_test_sha256": "2581ebfa27077bfb5d470e17a022ebab7d827467778f2be835802752beb59723",
+  "archive_path": "/tmp/dominion-native-live/1794901279620-e255711d0640df8b",
+  "seed": 4835158610943872013,
+  "requested_model": "claude-fable-5-2",
+  "effort": "high",
+  "playbook_checks": "nix develop -c just check: passed",
+  "dominion_arena_commit": "fe91607eff4e4ec4ef85d12b02d37affce2eb32a",
+  "test_result": "passed; 113.10 seconds; one turn per seat (2 total turns)",
+  "validation_limit": "Opening-only test; does not establish full-game reliability.",
+  "scope": "isolated in-memory game; two Fable High seats; turn_limit=2 counts total turns, one per seat; no production games or services changed"
+}

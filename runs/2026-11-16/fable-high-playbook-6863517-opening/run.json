@@ -1,0 +1,240 @@
+{
+  "run": "2026-11-16/fable-high-playbook-6863517-opening",
+  "source": "isolated native harness validation; not a production Arena game",
+  "captured": "2026-11-17T07:45:17.035904+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "claude-fable-5-2 (both seats)",
+    "effort": "high",
+    "opponent": "Fable High diagnostic seat",
+    "rated": false,
+    "seed": 4835158610943872013,
+    "turn_limit": 2,
+    "turn_limit_semantics": "two total turns; one per seat",
+    "instructions": "Play to win normally. This is an isolated two-turn integration test; the engine will end it automatically."
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "fe91607eff4e4ec4ef85d12b02d37affce2eb32a",
+      "dirty": true,
+      "note": "Only test-harness.patch applied; native harness matches production 7d439ac byte for byte."
+    },
+    "dominion-playbook": {
+      "commit": "686351798394ee507cefcc58a5a67891e224c416",
+      "dirty": false
+    }
+  },
+  "sessions": [
+    {
+      "id": "seat-0",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": "Play to win normally. This is an isolated two-turn integration test; the engine will end it automatically.",
+        "model": "claude-fable-5-2",
+        "name": "Test",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": 300
+      },
+      "seat": 0,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Dungeon",
+          "BanditCamp",
+          "Craftsman",
+          "RiverShrine",
+          "Pooka",
+          "RusticVillage",
+          "Patrician",
+          "Fool",
+          "Necromancer",
+          "WineMerchant"
+        ],
+        "landscapes": [
+          "Save"
+        ],
+        "players": 2,
+        "seed": 4835158610943872013,
+        "shelters": null,
+        "turn_limit": 2
+      },
+      "actual_assistant_models": {
+        "claude-fable-5-2": 14
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": false,
+          "stop_reason": "end_turn",
+          "num_turns": 10
+        }
+      ],
+      "files": [
+        {
+          "file": "sessions/seat-0/interactions.jsonl.gz",
+          "source_sha256": "74c8dca4f8c52676dab744049d020f6e030e248bf201e561065cb1ebddee1686",
+          "source_bytes": 623209
+        },
+        {
+          "file": "sessions/seat-0/network.jsonl.gz",
+          "source_sha256": "fbfc1911b3e6866fed49c78e50f7aefaf584801f47f4b88489a277c471cc8ac4",
+          "source_bytes": 165
+        },
+        {
+          "file": "sessions/seat-0/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/seat-0/response-000001.stdout.jsonl.gz",
+          "source_sha256": "74640e739e00f00d9612c753bad3f16151401d09e46eb80907cf2105d3652e0e",
+          "source_bytes": 523944
+        },
+        {
+          "file": "sessions/seat-0/transcript.jsonl.gz",
+          "source_sha256": "96674974c2f2aceb2883e22ce44df19265b78e5f54b377c63c1767318d4093eb",
+          "source_bytes": 92792
+        }
+      ],
+      "has_recorded_result": true,
+      "started_ms": 1794901279620,
+      "last_event_ms": 1794901392673
+    },
+    {
+      "id": "seat-1",
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": "Play to win normally. This is an isolated two-turn integration test; the engine will end it automatically.",
+        "model": "claude-fable-5-2",
+        "name": "Test",
+        "options": {},
+        "program": "claude",
+        "provider_instance": null,
+        "response_seconds": 300
+      },
+      "seat": 1,
+      "configuration": {
+        "colonies": null,
+        "kingdom": [
+          "Dungeon",
+          "BanditCamp",
+          "Craftsman",
+          "RiverShrine",
+          "Pooka",
+          "RusticVillage",
+          "Patrician",
+          "Fool",
+          "Necromancer",
+          "WineMerchant"
+        ],
+        "landscapes": [
+          "Save"
+        ],
+        "players": 2,
+        "seed": 4835158610943872013,
+        "shelters": null,
+        "turn_limit": 2
+      },
+      "actual_assistant_models": {
+        "claude-fable-5-2": 20
+      },
+      "cli_results": [
+        {
+          "subtype": "success",
+          "is_error": false,
+          "stop_reason": "end_turn",
+          "num_turns": 14
+        }
+      ],
+      "files": [
+        {
+          "file": "sessions/seat-1/interactions.jsonl.gz",
+          "source_sha256": "a630f1ee9de1129cf1593bae05a9059ebeb03a658dda834adbcedc21a3fd3689",
+          "source_bytes": 882734
+        },
+        {
+          "file": "sessions/seat-1/network.jsonl.gz",
+          "source_sha256": "fbfc1911b3e6866fed49c78e50f7aefaf584801f47f4b88489a277c471cc8ac4",
+          "source_bytes": 165
+        },
+        {
+          "file": "sessions/seat-1/response-000001.stderr.gz",
+          "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "source_bytes": 0
+        },
+        {
+          "file": "sessions/seat-1/response-000001.stdout.jsonl.gz",
+          "source_sha256": "9d4ef5ec10140292d4f22666beec12a29915b6b166d181420ff77f3c12a6c675",
+          "source_bytes": 728427
+        },
+        {
+          "file": "sessions/seat-1/transcript.jsonl.gz",
+          "source_sha256": "0b2c66d89897948c17f4c7a9844fa2fc1dcd0d2c54904cd88ae86340f9df7665",
+          "source_bytes": 131834
+        }
+      ],
+      "has_recorded_result": true,
+      "started_ms": 1794901279622,
+      "last_event_ms": 1794901391147
+    }
+  ],
+  "outcome": {
+    "games": [
+      {
+        "game": "isolated-g1 (opening diagnostic only)",
+        "result": {
+          "players": [
+            {
+              "index": 0,
+              "name": "Test (1)",
+              "rank": 2,
+              "turns": 1,
+              "vp": 2,
+              "points": 2
+            },
+            {
+              "index": 1,
+              "name": "Test (2)",
+              "rank": 1,
+              "turns": 1,
+              "vp": 3,
+              "points": 3
+            }
+          ],
+          "reason": "turn-limit"
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "validation": {
+    "passed": true,
+    "refusals": 0,
+    "fallbacks": 0,
+    "duration_seconds": 113.1,
+    "scope": "Recreates g70 kingdom/seed and exercises fresh plan, lookup commands and live MCP actions. Two native Claude sessions complete normally as Fable High. Opening-only evidence; no full-game reliability claim. Does not count in any series."
+  },
+  "coverage": {
+    "all_root_journals_preserved": true,
+    "source_sha256_verified": true,
+    "excluded": [
+      "Credential/work directories",
+      "No production official game or native series was modified."
+    ],
+    "provider_output": "Only what the provider emitted; raw stdout, partial events, normalized transcripts and network metadata retained."
+  }
+}
