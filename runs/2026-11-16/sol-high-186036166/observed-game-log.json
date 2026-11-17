@@ -1,0 +1,6825 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186036166",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "Family of Inventors",
+    "player": 0,
+    "seq": 1,
+    "text": "Relicdog gets +1 Favor. (Family of Inventors)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Family of Inventors",
+    "player": 1,
+    "seq": 2,
+    "text": "SolDominion gets +1 Favor. (Family of Inventors)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "Relicdog starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 4,
+    "text": "Relicdog starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 8,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "Relicdog draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 12,
+    "text": "SolDominion draws 4 Copper, 1 Overgrown Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "Relicdog starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 18,
+    "text": "Relicdog buys and gains 1 Flag Bearer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 0,
+    "seq": 19,
+    "text": "Relicdog takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 21,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 27,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 28,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 30,
+    "text": "SolDominion buys and gains 1 Research.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 31,
+    "text": "SolDominion draws 3 Copper, 1 Hovel, 1 Necropolis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "Relicdog starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 0,
+    "seq": 34,
+    "text": "Relicdog plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 36,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 37,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 38,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 39,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 40,
+    "text": "Relicdog buys and gains 1 Research.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 41,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 43,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 44,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 47,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 49,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 50,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 51,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion draws 3 Copper, 1 Hovel, 1 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 54,
+    "text": "Relicdog starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 56,
+    "text": "Relicdog plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 57,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 62,
+    "text": "Relicdog buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 66,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "SolDominion places a Favor token on Player 0 supply. ([Family of Inventors])",
+    "type": "official-player-adds-favor-token-to"
+  },
+  {
+    "card": "Family of Inventors",
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion spends 1 Favor.",
+    "type": "official-spends-favor"
+  },
+  {
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 71,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 80,
+    "text": "SolDominion buys and gains 1 Flag Bearer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 1,
+    "seq": 81,
+    "text": "SolDominion takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 1,
+    "seq": 83,
+    "text": "SolDominion buys and gains 1 Bauble.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "SolDominion draws 4 Copper, 1 Overgrown Estate, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 85,
+    "text": "Relicdog starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 87,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 88,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 89,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Overgrown Estate",
+    "player": 0,
+    "seq": 90,
+    "text": "Relicdog trashes 1 Overgrown Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 92,
+    "text": "Relicdog draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 93,
+    "text": "Relicdog sets 1 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 0,
+    "seq": 95,
+    "text": "Relicdog plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "Relicdog places a Favor token on Player 0 supply. ([Family of Inventors])",
+    "type": "official-player-adds-favor-token-to"
+  },
+  {
+    "card": "Family of Inventors",
+    "player": 0,
+    "seq": 101,
+    "text": "Relicdog spends 1 Favor.",
+    "type": "official-spends-favor"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 103,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 105,
+    "text": "Relicdog buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 106,
+    "text": "Relicdog draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Overgrown Estate",
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion trashes 1 Overgrown Estate.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Necropolis",
+    "player": 1,
+    "seq": 113,
+    "text": "SolDominion draws 1 Necropolis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion sets 1 Flag Bearer aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 119,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 122,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 123,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 124,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 125,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 126,
+    "text": "SolDominion draws 4 Copper, 1 Hovel, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "Relicdog starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "Relicdog starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "Relicdog puts 1 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 131,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 133,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 138,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 140,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Maelstrom",
+    "player": 0,
+    "seq": 141,
+    "text": "Relicdog buys 1 Maelstrom.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "Relicdog trashes 1 Copper, 1 Hovel, 1 Flag Bearer.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Flag",
+    "player": 0,
+    "seq": 143,
+    "text": "Relicdog takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hovel",
+    "player": 1,
+    "seq": 145,
+    "text": "SolDominion trashes 1 Hovel.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion puts 1 Flag Bearer in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 156,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 157,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 1,
+    "seq": 158,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 159,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 160,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 161,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 162,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 163,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 165,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 167,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 169,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 170,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 171,
+    "text": "SolDominion discards 1 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "SolDominion draws 3 Copper, 1 Minion, 1 Necropolis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "Relicdog starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 175,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 177,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 178,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 0,
+    "seq": 180,
+    "text": "Relicdog plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 186,
+    "text": "Relicdog buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 187,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 1,
+    "seq": 191,
+    "text": "SolDominion plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion discards 3 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "SolDominion draws 4 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 200,
+    "text": "Relicdog discards 5 card, 1 Minion.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 202,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 206,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 209,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "SolDominion draws 2 Copper, 1 Minion, 1 Research, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 211,
+    "text": "Relicdog starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 212,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 213,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 214,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 0,
+    "seq": 216,
+    "text": "Relicdog trashes 1 Necropolis.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 218,
+    "text": "Relicdog sets 1 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 219,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 0,
+    "seq": 223,
+    "text": "Relicdog buys and gains 1 Bauble.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 226,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 228,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 229,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 230,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 231,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 232,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 233,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 234,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 235,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 236,
+    "text": "SolDominion discards 1 Copper, 1 Bauble.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 237,
+    "text": "SolDominion draws 1 Copper, 1 Flag Bearer, 2 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "Relicdog discards 5 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 244,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 246,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 258,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 260,
+    "text": "SolDominion discards 2 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 1,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 262,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "SolDominion draws 3 Copper, 1 Minion, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "Relicdog starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "Relicdog starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 266,
+    "text": "Relicdog puts 1 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 267,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 268,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 269,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 270,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 271,
+    "text": "Relicdog discards 3 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 272,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "SolDominion discards 3 Copper, 1 Minion, 1 Research.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion draws 2 Copper, 1 Flag Bearer, 1 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 275,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 276,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 277,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 278,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 279,
+    "text": "Relicdog discards 2 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 280,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 281,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 282,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 283,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 284,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 286,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 287,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 288,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 289,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 290,
+    "text": "Relicdog buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 291,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 292,
+    "text": "Relicdog discards 1 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 294,
+    "text": "Relicdog buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 295,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 297,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 298,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 299,
+    "text": "SolDominion plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 300,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 301,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 302,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 303,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 304,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 305,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 306,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 307,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 308,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 309,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 310,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 311,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 312,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 313,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 314,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 315,
+    "text": "SolDominion discards 1 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 1,
+    "seq": 316,
+    "text": "SolDominion draws 1 Minion, 1 Necropolis, 2 Stockpile, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "Relicdog starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 319,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 321,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 0,
+    "seq": 322,
+    "text": "Relicdog trashes 1 Bauble.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "Relicdog sets 2 card aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 326,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 328,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 329,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 330,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 332,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 333,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 334,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 335,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 336,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 337,
+    "text": "Relicdog buys and gains 2 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 338,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 339,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 340,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 341,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 343,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 347,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 348,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 1,
+    "seq": 350,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 352,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 354,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 355,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 356,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 357,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 358,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 360,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 361,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 362,
+    "text": "SolDominion buys and gains 1 Minion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 363,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "SolDominion topdecks 1 Minion with Bauble.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 366,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 367,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "SolDominion discards 2 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion topdecks 1 Stockpile with Bauble.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "SolDominion looks at 5 Stockpile, 2 Minion, 5 Copper, 1 Research, 1 Flag Bearer.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 372,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 373,
+    "text": "SolDominion draws 1 Copper, 3 Minion, 1 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 374,
+    "text": "Relicdog starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "Relicdog starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 376,
+    "text": "Relicdog puts 2 card in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 377,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 378,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 379,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 382,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 383,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 386,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 389,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 390,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 391,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 392,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 394,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 395,
+    "text": "Relicdog buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 396,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "Relicdog discards 3 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 399,
+    "text": "Relicdog buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 400,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "Relicdog repays 8 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 402,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 404,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 406,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 407,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 408,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 409,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 411,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 412,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 414,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 415,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 416,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 419,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 422,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 424,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 425,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 426,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 428,
+    "text": "SolDominion buys and gains 1 Stockpile.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 429,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 430,
+    "text": "SolDominion discards 1 Stockpile from Exile.",
+    "type": "official-discard-from-exile"
+  },
+  {
+    "player": 1,
+    "seq": 431,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 432,
+    "text": "SolDominion buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 433,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "SolDominion repays 7 debt (1 remaining).",
+    "type": "official-repays-some-debt"
+  },
+  {
+    "player": 1,
+    "seq": 435,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 436,
+    "text": "SolDominion draws 2 Copper, 2 Minion, 1 Flag Bearer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "Relicdog starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 439,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 440,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 442,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 444,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 446,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 448,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 449,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 452,
+    "text": "Relicdog discards 1 card, 1 Stockpile.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 454,
+    "text": "SolDominion discards 2 Copper, 2 Minion, 1 Flag Bearer.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "SolDominion draws 1 Minion, 1 City Quarter, 2 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 456,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 457,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 459,
+    "text": "Relicdog reveals their hand: 1 Minion, 2 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 460,
+    "text": "Relicdog draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 461,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 462,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 464,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 467,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Maelstrom",
+    "player": 0,
+    "seq": 468,
+    "text": "Relicdog buys 1 Maelstrom.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 469,
+    "text": "Relicdog trashes 3 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 472,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 473,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 474,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 475,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 476,
+    "text": "SolDominion reveals their hand: 2 Stockpile, 1 Minion.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 477,
+    "text": "SolDominion draws 1 Minion.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 478,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 479,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 481,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 482,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 484,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 485,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 487,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 488,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 489,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 490,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 491,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 492,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 494,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 495,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 496,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 498,
+    "text": "SolDominion repays 1 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 499,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 500,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 501,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "SolDominion draws 2 Copper, 1 Minion, 1 Necropolis, 1 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 503,
+    "text": "Relicdog starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 504,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 505,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 506,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 507,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 508,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 509,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 510,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 511,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 512,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 513,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 514,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 515,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 516,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 517,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 518,
+    "text": "Relicdog discards 1 card, 1 Stockpile.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 520,
+    "text": "SolDominion discards 2 Copper, 1 Minion, 1 Necropolis, 1 Stockpile.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 521,
+    "text": "SolDominion draws 1 Copper, 1 Research, 2 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 523,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 525,
+    "text": "Relicdog reveals their hand: 2 Stockpile, 1 Minion.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 526,
+    "text": "Relicdog draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 527,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 528,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 529,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 530,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 531,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 532,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 533,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 534,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 535,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 536,
+    "text": "Relicdog discards 1 card, 1 Stockpile.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 537,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 538,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 539,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 540,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 541,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 542,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 543,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 544,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 545,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 546,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 547,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 548,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 549,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 550,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 551,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 552,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 553,
+    "text": "Relicdog plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 554,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 0,
+    "seq": 555,
+    "text": "Relicdog exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 556,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 557,
+    "text": "Relicdog buys and gains 1 Merchant Guild.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 558,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 559,
+    "text": "Relicdog buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 561,
+    "text": "Relicdog buys and gains 1 Merchant Guild.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 562,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 563,
+    "text": "Relicdog buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 565,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 566,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 567,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 568,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 569,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 570,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 571,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 572,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 573,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 574,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 575,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 576,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 577,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 578,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 579,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 580,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 582,
+    "text": "SolDominion buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 583,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "SolDominion repays 6 debt (2 remaining).",
+    "type": "official-repays-some-debt"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 586,
+    "text": "SolDominion draws 2 Copper, 1 Minion, 1 Stockpile, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 587,
+    "text": "Relicdog starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 588,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 589,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 590,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 591,
+    "text": "Relicdog reveals their hand: 2 Minion, 2 Merchant Guild, 1 Research.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 592,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 593,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 594,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 598,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 599,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 600,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 601,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 604,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 605,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 606,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 607,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 608,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 609,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 610,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 611,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 612,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 613,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 614,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 615,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 616,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 617,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 618,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 619,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 621,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 622,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 623,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 624,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 625,
+    "text": "Relicdog repays 8 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 626,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marauder",
+    "player": 0,
+    "seq": 627,
+    "text": "Relicdog buys and gains 1 Marauder.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 628,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 629,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "Relicdog buys and gains 2 Copper.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 631,
+    "text": "Relicdog ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 632,
+    "text": "Relicdog gets +6 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 633,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 634,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 635,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 636,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 637,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 638,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 639,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 640,
+    "text": "SolDominion discards 2 Copper, 1 Stockpile, 1 Bauble.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 641,
+    "text": "SolDominion draws 2 Minion, 1 Necropolis, 1 Stockpile.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "Relicdog discards 5 card, 1 Minion.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 643,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 644,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 1,
+    "seq": 645,
+    "text": "SolDominion plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 646,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 648,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 649,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 650,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 651,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 652,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 653,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 654,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 655,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 656,
+    "text": "SolDominion discards 1 Stockpile.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 657,
+    "text": "SolDominion draws 1 Copper, 1 Province, 1 Minion, 1 City Quarter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 658,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 659,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 660,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "SolDominion reveals their hand: 1 Province, 1 Minion, 1 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 662,
+    "text": "SolDominion draws 1 City Quarter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 663,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 664,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 666,
+    "text": "SolDominion reveals their hand: 1 Province, 1 Minion, 1 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 667,
+    "text": "SolDominion draws 1 Minion.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 669,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 670,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 671,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 672,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 673,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 674,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 675,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 676,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 677,
+    "text": "SolDominion discards 1 Copper, 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 678,
+    "text": "SolDominion draws 1 Copper, 1 Minion, 1 Flag Bearer, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 679,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 680,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 682,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 1,
+    "seq": 683,
+    "text": "SolDominion trashes 1 Flag Bearer.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Flag",
+    "player": 1,
+    "seq": 684,
+    "text": "SolDominion takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 1,
+    "seq": 685,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 686,
+    "text": "SolDominion sets 2 Copper, 2 Stockpile aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 687,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 688,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 689,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 690,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 691,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 692,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 693,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 694,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 695,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 696,
+    "text": "SolDominion repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 1,
+    "seq": 697,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 1,
+    "seq": 698,
+    "text": "SolDominion buys and gains 1 Merchant Guild.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 699,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 700,
+    "text": "SolDominion draws 2 Copper, 1 Province, 2 Minion, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 701,
+    "text": "Relicdog starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 702,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 703,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 704,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 705,
+    "text": "Relicdog reveals their hand: 1 Merchant Guild, 1 Marauder, 1 Research.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 706,
+    "text": "Relicdog draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 707,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 708,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 709,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 710,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 711,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 712,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 713,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 714,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 715,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 716,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 717,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 718,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 719,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 720,
+    "text": "Relicdog discards 1 card, 1 Marauder.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 721,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 722,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 723,
+    "text": "SolDominion discards 2 Copper, 1 Province, 2 Minion, 1 Bauble.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 724,
+    "text": "SolDominion draws 1 Minion, 1 Merchant Guild, 2 City Quarter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 725,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 726,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 727,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 728,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 729,
+    "text": "Relicdog discards 2 card, 1 Gold.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 730,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 731,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 732,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 733,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 734,
+    "text": "Relicdog reveals their hand: 2 Minion, 1 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 735,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 736,
+    "text": "Relicdog draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 737,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 738,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 739,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 740,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 741,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 742,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 743,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 744,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 745,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 746,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 747,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 748,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 749,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 750,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 751,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marauder",
+    "player": 0,
+    "seq": 752,
+    "text": "Relicdog plays 1 Marauder.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 753,
+    "text": "Relicdog gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Ruined Village",
+    "player": 1,
+    "seq": 754,
+    "text": "SolDominion gains 1 Ruined Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 755,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 756,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 757,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 758,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 759,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 760,
+    "text": "Relicdog uses 2 Coffers. (+$2)",
+    "type": "official-uses-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 761,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 762,
+    "text": "Relicdog uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 763,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 764,
+    "text": "Relicdog buys and gains 1 Merchant Guild.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 765,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 766,
+    "text": "Relicdog buys and gains 1 Flag Bearer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Flag",
+    "player": 0,
+    "seq": 767,
+    "text": "Relicdog takes 1 Flag.",
+    "type": "official-take"
+  },
+  {
+    "player": 0,
+    "seq": 768,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 769,
+    "text": "Relicdog buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 770,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 771,
+    "text": "Relicdog repays 1 debt (7 remaining).",
+    "type": "official-repays-some-debt"
+  },
+  {
+    "player": 0,
+    "seq": 772,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 773,
+    "text": "Relicdog ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 774,
+    "text": "Relicdog gets +6 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 775,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 776,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 777,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 778,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 779,
+    "text": "SolDominion puts 2 Copper, 2 Stockpile in hand (Research).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 780,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 781,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 782,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 783,
+    "text": "SolDominion reveals their hand: 2 Stockpile, 1 Minion, 1 Merchant Guild, 2 Copper, 1 City Quarter.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 784,
+    "text": "SolDominion draws 1 Copper, 2 Minion.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 785,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 786,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 787,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 788,
+    "text": "SolDominion reveals their hand: 2 Stockpile, 3 Minion, 1 Merchant Guild, 3 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 789,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 790,
+    "text": "SolDominion draws 2 Minion, 1 Necropolis, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 791,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 792,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 793,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 794,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 795,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 796,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 797,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 798,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 799,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 800,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 801,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 802,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 803,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 804,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 805,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 806,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 807,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 808,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 809,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 810,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 811,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 812,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 813,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 814,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 815,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 816,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 1,
+    "seq": 817,
+    "text": "SolDominion plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 818,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 819,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 820,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 821,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 822,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 1,
+    "seq": 823,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 824,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 825,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 826,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 827,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 828,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 829,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 830,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 831,
+    "text": "SolDominion plays 1 Stockpile.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 832,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Stockpile",
+    "player": 1,
+    "seq": 833,
+    "text": "SolDominion exiles 1 Stockpile.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 834,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Maelstrom",
+    "player": 1,
+    "seq": 835,
+    "text": "SolDominion buys 1 Maelstrom.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 836,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 837,
+    "text": "SolDominion trashes 3 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 838,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 839,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 840,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 841,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 842,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 843,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 1,
+    "seq": 844,
+    "text": "SolDominion buys and gains 1 Merchant Guild.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 845,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 846,
+    "text": "SolDominion topdecks 1 Merchant Guild with Bauble.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 847,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 848,
+    "text": "SolDominion ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 849,
+    "text": "SolDominion gets +2 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 1,
+    "seq": 850,
+    "text": "SolDominion draws 1 Copper, 1 Province, 1 Minion, 1 Ruined Village, 1 Merchant Guild.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 851,
+    "text": "Relicdog starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 852,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 853,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 854,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 855,
+    "text": "Relicdog reveals their hand: 2 Minion, 1 Gold, 1 Flag Bearer.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 856,
+    "text": "Relicdog draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 857,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 858,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 859,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 860,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 861,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 862,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 863,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 864,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 865,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 866,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 867,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marauder",
+    "player": 0,
+    "seq": 868,
+    "text": "Relicdog plays 1 Marauder.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 869,
+    "text": "Relicdog gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Ruined Library",
+    "player": 1,
+    "seq": 870,
+    "text": "SolDominion gains 1 Ruined Library.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 871,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 872,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 873,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 874,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 875,
+    "text": "Relicdog discards 2 card, 1 Spoils.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 876,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 877,
+    "text": "SolDominion discards 1 Copper, 1 Province, 1 Minion, 1 Ruined Village, 1 Merchant Guild.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 878,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 879,
+    "text": "SolDominion draws 1 Copper, 2 Minion, 1 Research.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 880,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 881,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 882,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 883,
+    "text": "Relicdog reveals their hand: 2 Merchant Guild, 1 Research.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 884,
+    "text": "Relicdog draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 885,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 886,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 887,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 888,
+    "text": "Relicdog reveals their hand: 1 Minion, 3 Merchant Guild, 1 Research.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 889,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 890,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 891,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 892,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 893,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 894,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 895,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 896,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 897,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 898,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 899,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 900,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 901,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 902,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 903,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 904,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 905,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 906,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 907,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 908,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 909,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 910,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 911,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 912,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 913,
+    "text": "Relicdog returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 914,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 915,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 916,
+    "text": "Relicdog returns 1 Spoils to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 917,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 918,
+    "text": "Relicdog repays 7 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 919,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 920,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 921,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 922,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 923,
+    "text": "Relicdog uses 4 Coffers. (+$4)",
+    "type": "official-uses-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 924,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 925,
+    "text": "Relicdog uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 926,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 927,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 928,
+    "text": "Relicdog buys and gains 2 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 929,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 930,
+    "text": "Relicdog buys and gains 1 Copper.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 931,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 932,
+    "text": "Relicdog buys and gains 1 City Quarter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 933,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 934,
+    "text": "Relicdog ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 935,
+    "text": "Relicdog gets +12 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 936,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 937,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 938,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 939,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 1,
+    "seq": 940,
+    "text": "SolDominion plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 941,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 942,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 943,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 944,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 945,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 946,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 947,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 948,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 949,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 950,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 951,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 952,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 953,
+    "text": "SolDominion draws 1 Province, 1 Minion, 1 Ruined Library, 1 Merchant Guild.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 954,
+    "text": "Relicdog discards 5 card, 1 Marauder.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 955,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 956,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 957,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 958,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 959,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 960,
+    "text": "SolDominion discards 1 Province, 1 Ruined Library, 1 Merchant Guild.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 961,
+    "text": "SolDominion draws 1 Province, 1 Minion, 1 Merchant Guild, 1 City Quarter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 962,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 1,
+    "seq": 963,
+    "text": "SolDominion plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 964,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 965,
+    "text": "SolDominion reveals their hand: 1 Province, 1 Minion, 1 Merchant Guild.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 966,
+    "text": "SolDominion draws 1 Minion, 1 Necropolis.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 967,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Necropolis",
+    "player": 1,
+    "seq": 968,
+    "text": "SolDominion plays 1 Necropolis.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 969,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 970,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 1,
+    "seq": 971,
+    "text": "SolDominion plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 972,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 973,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 974,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 975,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 976,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 977,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 978,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 979,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 980,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 981,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 982,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 983,
+    "text": "SolDominion discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 984,
+    "text": "SolDominion draws 1 Copper, 1 Minion, 1 Ruined Village, 1 Bauble.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 985,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 1,
+    "seq": 986,
+    "text": "SolDominion plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 987,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 988,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 989,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 990,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 991,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 992,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bauble",
+    "player": 1,
+    "seq": 993,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 994,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 995,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 996,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 997,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 998,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 999,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1000,
+    "text": "SolDominion uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "player": 1,
+    "seq": 1001,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 1002,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 1003,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 1004,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 1005,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ruined Library",
+    "player": 1,
+    "seq": 1006,
+    "text": "SolDominion buys and gains 1 Ruined Library.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 1007,
+    "text": "SolDominion ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 1,
+    "seq": 1008,
+    "text": "SolDominion gets +3 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 1,
+    "seq": 1009,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 1010,
+    "text": "SolDominion draws 2 Province, 2 Minion, 1 City Quarter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 1011,
+    "text": "Relicdog starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 1012,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 1013,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1014,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 1015,
+    "text": "Relicdog reveals their hand: 1 Minion, 2 Merchant Guild.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 1016,
+    "text": "Relicdog draws 3 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 1017,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 1018,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1019,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 1020,
+    "text": "Relicdog reveals their hand: 2 Minion, 2 Merchant Guild, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 1021,
+    "text": "Relicdog draws 4 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 1022,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 1023,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1024,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 1025,
+    "text": "Relicdog reveals their hand: 3 Minion, 3 Merchant Guild, 1 City Quarter, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 1026,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 1027,
+    "text": "Relicdog draws 7 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 1028,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 1029,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1030,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 1031,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 1032,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 1033,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1034,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 1035,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 1036,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Merchant Guild",
+    "player": 0,
+    "seq": 1037,
+    "text": "Relicdog plays 1 Merchant Guild.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1038,
+    "text": "Relicdog gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 1039,
+    "text": "Relicdog gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 1040,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 1041,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1042,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 1043,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1044,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 1045,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 1046,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1047,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 1048,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1049,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 1050,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 1051,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1052,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 1053,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1054,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 1055,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "City Quarter",
+    "player": 0,
+    "seq": 1056,
+    "text": "Relicdog plays 1 City Quarter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1057,
+    "text": "Relicdog gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 1058,
+    "text": "Relicdog reveals their hand: 2 Province, 1 Minion, 1 Copper, 1 Marauder, 1 Gold, 1 Research, 1 Flag Bearer.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 1059,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Research",
+    "player": 0,
+    "seq": 1060,
+    "text": "Relicdog plays 1 Research.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1061,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 1062,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 1063,
+    "text": "Relicdog trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 1064,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Marauder",
+    "player": 0,
+    "seq": 1065,
+    "text": "Relicdog plays 1 Marauder.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spoils",
+    "player": 0,
+    "seq": 1066,
+    "text": "Relicdog gains 1 Spoils.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Survivors",
+    "player": 1,
+    "seq": 1067,
+    "text": "SolDominion gains 1 Survivors.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 1068,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Minion",
+    "player": 0,
+    "seq": 1069,
+    "text": "Relicdog plays 1 Minion.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1070,
+    "text": "Relicdog gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 1071,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1072,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 1073,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Flag Bearer",
+    "player": 0,
+    "seq": 1074,
+    "text": "Relicdog plays 1 Flag Bearer.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 1075,
+    "text": "Relicdog gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 1076,
+    "text": "Relicdog begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 1077,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1078,
+    "text": "Relicdog repays 8 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 1079,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 1080,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 1081,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1082,
+    "text": "Relicdog uses 16 Coffers. (+$16)",
+    "type": "official-uses-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 1083,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1084,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1085,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 1086,
+    "text": "Relicdog buys and gains 3 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 1087,
+    "text": "Relicdog answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 1088,
+    "text": "Relicdog buys and gains 1 Copper.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 1089,
+    "text": "Relicdog ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "player": 0,
+    "seq": 1090,
+    "text": "Relicdog gets +12 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 1091,
+    "text": "Relicdog shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 1092,
+    "text": "Relicdog draws 6 card.",
+    "type": "official-draw"
+  }
+]

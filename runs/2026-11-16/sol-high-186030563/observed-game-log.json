@@ -1,0 +1,3489 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186030563",
+    "type": "official-game-meta-info"
+  },
+  {
+    "seq": 1,
+    "text": "Obelisk chooses Player 0 supply.",
+    "type": "official-obelisk-chooses-pile"
+  },
+  {
+    "card": "Nearby",
+    "seq": 2,
+    "text": "The Nearby Trait is acquired by Player 0 supply.",
+    "type": "official-acquires-trait"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "amiwan starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "amiwan starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 12,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion buys and gains 1 Black Market.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "amiwan starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 24,
+    "text": "amiwan buys and gains 1 Sailor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion buys and gains 1 Sailor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Black Market.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "amiwan starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Black Market",
+    "player": 1,
+    "seq": 39,
+    "text": "amiwan buys and gains 1 Black Market.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 44,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion gains 1 Town.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion puts 1 Scavenger, 1 Ranger on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "SolDominion draws 4 Copper, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "amiwan starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 56,
+    "text": "amiwan buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 60,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion buys and gains 1 Sailor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "amiwan starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 76,
+    "text": "amiwan plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "amiwan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 80,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 81,
+    "text": "amiwan buys and gains 1 Shanty Town.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Nearby",
+    "player": 1,
+    "seq": 82,
+    "text": "amiwan gets +1 Buy. (Nearby)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 88,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 90,
+    "text": "SolDominion trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 91,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "SolDominion trashes 1 Estate. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion buys and gains 1 Hunting Party.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Black Market.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 101,
+    "text": "amiwan starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "amiwan starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 103,
+    "text": "amiwan gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "amiwan trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 107,
+    "text": "amiwan plays 1 Shanty Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "amiwan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "amiwan reveals their hand: 2 Copper, 1 Black Market.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 1,
+    "seq": 111,
+    "text": "amiwan plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "amiwan gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Salvager",
+    "player": 1,
+    "seq": 114,
+    "text": "amiwan gains 1 Salvager.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "amiwan puts 1 Mint, 1 Cobbler on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 119,
+    "text": "amiwan buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion puts 1 Market, 1 Wine Merchant, 1 Sheepdog on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 130,
+    "text": "SolDominion buys and gains 1 Hunting Party.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "SolDominion draws 4 Copper, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 133,
+    "text": "amiwan starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 134,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 135,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 136,
+    "text": "amiwan buys and gains 1 Hunting Party.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 140,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 141,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 142,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 143,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 144,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 149,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 151,
+    "text": "SolDominion buys and gains 1 Hunting Party.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "SolDominion draws 2 Copper, 2 Hunting Party, 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "amiwan starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 156,
+    "text": "amiwan plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 157,
+    "text": "amiwan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "amiwan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 159,
+    "text": "amiwan reveals their hand: 2 Estate, 3 Copper.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 160,
+    "text": "amiwan reveals 1 Sailor.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 161,
+    "text": "amiwan puts 1 Sailor into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 162,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 163,
+    "text": "amiwan plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "amiwan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 165,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 168,
+    "text": "amiwan buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 171,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 172,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 173,
+    "text": "SolDominion draws 1 Black Market.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 175,
+    "text": "SolDominion reveals their hand: 2 Copper, 1 Black Market, 1 Hunting Party, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "SolDominion reveals 1 Copper, 1 Estate.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 177,
+    "text": "SolDominion puts 1 Estate into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 178,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 180,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 181,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "SolDominion reveals their hand: 1 Estate, 2 Copper, 1 Black Market, 2 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion reveals 1 Copper, 1 Hunting Party.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion puts 1 Hunting Party into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 187,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 191,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 192,
+    "text": "SolDominion reveals their hand: 1 Estate, 3 Copper, 1 Black Market, 2 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 193,
+    "text": "SolDominion reveals 3 Copper, 1 Town.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 194,
+    "text": "SolDominion puts 1 Town into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 195,
+    "text": "SolDominion discards 3 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 197,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 199,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 200,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 202,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 203,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 204,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 205,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 206,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 207,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 208,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 209,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 211,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 212,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 213,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 214,
+    "text": "SolDominion gains 1 Captain.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 216,
+    "text": "SolDominion plays 1 Captain.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Dismantle",
+    "player": 0,
+    "seq": 218,
+    "text": "SolDominion plays 1 Dismantle.",
+    "type": "official-play"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 219,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 221,
+    "text": "SolDominion gains 1 Copper.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "SolDominion puts 1 Remodel, 1 Mining Village on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "SolDominion draws 3 Copper, 1 Hunting Party, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "amiwan starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 228,
+    "text": "amiwan starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Sailor",
+    "player": 1,
+    "seq": 229,
+    "text": "amiwan gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 230,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 231,
+    "text": "amiwan trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 232,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 233,
+    "text": "amiwan plays 1 Shanty Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 234,
+    "text": "amiwan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 235,
+    "text": "amiwan reveals their hand: 1 Silver, 1 Estate, 1 Salvager.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 236,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Salvager",
+    "player": 1,
+    "seq": 237,
+    "text": "amiwan plays 1 Salvager.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "amiwan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 240,
+    "text": "amiwan trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "amiwan gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 243,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 244,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 245,
+    "text": "amiwan buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 250,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 251,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 252,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 254,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Archive",
+    "player": 0,
+    "seq": 263,
+    "text": "SolDominion gains 1 Archive.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "SolDominion puts 1 Rocks, 1 Investment on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 266,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 267,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 269,
+    "text": "SolDominion reveals their hand: 2 Copper, 1 Town.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 270,
+    "text": "SolDominion reveals 2 Copper, 1 Gold.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 271,
+    "text": "SolDominion puts 1 Gold into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 272,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 273,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 274,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 275,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 276,
+    "text": "SolDominion draws 1 Black Market.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 277,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 278,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 279,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 280,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 281,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 282,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 283,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "King's Court",
+    "player": 0,
+    "seq": 284,
+    "text": "SolDominion gains 1 King's Court.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "SolDominion puts 1 Smithy, 1 Dungeon on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 287,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 288,
+    "text": "SolDominion draws 2 Copper, 1 Gold, 2 Hunting Party.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "amiwan starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 290,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 291,
+    "text": "amiwan plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 292,
+    "text": "amiwan draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 293,
+    "text": "amiwan gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 294,
+    "text": "amiwan reveals their hand: 2 Estate, 2 Copper, 1 Black Market.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 295,
+    "text": "amiwan reveals 1 Shanty Town.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 296,
+    "text": "amiwan puts 1 Shanty Town into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 297,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 1,
+    "seq": 298,
+    "text": "amiwan plays 1 Shanty Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 299,
+    "text": "amiwan gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 300,
+    "text": "amiwan reveals their hand: 2 Estate, 2 Copper, 1 Black Market.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 301,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 1,
+    "seq": 302,
+    "text": "amiwan plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 303,
+    "text": "amiwan gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 304,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cellar",
+    "player": 1,
+    "seq": 305,
+    "text": "amiwan gains 1 Cellar.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 306,
+    "text": "amiwan puts 1 Beggar, 1 Marquis on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 1,
+    "seq": 307,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 308,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 309,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 310,
+    "text": "amiwan buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 311,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 314,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 315,
+    "text": "SolDominion draws 1 Captain.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "SolDominion reveals their hand: 1 Captain, 2 Copper, 1 Hunting Party, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 318,
+    "text": "SolDominion reveals 1 Black Market.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion puts 1 Black Market into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion reveals their hand: 1 Captain, 3 Copper, 1 Black Market, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion reveals 1 Sailor.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion puts 1 Sailor into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 329,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 330,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion plays 1 Captain.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 332,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Shanty Town",
+    "player": 0,
+    "seq": 333,
+    "text": "SolDominion plays 1 Shanty Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 334,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 335,
+    "text": "SolDominion reveals their hand: 3 Copper, 1 Black Market, 1 Gold.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 336,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 337,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 338,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 339,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 340,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 342,
+    "text": "SolDominion puts 1 Nobles, 1 Fortress, 1 Change on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 343,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 344,
+    "text": "SolDominion buys and gains 1 Horn of Plenty.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 345,
+    "text": "SolDominion draws 2 Copper, 1 King's Court, 1 Hunting Party, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "amiwan starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 347,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Salvager",
+    "player": 1,
+    "seq": 348,
+    "text": "amiwan plays 1 Salvager.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "amiwan gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 350,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 351,
+    "text": "amiwan trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 352,
+    "text": "amiwan gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 354,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 355,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 356,
+    "text": "amiwan buys and gains 1 Potion.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 357,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 1,
+    "seq": 358,
+    "text": "amiwan buys and gains 1 Black Market.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "amiwan shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 360,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 361,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 362,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 363,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 364,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 365,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 366,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 368,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 369,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 370,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Church",
+    "player": 0,
+    "seq": 371,
+    "text": "SolDominion gains 1 Church.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 372,
+    "text": "SolDominion puts 1 Duplicate, 1 Night Watchman on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "King's Court",
+    "player": 0,
+    "seq": 374,
+    "text": "SolDominion plays 1 King's Court.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 376,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 377,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 378,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 379,
+    "text": "SolDominion reveals their hand: 1 Copper, 1 Town, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "SolDominion reveals 1 Copper, 1 Archive.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Archive",
+    "player": 0,
+    "seq": 381,
+    "text": "SolDominion puts 1 Archive into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 382,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 383,
+    "text": "SolDominion plays 1 Hunting Party again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion reveals their hand: 1 Archive, 2 Copper, 1 Town, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion reveals 1 Copper, 1 Black Market.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion puts 1 Black Market into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 390,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 391,
+    "text": "SolDominion plays 1 Hunting Party a third time.",
+    "type": "official-play-third"
+  },
+  {
+    "card": "Church",
+    "player": 0,
+    "seq": 392,
+    "text": "SolDominion draws 1 Church.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion reveals their hand: 1 Church, 1 Archive, 2 Copper, 1 Black Market, 1 Town, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 395,
+    "text": "SolDominion reveals 1 Horn of Plenty.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 396,
+    "text": "SolDominion puts 1 Horn of Plenty into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 398,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 399,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 400,
+    "text": "SolDominion draws 1 Hunting Party.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 402,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 403,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 404,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "SolDominion reveals their hand: 1 Church, 1 Archive, 3 Copper, 1 Black Market, 1 Horn of Plenty, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 407,
+    "text": "SolDominion reveals 1 Copper, 1 Hunting Party.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 408,
+    "text": "SolDominion puts 1 Hunting Party into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 409,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 411,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 412,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 414,
+    "text": "SolDominion reveals their hand: 1 Church, 1 Archive, 3 Copper, 1 Black Market, 1 Horn of Plenty, 1 Gold, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 416,
+    "text": "SolDominion reveals 2 Copper.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Archive",
+    "player": 0,
+    "seq": 419,
+    "text": "SolDominion plays 1 Archive.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 420,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 421,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 422,
+    "text": "SolDominion looks at 2 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 423,
+    "text": "SolDominion puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 424,
+    "text": "SolDominion sets 1 Copper aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 426,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 427,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 428,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Church",
+    "player": 0,
+    "seq": 429,
+    "text": "SolDominion plays 1 Church.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 430,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "SolDominion sets 3 Copper aside with Church.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 434,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 435,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 436,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 439,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 440,
+    "text": "SolDominion plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 442,
+    "text": "SolDominion gains 1 Horn of Plenty.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 444,
+    "text": "SolDominion gains 1 Lighthouse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 446,
+    "text": "SolDominion plays 1 Lighthouse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 447,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 448,
+    "text": "SolDominion gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "SolDominion puts 1 Expand, 1 Cabin Boy on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Counterfeit",
+    "player": 0,
+    "seq": 451,
+    "text": "SolDominion buys and gains 1 Counterfeit.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 452,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "SolDominion draws 1 Copper, 3 Hunting Party, 1 Black Market.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 454,
+    "text": "amiwan starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "amiwan answered",
+    "type": "decision"
+  },
+  {
+    "card": "Potion",
+    "player": 1,
+    "seq": 457,
+    "text": "amiwan plays 1 Potion.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Golem",
+    "player": 1,
+    "seq": 459,
+    "text": "amiwan buys and gains 1 Golem.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "amiwan draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 461,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 462,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 464,
+    "text": "SolDominion puts 3 Copper in hand (Church).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "SolDominion trashes 1 Copper. (Church)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 467,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 468,
+    "text": "SolDominion gets +$2. (Sailor)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 469,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "SolDominion trashes 1 Copper. (Sailor)",
+    "type": "official-trash-with"
+  },
+  {
+    "card": "Lighthouse",
+    "player": 0,
+    "seq": 471,
+    "text": "SolDominion gets +$1. (Lighthouse)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 472,
+    "text": "SolDominion puts 1 Copper in hand (Archive).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 474,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion draws 1 Sailor.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 476,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion reveals their hand: 1 Black Market, 3 Copper, 2 Hunting Party, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Counterfeit",
+    "player": 0,
+    "seq": 478,
+    "text": "SolDominion reveals 1 Counterfeit.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Counterfeit",
+    "player": 0,
+    "seq": 479,
+    "text": "SolDominion puts 1 Counterfeit into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 481,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "King's Court",
+    "player": 0,
+    "seq": 482,
+    "text": "SolDominion draws 1 King's Court.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 484,
+    "text": "SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Hunting Party, 1 King's Court, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 485,
+    "text": "SolDominion reveals 1 Town.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 486,
+    "text": "SolDominion puts 1 Town into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "King's Court",
+    "player": 0,
+    "seq": 488,
+    "text": "SolDominion plays 1 King's Court.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 490,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 491,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 492,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 493,
+    "text": "SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 1 Gold, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 494,
+    "text": "SolDominion reveals 1 Horn of Plenty.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 495,
+    "text": "SolDominion puts 1 Horn of Plenty into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 496,
+    "text": "SolDominion plays 1 Hunting Party again.",
+    "type": "official-play-again"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 497,
+    "text": "SolDominion draws 1 Horn of Plenty.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 498,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 499,
+    "text": "SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 2 Horn of Plenty, 1 Gold, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 500,
+    "text": "SolDominion reveals 1 Captain.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 501,
+    "text": "SolDominion puts 1 Captain into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 0,
+    "seq": 502,
+    "text": "SolDominion plays 1 Hunting Party a third time.",
+    "type": "official-play-third"
+  },
+  {
+    "player": 0,
+    "seq": 503,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 504,
+    "text": "SolDominion reveals their hand: 1 Captain, 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 2 Horn of Plenty, 1 Gold, 1 Sailor.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 0,
+    "seq": 505,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sailor",
+    "player": 0,
+    "seq": 506,
+    "text": "SolDominion plays 1 Sailor.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 507,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 508,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Town",
+    "player": 0,
+    "seq": 509,
+    "text": "SolDominion plays 1 Town.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 510,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 511,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 512,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 513,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Captain",
+    "player": 0,
+    "seq": 514,
+    "text": "SolDominion plays 1 Captain.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 515,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 516,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 517,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 518,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "SolDominion puts 1 Festival, 1 Procession, 1 Flagship on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 520,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Black Market",
+    "player": 0,
+    "seq": 521,
+    "text": "SolDominion plays 1 Black Market.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 523,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 525,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 526,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 527,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 528,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Counterfeit",
+    "player": 0,
+    "seq": 529,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 530,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 531,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 532,
+    "text": "SolDominion plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 533,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 534,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 535,
+    "text": "SolDominion trashes 1 Horn of Plenty.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 536,
+    "text": "SolDominion plays 1 Horn of Plenty again.",
+    "type": "official-play-again"
+  },
+  {
+    "player": 0,
+    "seq": 537,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 538,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 539,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 540,
+    "text": "SolDominion plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 541,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 542,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 543,
+    "text": "SolDominion trashes 1 Horn of Plenty.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 544,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 545,
+    "text": "SolDominion puts 1 Trader, 1 Sacrifice, 1 Litter on the bottom of Player 0 nonSupply.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 546,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 547,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 548,
+    "text": "SolDominion buys and gains 2 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 549,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 550,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 551,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Lighthouse, 1 Black Market, 1 Town.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 552,
+    "text": "amiwan starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "amiwan answered",
+    "type": "decision"
+  }
+]

@@ -1,0 +1,758 @@
+00000 game 186029319
+00001 SolDominion gets +1 Favor. (Circle of Witches)
+00002 weitzy gets +1 Favor. (Circle of Witches)
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 weitzy starts with 3 Estate.
+00006 weitzy starts with 7 Copper.
+00007 SolDominion answered
+00008 weitzy answered
+00009 SolDominion shuffles their deck.
+00010 weitzy shuffles their deck.
+00011 SolDominion draws 4 Copper, 1 Estate.
+00012 weitzy draws 5 card.
+00013 SolDominion turn 1
+00014 SolDominion answered
+00015 SolDominion answered
+00016 SolDominion answered
+00017 SolDominion answered
+00018 play treasures for
+00019 SolDominion answered
+00020 SolDominion buys and gains 1 Temple.
+00021 SolDominion draws 3 Copper, 2 Estate.
+00022 weitzy turn 1
+00023 weitzy answered
+00024 play treasures for
+00025 weitzy answered
+00026 weitzy buys and gains 1 Capital City.
+00027 weitzy draws 5 card.
+00028 SolDominion turn 2
+00029 SolDominion answered
+00030 SolDominion answered
+00031 SolDominion answered
+00032 play treasures for
+00033 SolDominion answered
+00034 SolDominion buys and gains 1 Silver.
+00035 SolDominion shuffles their deck.
+00036 SolDominion draws 2 Copper, 2 Estate, 1 Temple.
+00037 weitzy turn 2
+00038 weitzy answered
+00039 play treasures for
+00040 weitzy answered
+00041 weitzy buys and gains 1 Bauble.
+00042 weitzy shuffles their deck.
+00043 weitzy draws 5 card.
+00044 SolDominion turn 3
+00045 SolDominion answered
+00046 SolDominion plays 1 Temple.
+00047 SolDominion gets 1 VP.
+00048 SolDominion answered
+00049 SolDominion trashes 1 Estate.
+00050 SolDominion answered
+00051 SolDominion answered
+00052 play treasures for
+00053 SolDominion answered
+00054 SolDominion buys and gains 1 Lackeys.
+00055 SolDominion gets +2 Villagers.
+00056 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00057 weitzy turn 3
+00058 weitzy answered
+00059 play treasures for
+00060 weitzy answered
+00061 weitzy plays 1 Bauble.
+00062 weitzy answered
+00063 weitzy gets +$1.
+00064 weitzy gets +1 Favor. (Bauble)
+00065 weitzy answered
+00066 weitzy buys and gains 1 Treasure Map.
+00067 weitzy draws 5 card.
+00068 SolDominion turn 4
+00069 SolDominion answered
+00070 SolDominion answered
+00071 SolDominion answered
+00072 SolDominion answered
+00073 play treasures for
+00074 SolDominion answered
+00075 SolDominion buys and gains 1 Witch.
+00076 SolDominion shuffles their deck.
+00077 SolDominion draws 3 Copper, 1 Witch, 1 Temple.
+00078 weitzy turn 4
+00079 weitzy answered
+00080 weitzy plays 1 Capital City.
+00081 weitzy draws 1 card.
+00082 weitzy gets +2 Actions.
+00083 weitzy answered
+00084 weitzy answered
+00085 weitzy discards 1 card, 1 Estate.
+00086 weitzy gets +$2.
+00087 weitzy answered
+00088 weitzy answered
+00089 play treasures for
+00090 weitzy answered
+00091 weitzy buys and gains 1 Magnate.
+00092 weitzy shuffles their deck.
+00093 weitzy draws 5 card.
+00094 SolDominion turn 5
+00095 SolDominion answered
+00096 SolDominion plays 1 Witch.
+00097 SolDominion draws 1 Copper, 1 Silver.
+00098 weitzy gains 1 Curse.
+00099 SolDominion answered
+00100 SolDominion uses 1 Villager.
+00101 SolDominion gets +1 Action.
+00102 SolDominion answered
+00103 SolDominion plays 1 Temple.
+00104 SolDominion gets 1 VP.
+00105 SolDominion answered
+00106 SolDominion trashes 1 Copper.
+00107 SolDominion answered
+00108 SolDominion answered
+00109 SolDominion answered
+00110 SolDominion answered
+00111 play treasures for
+00112 SolDominion answered
+00113 SolDominion buys and gains 1 Capital City.
+00114 SolDominion draws 3 Copper, 2 Estate.
+00115 weitzy turn 5
+00116 weitzy answered
+00117 play treasures for
+00118 weitzy answered
+00119 weitzy buys and gains 1 Silver.
+00120 weitzy draws 5 card.
+00121 SolDominion turn 6
+00122 SolDominion answered
+00123 SolDominion answered
+00124 SolDominion answered
+00125 play treasures for
+00126 SolDominion answered
+00127 SolDominion buys and gains 1 Bauble.
+00128 SolDominion shuffles their deck.
+00129 SolDominion draws 2 Copper, 1 Estate, 1 Witch, 1 Lackeys.
+00130 weitzy turn 6
+00131 weitzy answered
+00132 weitzy plays 1 Capital City.
+00133 weitzy draws 1 card.
+00134 weitzy gets +2 Actions.
+00135 weitzy answered
+00136 weitzy plays 1 Magnate.
+00137 weitzy reveals their hand: 1 Bauble, 2 Copper, 1 Treasure Map.
+00138 weitzy draws 3 card.
+00139 weitzy answered
+00140 weitzy answered
+00141 play treasures for
+00142 weitzy answered
+00143 weitzy plays 1 Bauble.
+00144 weitzy answered
+00145 weitzy gets +$1.
+00146 weitzy gets +1 Favor. (Bauble)
+00147 weitzy answered
+00148 weitzy spends 3 Favors.
+00149 SolDominion gains 1 Curse.
+00150 weitzy answered
+00151 weitzy buys and gains 1 Witch.
+00152 weitzy shuffles their deck.
+00153 weitzy draws 5 card.
+00154 SolDominion turn 7
+00155 SolDominion answered
+00156 SolDominion plays 1 Witch.
+00157 SolDominion draws 1 Copper, 1 Capital City.
+00158 weitzy gains 1 Curse.
+00159 SolDominion answered
+00160 SolDominion uses 1 Villager.
+00161 SolDominion gets +1 Action.
+00162 SolDominion answered
+00163 SolDominion plays 1 Capital City.
+00164 SolDominion draws 1 Copper.
+00165 SolDominion gets +2 Actions.
+00166 SolDominion answered
+00167 SolDominion answered
+00168 SolDominion discards 1 Copper, 1 Estate.
+00169 SolDominion gets +$2.
+00170 SolDominion answered
+00171 SolDominion loses 2 Coins.
+00172 SolDominion draws 1 Copper, 1 Temple.
+00173 SolDominion answered
+00174 SolDominion plays 1 Lackeys.
+00175 SolDominion draws 1 Silver, 1 Estate.
+00176 SolDominion answered
+00177 SolDominion plays 1 Temple.
+00178 SolDominion gets 1 VP.
+00179 SolDominion answered
+00180 SolDominion trashes 1 Copper, 1 Estate.
+00181 SolDominion answered
+00182 SolDominion answered
+00183 SolDominion answered
+00184 SolDominion answered
+00185 play treasures for
+00186 SolDominion answered
+00187 SolDominion buys 1 Sea Trade.
+00188 SolDominion shuffles their deck.
+00189 SolDominion draws 1 Curse, 1 Copper, 1 Estate, 1 Bauble.
+00190 SolDominion answered
+00191 SolDominion trashes 1 Curse, 1 Copper, 1 Estate.
+00192 SolDominion shuffles their deck.
+00193 SolDominion draws 2 Copper, 1 Temple, 1 Capital City, 1 Bauble.
+00194 weitzy turn 7
+00195 weitzy answered
+00196 play treasures for
+00197 weitzy answered
+00198 weitzy buys and gains 1 Crossroads.
+00199 weitzy draws 5 card.
+00200 SolDominion turn 8
+00201 SolDominion answered
+00202 SolDominion plays 1 Capital City.
+00203 SolDominion draws 1 Lackeys.
+00204 SolDominion gets +2 Actions.
+00205 SolDominion answered
+00206 SolDominion answered
+00207 SolDominion discards 1 Copper, 1 Temple.
+00208 SolDominion gets +$2.
+00209 SolDominion answered
+00210 SolDominion loses 2 Coins.
+00211 SolDominion draws 1 Copper, 1 Silver.
+00212 SolDominion answered
+00213 SolDominion plays 1 Lackeys.
+00214 SolDominion draws 1 Copper, 1 Witch.
+00215 SolDominion answered
+00216 SolDominion plays 1 Witch.
+00217 SolDominion shuffles their deck.
+00218 SolDominion draws 1 Copper, 1 Temple.
+00219 weitzy gains 1 Curse.
+00220 SolDominion answered
+00221 SolDominion plays 1 Bauble.
+00222 SolDominion answered
+00223 SolDominion gets +1 Buy.
+00224 SolDominion gets +$1.
+00225 SolDominion answered
+00226 SolDominion answered
+00227 SolDominion answered
+00228 SolDominion answered
+00229 SolDominion answered
+00230 play treasures for
+00231 SolDominion answered
+00232 SolDominion buys and gains 1 Capital City.
+00233 SolDominion answered
+00234 SolDominion buys and gains 1 Lackeys.
+00235 SolDominion gets +2 Villagers.
+00236 SolDominion shuffles their deck.
+00237 SolDominion draws 3 Copper, 1 Lackeys, 1 Capital City.
+00238 weitzy turn 8
+00239 weitzy answered
+00240 weitzy plays 1 Witch.
+00241 weitzy draws 2 card.
+00242 SolDominion gains 1 Curse.
+00243 weitzy answered
+00244 play treasures for
+00245 weitzy answered
+00246 weitzy buys and gains 1 Crossroads.
+00247 weitzy draws 5 card.
+00248 SolDominion turn 9
+00249 SolDominion answered
+00250 SolDominion plays 1 Capital City.
+00251 SolDominion draws 1 Witch.
+00252 SolDominion gets +2 Actions.
+00253 SolDominion answered
+00254 SolDominion answered
+00255 SolDominion discards 2 Copper.
+00256 SolDominion gets +$2.
+00257 SolDominion answered
+00258 SolDominion plays 1 Witch.
+00259 SolDominion draws 1 Capital City, 1 Bauble.
+00260 weitzy gains 1 Curse.
+00261 SolDominion answered
+00262 SolDominion plays 1 Capital City.
+00263 SolDominion draws 1 Lackeys.
+00264 SolDominion gets +2 Actions.
+00265 SolDominion answered
+00266 SolDominion plays 1 Lackeys.
+00267 SolDominion draws 1 Silver, 1 Temple.
+00268 SolDominion answered
+00269 SolDominion plays 1 Lackeys.
+00270 SolDominion shuffles their deck.
+00271 SolDominion draws 1 Curse, 1 Copper.
+00272 SolDominion answered
+00273 SolDominion uses 1 Villager.
+00274 SolDominion gets +1 Action.
+00275 SolDominion answered
+00276 SolDominion plays 1 Temple.
+00277 SolDominion gets 1 VP.
+00278 SolDominion answered
+00279 SolDominion trashes 1 Curse, 1 Copper.
+00280 SolDominion answered
+00281 SolDominion plays 1 Bauble.
+00282 SolDominion answered
+00283 SolDominion gets +$1.
+00284 SolDominion gets +1 Favor. (Bauble)
+00285 SolDominion answered
+00286 SolDominion answered
+00287 play treasures for
+00288 SolDominion answered
+00289 SolDominion buys 1 Lost Arts.
+00290 SolDominion answered
+00291 SolDominion moves plus action to Player 0 supply.
+00292 SolDominion shuffles their deck.
+00293 SolDominion draws 2 Copper, 1 Silver, 1 Temple, 1 Capital City.
+00294 weitzy turn 9
+00295 weitzy answered
+00296 play treasures for
+00297 weitzy answered
+00298 weitzy plays 1 Bauble.
+00299 weitzy answered
+00300 weitzy gets +$1.
+00301 weitzy gets +1 Favor. (Bauble)
+00302 weitzy answered
+00303 weitzy buys and gains 1 Temple.
+00304 weitzy takes 4 VP from Player 0 supply.
+00305 weitzy shuffles their deck.
+00306 weitzy draws 5 card.
+00307 SolDominion turn 10
+00308 SolDominion answered
+00309 SolDominion plays 1 Capital City.
+00310 SolDominion draws 1 Bauble.
+00311 SolDominion gets +2 Actions.
+00312 SolDominion answered
+00313 SolDominion answered
+00314 SolDominion discards 1 Copper, 1 Temple.
+00315 SolDominion gets +$2.
+00316 SolDominion answered
+00317 SolDominion loses 2 Coins.
+00318 SolDominion draws 1 Copper, 1 Lackeys.
+00319 SolDominion answered
+00320 SolDominion plays 1 Lackeys.
+00321 SolDominion gets +1 Action (from Lost Arts).
+00322 SolDominion draws 1 Lackeys, 1 Capital City.
+00323 SolDominion answered
+00324 SolDominion plays 1 Capital City.
+00325 SolDominion draws 1 Witch.
+00326 SolDominion gets +2 Actions.
+00327 SolDominion answered
+00328 SolDominion answered
+00329 SolDominion discards 2 Copper.
+00330 SolDominion gets +$2.
+00331 SolDominion answered
+00332 SolDominion plays 1 Witch.
+00333 SolDominion shuffles their deck.
+00334 SolDominion draws 2 Copper.
+00335 weitzy gains 1 Curse.
+00336 SolDominion answered
+00337 SolDominion plays 1 Lackeys.
+00338 SolDominion gets +1 Action (from Lost Arts).
+00339 SolDominion draws 1 Copper, 1 Temple.
+00340 SolDominion answered
+00341 SolDominion answered
+00342 SolDominion plays 1 Bauble.
+00343 SolDominion answered
+00344 SolDominion gets +1 Buy.
+00345 SolDominion gets +$1.
+00346 SolDominion answered
+00347 SolDominion answered
+00348 SolDominion answered
+00349 SolDominion answered
+00350 play treasures for
+00351 SolDominion answered
+00352 SolDominion buys and gains 1 Gold.
+00353 SolDominion answered
+00354 SolDominion buys and gains 1 Lackeys.
+00355 SolDominion gets +2 Villagers.
+00356 SolDominion shuffles their deck.
+00357 SolDominion draws 1 Copper, 1 Temple, 2 Lackeys, 1 Capital City.
+00358 weitzy turn 10
+00359 weitzy answered
+00360 weitzy plays 1 Capital City.
+00361 weitzy draws 1 card.
+00362 weitzy gets +2 Actions.
+00363 weitzy answered
+00364 weitzy answered
+00365 weitzy discards 1 card, 1 Copper.
+00366 weitzy gets +$2.
+00367 weitzy answered
+00368 weitzy loses 2 Coins.
+00369 weitzy draws 2 card.
+00370 weitzy answered
+00371 weitzy plays 1 Crossroads.
+00372 weitzy reveals their hand: 1 Silver, 1 Bauble, 2 Copper.
+00373 weitzy gets +3 Actions.
+00374 weitzy answered
+00375 play treasures for
+00376 weitzy answered
+00377 weitzy plays 1 Bauble.
+00378 weitzy answered
+00379 weitzy gets +$1.
+00380 weitzy gets +1 Favor. (Bauble)
+00381 weitzy answered
+00382 weitzy buys and gains 1 Capital City.
+00383 weitzy draws 5 card.
+00384 SolDominion turn 11
+00385 SolDominion answered
+00386 SolDominion plays 1 Lackeys.
+00387 SolDominion gets +1 Action (from Lost Arts).
+00388 SolDominion draws 1 Silver, 1 Capital City.
+00389 SolDominion answered
+00390 SolDominion plays 1 Capital City.
+00391 SolDominion draws 1 Copper.
+00392 SolDominion gets +2 Actions.
+00393 SolDominion answered
+00394 SolDominion answered
+00395 SolDominion discards 1 Copper, 1 Temple.
+00396 SolDominion gets +$2.
+00397 SolDominion answered
+00398 SolDominion plays 1 Lackeys.
+00399 SolDominion gets +1 Action (from Lost Arts).
+00400 SolDominion draws 1 Witch, 1 Bauble.
+00401 SolDominion answered
+00402 SolDominion plays 1 Witch.
+00403 SolDominion draws 1 Copper, 1 Gold.
+00404 weitzy gains 1 Curse.
+00405 SolDominion answered
+00406 SolDominion plays 1 Capital City.
+00407 SolDominion draws 1 Lackeys.
+00408 SolDominion gets +2 Actions.
+00409 SolDominion answered
+00410 SolDominion answered
+00411 SolDominion discards 2 Copper.
+00412 SolDominion gets +$2.
+00413 SolDominion answered
+00414 SolDominion plays 1 Lackeys.
+00415 SolDominion gets +1 Action (from Lost Arts).
+00416 SolDominion shuffles their deck.
+00417 SolDominion draws 1 Copper, 1 Temple.
+00418 SolDominion answered
+00419 SolDominion plays 1 Temple.
+00420 SolDominion gets 1 VP.
+00421 SolDominion answered
+00422 SolDominion trashes 1 Copper.
+00423 SolDominion answered
+00424 SolDominion plays 1 Bauble.
+00425 SolDominion answered
+00426 SolDominion gets +1 Buy.
+00427 SolDominion gets +$1.
+00428 SolDominion answered
+00429 SolDominion answered
+00430 play treasures for
+00431 SolDominion answered
+00432 SolDominion buys and gains 1 Province.
+00433 SolDominion answered
+00434 SolDominion buys and gains 1 Lackeys.
+00435 SolDominion gets +2 Villagers.
+00436 SolDominion shuffles their deck.
+00437 SolDominion draws 2 Copper, 1 Witch, 2 Capital City.
+00438 weitzy turn 11
+00439 weitzy answered
+00440 weitzy plays 1 Crossroads.
+00441 weitzy reveals their hand: 1 Curse, 1 Copper, 1 Magnate, 1 Temple.
+00442 weitzy gets +3 Actions.
+00443 weitzy answered
+00444 weitzy plays 1 Magnate.
+00445 weitzy reveals their hand: 1 Curse, 1 Copper, 1 Temple.
+00446 weitzy draws 1 card.
+00447 weitzy answered
+00448 weitzy plays 1 Witch.
+00449 weitzy draws 2 card.
+00450 SolDominion gains 1 Curse.
+00451 weitzy answered
+00452 weitzy plays 1 Temple.
+00453 weitzy gets 1 VP.
+00454 weitzy answered
+00455 weitzy trashes 1 Curse, 1 Copper.
+00456 weitzy answered
+00457 weitzy draws 5 card.
+00458 SolDominion turn 12
+00459 SolDominion answered
+00460 SolDominion plays 1 Capital City.
+00461 SolDominion draws 1 Lackeys.
+00462 SolDominion gets +2 Actions.
+00463 SolDominion answered
+00464 SolDominion answered
+00465 SolDominion discards 2 Copper.
+00466 SolDominion gets +$2.
+00467 SolDominion answered
+00468 SolDominion plays 1 Witch.
+00469 SolDominion draws 1 Province, 1 Lackeys.
+00470 weitzy gains 1 Curse.
+00471 SolDominion answered
+00472 SolDominion plays 1 Lackeys.
+00473 SolDominion gets +1 Action (from Lost Arts).
+00474 SolDominion draws 1 Silver, 1 Bauble.
+00475 SolDominion answered
+00476 SolDominion plays 1 Lackeys.
+00477 SolDominion gets +1 Action (from Lost Arts).
+00478 SolDominion draws 1 Gold, 1 Lackeys.
+00479 SolDominion answered
+00480 SolDominion plays 1 Lackeys.
+00481 SolDominion gets +1 Action (from Lost Arts).
+00482 SolDominion draws 1 Temple, 1 Lackeys.
+00483 SolDominion answered
+00484 SolDominion plays 1 Capital City.
+00485 SolDominion shuffles their deck.
+00486 SolDominion draws 1 Copper.
+00487 SolDominion gets +2 Actions.
+00488 SolDominion answered
+00489 SolDominion answered
+00490 SolDominion discards 1 Copper, 1 Province.
+00491 SolDominion gets +$2.
+00492 SolDominion answered
+00493 SolDominion plays 1 Lackeys.
+00494 SolDominion gets +1 Action (from Lost Arts).
+00495 SolDominion draws 1 Curse, 1 Copper.
+00496 SolDominion answered
+00497 SolDominion plays 1 Temple.
+00498 SolDominion gets 1 VP.
+00499 SolDominion answered
+00500 SolDominion trashes 1 Curse, 1 Copper.
+00501 SolDominion answered
+00502 SolDominion plays 1 Bauble.
+00503 SolDominion answered
+00504 SolDominion gets +1 Buy.
+00505 SolDominion gets +$1.
+00506 SolDominion answered
+00507 SolDominion answered
+00508 play treasures for
+00509 SolDominion answered
+00510 SolDominion buys and gains 1 Province.
+00511 SolDominion answered
+00512 SolDominion buys and gains 1 Bauble.
+00513 SolDominion shuffles their deck.
+00514 SolDominion draws 1 Silver, 1 Temple, 2 Lackeys, 1 Capital City.
+00515 weitzy turn 12
+00516 weitzy answered
+00517 weitzy answered
+00518 play treasures for
+00519 weitzy answered
+00520 weitzy buys and gains 1 Crossroads.
+00521 weitzy shuffles their deck.
+00522 weitzy draws 5 card.
+00523 SolDominion turn 13
+00524 SolDominion answered
+00525 SolDominion plays 1 Lackeys.
+00526 SolDominion gets +1 Action (from Lost Arts).
+00527 SolDominion draws 1 Lackeys, 1 Capital City.
+00528 SolDominion answered
+00529 SolDominion plays 1 Lackeys.
+00530 SolDominion gets +1 Action (from Lost Arts).
+00531 SolDominion draws 1 Copper, 1 Bauble.
+00532 SolDominion answered
+00533 SolDominion plays 1 Capital City.
+00534 SolDominion draws 1 Gold.
+00535 SolDominion gets +2 Actions.
+00536 SolDominion answered
+00537 SolDominion answered
+00538 SolDominion discards 1 Copper, 1 Temple.
+00539 SolDominion gets +$2.
+00540 SolDominion answered
+00541 SolDominion plays 1 Lackeys.
+00542 SolDominion gets +1 Action (from Lost Arts).
+00543 SolDominion draws 1 Witch, 1 Lackeys.
+00544 SolDominion answered
+00545 SolDominion plays 1 Witch.
+00546 SolDominion draws 1 Province, 1 Bauble.
+00547 SolDominion answered
+00548 SolDominion plays 1 Capital City.
+00549 SolDominion draws 1 Province.
+00550 SolDominion gets +2 Actions.
+00551 SolDominion answered
+00552 SolDominion answered
+00553 SolDominion discards 2 Province.
+00554 SolDominion gets +$2.
+00555 SolDominion answered
+00556 SolDominion plays 1 Lackeys.
+00557 SolDominion gets +1 Action (from Lost Arts).
+00558 SolDominion shuffles their deck.
+00559 SolDominion draws 1 Province, 1 Temple.
+00560 SolDominion answered
+00561 SolDominion answered
+00562 SolDominion plays 1 Bauble.
+00563 SolDominion answered
+00564 SolDominion gets +1 Buy.
+00565 SolDominion gets +$1.
+00566 SolDominion answered
+00567 SolDominion plays 1 Bauble.
+00568 SolDominion answered
+00569 SolDominion gets +$1.
+00570 SolDominion answered
+00571 SolDominion answered
+00572 play treasures for
+00573 SolDominion answered
+00574 SolDominion buys and gains 1 Province.
+00575 SolDominion answered
+00576 SolDominion answered
+00577 SolDominion buys and gains 1 Lackeys.
+00578 SolDominion gets +2 Villagers.
+00579 SolDominion answered
+00580 SolDominion topdecks 1 Lackeys with Bauble.
+00581 SolDominion shuffles their deck.
+00582 SolDominion draws 1 Copper, 1 Province, 1 Lackeys, 1 Capital City, 1 Bauble.
+00583 weitzy turn 13
+00584 weitzy answered
+00585 weitzy plays 1 Crossroads.
+00586 weitzy reveals their hand: 1 Estate, 2 Copper, 1 Curse.
+00587 weitzy draws 1 card.
+00588 weitzy gets +3 Actions.
+00589 weitzy answered
+00590 play treasures for
+00591 weitzy answered
+00592 weitzy buys and gains 1 Bauble.
+00593 weitzy draws 5 card.
+00594 SolDominion turn 14
+00595 SolDominion answered
+00596 SolDominion plays 1 Lackeys.
+00597 SolDominion gets +1 Action (from Lost Arts).
+00598 SolDominion draws 1 Witch, 1 Capital City.
+00599 SolDominion answered
+00600 SolDominion plays 1 Capital City.
+00601 SolDominion draws 1 Lackeys.
+00602 SolDominion gets +2 Actions.
+00603 SolDominion answered
+00604 SolDominion answered
+00605 SolDominion discards 1 Copper, 1 Province.
+00606 SolDominion gets +$2.
+00607 SolDominion answered
+00608 SolDominion plays 1 Lackeys.
+00609 SolDominion gets +1 Action (from Lost Arts).
+00610 SolDominion draws 1 Province, 1 Lackeys.
+00611 SolDominion answered
+00612 SolDominion plays 1 Lackeys.
+00613 SolDominion gets +1 Action (from Lost Arts).
+00614 SolDominion draws 1 Gold, 1 Temple.
+00615 SolDominion answered
+00616 SolDominion plays 1 Capital City.
+00617 SolDominion draws 1 Lackeys.
+00618 SolDominion gets +2 Actions.
+00619 SolDominion answered
+00620 SolDominion answered
+00621 SolDominion discards 1 Province, 1 Temple.
+00622 SolDominion gets +$2.
+00623 SolDominion answered
+00624 SolDominion plays 1 Lackeys.
+00625 SolDominion gets +1 Action (from Lost Arts).
+00626 SolDominion draws 1 Province, 1 Bauble.
+00627 SolDominion answered
+00628 SolDominion plays 1 Witch.
+00629 SolDominion draws 1 Silver, 1 Lackeys.
+00630 SolDominion answered
+00631 SolDominion plays 1 Lackeys.
+00632 SolDominion gets +1 Action (from Lost Arts).
+00633 SolDominion shuffles their deck.
+00634 SolDominion draws 2 Province.
+00635 SolDominion answered
+00636 SolDominion plays 1 Bauble.
+00637 SolDominion answered
+00638 SolDominion gets +1 Buy.
+00639 SolDominion gets +$1.
+00640 SolDominion answered
+00641 SolDominion plays 1 Bauble.
+00642 SolDominion answered
+00643 SolDominion gets +$1.
+00644 SolDominion answered
+00645 SolDominion answered
+00646 play treasures for
+00647 SolDominion answered
+00648 SolDominion buys and gains 1 Province.
+00649 SolDominion answered
+00650 SolDominion answered
+00651 SolDominion buys and gains 1 Lackeys.
+00652 SolDominion gets +2 Villagers.
+00653 SolDominion answered
+00654 SolDominion topdecks 1 Lackeys with Bauble.
+00655 SolDominion shuffles their deck.
+00656 SolDominion draws 1 Copper, 1 Gold, 1 Province, 1 Temple, 1 Lackeys.
+00657 weitzy turn 14
+00658 weitzy answered
+00659 weitzy plays 1 Crossroads.
+00660 weitzy reveals their hand: 1 Copper, 1 Treasure Map, 1 Crossroads, 1 Temple.
+00661 weitzy gets +3 Actions.
+00662 weitzy answered
+00663 weitzy plays 1 Crossroads.
+00664 weitzy reveals their hand: 1 Copper, 1 Treasure Map, 1 Temple.
+00665 weitzy answered
+00666 weitzy plays 1 Temple.
+00667 weitzy gets 1 VP.
+00668 weitzy answered
+00669 weitzy trashes 1 Copper.
+00670 weitzy answered
+00671 weitzy answered
+00672 weitzy draws 5 card.
+00673 SolDominion turn 15
+00674 SolDominion answered
+00675 SolDominion plays 1 Lackeys.
+00676 SolDominion gets +1 Action (from Lost Arts).
+00677 SolDominion draws 1 Lackeys, 1 Bauble.
+00678 SolDominion answered
+00679 SolDominion plays 1 Lackeys.
+00680 SolDominion gets +1 Action (from Lost Arts).
+00681 SolDominion draws 1 Province, 1 Witch.
+00682 SolDominion answered
+00683 SolDominion plays 1 Witch.
+00684 SolDominion draws 1 Lackeys, 1 Capital City.
+00685 SolDominion answered
+00686 SolDominion uses 1 Villager.
+00687 SolDominion gets +1 Action.
+00688 SolDominion answered
+00689 SolDominion plays 1 Capital City.
+00690 SolDominion draws 1 Province.
+00691 SolDominion gets +2 Actions.
+00692 SolDominion answered
+00693 SolDominion answered
+00694 SolDominion discards 2 Province.
+00695 SolDominion gets +$2.
+00696 SolDominion answered
+00697 SolDominion plays 1 Lackeys.
+00698 SolDominion gets +1 Action (from Lost Arts).
+00699 SolDominion draws 1 Silver, 1 Capital City.
+00700 SolDominion answered
+00701 SolDominion plays 1 Temple.
+00702 SolDominion gets 1 VP.
+00703 SolDominion answered
+00704 SolDominion trashes 1 Copper.
+00705 SolDominion answered
+00706 SolDominion plays 1 Capital City.
+00707 SolDominion draws 1 Lackeys.
+00708 SolDominion gets +2 Actions.
+00709 SolDominion answered
+00710 SolDominion answered
+00711 SolDominion discards 1 Province, 1 Bauble.
+00712 SolDominion gets +$2.
+00713 SolDominion answered
+00714 SolDominion plays 1 Lackeys.
+00715 SolDominion gets +1 Action (from Lost Arts).
+00716 SolDominion draws 1 Lackeys, 1 Bauble.
+00717 SolDominion answered
+00718 SolDominion plays 1 Lackeys.
+00719 SolDominion gets +1 Action (from Lost Arts).
+00720 SolDominion draws 1 Province, 1 Lackeys.
+00721 SolDominion answered
+00722 SolDominion plays 1 Lackeys.
+00723 SolDominion gets +1 Action (from Lost Arts).
+00724 SolDominion shuffles their deck.
+00725 SolDominion draws 2 Province.
+00726 SolDominion answered
+00727 SolDominion plays 1 Bauble.
+00728 SolDominion answered
+00729 SolDominion gets +1 Buy.
+00730 SolDominion gets +$1.
+00731 SolDominion answered
+00732 SolDominion answered
+00733 play treasures for
+00734 SolDominion answered
+00735 SolDominion buys and gains 1 Province.
+00736 SolDominion answered
+00737 SolDominion buys and gains 1 Lackeys.
+00738 SolDominion gets +2 Villagers.
+00739 SolDominion shuffles their deck.
+00740 SolDominion draws 1 Gold, 1 Province, 1 Lackeys, 2 Bauble.
+00741 weitzy turn 15
+00742 weitzy answered
+00743 weitzy plays 1 Capital City.
+00744 weitzy draws 1 card.
+00745 weitzy gets +2 Actions.
+00746 weitzy answered
+00747 weitzy answered
+00748 weitzy discards 1 card, 1 Copper.
+00749 weitzy gets +$2.
+00750 weitzy answered
+00751 weitzy loses 2 Coins.
+00752 weitzy draws 2 card.
+00753 weitzy answered
+00754 play treasures for
+00755 weitzy answered
+00756 weitzy draws 5 card.
+00757 SolDominion turn 16

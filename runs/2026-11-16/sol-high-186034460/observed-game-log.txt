@@ -1,0 +1,538 @@
+00000 game 186034460
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 7 Copper.
+00003 GameBot3000 starts with 3 Estate.
+00004 GameBot3000 starts with 7 Copper.
+00005 SolDominion answered
+00006 GameBot3000 answered
+00007 SolDominion shuffles their deck.
+00008 GameBot3000 shuffles their deck.
+00009 SolDominion draws 4 Copper, 1 Estate.
+00010 GameBot3000 draws 5 card.
+00011 SolDominion starts turn 1
+00012 SolDominion answered
+00013 SolDominion answered
+00014 SolDominion answered
+00015 SolDominion answered
+00016 play treasures for
+00017 SolDominion answered
+00018 SolDominion buys and gains 1 Silver.
+00019 SolDominion draws 3 Copper, 2 Estate.
+00020 GameBot3000 starts turn 1
+00021 GameBot3000 answered
+00022 play treasures for
+00023 GameBot3000 answered
+00024 GameBot3000 buys and gains 1 Silver.
+00025 GameBot3000 draws 5 card.
+00026 SolDominion starts turn 2
+00027 SolDominion answered
+00028 SolDominion answered
+00029 SolDominion answered
+00030 play treasures for
+00031 SolDominion answered
+00032 SolDominion buys and gains 1 Ghost Town.
+00033 SolDominion answered
+00034 SolDominion plays 1 Ghost Town.
+00035 SolDominion shuffles their deck.
+00036 SolDominion draws 4 Copper, 1 Silver.
+00037 GameBot3000 starts turn 2
+00038 GameBot3000 answered
+00039 play treasures for
+00040 GameBot3000 answered
+00041 GameBot3000 buys and gains 1 Ghost Town.
+00042 GameBot3000 answered
+00043 GameBot3000 plays 1 Ghost Town.
+00044 GameBot3000 shuffles their deck.
+00045 GameBot3000 draws 5 card.
+00046 SolDominion starts turn 3
+00047 SolDominion starts their turn.
+00048 SolDominion draws 1 Copper. (Ghost Town)
+00049 SolDominion gets +1 Action. (Ghost Town)
+00050 SolDominion answered
+00051 SolDominion answered
+00052 SolDominion answered
+00053 SolDominion answered
+00054 SolDominion answered
+00055 SolDominion answered
+00056 play treasures for
+00057 SolDominion answered
+00058 SolDominion buys and gains 1 Recruiter.
+00059 SolDominion draws 2 Copper, 3 Estate.
+00060 GameBot3000 starts turn 3
+00061 GameBot3000 starts their turn.
+00062 GameBot3000 draws 1 card. (Ghost Town)
+00063 GameBot3000 gets +1 Action. (Ghost Town)
+00064 GameBot3000 answered
+00065 play treasures for
+00066 GameBot3000 answered
+00067 GameBot3000 buys and gains 1 Ghost Town.
+00068 GameBot3000 answered
+00069 GameBot3000 plays 1 Ghost Town.
+00070 GameBot3000 draws 5 card.
+00071 SolDominion starts turn 4
+00072 SolDominion answered
+00073 SolDominion answered
+00074 play treasures for
+00075 SolDominion answered
+00076 SolDominion buys and gains 1 Settlers.
+00077 SolDominion shuffles their deck.
+00078 SolDominion draws 2 Copper, 1 Estate, 1 Settlers, 1 Recruiter.
+00079 GameBot3000 starts turn 4
+00080 GameBot3000 starts their turn.
+00081 GameBot3000 shuffles their deck.
+00082 GameBot3000 draws 1 card. (Ghost Town)
+00083 GameBot3000 gets +1 Action. (Ghost Town)
+00084 GameBot3000 answered
+00085 play treasures for
+00086 GameBot3000 answered
+00087 GameBot3000 buys and gains 1 Gold.
+00088 GameBot3000 draws 5 card.
+00089 SolDominion starts turn 5
+00090 SolDominion answered
+00091 SolDominion plays 1 Settlers.
+00092 SolDominion draws 1 Ghost Town.
+00093 SolDominion gets +1 Action.
+00094 SolDominion answered
+00095 SolDominion plays 1 Recruiter.
+00096 SolDominion draws 1 Copper, 1 Estate.
+00097 SolDominion answered
+00098 SolDominion trashes 1 Estate.
+00099 SolDominion gets +2 Villagers.
+00100 SolDominion answered
+00101 SolDominion answered
+00102 SolDominion answered
+00103 play treasures for
+00104 SolDominion answered
+00105 SolDominion buys and gains 1 Silver.
+00106 SolDominion answered
+00107 SolDominion plays 1 Ghost Town.
+00108 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00109 GameBot3000 starts turn 5
+00110 GameBot3000 answered
+00111 play treasures for
+00112 GameBot3000 answered
+00113 GameBot3000 buys and gains 1 Settlers.
+00114 GameBot3000 answered
+00115 GameBot3000 plays 1 Ghost Town.
+00116 GameBot3000 shuffles their deck.
+00117 GameBot3000 draws 5 card.
+00118 SolDominion starts turn 6
+00119 SolDominion starts their turn.
+00120 SolDominion draws 1 Copper. (Ghost Town)
+00121 SolDominion gets +1 Action. (Ghost Town)
+00122 SolDominion answered
+00123 SolDominion answered
+00124 SolDominion answered
+00125 SolDominion answered
+00126 SolDominion answered
+00127 play treasures for
+00128 SolDominion answered
+00129 SolDominion buys and gains 1 Recruiter.
+00130 SolDominion shuffles their deck.
+00131 SolDominion draws 4 Copper, 1 Recruiter.
+00132 GameBot3000 starts turn 6
+00133 GameBot3000 starts their turn.
+00134 GameBot3000 draws 1 card. (Ghost Town)
+00135 GameBot3000 gets +1 Action. (Ghost Town)
+00136 GameBot3000 answered
+00137 GameBot3000 plays 1 Settlers.
+00138 GameBot3000 draws 1 card.
+00139 GameBot3000 gets +1 Action.
+00140 GameBot3000 answered
+00141 play treasures for
+00142 GameBot3000 answered
+00143 GameBot3000 buys and gains 1 Ghost Town.
+00144 GameBot3000 answered
+00145 GameBot3000 plays 1 Ghost Town.
+00146 GameBot3000 answered
+00147 GameBot3000 plays 1 Ghost Town.
+00148 GameBot3000 draws 5 card.
+00149 SolDominion starts turn 7
+00150 SolDominion answered
+00151 SolDominion plays 1 Recruiter.
+00152 SolDominion draws 1 Copper, 1 Settlers.
+00153 SolDominion answered
+00154 SolDominion trashes 1 Copper.
+00155 SolDominion answered
+00156 SolDominion uses 1 Villager.
+00157 SolDominion gets +1 Action.
+00158 SolDominion answered
+00159 SolDominion plays 1 Settlers.
+00160 SolDominion draws 1 Recruiter.
+00161 SolDominion gets +1 Action.
+00162 SolDominion answered
+00163 SolDominion plays 1 Recruiter.
+00164 SolDominion draws 1 Copper, 1 Estate.
+00165 SolDominion answered
+00166 SolDominion trashes 1 Estate.
+00167 SolDominion gets +2 Villagers.
+00168 SolDominion answered
+00169 SolDominion answered
+00170 SolDominion answered
+00171 SolDominion answered
+00172 SolDominion answered
+00173 play treasures for
+00174 SolDominion answered
+00175 SolDominion buys and gains 1 Hunter.
+00176 SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Ghost Town.
+00177 GameBot3000 starts turn 7
+00178 GameBot3000 starts their turn.
+00179 GameBot3000 draws 1 card. (Ghost Town)
+00180 GameBot3000 gets +1 Action. (Ghost Town)
+00181 GameBot3000 draws 1 card. (Ghost Town)
+00182 GameBot3000 gets +1 Action. (Ghost Town)
+00183 GameBot3000 answered
+00184 play treasures for
+00185 GameBot3000 answered
+00186 GameBot3000 buys and gains 1 Festival.
+00187 GameBot3000 shuffles their deck.
+00188 GameBot3000 draws 5 card.
+00189 SolDominion starts turn 8
+00190 SolDominion answered
+00191 SolDominion answered
+00192 SolDominion answered
+00193 play treasures for
+00194 SolDominion answered
+00195 SolDominion buys and gains 1 Festival.
+00196 SolDominion answered
+00197 SolDominion plays 1 Ghost Town.
+00198 SolDominion shuffles their deck.
+00199 SolDominion draws 3 Copper, 1 Silver, 1 Hunter.
+00200 GameBot3000 starts turn 8
+00201 GameBot3000 answered
+00202 play treasures for
+00203 GameBot3000 answered
+00204 GameBot3000 buys and gains 1 Ghost Town.
+00205 GameBot3000 answered
+00206 GameBot3000 plays 1 Ghost Town.
+00207 GameBot3000 answered
+00208 GameBot3000 plays 1 Ghost Town.
+00209 GameBot3000 draws 5 card.
+00210 SolDominion starts turn 9
+00211 SolDominion starts their turn.
+00212 SolDominion draws 1 Settlers. (Ghost Town)
+00213 SolDominion gets +1 Action. (Ghost Town)
+00214 SolDominion answered
+00215 SolDominion plays 1 Hunter.
+00216 SolDominion gets +1 Action.
+00217 SolDominion reveals 1 Silver, 2 Recruiter.
+00218 SolDominion puts 1 Silver, 1 Recruiter into their hand.
+00219 SolDominion discards 1 Recruiter.
+00220 SolDominion answered
+00221 SolDominion plays 1 Settlers.
+00222 SolDominion draws 1 Copper.
+00223 SolDominion gets +1 Action.
+00224 SolDominion looks at 1 Recruiter.
+00225 SolDominion answered
+00226 SolDominion plays 1 Recruiter.
+00227 SolDominion draws 1 Estate, 1 Festival.
+00228 SolDominion answered
+00229 SolDominion trashes 1 Estate.
+00230 SolDominion gets +2 Villagers.
+00231 SolDominion answered
+00232 SolDominion plays 1 Festival.
+00233 SolDominion gets +2 Actions.
+00234 SolDominion gets +1 Buy.
+00235 SolDominion gets +$2.
+00236 SolDominion answered
+00237 SolDominion answered
+00238 SolDominion answered
+00239 SolDominion answered
+00240 SolDominion answered
+00241 SolDominion answered
+00242 play treasures for
+00243 SolDominion answered
+00244 SolDominion buys and gains 1 Hunter.
+00245 SolDominion answered
+00246 SolDominion buys and gains 1 Festival.
+00247 SolDominion shuffles their deck.
+00248 SolDominion draws 2 Copper, 1 Silver, 1 Ghost Town, 1 Recruiter.
+00249 GameBot3000 starts turn 9
+00250 GameBot3000 starts their turn.
+00251 GameBot3000 draws 1 card. (Ghost Town)
+00252 GameBot3000 gets +1 Action. (Ghost Town)
+00253 GameBot3000 draws 1 card. (Ghost Town)
+00254 GameBot3000 gets +1 Action. (Ghost Town)
+00255 GameBot3000 answered
+00256 GameBot3000 plays 1 Settlers.
+00257 GameBot3000 draws 1 card.
+00258 GameBot3000 gets +1 Action.
+00259 GameBot3000 looks at 3 card, 1 Estate.
+00260 GameBot3000 resolved a forced decision
+00261 GameBot3000 puts 1 Copper into their hand.
+00262 GameBot3000 answered
+00263 play treasures for
+00264 GameBot3000 answered
+00265 GameBot3000 buys and gains 1 Festival.
+00266 GameBot3000 answered
+00267 GameBot3000 plays 1 Ghost Town.
+00268 GameBot3000 shuffles their deck.
+00269 GameBot3000 draws 5 card.
+00270 SolDominion starts turn 10
+00271 SolDominion answered
+00272 SolDominion plays 1 Recruiter.
+00273 SolDominion draws 2 Copper.
+00274 SolDominion answered
+00275 SolDominion trashes 1 Copper.
+00276 SolDominion answered
+00277 SolDominion answered
+00278 SolDominion answered
+00279 SolDominion answered
+00280 play treasures for
+00281 SolDominion answered
+00282 SolDominion buys and gains 1 Hunter.
+00283 SolDominion answered
+00284 SolDominion plays 1 Ghost Town.
+00285 SolDominion draws 2 Copper, 1 Silver, 1 Recruiter, 1 Hunter.
+00286 GameBot3000 starts turn 10
+00287 GameBot3000 starts their turn.
+00288 GameBot3000 draws 1 card. (Ghost Town)
+00289 GameBot3000 gets +1 Action. (Ghost Town)
+00290 GameBot3000 answered
+00291 GameBot3000 plays 1 Festival.
+00292 GameBot3000 gets +2 Actions.
+00293 GameBot3000 gets +1 Buy.
+00294 GameBot3000 gets +$2.
+00295 GameBot3000 answered
+00296 play treasures for
+00297 GameBot3000 answered
+00298 GameBot3000 buys and gains 1 Recruiter.
+00299 GameBot3000 answered
+00300 GameBot3000 buys and gains 1 Settlers.
+00301 GameBot3000 answered
+00302 GameBot3000 plays 1 Ghost Town.
+00303 GameBot3000 draws 5 card.
+00304 SolDominion starts turn 11
+00305 SolDominion starts their turn.
+00306 SolDominion draws 1 Festival. (Ghost Town)
+00307 SolDominion gets +1 Action. (Ghost Town)
+00308 SolDominion answered
+00309 SolDominion plays 1 Recruiter.
+00310 SolDominion draws 1 Settlers, 1 Hunter.
+00311 SolDominion answered
+00312 SolDominion trashes 1 Copper.
+00313 SolDominion answered
+00314 SolDominion plays 1 Settlers.
+00315 SolDominion draws 1 Festival.
+00316 SolDominion gets +1 Action.
+00317 SolDominion looks at 3 Copper, 1 Silver, 1 Recruiter, 1 Hunter.
+00318 SolDominion answered
+00319 SolDominion puts 1 Copper into their hand.
+00320 SolDominion answered
+00321 SolDominion plays 1 Hunter.
+00322 SolDominion gets +1 Action.
+00323 SolDominion shuffles their deck.
+00324 SolDominion reveals 1 Copper, 1 Silver, 1 Recruiter.
+00325 SolDominion answered
+00326 SolDominion puts 1 Silver, 1 Recruiter into their hand.
+00327 SolDominion discards 1 Copper.
+00328 SolDominion answered
+00329 SolDominion plays 1 Hunter.
+00330 SolDominion gets +1 Action.
+00331 SolDominion shuffles their deck.
+00332 SolDominion reveals 2 Copper, 1 Hunter.
+00333 SolDominion puts 1 Copper, 1 Hunter into their hand.
+00334 SolDominion discards 1 Copper.
+00335 SolDominion answered
+00336 SolDominion plays 1 Hunter.
+00337 SolDominion gets +1 Action.
+00338 SolDominion shuffles their deck.
+00339 SolDominion reveals 1 Copper.
+00340 SolDominion puts 1 Copper into their hand.
+00341 SolDominion answered
+00342 SolDominion plays 1 Festival.
+00343 SolDominion gets +2 Actions.
+00344 SolDominion gets +1 Buy.
+00345 SolDominion gets +$2.
+00346 SolDominion answered
+00347 SolDominion plays 1 Festival.
+00348 SolDominion gets +2 Actions.
+00349 SolDominion gets +1 Buy.
+00350 SolDominion gets +$2.
+00351 SolDominion answered
+00352 SolDominion answered
+00353 SolDominion answered
+00354 SolDominion answered
+00355 SolDominion answered
+00356 SolDominion answered
+00357 SolDominion answered
+00358 play treasures for
+00359 SolDominion answered
+00360 SolDominion buys and gains 1 Gold.
+00361 SolDominion answered
+00362 SolDominion buys and gains 1 Villain.
+00363 SolDominion answered
+00364 SolDominion shuffles their deck.
+00365 SolDominion draws 2 Copper, 1 Gold, 1 Ghost Town, 1 Recruiter.
+00366 GameBot3000 starts turn 11
+00367 GameBot3000 starts their turn.
+00368 GameBot3000 draws 1 card. (Ghost Town)
+00369 GameBot3000 gets +1 Action. (Ghost Town)
+00370 GameBot3000 answered
+00371 GameBot3000 plays 1 Festival.
+00372 GameBot3000 gets +2 Actions.
+00373 GameBot3000 gets +1 Buy.
+00374 GameBot3000 gets +$2.
+00375 GameBot3000 answered
+00376 play treasures for
+00377 GameBot3000 answered
+00378 GameBot3000 buys and gains 1 Recruiter.
+00379 GameBot3000 answered
+00380 GameBot3000 answered
+00381 GameBot3000 plays 1 Ghost Town.
+00382 GameBot3000 draws 5 card.
+00383 SolDominion starts turn 12
+00384 SolDominion answered
+00385 SolDominion plays 1 Recruiter.
+00386 SolDominion draws 1 Festival, 1 Recruiter.
+00387 SolDominion answered
+00388 SolDominion trashes 1 Copper.
+00389 SolDominion answered
+00390 SolDominion uses 1 Villager.
+00391 SolDominion gets +1 Action.
+00392 SolDominion answered
+00393 SolDominion plays 1 Festival.
+00394 SolDominion gets +2 Actions.
+00395 SolDominion gets +1 Buy.
+00396 SolDominion gets +$2.
+00397 SolDominion answered
+00398 SolDominion plays 1 Recruiter.
+00399 SolDominion draws 1 Silver, 1 Hunter.
+00400 SolDominion answered
+00401 SolDominion trashes 1 Copper.
+00402 SolDominion answered
+00403 SolDominion plays 1 Hunter.
+00404 SolDominion gets +1 Action.
+00405 SolDominion reveals 2 Copper, 1 Hunter.
+00406 SolDominion puts 1 Copper, 1 Hunter into their hand.
+00407 SolDominion discards 1 Copper.
+00408 SolDominion answered
+00409 SolDominion plays 1 Hunter.
+00410 SolDominion gets +1 Action.
+00411 SolDominion reveals 1 Festival, 1 Villain, 1 Hunter.
+00412 SolDominion answered
+00413 SolDominion puts 1 Hunter into their hand.
+00414 SolDominion discards 1 Festival, 1 Villain.
+00415 SolDominion answered
+00416 SolDominion plays 1 Hunter.
+00417 SolDominion gets +1 Action.
+00418 SolDominion shuffles their deck.
+00419 SolDominion reveals 1 Silver, 1 Festival, 1 Settlers.
+00420 SolDominion answered
+00421 SolDominion puts 1 Silver, 1 Festival into their hand.
+00422 SolDominion discards 1 Settlers.
+00423 SolDominion answered
+00424 SolDominion plays 1 Festival.
+00425 SolDominion gets +2 Actions.
+00426 SolDominion gets +1 Buy.
+00427 SolDominion gets +$2.
+00428 SolDominion answered
+00429 SolDominion answered
+00430 SolDominion answered
+00431 SolDominion answered
+00432 play treasures for
+00433 SolDominion answered
+00434 SolDominion buys and gains 1 Legionary.
+00435 SolDominion answered
+00436 SolDominion buys and gains 1 Seer.
+00437 SolDominion answered
+00438 SolDominion answered
+00439 SolDominion plays 1 Ghost Town.
+00440 SolDominion shuffles their deck.
+00441 SolDominion draws 1 Copper, 1 Festival, 1 Settlers, 1 Villain, 1 Hunter.
+00442 GameBot3000 starts turn 12
+00443 GameBot3000 starts their turn.
+00444 GameBot3000 draws 1 card. (Ghost Town)
+00445 GameBot3000 gets +1 Action. (Ghost Town)
+00446 GameBot3000 answered
+00447 GameBot3000 plays 1 Settlers.
+00448 GameBot3000 shuffles their deck.
+00449 GameBot3000 draws 1 card.
+00450 GameBot3000 gets +1 Action.
+00451 GameBot3000 answered
+00452 play treasures for
+00453 GameBot3000 answered
+00454 GameBot3000 buys and gains 1 Ghost Town.
+00455 GameBot3000 answered
+00456 GameBot3000 plays 1 Ghost Town.
+00457 GameBot3000 answered
+00458 GameBot3000 plays 1 Ghost Town.
+00459 GameBot3000 answered
+00460 GameBot3000 plays 1 Ghost Town.
+00461 GameBot3000 draws 5 card.
+00462 SolDominion starts turn 13
+00463 SolDominion starts their turn.
+00464 SolDominion draws 1 Hunter. (Ghost Town)
+00465 SolDominion gets +1 Action. (Ghost Town)
+00466 SolDominion answered
+00467 SolDominion plays 1 Hunter.
+00468 SolDominion gets +1 Action.
+00469 SolDominion reveals 1 Silver, 1 Legionary, 1 Hunter.
+00470 SolDominion answered
+00471 SolDominion puts 1 Silver, 1 Hunter into their hand.
+00472 SolDominion discards 1 Legionary.
+00473 SolDominion answered
+00474 SolDominion plays 1 Settlers.
+00475 SolDominion draws 1 Gold.
+00476 SolDominion gets +1 Action.
+00477 SolDominion looks at 1 Legionary.
+00478 SolDominion answered
+00479 SolDominion plays 1 Hunter.
+00480 SolDominion gets +1 Action.
+00481 SolDominion reveals 1 Festival, 1 Recruiter, 1 Seer.
+00482 SolDominion answered
+00483 SolDominion puts 1 Seer into their hand.
+00484 SolDominion discards 1 Festival, 1 Recruiter.
+00485 SolDominion answered
+00486 SolDominion plays 1 Seer.
+00487 SolDominion draws 1 Copper.
+00488 SolDominion gets +1 Action.
+00489 SolDominion shuffles their deck.
+00490 SolDominion reveals 1 Silver, 2 Recruiter.
+00491 SolDominion puts 1 Silver into their hand.
+00492 SolDominion topdecks 2 Recruiter.
+00493 SolDominion answered
+00494 SolDominion plays 1 Hunter.
+00495 SolDominion gets +1 Action.
+00496 SolDominion reveals 1 Festival, 2 Recruiter.
+00497 SolDominion answered
+00498 SolDominion puts 1 Recruiter into their hand.
+00499 SolDominion discards 1 Festival, 1 Recruiter.
+00500 SolDominion answered
+00501 SolDominion plays 1 Recruiter.
+00502 SolDominion shuffles their deck.
+00503 SolDominion draws 1 Legionary, 1 Recruiter.
+00504 SolDominion answered
+00505 SolDominion trashes 1 Copper.
+00506 SolDominion answered
+00507 SolDominion plays 1 Festival.
+00508 SolDominion gets +2 Actions.
+00509 SolDominion gets +1 Buy.
+00510 SolDominion gets +$2.
+00511 SolDominion answered
+00512 SolDominion plays 1 Recruiter.
+00513 SolDominion draws 1 Festival.
+00514 SolDominion answered
+00515 SolDominion trashes 1 Copper.
+00516 SolDominion answered
+00517 SolDominion plays 1 Festival.
+00518 SolDominion gets +2 Actions.
+00519 SolDominion gets +1 Buy.
+00520 SolDominion gets +$2.
+00521 SolDominion answered
+00522 SolDominion plays 1 Villain.
+00523 SolDominion gets +2 Coffers.
+00524 GameBot3000 answered
+00525 GameBot3000 discards 1 Settlers.
+00526 SolDominion answered
+00527 SolDominion plays 1 Legionary.
+00528 SolDominion gets +$3.
+00529 SolDominion answered
+00530 SolDominion reveals 1 Gold.
+00531 GameBot3000 answered
+00532 GameBot3000 discards 1 card, 1 Copper.
+00533 GameBot3000 draws 1 card.
+00534 SolDominion answered
+00535 SolDominion answered
+00536 SolDominion answered
+00537 play treasures for

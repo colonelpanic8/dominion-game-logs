@@ -1,0 +1,327 @@
+00000 game 186031039
+00001 dominiondominion starts with 3 Estate.
+00002 dominiondominion starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 dominiondominion answered
+00007 dominiondominion shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 dominiondominion draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 dominiondominion starts turn 1
+00012 dominiondominion starts their turn.
+00013 dominiondominion answered
+00014 play treasures for
+00015 dominiondominion answered
+00016 dominiondominion buys 1 Sewers.
+00017 dominiondominion draws 5 card.
+00018 SolDominion starts turn 1
+00019 SolDominion starts their turn.
+00020 SolDominion answered
+00021 SolDominion answered
+00022 SolDominion answered
+00023 play treasures for
+00024 SolDominion answered
+00025 SolDominion buys and gains 1 Masquerade.
+00026 SolDominion draws 4 Copper, 1 Estate.
+00027 dominiondominion starts turn 2
+00028 dominiondominion starts their turn.
+00029 dominiondominion answered
+00030 play treasures for
+00031 dominiondominion answered
+00032 dominiondominion buys and gains 1 Shaman.
+00033 dominiondominion shuffles their deck.
+00034 dominiondominion draws 5 card.
+00035 SolDominion starts turn 2
+00036 SolDominion starts their turn.
+00037 SolDominion answered
+00038 SolDominion answered
+00039 SolDominion answered
+00040 SolDominion answered
+00041 play treasures for
+00042 SolDominion answered
+00043 SolDominion buys 1 Sewers.
+00044 SolDominion shuffles their deck.
+00045 SolDominion draws 5 Copper.
+00046 dominiondominion starts turn 3
+00047 dominiondominion starts their turn.
+00048 dominiondominion answered
+00049 play treasures for
+00050 dominiondominion answered
+00051 dominiondominion buys and gains 1 Masquerade.
+00052 dominiondominion draws 5 card.
+00053 SolDominion starts turn 3
+00054 SolDominion starts their turn.
+00055 SolDominion answered
+00056 SolDominion answered
+00057 SolDominion answered
+00058 SolDominion answered
+00059 SolDominion answered
+00060 play treasures for
+00061 SolDominion answered
+00062 SolDominion buys and gains 1 Royal Galley.
+00063 SolDominion draws 1 Copper, 3 Estate, 1 Masquerade.
+00064 dominiondominion starts turn 4
+00065 dominiondominion starts their turn.
+00066 dominiondominion answered
+00067 play treasures for
+00068 dominiondominion answered
+00069 dominiondominion buys and gains 1 Royal Galley.
+00070 dominiondominion shuffles their deck.
+00071 dominiondominion draws 5 card.
+00072 SolDominion starts turn 4
+00073 SolDominion starts their turn.
+00074 SolDominion answered
+00075 SolDominion plays 1 Masquerade.
+00076 SolDominion shuffles their deck.
+00077 SolDominion draws 2 Copper.
+00078 dominiondominion answered
+00079 SolDominion answered
+00080 SolDominion passes 1 Estate to dominiondominion.
+00081 dominiondominion passes 1 Estate to SolDominion.
+00082 SolDominion answered
+00083 SolDominion trashes 1 Estate.
+00084 SolDominion answered
+00085 SolDominion trashes 1 Estate. (Sewers)
+00086 SolDominion answered
+00087 SolDominion answered
+00088 SolDominion answered
+00089 play treasures for
+00090 SolDominion answered
+00091 SolDominion buys and gains 1 Masquerade.
+00092 SolDominion draws 4 Copper, 1 Royal Galley.
+00093 dominiondominion starts turn 5
+00094 dominiondominion starts their turn.
+00095 dominiondominion gains 1 Estate. (Shaman)
+00096 dominiondominion answered
+00097 dominiondominion plays 1 Shaman.
+00098 dominiondominion gets +1 Action.
+00099 dominiondominion gets +$1.
+00100 dominiondominion answered
+00101 dominiondominion trashes 1 Estate.
+00102 dominiondominion answered
+00103 dominiondominion trashes 1 Estate. (Sewers)
+00104 dominiondominion answered
+00105 dominiondominion plays 1 Masquerade.
+00106 dominiondominion draws 2 card.
+00107 dominiondominion answered
+00108 SolDominion answered
+00109 dominiondominion passes 1 Copper to SolDominion.
+00110 SolDominion passes 1 Copper to dominiondominion.
+00111 dominiondominion answered
+00112 dominiondominion trashes 1 Copper.
+00113 dominiondominion answered
+00114 dominiondominion trashes 1 Copper. (Sewers)
+00115 dominiondominion answered
+00116 dominiondominion draws 5 card.
+00117 SolDominion starts turn 5
+00118 SolDominion starts their turn.
+00119 SolDominion answered
+00120 SolDominion gains 1 Copper. (Shaman)
+00121 SolDominion answered
+00122 SolDominion plays 1 Royal Galley.
+00123 SolDominion shuffles their deck.
+00124 SolDominion draws 1 Copper.
+00125 SolDominion answered
+00126 SolDominion answered
+00127 SolDominion answered
+00128 SolDominion answered
+00129 SolDominion answered
+00130 play treasures for
+00131 SolDominion answered
+00132 SolDominion buys and gains 1 Acting Troupe.
+00133 SolDominion draws 3 Copper, 1 Estate, 1 Masquerade.
+00134 dominiondominion starts turn 6
+00135 dominiondominion starts their turn.
+00136 dominiondominion answered
+00137 dominiondominion gains 1 Copper. (Shaman)
+00138 dominiondominion answered
+00139 dominiondominion plays 1 Royal Galley.
+00140 dominiondominion draws 1 card.
+00141 dominiondominion answered
+00142 play treasures for
+00143 dominiondominion answered
+00144 dominiondominion buys and gains 1 Silver.
+00145 dominiondominion shuffles their deck.
+00146 dominiondominion draws 5 card.
+00147 SolDominion starts turn 6
+00148 SolDominion starts their turn.
+00149 SolDominion gains 1 Estate. (Shaman)
+00150 SolDominion answered
+00151 SolDominion plays 1 Masquerade.
+00152 SolDominion shuffles their deck.
+00153 SolDominion draws 1 Copper, 1 Masquerade.
+00154 dominiondominion answered
+00155 SolDominion answered
+00156 SolDominion passes 1 Estate to dominiondominion.
+00157 dominiondominion passes 1 Estate to SolDominion.
+00158 SolDominion answered
+00159 SolDominion trashes 1 Estate.
+00160 SolDominion answered
+00161 SolDominion trashes 1 Copper. (Sewers)
+00162 SolDominion answered
+00163 SolDominion answered
+00164 SolDominion answered
+00165 play treasures for
+00166 SolDominion answered
+00167 SolDominion buys and gains 1 Shaman.
+00168 SolDominion draws 4 Copper, 1 Acting Troupe.
+00169 dominiondominion starts turn 7
+00170 dominiondominion starts their turn.
+00171 dominiondominion answered
+00172 dominiondominion gains 1 Copper. (Shaman)
+00173 dominiondominion answered
+00174 dominiondominion plays 1 Masquerade.
+00175 dominiondominion draws 2 card.
+00176 dominiondominion answered
+00177 SolDominion answered
+00178 dominiondominion passes 1 Estate to SolDominion.
+00179 SolDominion passes 1 Copper to dominiondominion.
+00180 dominiondominion answered
+00181 dominiondominion trashes 1 Copper.
+00182 dominiondominion answered
+00183 dominiondominion trashes 1 Copper. (Sewers)
+00184 dominiondominion answered
+00185 play treasures for
+00186 dominiondominion answered
+00187 dominiondominion buys and gains 1 Silver.
+00188 dominiondominion draws 5 card.
+00189 SolDominion starts turn 7
+00190 SolDominion starts their turn.
+00191 SolDominion answered
+00192 SolDominion gains 1 Copper. (Shaman)
+00193 SolDominion answered
+00194 SolDominion plays 1 Acting Troupe.
+00195 SolDominion gets +4 Villagers.
+00196 SolDominion trashes 1 Acting Troupe.
+00197 SolDominion answered
+00198 SolDominion trashes 1 Estate. (Sewers)
+00199 SolDominion answered
+00200 SolDominion answered
+00201 SolDominion answered
+00202 play treasures for
+00203 SolDominion answered
+00204 SolDominion buys and gains 1 Catapult.
+00205 SolDominion shuffles their deck.
+00206 SolDominion draws 2 Copper, 1 Estate, 1 Catapult, 1 Royal Galley.
+00207 dominiondominion starts turn 8
+00208 dominiondominion starts their turn.
+00209 dominiondominion answered
+00210 dominiondominion gains 1 Acting Troupe. (Shaman)
+00211 dominiondominion answered
+00212 dominiondominion plays 1 Shaman.
+00213 dominiondominion gets +1 Action.
+00214 dominiondominion gets +$1.
+00215 dominiondominion answered
+00216 dominiondominion trashes 1 Estate.
+00217 dominiondominion answered
+00218 dominiondominion trashes 1 Copper. (Sewers)
+00219 dominiondominion answered
+00220 play treasures for
+00221 dominiondominion answered
+00222 dominiondominion buys and gains 1 Royal Galley.
+00223 dominiondominion shuffles their deck.
+00224 dominiondominion draws 5 card.
+00225 SolDominion starts turn 8
+00226 SolDominion starts their turn.
+00227 SolDominion answered
+00228 SolDominion gains 1 Copper. (Shaman)
+00229 SolDominion answered
+00230 SolDominion plays 1 Royal Galley.
+00231 SolDominion draws 1 Masquerade.
+00232 SolDominion answered
+00233 SolDominion plays 1 Masquerade.
+00234 SolDominion draws 1 Copper, 1 Masquerade.
+00235 dominiondominion answered
+00236 SolDominion answered
+00237 SolDominion passes 1 Estate to dominiondominion.
+00238 dominiondominion passes 1 Copper to SolDominion.
+00239 SolDominion answered
+00240 SolDominion trashes 1 Copper.
+00241 SolDominion answered
+00242 SolDominion trashes 1 Copper. (Sewers)
+00243 SolDominion answered
+00244 SolDominion uses 1 Villager.
+00245 SolDominion plays 1 Masquerade.
+00246 SolDominion draws 2 Copper.
+00247 dominiondominion answered
+00248 SolDominion answered
+00249 SolDominion passes 1 Copper to dominiondominion.
+00250 dominiondominion passes 1 Estate to SolDominion.
+00251 SolDominion answered
+00252 SolDominion trashes 1 Estate.
+00253 SolDominion answered
+00254 SolDominion answered
+00255 SolDominion uses 1 Villager.
+00256 SolDominion plays 1 Catapult.
+00257 SolDominion gets +$1.
+00258 SolDominion trashes 1 Copper.
+00259 SolDominion answered
+00260 dominiondominion answered
+00261 dominiondominion discards 1 card, 1 Copper.
+00262 SolDominion answered
+00263 SolDominion answered
+00264 play treasures for
+00265 SolDominion answered
+00266 SolDominion buys and gains 1 Silver.
+00267 SolDominion shuffles their deck.
+00268 SolDominion draws 3 Copper, 1 Masquerade, 1 Shaman.
+00269 dominiondominion starts turn 9
+00270 dominiondominion starts their turn.
+00271 dominiondominion answered
+00272 dominiondominion gains 1 Copper. (Shaman)
+00273 dominiondominion answered
+00274 dominiondominion plays 1 Royal Galley.
+00275 dominiondominion draws 1 card.
+00276 dominiondominion answered
+00277 dominiondominion plays 1 Masquerade.
+00278 dominiondominion draws 2 card.
+00279 dominiondominion answered
+00280 SolDominion answered
+00281 dominiondominion passes 1 Copper to SolDominion.
+00282 SolDominion passes 1 Copper to dominiondominion.
+00283 dominiondominion answered
+00284 dominiondominion trashes 1 Copper.
+00285 dominiondominion answered
+00286 dominiondominion trashes 1 Copper. (Sewers)
+00287 dominiondominion answered
+00288 dominiondominion shuffles their deck.
+00289 dominiondominion draws 5 card.
+00290 SolDominion starts turn 9
+00291 SolDominion starts their turn.
+00292 SolDominion answered
+00293 SolDominion answered
+00294 SolDominion gains 1 Copper. (Shaman)
+00295 play again with
+00296 SolDominion draws 1 Copper, 1 Catapult.
+00297 dominiondominion answered
+00298 SolDominion answered
+00299 SolDominion passes 1 Copper to dominiondominion.
+00300 dominiondominion passes 1 Copper to SolDominion.
+00301 SolDominion answered
+00302 SolDominion trashes 1 Copper.
+00303 SolDominion answered
+00304 SolDominion trashes 1 Copper. (Sewers)
+00305 SolDominion answered
+00306 SolDominion plays 1 Masquerade.
+00307 SolDominion draws 1 Copper, 1 Silver.
+00308 dominiondominion answered
+00309 SolDominion answered
+00310 SolDominion passes 1 Copper to dominiondominion.
+00311 dominiondominion passes 1 Copper to SolDominion.
+00312 SolDominion answered
+00313 SolDominion trashes 1 Copper.
+00314 SolDominion answered
+00315 SolDominion answered
+00316 SolDominion uses 1 Villager.
+00317 SolDominion plays 1 Shaman.
+00318 SolDominion gets +1 Action.
+00319 SolDominion gets +$1.
+00320 SolDominion answered
+00321 SolDominion answered
+00322 SolDominion plays 1 Catapult.
+00323 SolDominion gets +$1.
+00324 SolDominion answered
+00325 SolDominion trashes 1 Copper.
+00326 SolDominion answered

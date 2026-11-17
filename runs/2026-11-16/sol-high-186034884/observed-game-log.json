@@ -1,0 +1,65 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186034884",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "Importer",
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion gets +4 Favors. (Importer)",
+    "type": "official-gets-favors-from"
+  },
+  {
+    "card": "Importer",
+    "player": 1,
+    "seq": 2,
+    "text": "nateopp gets +4 Favors. (Importer)",
+    "type": "official-gets-favors-from"
+  },
+  {
+    "card": "Desert Guides",
+    "player": 0,
+    "seq": 3,
+    "text": "SolDominion gets +1 Favor. (Desert Guides)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Desert Guides",
+    "player": 1,
+    "seq": 4,
+    "text": "nateopp gets +1 Favor. (Desert Guides)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 7,
+    "text": "nateopp starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "nateopp starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion answered",
+    "type": "decision"
+  }
+]

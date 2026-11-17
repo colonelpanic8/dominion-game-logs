@@ -1,0 +1,10 @@
+00000 game 186034884
+00001 SolDominion gets +4 Favors. (Importer)
+00002 nateopp gets +4 Favors. (Importer)
+00003 SolDominion gets +1 Favor. (Desert Guides)
+00004 nateopp gets +1 Favor. (Desert Guides)
+00005 SolDominion starts with 3 Estate.
+00006 SolDominion starts with 7 Copper.
+00007 nateopp starts with 3 Estate.
+00008 nateopp starts with 7 Copper.
+00009 SolDominion answered

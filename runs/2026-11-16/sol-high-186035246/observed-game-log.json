@@ -1,0 +1,4623 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186035246",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "Friendly",
+    "seq": 1,
+    "text": "The Friendly Trait is acquired by Player 0 supply.",
+    "type": "official-acquires-trait"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "dtbomber starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "dtbomber starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 7,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 9,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 10,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 11,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion buys and gains 1 Carpenter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 21,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "dtbomber starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 27,
+    "text": "dtbomber buys and gains 1 Carpenter.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 28,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 36,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 37,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 38,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Carpenter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "dtbomber starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 43,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 44,
+    "text": "dtbomber buys and gains 1 Smugglers.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 53,
+    "text": "SolDominion gains 1 Carpenter.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 54,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 56,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 57,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 59,
+    "text": "SolDominion buys and gains 1 Gondola.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 61,
+    "text": "dtbomber starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 62,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 63,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 64,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 66,
+    "text": "dtbomber buys and gains 1 Gondola.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 75,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 76,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Gondola.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "dtbomber starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 80,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 81,
+    "text": "dtbomber plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 84,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 86,
+    "text": "dtbomber plays 1 Smugglers.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 87,
+    "text": "dtbomber gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Harbinger",
+    "player": 1,
+    "seq": 91,
+    "text": "dtbomber buys and gains 1 Harbinger.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 92,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 94,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 97,
+    "text": "SolDominion plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 103,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 0,
+    "seq": 105,
+    "text": "SolDominion buys and gains 1 Frigate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 106,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate, 2 Carpenter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "dtbomber starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 112,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 114,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 115,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 117,
+    "text": "SolDominion gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 119,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 120,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 122,
+    "text": "SolDominion gains 1 Gondola.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 127,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 129,
+    "text": "dtbomber starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 130,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 131,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 132,
+    "text": "dtbomber plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 133,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 134,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 135,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 136,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 139,
+    "text": "dtbomber plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "dtbomber gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 142,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 1,
+    "seq": 143,
+    "text": "dtbomber buys and gains 1 Displace.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 145,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 146,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 147,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 151,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 153,
+    "text": "SolDominion buys and gains 1 Rustic Village.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 154,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Frigate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 156,
+    "text": "dtbomber starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 157,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 159,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 160,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 161,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 162,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Harbinger",
+    "player": 1,
+    "seq": 163,
+    "text": "dtbomber plays 1 Harbinger.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 164,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 165,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 166,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 167,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 168,
+    "text": "dtbomber plays 1 Smugglers.",
+    "type": "official-play"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 169,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 170,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 171,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 173,
+    "text": "dtbomber buys and gains 1 Frigate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 175,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 177,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 0,
+    "seq": 178,
+    "text": "SolDominion plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion buys and gains 1 Displace.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Carpenter, 1 Gondola, 1 Rustic Village.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "dtbomber starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 190,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 191,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 194,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "dtbomber discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 196,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 1,
+    "seq": 198,
+    "text": "dtbomber plays 1 Displace.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 200,
+    "text": "dtbomber exiles 1 Estate.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 202,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 204,
+    "text": "dtbomber plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 206,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 208,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 209,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 211,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 212,
+    "text": "SolDominion plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 213,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 214,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 216,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 217,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 218,
+    "text": "SolDominion draws 1 Gondola.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 219,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 220,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 223,
+    "text": "SolDominion gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 229,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion buys and gains 1 Frigate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion draws 3 Copper, 2 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 237,
+    "text": "dtbomber starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 239,
+    "text": "dtbomber gets +$2. (Gondola)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 240,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 241,
+    "text": "dtbomber plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 244,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 246,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 247,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 252,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 253,
+    "text": "dtbomber buys and gains 1 Frigate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 263,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 264,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 266,
+    "text": "SolDominion draws 1 Silver, 1 Estate, 1 Carpenter, 1 Frigate, 1 Rustic Village.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 267,
+    "text": "dtbomber starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 270,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Rapid Expansion",
+    "seq": 271,
+    "text": "Rapid Expansion comes true.",
+    "type": "official-comes-true"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 272,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Harbinger",
+    "player": 1,
+    "seq": 275,
+    "text": "dtbomber plays 1 Harbinger.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 276,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "dtbomber looks at 8 card, 1 Rustic Village.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 280,
+    "text": "dtbomber topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 281,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 1,
+    "seq": 282,
+    "text": "dtbomber plays 1 Displace.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 283,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 284,
+    "text": "dtbomber exiles 1 Copper.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 285,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 286,
+    "text": "dtbomber gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 289,
+    "text": "dtbomber plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 290,
+    "text": "dtbomber gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 292,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 293,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 294,
+    "text": "dtbomber buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 295,
+    "text": "dtbomber sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 296,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 301,
+    "text": "SolDominion draws 1 Carpenter.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 302,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 309,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 310,
+    "text": "SolDominion gains 1 Carpenter.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 311,
+    "text": "SolDominion sets 1 Carpenter aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 314,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion gains 1 Gondola.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 318,
+    "text": "SolDominion sets 1 Gondola aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 324,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Enlarge",
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion buys and gains 1 Enlarge.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Enlarge",
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion sets 1 Enlarge aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 2 Rustic Village.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 329,
+    "text": "dtbomber starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 330,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 331,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 333,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 334,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 336,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 337,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "dtbomber discards 1 card, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 339,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 340,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 341,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 343,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 347,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 348,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 349,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 350,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 351,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 352,
+    "text": "dtbomber plays 1 Smugglers.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 353,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Enlarge",
+    "player": 1,
+    "seq": 354,
+    "text": "dtbomber gains 1 Enlarge.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Enlarge",
+    "player": 1,
+    "seq": 355,
+    "text": "dtbomber sets 1 Enlarge aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 356,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 357,
+    "text": "dtbomber plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 358,
+    "text": "dtbomber gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 360,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 361,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 362,
+    "text": "dtbomber buys and gains 1 Artificer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 363,
+    "text": "dtbomber sets 1 Artificer aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 365,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 366,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 368,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 369,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 370,
+    "text": "SolDominion trashes 1 Rustic Village.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 371,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 372,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 373,
+    "text": "SolDominion sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 374,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 376,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 377,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 378,
+    "text": "SolDominion gains 1 Carpenter.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 379,
+    "text": "SolDominion sets 1 Carpenter aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 382,
+    "text": "SolDominion gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 383,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 390,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 391,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 392,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 395,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Gondola.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 396,
+    "text": "dtbomber starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 397,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 398,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 399,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 400,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 401,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 402,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 403,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 404,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 406,
+    "text": "dtbomber trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 407,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 408,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 409,
+    "text": "dtbomber sets 1 Rustic Village aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 411,
+    "text": "dtbomber plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 412,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 414,
+    "text": "dtbomber gains 1 Rustic Village.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 415,
+    "text": "dtbomber sets 1 Rustic Village aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 417,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 418,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 419,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 422,
+    "text": "dtbomber discards 1 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 423,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 425,
+    "text": "dtbomber plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "dtbomber gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 429,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 430,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 431,
+    "text": "dtbomber buys and gains 1 Artificer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 432,
+    "text": "dtbomber sets 1 Artificer aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 433,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 434,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 435,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 436,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "SolDominion trashes 1 Gondola. (Enlarge)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 439,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 440,
+    "text": "SolDominion gains 1 Gold. (Enlarge)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "SolDominion sets 1 Gold aside with Rapid Expansion.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 0,
+    "seq": 442,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 444,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 445,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 446,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 447,
+    "text": "SolDominion gains 1 Gondola.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 448,
+    "text": "SolDominion sets 1 Gondola aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 451,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 452,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 454,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 455,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 456,
+    "text": "SolDominion sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 457,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Displace, 1 Gondola.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "dtbomber starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 459,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 461,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 462,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 463,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 464,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 465,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 467,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 468,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 469,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 470,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 471,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 472,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 473,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 474,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 475,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 476,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 477,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 478,
+    "text": "dtbomber trashes 1 Silver. (Enlarge)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "dtbomber gains 1 Artificer. (Enlarge)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 1,
+    "seq": 481,
+    "text": "dtbomber sets 1 Artificer aside with Rapid Expansion.",
+    "type": "official-set-aside-with"
+  },
+  {
+    "player": 1,
+    "seq": 482,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 483,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 484,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 485,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 486,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 487,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 488,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 489,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 490,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Harbinger",
+    "player": 1,
+    "seq": 491,
+    "text": "dtbomber plays 1 Harbinger.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 492,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 495,
+    "text": "dtbomber plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "dtbomber gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 1,
+    "seq": 498,
+    "text": "dtbomber plays 1 Displace.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 499,
+    "text": "dtbomber exiles 1 Copper.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 501,
+    "text": "dtbomber gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 503,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 505,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 506,
+    "text": "dtbomber buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 507,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 508,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 509,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 510,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 511,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 512,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 513,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 0,
+    "seq": 514,
+    "text": "SolDominion plays 1 Displace.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 515,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 516,
+    "text": "SolDominion exiles 1 Gondola.",
+    "type": "official-exile"
+  },
+  {
+    "player": 0,
+    "seq": 517,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 518,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 519,
+    "text": "SolDominion sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 520,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 521,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 523,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 525,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 526,
+    "text": "SolDominion draws 2 Gold, 1 Carpenter, 1 Gondola, 1 Frigate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "dtbomber starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 528,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 530,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 532,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 534,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 535,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 536,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 1,
+    "seq": 539,
+    "text": "dtbomber plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 541,
+    "text": "dtbomber trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 543,
+    "text": "dtbomber gains 1 Gondola.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 544,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 545,
+    "text": "dtbomber sets 1 Gondola aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 546,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 547,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 548,
+    "text": "dtbomber plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 549,
+    "text": "dtbomber gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 551,
+    "text": "dtbomber plays 1 Smugglers.",
+    "type": "official-play"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 552,
+    "text": "dtbomber gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 553,
+    "text": "dtbomber sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 554,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 555,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 556,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 557,
+    "text": "dtbomber plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 558,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 559,
+    "text": "dtbomber gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 560,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 561,
+    "text": "dtbomber buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 562,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 565,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion gets +$2. (Gondola)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 567,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 569,
+    "text": "SolDominion plays 1 Carpenter.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 571,
+    "text": "SolDominion trashes 1 Gold.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 572,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 573,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 574,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 575,
+    "text": "SolDominion plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 577,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 578,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 579,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Carpenter, 1 Enlarge.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 580,
+    "text": "dtbomber starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 583,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 586,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 587,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 588,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 589,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 591,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 592,
+    "text": "dtbomber discards 1 card, 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 593,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 594,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 595,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 596,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 597,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 598,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 599,
+    "text": "dtbomber plays 1 Artificer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 600,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 601,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 602,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 603,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 604,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 605,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 606,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 607,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 608,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 609,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 611,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Harbinger",
+    "player": 1,
+    "seq": 612,
+    "text": "dtbomber plays 1 Harbinger.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 613,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 614,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 615,
+    "text": "dtbomber looks at 1 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 616,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 617,
+    "text": "dtbomber topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 618,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 619,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 620,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 621,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 622,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Displace",
+    "player": 1,
+    "seq": 623,
+    "text": "dtbomber plays 1 Displace.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 624,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 625,
+    "text": "dtbomber exiles 1 Estate.",
+    "type": "official-exile"
+  },
+  {
+    "player": 1,
+    "seq": 626,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 627,
+    "text": "dtbomber gains 1 Gondola.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 628,
+    "text": "dtbomber sets 1 Gondola aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 629,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 630,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 631,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 632,
+    "text": "dtbomber buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 633,
+    "text": "dtbomber sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 1,
+    "seq": 634,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 635,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 636,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Gondola",
+    "player": 0,
+    "seq": 637,
+    "text": "SolDominion gets +$2. (Gondola)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 638,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Enlarge",
+    "player": 0,
+    "seq": 639,
+    "text": "SolDominion plays 1 Enlarge.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 640,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Carpenter",
+    "player": 0,
+    "seq": 641,
+    "text": "SolDominion trashes 1 Carpenter.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 643,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 644,
+    "text": "SolDominion sets 1 Gold aside.",
+    "type": "official-set-aside"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 646,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 648,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 650,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 651,
+    "text": "SolDominion draws 3 Copper, 1 Displace, 1 Frigate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 652,
+    "text": "dtbomber starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 653,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 654,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 655,
+    "text": "dtbomber gets +$2. (Gondola)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 656,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 657,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 658,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 659,
+    "text": "dtbomber gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 660,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 1,
+    "seq": 661,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 662,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 663,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 664,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 1,
+    "seq": 666,
+    "text": "dtbomber plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 667,
+    "text": "dtbomber gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 669,
+    "text": "dtbomber plays 1 Artificer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 670,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 671,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 672,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 673,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Smugglers",
+    "player": 1,
+    "seq": 674,
+    "text": "dtbomber plays 1 Smugglers.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 675,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 676,
+    "text": "dtbomber gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 677,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 678,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 679,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 680,
+    "text": "dtbomber buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 681,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 682,
+    "text": "SolDominion starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 683,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 684,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 685,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 686,
+    "text": "SolDominion trashes 1 Displace. (Enlarge)",
+    "type": "official-trash-with"
+  },
+  {
+    "player": 0,
+    "seq": 687,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 688,
+    "text": "SolDominion gains 1 Duchy. (Enlarge)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 689,
+    "text": "play with",
+    "type": "official-play-with"
+  },
+  {
+    "player": 0,
+    "seq": 690,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Frigate",
+    "player": 0,
+    "seq": 691,
+    "text": "SolDominion plays 1 Frigate.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 692,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 693,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 694,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 695,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 696,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 697,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 698,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 699,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Gold, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 700,
+    "text": "dtbomber starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 701,
+    "text": "dtbomber starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 702,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Artificer",
+    "player": 1,
+    "seq": 703,
+    "text": "dtbomber plays 1 Artificer.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 704,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 705,
+    "text": "dtbomber gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 706,
+    "text": "dtbomber gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 707,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 708,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 709,
+    "text": "dtbomber discards 1 Province.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 710,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Rustic Village",
+    "player": 1,
+    "seq": 711,
+    "text": "dtbomber plays 1 Rustic Village.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 712,
+    "text": "dtbomber draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 713,
+    "text": "dtbomber gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 714,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 715,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Enlarge",
+    "player": 1,
+    "seq": 716,
+    "text": "dtbomber plays 1 Enlarge.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 717,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 718,
+    "text": "dtbomber trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 719,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 720,
+    "text": "dtbomber gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 721,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 722,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 723,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 724,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gondola",
+    "player": 1,
+    "seq": 725,
+    "text": "dtbomber plays 1 Gondola.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 726,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 727,
+    "text": "dtbomber gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 728,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 729,
+    "text": "dtbomber buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 730,
+    "text": "dtbomber answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 731,
+    "text": "dtbomber shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 732,
+    "text": "dtbomber draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 733,
+    "text": "SolDominion starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 734,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  }
+]

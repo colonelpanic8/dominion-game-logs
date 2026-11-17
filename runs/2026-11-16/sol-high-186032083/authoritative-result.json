@@ -1,0 +1,25 @@
+{
+  "game_id": "dominion.games:186032083",
+  "completed_at": "2026-11-17T01:38:12.965227+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "GameBot3000",
+        "vp": 10,
+        "rank": 1,
+        "turns": 14
+      },
+      {
+        "index": 1,
+        "name": "SolDominion",
+        "vp": 11,
+        "rank": 2,
+        "turns": 13,
+        "resigned": true
+      }
+    ]
+  },
+  "note": "Connection failed with observation contradicts zone knowledge; in-memory reconnect recovered final result with Sol resigned. Operator did not submit a resign command."
+}

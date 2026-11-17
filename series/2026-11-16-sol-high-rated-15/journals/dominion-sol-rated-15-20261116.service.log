@@ -1,0 +1,59 @@
+2026-11-16T15:30:59.353904-08:00 jimi-hendnix systemd[2435]: Started Sol High: 15 rated Dominion.games matches.
+2026-11-16T15:30:59.766470-08:00 jimi-hendnix python3[3152739]: 2026-11-16T23:30:59.766411+00:00 Searching for rated game 1/15; agent=Sol High, rating=-5..5
+2026-11-16T15:31:09.814279-08:00 jimi-hendnix python3[3152739]: 2026-11-16T23:31:09.814262+00:00 Game 1/15 matched: dominion.games:186028514
+2026-11-16T15:46:23.629096-08:00 jimi-hendnix systemd[2435]: Stopping Sol High: 15 rated Dominion.games matches...
+2026-11-16T15:46:23.640546-08:00 jimi-hendnix systemd[2435]: Stopped Sol High: 15 rated Dominion.games matches.
+2026-11-16T15:46:23.640789-08:00 jimi-hendnix systemd[2435]: dominion-sol-rated-15-20261116.service: Consumed 1.339s CPU time over 15min 24.279s wall clock time, 20.3M memory peak.
+2026-11-16T15:54:50.349559-08:00 jimi-hendnix systemd[2435]: Started Sol High: 15 rated Dominion.games matches.
+2026-11-16T15:54:50.754775-08:00 jimi-hendnix python3[3206138]: 2026-11-16T23:54:50.754698+00:00 Searching for rated game 2/15; agent=Sol High, rating=-5..5
+2026-11-16T15:55:00.800073-08:00 jimi-hendnix python3[3206138]: 2026-11-16T23:55:00.800016+00:00 Game 2/15 matched: dominion.games:186029319
+2026-11-16T16:23:44.614356-08:00 jimi-hendnix systemd[2435]: Stopping Sol High: 15 rated Dominion.games matches...
+2026-11-16T16:23:44.616550-08:00 jimi-hendnix systemd[2435]: Stopped Sol High: 15 rated Dominion.games matches.
+2026-11-16T16:23:44.616658-08:00 jimi-hendnix systemd[2435]: dominion-sol-rated-15-20261116.service: Consumed 2.155s CPU time over 28min 54.266s wall clock time, 24.5M memory peak.
+2026-11-16T16:33:12.242976-08:00 jimi-hendnix systemd[2435]: Started Sol High: 15 rated Dominion.games matches.
+2026-11-16T16:33:12.569767-08:00 jimi-hendnix python3[3365704]: 2026-11-17T00:33:12.569679+00:00 Searching for rated game 3/15; agent=Sol High, rating=-5..5
+2026-11-16T16:33:22.626265-08:00 jimi-hendnix python3[3365704]: 2026-11-17T00:33:22.626151+00:00 Game 3/15 matched: dominion.games:186030563
+2026-11-16T16:47:18.392455-08:00 jimi-hendnix python3[3365704]: 2026-11-17T00:47:18.392342+00:00 Completed 3/15: dominion.games:186030563 [{"index": 0, "name": "SolDominion", "vp": 36, "rank": 1, "turns": 12}, {"index": 1, "name": "amiwan", "vp": 5, "rank": 2, "turns": 12, "resigned": true}]
+2026-11-16T16:47:18.634510-08:00 jimi-hendnix python3[3365704]: 2026-11-17T00:47:18.634396+00:00 Searching for rated game 4/15; agent=Sol High, rating=-5..5
+2026-11-16T16:47:28.686015-08:00 jimi-hendnix python3[3365704]: 2026-11-17T00:47:28.685958+00:00 Game 4/15 matched: dominion.games:186031039
+2026-11-16T17:17:36.039990-08:00 jimi-hendnix systemd[2435]: Stopping Sol High: 15 rated Dominion.games matches...
+2026-11-16T17:17:36.041480-08:00 jimi-hendnix systemd[2435]: Stopped Sol High: 15 rated Dominion.games matches.
+2026-11-16T17:17:36.041550-08:00 jimi-hendnix systemd[2435]: dominion-sol-rated-15-20261116.service: Consumed 3.649s CPU time over 44min 23.798s wall clock time, 19.7M memory peak.
+2026-11-16T17:21:50.626841-08:00 jimi-hendnix systemd[2435]: Started Sol High: 15 rated Dominion.games matches.
+2026-11-16T17:21:50.990795-08:00 jimi-hendnix python3[3436341]: 2026-11-17T01:21:50.990678+00:00 Searching for rated game 5/15; agent=Sol High, rating=-5..5
+2026-11-16T17:22:01.047901-08:00 jimi-hendnix python3[3436341]: 2026-11-17T01:22:01.047825+00:00 Game 5/15 matched: dominion.games:186032083
+2026-11-16T17:25:01.091059-08:00 jimi-hendnix systemd[2435]: Stopping Sol High: 15 rated Dominion.games matches...
+2026-11-16T17:25:01.101378-08:00 jimi-hendnix systemd[2435]: Stopped Sol High: 15 rated Dominion.games matches.
+2026-11-16T17:43:43.932020-08:00 jimi-hendnix systemd[2435]: Started Sol High: 15 rated Dominion.games matches.
+2026-11-16T17:43:44.322991-08:00 jimi-hendnix python3[3560005]: 2026-11-17T01:43:44.322938+00:00 Searching for rated game 6/15; agent=Sol High, rating=-5..5
+2026-11-16T17:43:54.346732-08:00 jimi-hendnix python3[3560005]: 2026-11-17T01:43:54.346718+00:00 Game 6/15 matched: dominion.games:186032758
+2026-11-16T18:08:26.641482-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:08:26.641396+00:00 Completed 6/15: dominion.games:186032758 [{"index": 0, "name": "SolDominion", "vp": 45, "rank": 2, "turns": 21}, {"index": 1, "name": "mdwicker", "vp": 46, "rank": 1, "turns": 21}]
+2026-11-16T18:08:26.844669-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:08:26.844612+00:00 Searching for rated game 7/15; agent=Sol High, rating=-5..5
+2026-11-16T18:08:36.879971-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:08:36.879955+00:00 Game 7/15 matched: dominion.games:186033558
+2026-11-16T18:30:56.550494-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:30:56.550382+00:00 Completed 7/15: dominion.games:186033558 [{"index": 0, "name": "SolDominion", "vp": 29, "rank": 1, "turns": 17}, {"index": 1, "name": "Pitstop363", "vp": 8, "rank": 2, "turns": 16}]
+2026-11-16T18:30:56.831736-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:30:56.831559+00:00 Searching for rated game 8/15; agent=Sol High, rating=-5..5
+2026-11-16T18:31:06.876199-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:31:06.876113+00:00 Game 8/15 matched: dominion.games:186034175
+2026-11-16T18:38:40.044745-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:38:40.044633+00:00 Completed 8/15: dominion.games:186034175 [{"index": 0, "name": "hangdong69", "vp": 1, "rank": 2, "turns": 6, "resigned": true}, {"index": 1, "name": "SolDominion", "vp": 1, "rank": 1, "turns": 6}]
+2026-11-16T18:38:40.233398-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:38:40.233291+00:00 Searching for rated game 9/15; agent=Sol High, rating=-5..5
+2026-11-16T18:38:50.273592-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:38:50.273535+00:00 Game 9/15 matched: dominion.games:186034403
+2026-11-16T18:40:51.134061-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:40:51.133865+00:00 Completed 9/15: dominion.games:186034403 [{"index": 0, "name": "SolDominion", "vp": 3, "rank": 1, "turns": 0}, {"index": 1, "name": "nateopp", "vp": 3, "rank": 2, "turns": 0, "resigned": true}]
+2026-11-16T18:40:51.349802-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:40:51.349741+00:00 Searching for rated game 10/15; agent=Sol High, rating=-5..5
+2026-11-16T18:41:01.388470-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:41:01.388410+00:00 Game 10/15 matched: dominion.games:186034460
+2026-11-16T18:55:26.775869-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:55:26.775817+00:00 Completed 10/15: dominion.games:186034460 [{"index": 0, "name": "SolDominion", "vp": 0, "rank": 1, "turns": 13}, {"index": 1, "name": "GameBot3000", "vp": 3, "rank": 2, "turns": 12, "resigned": true}]
+2026-11-16T18:55:26.965977-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:55:26.965903+00:00 Searching for rated game 11/15; agent=Sol High, rating=-5..5
+2026-11-16T18:55:37.019844-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:55:37.019789+00:00 Game 11/15 matched: dominion.games:186034884
+2026-11-16T18:56:57.520602-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:56:57.520588+00:00 Completed 11/15: dominion.games:186034884 [{"index": 0, "name": "SolDominion", "vp": 3, "rank": 1, "turns": 1}, {"index": 1, "name": "nateopp", "vp": 3, "rank": 2, "turns": 0, "resigned": true}]
+2026-11-16T18:56:57.721376-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:56:57.721298+00:00 Searching for rated game 12/15; agent=Sol High, rating=-5..5
+2026-11-16T18:57:07.763977-08:00 jimi-hendnix python3[3560005]: 2026-11-17T02:57:07.763793+00:00 Game 12/15 matched: dominion.games:186034949
+2026-11-16T19:04:50.221200-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:04:50.221073+00:00 Completed 12/15: dominion.games:186034949 [{"index": 0, "name": "yukkiboi", "vp": 0, "rank": 2, "turns": 9, "resigned": true}, {"index": 1, "name": "SolDominion", "vp": 0, "rank": 1, "turns": 8}]
+2026-11-16T19:04:50.447993-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:04:50.447939+00:00 Searching for rated game 13/15; agent=Sol High, rating=-5..5
+2026-11-16T19:05:00.495051-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:05:00.495034+00:00 Game 13/15 matched: dominion.games:186035246
+2026-11-16T19:24:57.338821-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:24:57.338634+00:00 Completed 13/15: dominion.games:186035246 [{"index": 0, "name": "SolDominion", "vp": 35, "rank": 1, "turns": 18}, {"index": 1, "name": "dtbomber", "vp": 26, "rank": 2, "turns": 17, "resigned": true}]
+2026-11-16T19:24:57.539254-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:24:57.539126+00:00 Searching for rated game 14/15; agent=Sol High, rating=-5..5
+2026-11-16T19:25:17.665570-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:25:17.665464+00:00 Game 14/15 matched: dominion.games:186035907
+2026-11-16T19:34:20.979627-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:34:20.979572+00:00 Completed 14/15: dominion.games:186035907 [{"index": 0, "name": "SolDominion", "vp": 18, "rank": 1, "turns": 9}, {"index": 1, "name": "Rok3", "vp": 2, "rank": 2, "turns": 8, "resigned": true}]
+2026-11-16T19:34:21.236690-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:34:21.236626+00:00 Searching for rated game 15/15; agent=Sol High, rating=-5..5
+2026-11-16T19:34:31.282426-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:34:31.282357+00:00 Game 15/15 matched: dominion.games:186036166
+2026-11-16T19:55:59.365057-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:55:59.364991+00:00 Completed 15/15: dominion.games:186036166 [{"index": 0, "name": "Relicdog", "vp": 30, "rank": 1, "turns": 16}, {"index": 1, "name": "SolDominion", "vp": 19, "rank": 2, "turns": 15}]
+2026-11-16T19:55:59.365773-08:00 jimi-hendnix python3[3560005]: 2026-11-17T03:55:59.365546+00:00 Finished all 15 rated games; no more searches will start
+2026-11-16T19:55:59.377969-08:00 jimi-hendnix systemd[2435]: dominion-sol-rated-15-20261116.service: Consumed 10.483s CPU time over 2h 12min 15.445s wall clock time, 24.8M memory peak, 232K memory swap peak.

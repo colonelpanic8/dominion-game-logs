@@ -1,0 +1,55 @@
+{
+  "number": 8,
+  "game_id": "dominion.games:186034175",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "hangdong69",
+        "vp": 1,
+        "rank": 2,
+        "turns": 6,
+        "resigned": true
+      },
+      {
+        "index": 1,
+        "name": "SolDominion",
+        "vp": 1,
+        "rank": 1,
+        "turns": 6
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "archive": "1794882656836-3b19e7de042da9c6",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794882656836-3b19e7de042da9c6",
+      "events": 198,
+      "event_kinds": {
+        "seat": 1,
+        "request": 40,
+        "response": 39,
+        "direct_request": 39,
+        "direct_usage": 39,
+        "native_event": 37,
+        "transport_error": 1,
+        "final_view_unavailable": 1,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794882656837,
+      "last_time_ms": 1794883121116,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": false
+    }
+  ],
+  "observed_log_entries": 199,
+  "log_seq_range": [
+    0,
+    198
+  ],
+  "missing_observed_sequence_numbers": [],
+  "has_recorded_final_view": false,
+  "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+}

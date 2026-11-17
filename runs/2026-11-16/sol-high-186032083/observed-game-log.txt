@@ -1,0 +1,494 @@
+00000 game 186032083
+00001 GameBot3000 gets +1 Favor. (Circle of Witches)
+00002 SolDominion gets +1 Favor. (Circle of Witches)
+00003 GameBot3000 starts with 3 Estate.
+00004 GameBot3000 starts with 7 Copper.
+00005 SolDominion starts with 3 Estate.
+00006 SolDominion starts with 7 Copper.
+00007 SolDominion answered
+00008 GameBot3000 answered
+00009 GameBot3000 shuffles their deck.
+00010 SolDominion shuffles their deck.
+00011 GameBot3000 draws 5 card.
+00012 SolDominion draws 3 Copper, 2 Estate.
+00013 GameBot3000 starts turn 1
+00014 GameBot3000 answered
+00015 play treasures for
+00016 GameBot3000 answered
+00017 GameBot3000 buys and gains 1 Supplies.
+00018 GameBot3000 draws 5 card.
+00019 SolDominion starts turn 1
+00020 SolDominion answered
+00021 SolDominion answered
+00022 SolDominion answered
+00023 play treasures for
+00024 SolDominion answered
+00025 SolDominion buys and gains 1 Silver.
+00026 SolDominion draws 4 Copper, 1 Estate.
+00027 GameBot3000 starts turn 2
+00028 GameBot3000 answered
+00029 play treasures for
+00030 GameBot3000 answered
+00031 GameBot3000 buys and gains 1 Vampire.
+00032 GameBot3000 shuffles their deck.
+00033 GameBot3000 draws 5 card.
+00034 SolDominion starts turn 2
+00035 SolDominion answered
+00036 SolDominion answered
+00037 SolDominion answered
+00038 SolDominion answered
+00039 play treasures for
+00040 SolDominion answered
+00041 SolDominion buys and gains 1 Broker.
+00042 SolDominion shuffles their deck.
+00043 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Broker.
+00044 GameBot3000 starts turn 3
+00045 GameBot3000 answered
+00046 play treasures for
+00047 GameBot3000 answered
+00048 GameBot3000 buys and gains 1 Supplies.
+00049 GameBot3000 answered
+00050 GameBot3000 plays 1 Vampire.
+00051 GameBot3000 takes 1 Plague.
+00052 SolDominion receives 1 Plague.
+00053 SolDominion gains 1 Curse.
+00054 GameBot3000 discards 1 Plague.
+00055 GameBot3000 answered
+00056 GameBot3000 gains 1 Charlatan.
+00057 GameBot3000 returns 1 Vampire.
+00058 GameBot3000 receives 1 Bat.
+00059 GameBot3000 draws 5 card.
+00060 SolDominion starts turn 3
+00061 SolDominion answered
+00062 SolDominion plays 1 Broker.
+00063 SolDominion answered
+00064 SolDominion trashes 1 Estate.
+00065 SolDominion answered
+00066 SolDominion gets +2 Favors. (Broker)
+00067 SolDominion answered
+00068 SolDominion spends 3 Favors.
+00069 GameBot3000 gains 1 Curse.
+00070 SolDominion answered
+00071 SolDominion answered
+00072 SolDominion answered
+00073 SolDominion answered
+00074 play treasures for
+00075 SolDominion answered
+00076 SolDominion buys and gains 1 Cultist.
+00077 SolDominion draws 3 Copper, 2 Estate.
+00078 GameBot3000 starts turn 4
+00079 GameBot3000 answered
+00080 play treasures for
+00081 GameBot3000 answered
+00082 GameBot3000 plays 1 Supplies.
+00083 GameBot3000 gains 1 Horse.
+00084 GameBot3000 answered
+00085 GameBot3000 buys and gains 1 Supplies.
+00086 GameBot3000 shuffles their deck.
+00087 GameBot3000 draws 5 card.
+00088 SolDominion starts turn 4
+00089 SolDominion answered
+00090 SolDominion answered
+00091 SolDominion answered
+00092 play treasures for
+00093 SolDominion answered
+00094 SolDominion buys and gains 1 Supplies.
+00095 SolDominion shuffles their deck.
+00096 SolDominion draws 4 Copper, 1 Supplies.
+00097 GameBot3000 starts turn 5
+00098 GameBot3000 answered
+00099 GameBot3000 plays 1 Horse.
+00100 GameBot3000 draws 2 card.
+00101 GameBot3000 gets +1 Action.
+00102 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00103 GameBot3000 answered
+00104 play treasures for
+00105 GameBot3000 answered
+00106 GameBot3000 buys and gains 1 Altar.
+00107 GameBot3000 draws 5 card.
+00108 SolDominion starts turn 5
+00109 SolDominion answered
+00110 play treasures for
+00111 SolDominion answered
+00112 SolDominion plays 1 Supplies.
+00113 SolDominion gains 1 Horse.
+00114 SolDominion answered
+00115 SolDominion answered
+00116 SolDominion answered
+00117 play treasures for
+00118 SolDominion answered
+00119 SolDominion buys and gains 1 Vampire.
+00120 SolDominion draws 1 Curse, 1 Copper, 1 Estate, 1 Horse, 1 Broker.
+00121 GameBot3000 starts turn 6
+00122 GameBot3000 answered
+00123 GameBot3000 plays 1 Charlatan.
+00124 GameBot3000 gets +$3.
+00125 SolDominion gains 1 Curse.
+00126 GameBot3000 answered
+00127 GameBot3000 plays 1 Supplies.
+00128 GameBot3000 gains 1 Horse.
+00129 GameBot3000 answered
+00130 GameBot3000 plays 1 Supplies.
+00131 GameBot3000 gains 1 Horse.
+00132 GameBot3000 answered
+00133 GameBot3000 buys and gains 1 Vampire.
+00134 GameBot3000 draws 5 card.
+00135 SolDominion starts turn 6
+00136 SolDominion answered
+00137 SolDominion plays 1 Horse.
+00138 SolDominion draws 1 Copper, 1 Cultist.
+00139 SolDominion gets +1 Action.
+00140 SolDominion returns 1 Horse to Player 0 nonSupply.
+00141 SolDominion answered
+00142 SolDominion plays 1 Broker.
+00143 SolDominion answered
+00144 SolDominion trashes 1 Estate.
+00145 SolDominion answered
+00146 SolDominion gets +2 Actions.
+00147 SolDominion answered
+00148 SolDominion plays 1 Cultist.
+00149 SolDominion draws 1 Copper, 1 Estate.
+00150 GameBot3000 gains 1 Ruined Village.
+00151 SolDominion answered
+00152 SolDominion answered
+00153 SolDominion answered
+00154 SolDominion answered
+00155 play treasures for
+00156 SolDominion answered
+00157 SolDominion buys and gains 1 Silver.
+00158 SolDominion shuffles their deck.
+00159 SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Broker.
+00160 GameBot3000 starts turn 7
+00161 GameBot3000 answered
+00162 GameBot3000 plays 1 Horse.
+00163 GameBot3000 draws 2 card.
+00164 GameBot3000 gets +1 Action.
+00165 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00166 GameBot3000 answered
+00167 GameBot3000 plays 1 Horse.
+00168 GameBot3000 shuffles their deck.
+00169 GameBot3000 draws 2 card.
+00170 GameBot3000 gets +1 Action.
+00171 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00172 GameBot3000 answered
+00173 play treasures for
+00174 GameBot3000 answered
+00175 GameBot3000 plays 1 Supplies.
+00176 GameBot3000 gains 1 Horse.
+00177 GameBot3000 answered
+00178 GameBot3000 plays 1 Supplies.
+00179 GameBot3000 gains 1 Horse.
+00180 GameBot3000 answered
+00181 GameBot3000 buys and gains 1 Vampire.
+00182 GameBot3000 answered
+00183 GameBot3000 plays 1 Bat.
+00184 GameBot3000 answered
+00185 GameBot3000 trashes 1 Estate.
+00186 GameBot3000 returns 1 Bat.
+00187 GameBot3000 receives 1 Vampire.
+00188 GameBot3000 draws 5 card.
+00189 SolDominion starts turn 7
+00190 SolDominion answered
+00191 SolDominion plays 1 Broker.
+00192 SolDominion answered
+00193 SolDominion trashes 1 Estate.
+00194 SolDominion answered
+00195 SolDominion draws 1 Curse, 1 Vampire.
+00196 SolDominion answered
+00197 SolDominion answered
+00198 SolDominion answered
+00199 SolDominion answered
+00200 play treasures for
+00201 SolDominion answered
+00202 SolDominion buys and gains 1 Gold.
+00203 SolDominion answered
+00204 SolDominion plays 1 Vampire.
+00205 SolDominion takes 1 Haunting.
+00206 GameBot3000 receives 1 Haunting.
+00207 GameBot3000 answered
+00208 GameBot3000 topdecks 1 card.
+00209 SolDominion discards 1 Haunting.
+00210 SolDominion answered
+00211 SolDominion gains 1 Cultist.
+00212 SolDominion returns 1 Vampire.
+00213 SolDominion receives 1 Bat.
+00214 SolDominion draws 4 Copper, 1 Cultist.
+00215 GameBot3000 starts turn 8
+00216 GameBot3000 answered
+00217 GameBot3000 plays 1 Horse.
+00218 GameBot3000 draws 2 card.
+00219 GameBot3000 gets +1 Action.
+00220 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00221 GameBot3000 answered
+00222 GameBot3000 plays 1 Horse.
+00223 GameBot3000 draws 2 card.
+00224 GameBot3000 gets +1 Action.
+00225 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00226 GameBot3000 answered
+00227 GameBot3000 plays 1 Charlatan.
+00228 GameBot3000 gets +$3.
+00229 SolDominion gains 1 Curse.
+00230 GameBot3000 answered
+00231 play treasures for
+00232 GameBot3000 answered
+00233 GameBot3000 plays 1 Supplies.
+00234 GameBot3000 gains 1 Horse.
+00235 GameBot3000 answered
+00236 GameBot3000 buys 1 Training.
+00237 GameBot3000 answered
+00238 GameBot3000 moves plus action to Player 0 supply.
+00239 GameBot3000 draws 5 card.
+00240 SolDominion starts turn 8
+00241 SolDominion answered
+00242 SolDominion plays 1 Cultist.
+00243 SolDominion draws 1 Curse, 1 Copper.
+00244 GameBot3000 gains 1 Ruined Market.
+00245 SolDominion answered
+00246 SolDominion answered
+00247 SolDominion answered
+00248 SolDominion answered
+00249 SolDominion answered
+00250 SolDominion answered
+00251 play treasures for
+00252 SolDominion answered
+00253 SolDominion buys and gains 1 Cultist.
+00254 SolDominion shuffles their deck.
+00255 SolDominion draws 3 Copper, 1 Silver, 1 Supplies.
+00256 GameBot3000 starts turn 9
+00257 GameBot3000 answered
+00258 GameBot3000 plays 1 Horse.
+00259 GameBot3000 draws 2 card.
+00260 GameBot3000 gets +1 Action.
+00261 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00262 GameBot3000 answered
+00263 GameBot3000 plays 1 Altar.
+00264 GameBot3000 answered
+00265 GameBot3000 trashes 1 Curse.
+00266 GameBot3000 answered
+00267 GameBot3000 gains 1 Charlatan.
+00268 GameBot3000 answered
+00269 play treasures for
+00270 GameBot3000 answered
+00271 GameBot3000 buys and gains 1 Supplies.
+00272 GameBot3000 answered
+00273 GameBot3000 plays 1 Vampire.
+00274 GameBot3000 takes 1 War.
+00275 SolDominion receives 1 War.
+00276 SolDominion reveals 1 Curse, 1 Copper, 1 Silver, 1 Gold, 1 Cultist.
+00277 SolDominion trashes 1 Silver.
+00278 SolDominion discards 1 Curse, 1 Copper, 1 Gold, 1 Cultist.
+00279 GameBot3000 discards 1 War.
+00280 GameBot3000 answered
+00281 GameBot3000 gains 1 Bandit.
+00282 GameBot3000 returns 1 Vampire.
+00283 GameBot3000 receives 1 Bat.
+00284 GameBot3000 shuffles their deck.
+00285 GameBot3000 draws 5 card.
+00286 SolDominion starts turn 9
+00287 SolDominion answered
+00288 SolDominion answered
+00289 SolDominion answered
+00290 play treasures for
+00291 SolDominion answered
+00292 SolDominion plays 1 Supplies.
+00293 SolDominion gains 1 Horse.
+00294 SolDominion answered
+00295 play treasures for
+00296 SolDominion answered
+00297 SolDominion buys 1 Training.
+00298 SolDominion answered
+00299 SolDominion moves plus buy to Player 0 supply.
+00300 SolDominion draws 1 Curse, 1 Copper, 1 Cultist, 1 Bat, 1 Horse.
+00301 GameBot3000 starts turn 10
+00302 GameBot3000 answered
+00303 GameBot3000 answered
+00304 play treasures for
+00305 GameBot3000 answered
+00306 GameBot3000 plays 1 Supplies.
+00307 GameBot3000 gains 1 Horse.
+00308 GameBot3000 answered
+00309 GameBot3000 buys and gains 1 Supplies.
+00310 GameBot3000 answered
+00311 GameBot3000 plays 1 Vampire.
+00312 GameBot3000 takes 1 Poverty.
+00313 SolDominion receives 1 Poverty.
+00314 SolDominion answered
+00315 SolDominion discards 1 Curse, 1 Copper.
+00316 GameBot3000 discards 1 Poverty.
+00317 GameBot3000 answered
+00318 GameBot3000 gains 1 Ronin.
+00319 GameBot3000 returns 1 Vampire.
+00320 GameBot3000 receives 1 Bat.
+00321 GameBot3000 draws 5 card.
+00322 SolDominion starts turn 10
+00323 SolDominion answered
+00324 SolDominion plays 1 Horse.
+00325 SolDominion draws 1 Copper, 1 Cultist.
+00326 SolDominion gets +1 Action.
+00327 SolDominion returns 1 Horse to Player 0 nonSupply.
+00328 SolDominion answered
+00329 SolDominion plays 1 Cultist.
+00330 SolDominion draws 1 Copper, 1 Broker.
+00331 GameBot3000 gains 1 Abandoned Mine.
+00332 SolDominion answered
+00333 SolDominion plays 1 Cultist.
+00334 SolDominion shuffles their deck.
+00335 SolDominion draws 1 Curse, 1 Copper.
+00336 GameBot3000 gains 1 Ruined Village.
+00337 SolDominion answered
+00338 SolDominion answered
+00339 play treasures for
+00340 SolDominion answered
+00341 SolDominion buys and gains 1 Supplies.
+00342 SolDominion answered
+00343 SolDominion plays 1 Bat.
+00344 SolDominion answered
+00345 SolDominion trashes 1 Curse, 1 Copper.
+00346 SolDominion returns 1 Bat.
+00347 SolDominion receives 1 Vampire.
+00348 SolDominion draws 1 Curse, 2 Copper, 1 Gold, 1 Cultist.
+00349 GameBot3000 starts turn 11
+00350 GameBot3000 answered
+00351 GameBot3000 plays 1 Horse.
+00352 GameBot3000 draws 2 card.
+00353 GameBot3000 gets +1 Action.
+00354 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00355 GameBot3000 answered
+00356 GameBot3000 plays 1 Charlatan.
+00357 GameBot3000 gets +1 Coin (from Training).
+00358 GameBot3000 gets +$3.
+00359 SolDominion gains 1 Curse.
+00360 GameBot3000 answered
+00361 play treasures for
+00362 GameBot3000 answered
+00363 GameBot3000 plays 1 Supplies.
+00364 GameBot3000 gains 1 Horse.
+00365 GameBot3000 answered
+00366 GameBot3000 buys and gains 1 Province.
+00367 GameBot3000 draws 5 card.
+00368 SolDominion starts turn 11
+00369 SolDominion answered
+00370 SolDominion plays 1 Cultist.
+00371 SolDominion draws 1 Copper, 1 Supplies.
+00372 GameBot3000 gains 1 Survivors.
+00373 SolDominion answered
+00374 SolDominion answered
+00375 SolDominion answered
+00376 play treasures for
+00377 SolDominion answered
+00378 SolDominion plays 1 Supplies.
+00379 SolDominion gains 1 Horse.
+00380 SolDominion answered
+00381 SolDominion answered
+00382 play treasures for
+00383 SolDominion answered
+00384 SolDominion buys and gains 1 Province.
+00385 SolDominion shuffles their deck.
+00386 SolDominion draws 1 Curse, 2 Copper, 1 Silver, 1 Horse.
+00387 GameBot3000 starts turn 12
+00388 GameBot3000 answered
+00389 GameBot3000 plays 1 Horse.
+00390 GameBot3000 draws 2 card.
+00391 GameBot3000 gets +1 Action.
+00392 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00393 GameBot3000 answered
+00394 GameBot3000 plays 1 Charlatan.
+00395 GameBot3000 gets +1 Coin (from Training).
+00396 GameBot3000 gets +$3.
+00397 SolDominion gains 1 Curse.
+00398 GameBot3000 answered
+00399 GameBot3000 plays 1 Supplies.
+00400 GameBot3000 gains 1 Horse.
+00401 GameBot3000 answered
+00402 GameBot3000 buys and gains 1 Vampire.
+00403 GameBot3000 answered
+00404 GameBot3000 plays 1 Bat.
+00405 GameBot3000 answered
+00406 GameBot3000 trashes 1 Estate, 1 Ruined Village.
+00407 GameBot3000 returns 1 Bat.
+00408 GameBot3000 receives 1 Vampire.
+00409 GameBot3000 draws 5 card.
+00410 SolDominion starts turn 12
+00411 SolDominion answered
+00412 SolDominion plays 1 Horse.
+00413 SolDominion draws 1 Copper, 1 Cultist.
+00414 SolDominion gets +1 Action.
+00415 SolDominion returns 1 Horse to Player 0 nonSupply.
+00416 SolDominion answered
+00417 SolDominion plays 1 Cultist.
+00418 SolDominion draws 1 Cultist, 1 Supplies.
+00419 GameBot3000 gains 1 Ruined Village.
+00420 SolDominion answered
+00421 SolDominion plays 1 Cultist.
+00422 SolDominion draws 1 Gold, 1 Broker.
+00423 GameBot3000 gains 1 Ruined Market.
+00424 SolDominion answered
+00425 SolDominion answered
+00426 SolDominion answered
+00427 SolDominion answered
+00428 play treasures for
+00429 SolDominion answered
+00430 SolDominion plays 1 Supplies.
+00431 SolDominion gains 1 Horse.
+00432 SolDominion answered
+00433 play treasures for
+00434 SolDominion answered
+00435 SolDominion buys and gains 1 Province.
+00436 SolDominion draws 2 Copper, 1 Province, 1 Vampire, 1 Horse.
+00437 GameBot3000 starts turn 13
+00438 GameBot3000 answered
+00439 GameBot3000 plays 1 Horse.
+00440 GameBot3000 puts 1 Ronin on the bottom of their deck.
+00441 GameBot3000 shuffles their deck.
+00442 GameBot3000 draws 2 card.
+00443 GameBot3000 gets +1 Action.
+00444 GameBot3000 returns 1 Horse to Player 0 nonSupply.
+00445 GameBot3000 answered
+00446 GameBot3000 plays 1 Ronin.
+00447 GameBot3000 draws 1 card.
+00448 GameBot3000 answered
+00449 play treasures for
+00450 GameBot3000 answered
+00451 GameBot3000 plays 1 Supplies.
+00452 GameBot3000 gains 1 Horse.
+00453 GameBot3000 answered
+00454 GameBot3000 buys and gains 1 Broker.
+00455 GameBot3000 answered
+00456 GameBot3000 plays 1 Vampire.
+00457 GameBot3000 takes 1 Envy.
+00458 SolDominion receives 1 Envy.
+00459 SolDominion takes 1 Envious.
+00460 GameBot3000 discards 1 Envy.
+00461 GameBot3000 answered
+00462 GameBot3000 gains 1 Duchy.
+00463 GameBot3000 returns 1 Vampire.
+00464 GameBot3000 receives 1 Bat.
+00465 GameBot3000 draws 5 card.
+00466 SolDominion starts turn 13
+00467 SolDominion answered
+00468 SolDominion plays 1 Horse.
+00469 SolDominion draws 1 Copper, 1 Cultist.
+00470 SolDominion gets +1 Action.
+00471 SolDominion returns 1 Horse to Player 0 nonSupply.
+00472 SolDominion answered
+00473 SolDominion plays 1 Cultist.
+00474 SolDominion draws 2 Curse.
+00475 GameBot3000 gains 1 Abandoned Mine.
+00476 SolDominion begins their buy phase.
+00477 SolDominion returns 1 Envious.
+00478 SolDominion answered
+00479 SolDominion answered
+00480 SolDominion answered
+00481 SolDominion answered
+00482 SolDominion answered
+00483 play treasures for
+00484 SolDominion answered
+00485 SolDominion buys and gains 1 Ronin.
+00486 SolDominion answered
+00487 SolDominion plays 1 Vampire.
+00488 SolDominion takes 1 Bad Omens.
+00489 GameBot3000 receives 1 Bad Omens.
+00490 GameBot3000 moves their deck to the discard.
+00491 GameBot3000 looks at 26 card, 1 Broker, 1 Ronin.
+00492 GameBot3000 topdecks 2 card.
+00493 SolDominion discards 1 Bad Omens.

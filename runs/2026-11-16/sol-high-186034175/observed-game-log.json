@@ -1,0 +1,1244 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186034175",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "The Sky's Gift",
+    "player": 0,
+    "seq": 1,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "card": "The Field's Gift",
+    "player": 0,
+    "seq": 2,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "card": "The Mountain's Gift",
+    "player": 0,
+    "seq": 3,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "card": "Forest Dwellers",
+    "player": 0,
+    "seq": 4,
+    "text": "hangdong69 gets +1 Favor. (Forest Dwellers)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Forest Dwellers",
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion gets +1 Favor. (Forest Dwellers)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "hangdong69 starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "hangdong69 starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 9,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "hangdong69 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 13,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 15,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "hangdong69 starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Forest Dwellers",
+    "player": 0,
+    "seq": 19,
+    "text": "hangdong69 spends 1 Favor.",
+    "type": "official-spends-favor"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "hangdong69 looks at 3 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 21,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 22,
+    "text": "hangdong69 discards 2 card, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 0,
+    "seq": 23,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 24,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 25,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 26,
+    "text": "hangdong69 buys and gains 1 Student.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "hangdong69 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 29,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 30,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 32,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 1,
+    "seq": 37,
+    "text": "SolDominion buys and gains 1 Student.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 39,
+    "text": "hangdong69 starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 40,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 41,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 42,
+    "text": "hangdong69 plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "hangdong69 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 46,
+    "text": "hangdong69 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 50,
+    "text": "hangdong69 buys and gains 1 Student.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 59,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 60,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magpie",
+    "player": 1,
+    "seq": 61,
+    "text": "SolDominion buys and gains 1 Magpie.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 62,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 63,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Magpie.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "hangdong69 starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 69,
+    "text": "hangdong69 buys and gains 1 Student.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "hangdong69 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Forest Dwellers",
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion spends 1 Favor.",
+    "type": "official-spends-favor"
+  },
+  {
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion looks at 2 Copper, 1 Estate.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 78,
+    "text": "SolDominion discards 1 Estate.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "SolDominion topdecks 2 Copper with Forest Dwellers.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 1,
+    "seq": 80,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magpie",
+    "player": 1,
+    "seq": 81,
+    "text": "SolDominion plays 1 Magpie.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 82,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 84,
+    "text": "SolDominion reveals 1 Copper.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 85,
+    "text": "SolDominion puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 86,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 87,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conjurer",
+    "player": 1,
+    "seq": 92,
+    "text": "SolDominion buys and gains 1 Conjurer.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Student.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "hangdong69 starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 96,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magpie",
+    "player": 0,
+    "seq": 100,
+    "text": "hangdong69 buys and gains 1 Magpie.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 1,
+    "seq": 105,
+    "text": "SolDominion plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Conjurer.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 117,
+    "text": "hangdong69 starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 118,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 119,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 120,
+    "text": "hangdong69 plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "hangdong69 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 124,
+    "text": "hangdong69 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 125,
+    "text": "hangdong69 gets +1 Favor. (Student)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 126,
+    "text": "hangdong69 topdecks 1 Student.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 128,
+    "text": "hangdong69 plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "hangdong69 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 132,
+    "text": "hangdong69 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 133,
+    "text": "hangdong69 gets +1 Favor. (Student)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 134,
+    "text": "hangdong69 topdecks 1 Student.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 135,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 137,
+    "text": "hangdong69 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 138,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 139,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conjurer",
+    "player": 1,
+    "seq": 142,
+    "text": "SolDominion plays 1 Conjurer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 143,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cavalry",
+    "player": 1,
+    "seq": 144,
+    "text": "SolDominion gains 1 Cavalry.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "SolDominion draws 1 Estate, 1 Magpie.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 146,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Magpie, 1 Cavalry.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "hangdong69 starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "hangdong69 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 159,
+    "text": "hangdong69 plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 160,
+    "text": "hangdong69 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 163,
+    "text": "hangdong69 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 164,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 165,
+    "text": "hangdong69 plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "hangdong69 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 168,
+    "text": "hangdong69 rotates 3 Conjurer.",
+    "type": "official-rotates"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 170,
+    "text": "hangdong69 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 171,
+    "text": "hangdong69 gets +1 Favor. (Student)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Student",
+    "player": 0,
+    "seq": 172,
+    "text": "hangdong69 topdecks 1 Student.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "hangdong69 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 175,
+    "text": "hangdong69 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 178,
+    "text": "SolDominion puts 1 Conjurer in hand (Conjurer).",
+    "type": "official-put-in-hand-from"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magpie",
+    "player": 1,
+    "seq": 180,
+    "text": "SolDominion plays 1 Magpie.",
+    "type": "official-play"
+  },
+  {
+    "card": "Student",
+    "player": 1,
+    "seq": 181,
+    "text": "SolDominion draws 1 Student.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 182,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 183,
+    "text": "SolDominion reveals 1 Copper.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 184,
+    "text": "SolDominion puts 1 Copper into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 185,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Student",
+    "player": 1,
+    "seq": 186,
+    "text": "SolDominion plays 1 Student.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 190,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 191,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Conjurer",
+    "player": 1,
+    "seq": 192,
+    "text": "SolDominion plays 1 Conjurer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Magpie",
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion gains 1 Magpie.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  }
+]

@@ -1,0 +1,14 @@
+server = "https://dominion-arena.duckdns.org"
+account_id = "sol"
+account_name = "SolDominion"
+owner = "Arena Matches"
+password_entry = "dominion-arena.duckdns.org/Arena Matches"
+agent = "Sol High"
+games = 15
+players = 2
+min_rating = -5
+max_rating = 5
+timer = 3
+poll_seconds = 10
+reconnects_per_game = 1
+state_dir = "/home/imalison/.local/state/dominion/series/sol-rating-20261116"

@@ -1,0 +1,24 @@
+{
+  "game_id": "dominion.games:186034175",
+  "completed_at": "2026-11-17T02:38:40.043904+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "hangdong69",
+        "vp": 1,
+        "rank": 2,
+        "turns": 6,
+        "resigned": true
+      },
+      {
+        "index": 1,
+        "name": "SolDominion",
+        "vp": 1,
+        "rank": 1,
+        "turns": 6
+      }
+    ]
+  }
+}

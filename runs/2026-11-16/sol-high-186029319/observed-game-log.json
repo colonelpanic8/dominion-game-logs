@@ -1,0 +1,4060 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186029319",
+    "type": "official"
+  },
+  {
+    "seq": 1,
+    "text": "SolDominion gets +1 Favor. (Circle of Witches)",
+    "type": "official"
+  },
+  {
+    "seq": 2,
+    "text": "weitzy gets +1 Favor. (Circle of Witches)",
+    "type": "official"
+  },
+  {
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 5,
+    "text": "weitzy starts with 3 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 6,
+    "text": "weitzy starts with 7 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 9,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 10,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 11,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 12,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 13,
+    "text": "SolDominion turn 1",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 18,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 20,
+    "text": "SolDominion buys and gains 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 21,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 22,
+    "text": "weitzy turn 1",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 24,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 26,
+    "text": "weitzy buys and gains 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 27,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 28,
+    "text": "SolDominion turn 2",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 32,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 34,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 35,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 36,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 37,
+    "text": "weitzy turn 2",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 39,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 41,
+    "text": "weitzy buys and gains 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 42,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 43,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 44,
+    "text": "SolDominion turn 3",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 46,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 47,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 49,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 52,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 53,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 54,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 55,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "seq": 56,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 57,
+    "text": "weitzy turn 3",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 59,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 60,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 61,
+    "text": "weitzy plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 62,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 63,
+    "text": "weitzy gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 64,
+    "text": "weitzy gets +1 Favor. (Bauble)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 66,
+    "text": "weitzy buys and gains 1 Treasure Map.",
+    "type": "official"
+  },
+  {
+    "seq": 67,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 68,
+    "text": "SolDominion turn 4",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 73,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 75,
+    "text": "SolDominion buys and gains 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 76,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 77,
+    "text": "SolDominion draws 3 Copper, 1 Witch, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 78,
+    "text": "weitzy turn 4",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 79,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 80,
+    "text": "weitzy plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 81,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 82,
+    "text": "weitzy gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 85,
+    "text": "weitzy discards 1 card, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 86,
+    "text": "weitzy gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 87,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 89,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 91,
+    "text": "weitzy buys and gains 1 Magnate.",
+    "type": "official"
+  },
+  {
+    "seq": 92,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 93,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 94,
+    "text": "SolDominion turn 5",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 96,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 97,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 98,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 100,
+    "text": "SolDominion uses 1 Villager.",
+    "type": "official"
+  },
+  {
+    "seq": 101,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 103,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 104,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 105,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 106,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 110,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 111,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 112,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 113,
+    "text": "SolDominion buys and gains 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 114,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 115,
+    "text": "weitzy turn 5",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 117,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 119,
+    "text": "weitzy buys and gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 120,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 121,
+    "text": "SolDominion turn 6",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 125,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 127,
+    "text": "SolDominion buys and gains 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 128,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 129,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Witch, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 130,
+    "text": "weitzy turn 6",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 131,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 132,
+    "text": "weitzy plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 133,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 134,
+    "text": "weitzy gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 135,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 136,
+    "text": "weitzy plays 1 Magnate.",
+    "type": "official"
+  },
+  {
+    "seq": 137,
+    "text": "weitzy reveals their hand: 1 Bauble, 2 Copper, 1 Treasure Map.",
+    "type": "official"
+  },
+  {
+    "seq": 138,
+    "text": "weitzy draws 3 card.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 139,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 141,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 142,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 143,
+    "text": "weitzy plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 145,
+    "text": "weitzy gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 146,
+    "text": "weitzy gets +1 Favor. (Bauble)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 148,
+    "text": "weitzy spends 3 Favors.",
+    "type": "official"
+  },
+  {
+    "seq": 149,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 151,
+    "text": "weitzy buys and gains 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 152,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 153,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 154,
+    "text": "SolDominion turn 7",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 156,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 157,
+    "text": "SolDominion draws 1 Copper, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 158,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 160,
+    "text": "SolDominion uses 1 Villager.",
+    "type": "official"
+  },
+  {
+    "seq": 161,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 163,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 164,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 165,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 168,
+    "text": "SolDominion discards 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 169,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 171,
+    "text": "SolDominion loses 2 Coins.",
+    "type": "official"
+  },
+  {
+    "seq": 172,
+    "text": "SolDominion draws 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 174,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 175,
+    "text": "SolDominion draws 1 Silver, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 176,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 177,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 178,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 179,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 180,
+    "text": "SolDominion trashes 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 181,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 185,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 187,
+    "text": "SolDominion buys 1 Sea Trade.",
+    "type": "official"
+  },
+  {
+    "seq": 188,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 189,
+    "text": "SolDominion draws 1 Curse, 1 Copper, 1 Estate, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 191,
+    "text": "SolDominion trashes 1 Curse, 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 192,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 193,
+    "text": "SolDominion draws 2 Copper, 1 Temple, 1 Capital City, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 194,
+    "text": "weitzy turn 7",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 196,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 198,
+    "text": "weitzy buys and gains 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 199,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 200,
+    "text": "SolDominion turn 8",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 202,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 203,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 204,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 205,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 206,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 207,
+    "text": "SolDominion discards 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 208,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 209,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 210,
+    "text": "SolDominion loses 2 Coins.",
+    "type": "official"
+  },
+  {
+    "seq": 211,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 212,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 213,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 214,
+    "text": "SolDominion draws 1 Copper, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 216,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 217,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 218,
+    "text": "SolDominion draws 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 219,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 220,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 221,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 223,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 224,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 229,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 230,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 232,
+    "text": "SolDominion buys and gains 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 234,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 235,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "seq": 236,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 237,
+    "text": "SolDominion draws 3 Copper, 1 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 238,
+    "text": "weitzy turn 8",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 240,
+    "text": "weitzy plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 241,
+    "text": "weitzy draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 242,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 244,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 246,
+    "text": "weitzy buys and gains 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 247,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 248,
+    "text": "SolDominion turn 9",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 250,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 251,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 252,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 255,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 256,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 258,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 259,
+    "text": "SolDominion draws 1 Capital City, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 260,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 262,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 263,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 264,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 266,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 267,
+    "text": "SolDominion draws 1 Silver, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 269,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 270,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 271,
+    "text": "SolDominion draws 1 Curse, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 272,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 273,
+    "text": "SolDominion uses 1 Villager.",
+    "type": "official"
+  },
+  {
+    "seq": 274,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 275,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 276,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 277,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 278,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 279,
+    "text": "SolDominion trashes 1 Curse, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 280,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 281,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 282,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 283,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 284,
+    "text": "SolDominion gets +1 Favor. (Bauble)",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 287,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 288,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 289,
+    "text": "SolDominion buys 1 Lost Arts.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 290,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 291,
+    "text": "SolDominion moves plus action to Player 0 supply.",
+    "type": "official"
+  },
+  {
+    "seq": 292,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 293,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Temple, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 294,
+    "text": "weitzy turn 9",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 295,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 296,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 297,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 298,
+    "text": "weitzy plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 299,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 300,
+    "text": "weitzy gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 301,
+    "text": "weitzy gets +1 Favor. (Bauble)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 302,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 303,
+    "text": "weitzy buys and gains 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 304,
+    "text": "weitzy takes 4 VP from Player 0 supply.",
+    "type": "official"
+  },
+  {
+    "seq": 305,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 306,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 307,
+    "text": "SolDominion turn 10",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 309,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 310,
+    "text": "SolDominion draws 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 311,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 312,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 314,
+    "text": "SolDominion discards 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 315,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 316,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 317,
+    "text": "SolDominion loses 2 Coins.",
+    "type": "official"
+  },
+  {
+    "seq": 318,
+    "text": "SolDominion draws 1 Copper, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 320,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 321,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 322,
+    "text": "SolDominion draws 1 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 324,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 325,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 326,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 329,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 330,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 332,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 333,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 334,
+    "text": "SolDominion draws 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 335,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 336,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 337,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 338,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 339,
+    "text": "SolDominion draws 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 340,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 342,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 343,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 344,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 345,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 347,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 348,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 350,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 352,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 354,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 355,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "seq": 356,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 357,
+    "text": "SolDominion draws 1 Copper, 1 Temple, 2 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 358,
+    "text": "weitzy turn 10",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 359,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 360,
+    "text": "weitzy plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 361,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 362,
+    "text": "weitzy gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 363,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 364,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 365,
+    "text": "weitzy discards 1 card, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 366,
+    "text": "weitzy gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 367,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 368,
+    "text": "weitzy loses 2 Coins.",
+    "type": "official"
+  },
+  {
+    "seq": 369,
+    "text": "weitzy draws 2 card.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 370,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 371,
+    "text": "weitzy plays 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 372,
+    "text": "weitzy reveals their hand: 1 Silver, 1 Bauble, 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 373,
+    "text": "weitzy gets +3 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 375,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 377,
+    "text": "weitzy plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 378,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 379,
+    "text": "weitzy gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 380,
+    "text": "weitzy gets +1 Favor. (Bauble)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 381,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 382,
+    "text": "weitzy buys and gains 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 383,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 384,
+    "text": "SolDominion turn 11",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 386,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 387,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 388,
+    "text": "SolDominion draws 1 Silver, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 390,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 391,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 392,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 394,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 395,
+    "text": "SolDominion discards 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 396,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 397,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 398,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 399,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 400,
+    "text": "SolDominion draws 1 Witch, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 402,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 403,
+    "text": "SolDominion draws 1 Copper, 1 Gold.",
+    "type": "official"
+  },
+  {
+    "seq": 404,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 406,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 407,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 408,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 410,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 411,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 412,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 414,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 415,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 416,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 417,
+    "text": "SolDominion draws 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 419,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 420,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 421,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 422,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 424,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 426,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 427,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 428,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 429,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 430,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 432,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 434,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 435,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "seq": 436,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 437,
+    "text": "SolDominion draws 2 Copper, 1 Witch, 2 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 438,
+    "text": "weitzy turn 11",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 439,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 440,
+    "text": "weitzy plays 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 441,
+    "text": "weitzy reveals their hand: 1 Curse, 1 Copper, 1 Magnate, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 442,
+    "text": "weitzy gets +3 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 444,
+    "text": "weitzy plays 1 Magnate.",
+    "type": "official"
+  },
+  {
+    "seq": 445,
+    "text": "weitzy reveals their hand: 1 Curse, 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 446,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 448,
+    "text": "weitzy plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 449,
+    "text": "weitzy draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 450,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 451,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 452,
+    "text": "weitzy plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 453,
+    "text": "weitzy gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 454,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 455,
+    "text": "weitzy trashes 1 Curse, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 457,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 458,
+    "text": "SolDominion turn 12",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 459,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 460,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 461,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 462,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 463,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 464,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 465,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 466,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 467,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 468,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 469,
+    "text": "SolDominion draws 1 Province, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 470,
+    "text": "weitzy gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 472,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 473,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 474,
+    "text": "SolDominion draws 1 Silver, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 476,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 477,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 478,
+    "text": "SolDominion draws 1 Gold, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 479,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 480,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 481,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 482,
+    "text": "SolDominion draws 1 Temple, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 483,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 484,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 485,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 486,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 487,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 488,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 490,
+    "text": "SolDominion discards 1 Copper, 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 491,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 492,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 493,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 494,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 495,
+    "text": "SolDominion draws 1 Curse, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 496,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 497,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 498,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 499,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 500,
+    "text": "SolDominion trashes 1 Curse, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 501,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 502,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 503,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 504,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 505,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 506,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 507,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 508,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 509,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 510,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 511,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 512,
+    "text": "SolDominion buys and gains 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 513,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 514,
+    "text": "SolDominion draws 1 Silver, 1 Temple, 2 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 515,
+    "text": "weitzy turn 12",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 516,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 517,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 518,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 520,
+    "text": "weitzy buys and gains 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 521,
+    "text": "weitzy shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 522,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 523,
+    "text": "SolDominion turn 13",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 525,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 526,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 527,
+    "text": "SolDominion draws 1 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 528,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 529,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 530,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 531,
+    "text": "SolDominion draws 1 Copper, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 532,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 533,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 534,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official"
+  },
+  {
+    "seq": 535,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 536,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 537,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 538,
+    "text": "SolDominion discards 1 Copper, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 539,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 540,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 541,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 542,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 543,
+    "text": "SolDominion draws 1 Witch, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 544,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 545,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 546,
+    "text": "SolDominion draws 1 Province, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 547,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 548,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 549,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 550,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 551,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 552,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 553,
+    "text": "SolDominion discards 2 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 554,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 556,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 557,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 558,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 559,
+    "text": "SolDominion draws 1 Province, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 562,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 564,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 565,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 567,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 569,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 571,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 572,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 573,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 574,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 575,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 576,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 577,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 578,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 579,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 580,
+    "text": "SolDominion topdecks 1 Lackeys with Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 581,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 582,
+    "text": "SolDominion draws 1 Copper, 1 Province, 1 Lackeys, 1 Capital City, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 583,
+    "text": "weitzy turn 13",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 585,
+    "text": "weitzy plays 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 586,
+    "text": "weitzy reveals their hand: 1 Estate, 2 Copper, 1 Curse.",
+    "type": "official"
+  },
+  {
+    "seq": 587,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 588,
+    "text": "weitzy gets +3 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 589,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 590,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 591,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 592,
+    "text": "weitzy buys and gains 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 593,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 594,
+    "text": "SolDominion turn 14",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 596,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 597,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 598,
+    "text": "SolDominion draws 1 Witch, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 599,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 600,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 601,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 602,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 604,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 605,
+    "text": "SolDominion discards 1 Copper, 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 606,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 607,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 608,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 609,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 610,
+    "text": "SolDominion draws 1 Province, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 611,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 612,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 613,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 614,
+    "text": "SolDominion draws 1 Gold, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 615,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 616,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 617,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 618,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 619,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 621,
+    "text": "SolDominion discards 1 Province, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 622,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 623,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 624,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 625,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 626,
+    "text": "SolDominion draws 1 Province, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 627,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 628,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 629,
+    "text": "SolDominion draws 1 Silver, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 631,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 632,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 633,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 634,
+    "text": "SolDominion draws 2 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 635,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 636,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 637,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 638,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 639,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 640,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 641,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 643,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 644,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 646,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 648,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 650,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 651,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 652,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 653,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 654,
+    "text": "SolDominion topdecks 1 Lackeys with Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 655,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 656,
+    "text": "SolDominion draws 1 Copper, 1 Gold, 1 Province, 1 Temple, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 657,
+    "text": "weitzy turn 14",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 658,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 659,
+    "text": "weitzy plays 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 660,
+    "text": "weitzy reveals their hand: 1 Copper, 1 Treasure Map, 1 Crossroads, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 661,
+    "text": "weitzy gets +3 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 662,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 663,
+    "text": "weitzy plays 1 Crossroads.",
+    "type": "official"
+  },
+  {
+    "seq": 664,
+    "text": "weitzy reveals their hand: 1 Copper, 1 Treasure Map, 1 Temple.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 665,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 666,
+    "text": "weitzy plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 667,
+    "text": "weitzy gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 668,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 669,
+    "text": "weitzy trashes 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 670,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 671,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 672,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 673,
+    "text": "SolDominion turn 15",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 674,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 675,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 676,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 677,
+    "text": "SolDominion draws 1 Lackeys, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 678,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 679,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 680,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 681,
+    "text": "SolDominion draws 1 Province, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 682,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 683,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 684,
+    "text": "SolDominion draws 1 Lackeys, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 685,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 686,
+    "text": "SolDominion uses 1 Villager.",
+    "type": "official"
+  },
+  {
+    "seq": 687,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 688,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 689,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 690,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 691,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 692,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 693,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 694,
+    "text": "SolDominion discards 2 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 695,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 696,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 697,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 698,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 699,
+    "text": "SolDominion draws 1 Silver, 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 700,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 701,
+    "text": "SolDominion plays 1 Temple.",
+    "type": "official"
+  },
+  {
+    "seq": 702,
+    "text": "SolDominion gets 1 VP.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 704,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 705,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 706,
+    "text": "SolDominion plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 707,
+    "text": "SolDominion draws 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 708,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 709,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 710,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 711,
+    "text": "SolDominion discards 1 Province, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 712,
+    "text": "SolDominion gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 713,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 714,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 715,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 716,
+    "text": "SolDominion draws 1 Lackeys, 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 717,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 718,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 719,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 720,
+    "text": "SolDominion draws 1 Province, 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 721,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 722,
+    "text": "SolDominion plays 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 723,
+    "text": "SolDominion gets +1 Action (from Lost Arts).",
+    "type": "official"
+  },
+  {
+    "seq": 724,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 725,
+    "text": "SolDominion draws 2 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 726,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 727,
+    "text": "SolDominion plays 1 Bauble.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 728,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 729,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 730,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 731,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 732,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 733,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 734,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 735,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 736,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 737,
+    "text": "SolDominion buys and gains 1 Lackeys.",
+    "type": "official"
+  },
+  {
+    "seq": 738,
+    "text": "SolDominion gets +2 Villagers.",
+    "type": "official"
+  },
+  {
+    "seq": 739,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 740,
+    "text": "SolDominion draws 1 Gold, 1 Province, 1 Lackeys, 2 Bauble.",
+    "type": "official"
+  },
+  {
+    "seq": 741,
+    "text": "weitzy turn 15",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 742,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 743,
+    "text": "weitzy plays 1 Capital City.",
+    "type": "official"
+  },
+  {
+    "seq": 744,
+    "text": "weitzy draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 745,
+    "text": "weitzy gets +2 Actions.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 746,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 747,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 748,
+    "text": "weitzy discards 1 card, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 749,
+    "text": "weitzy gets +$2.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 750,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 751,
+    "text": "weitzy loses 2 Coins.",
+    "type": "official"
+  },
+  {
+    "seq": 752,
+    "text": "weitzy draws 2 card.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 753,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 754,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 755,
+    "text": "weitzy answered",
+    "type": "decision"
+  },
+  {
+    "seq": 756,
+    "text": "weitzy draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 757,
+    "text": "SolDominion turn 16",
+    "type": "official"
+  }
+]

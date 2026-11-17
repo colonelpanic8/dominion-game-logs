@@ -1,0 +1,1755 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186034949",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "yukkiboi starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "yukkiboi starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "yukkiboi starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 0,
+    "seq": 15,
+    "text": "yukkiboi buys and gains 1 Wharf.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 17,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 1,
+    "seq": 23,
+    "text": "SolDominion buys and gains 1 Chapel.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 25,
+    "text": "yukkiboi starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 0,
+    "seq": 29,
+    "text": "yukkiboi buys and gains 1 Chapel.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 32,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 39,
+    "text": "SolDominion buys and gains 1 Quarry.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "SolDominion draws 1 Copper, 2 Estate, 1 Chapel, 1 Quarry.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 42,
+    "text": "yukkiboi starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 46,
+    "text": "yukkiboi buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 48,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 49,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 1,
+    "seq": 50,
+    "text": "SolDominion plays 1 Chapel.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 51,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion trashes 1 Copper, 2 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 54,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "SolDominion draws 5 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 57,
+    "text": "yukkiboi starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 58,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 0,
+    "seq": 59,
+    "text": "yukkiboi plays 1 Chapel.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 60,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 61,
+    "text": "yukkiboi trashes 4 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 66,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 68,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion buys and gains 1 Wharf.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Wharf.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 76,
+    "text": "yukkiboi starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 0,
+    "seq": 78,
+    "text": "yukkiboi plays 1 Wharf.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "yukkiboi draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "yukkiboi gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 82,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 83,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 84,
+    "text": "yukkiboi buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 85,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 90,
+    "text": "SolDominion plays 1 Wharf.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "SolDominion draws 1 Copper, 1 Quarry.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 92,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 95,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 97,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 98,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 99,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ball",
+    "player": 1,
+    "seq": 100,
+    "text": "SolDominion buys 1 Ball.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 101,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 103,
+    "text": "SolDominion gains 2 Hunting Party.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "SolDominion draws 3 Copper, 1 Chapel, 1 Hunting Party.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "yukkiboi starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 108,
+    "text": "yukkiboi starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "yukkiboi draws 2 card. (Wharf)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Wharf",
+    "player": 0,
+    "seq": 110,
+    "text": "yukkiboi gets +1 Buy. (Wharf)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 0,
+    "seq": 111,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 0,
+    "seq": 112,
+    "text": "yukkiboi plays 1 Chapel.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 113,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 114,
+    "text": "yukkiboi trashes 1 Copper, 3 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 115,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 116,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 117,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 118,
+    "text": "yukkiboi plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 119,
+    "text": "yukkiboi gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 120,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 121,
+    "text": "yukkiboi buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 125,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 126,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 127,
+    "text": "SolDominion draws 1 Copper, 1 Estate. (Wharf)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 128,
+    "text": "SolDominion gets +1 Buy. (Wharf)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 1,
+    "seq": 129,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 130,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 131,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 132,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 133,
+    "text": "SolDominion reveals their hand: 1 Estate, 5 Copper, 1 Chapel.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 134,
+    "text": "SolDominion reveals 1 Copper, 1 Quarry.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 135,
+    "text": "SolDominion puts 1 Quarry into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 136,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 1,
+    "seq": 138,
+    "text": "SolDominion plays 1 Chapel.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 139,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "SolDominion trashes 2 Copper, 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 142,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Ball",
+    "player": 1,
+    "seq": 143,
+    "text": "returns minus coin token",
+    "type": "official-returns-minus-coin-token"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 146,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion buys and gains 1 Wharf.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 150,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion draws 2 Copper, 2 Wharf, 1 Hunting Party.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "yukkiboi starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 154,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 155,
+    "text": "yukkiboi plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "yukkiboi draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 157,
+    "text": "yukkiboi gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 158,
+    "text": "yukkiboi returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 159,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 0,
+    "seq": 160,
+    "text": "yukkiboi plays 1 Wharf.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 161,
+    "text": "yukkiboi draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "yukkiboi gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 164,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 166,
+    "text": "yukkiboi plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 167,
+    "text": "yukkiboi gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 168,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 169,
+    "text": "yukkiboi buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Groundskeeper",
+    "player": 0,
+    "seq": 171,
+    "text": "yukkiboi buys and gains 1 Groundskeeper.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 172,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 176,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Chapel",
+    "player": 1,
+    "seq": 177,
+    "text": "SolDominion draws 1 Chapel.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 178,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "SolDominion reveals their hand: 2 Wharf, 2 Copper, 1 Chapel.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 180,
+    "text": "SolDominion reveals 1 Hunting Party.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 181,
+    "text": "SolDominion puts 1 Hunting Party into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 182,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 183,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 184,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 185,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 186,
+    "text": "SolDominion reveals their hand: 2 Wharf, 3 Copper, 1 Chapel.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 187,
+    "text": "SolDominion reveals 1 Quarry.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 188,
+    "text": "SolDominion puts 1 Quarry into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 190,
+    "text": "SolDominion plays 1 Wharf.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 191,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ball",
+    "player": 1,
+    "seq": 200,
+    "text": "SolDominion buys 1 Ball.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 202,
+    "text": "SolDominion gains 1 Quarry.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Groundskeeper",
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion gains 1 Groundskeeper.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 206,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "SolDominion draws 1 Copper, 1 Wharf, 1 Quarry, 1 Hunting Party, 1 Groundskeeper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 208,
+    "text": "yukkiboi starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 209,
+    "text": "yukkiboi starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "yukkiboi draws 2 card. (Wharf)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Wharf",
+    "player": 0,
+    "seq": 211,
+    "text": "yukkiboi gets +1 Buy. (Wharf)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 0,
+    "seq": 212,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Groundskeeper",
+    "player": 0,
+    "seq": 213,
+    "text": "yukkiboi plays 1 Groundskeeper.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 214,
+    "text": "yukkiboi draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "yukkiboi gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 0,
+    "seq": 216,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 217,
+    "text": "yukkiboi plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 218,
+    "text": "yukkiboi draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 219,
+    "text": "yukkiboi gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 220,
+    "text": "yukkiboi returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Chapel",
+    "player": 0,
+    "seq": 222,
+    "text": "yukkiboi plays 1 Chapel.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "yukkiboi trashes 2 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 228,
+    "text": "yukkiboi plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 229,
+    "text": "yukkiboi gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 231,
+    "text": "yukkiboi plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 232,
+    "text": "yukkiboi gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Quarry",
+    "player": 0,
+    "seq": 234,
+    "text": "yukkiboi buys and gains 1 Quarry.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 235,
+    "text": "yukkiboi answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 236,
+    "text": "yukkiboi buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "yukkiboi shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "yukkiboi draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 240,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion draws 2 Copper. (Wharf)",
+    "type": "official-draw-from"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion gets +1 Buy. (Wharf)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Groundskeeper",
+    "player": 1,
+    "seq": 244,
+    "text": "SolDominion plays 1 Groundskeeper.",
+    "type": "official-play"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion draws 1 Hunting Party.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "SolDominion reveals their hand: 1 Wharf, 1 Quarry, 4 Copper, 1 Hunting Party.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion reveals 1 Chapel, 1 Quarry.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Chapel",
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion puts 1 Chapel into their hand.",
+    "type": "official-put-in-hand"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion discards 1 Quarry.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hunting Party",
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion plays 1 Hunting Party.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 257,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 258,
+    "text": "SolDominion draws 1 Quarry.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 259,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 260,
+    "text": "SolDominion reveals their hand: 1 Wharf, 2 Quarry, 4 Copper, 1 Chapel.",
+    "type": "official-reveal-hand"
+  },
+  {
+    "player": 1,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Wharf",
+    "player": 1,
+    "seq": 262,
+    "text": "SolDominion plays 1 Wharf.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 264,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Quarry",
+    "player": 1,
+    "seq": 265,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "card": "Ball",
+    "player": 1,
+    "seq": 266,
+    "text": "returns minus coin token",
+    "type": "official-returns-minus-coin-token"
+  },
+  {
+    "player": 1,
+    "seq": 267,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "SolDominion buys and gains 3 Groundskeeper.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "SolDominion draws 2 Copper, 1 Quarry, 2 Groundskeeper.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 279,
+    "text": "yukkiboi starts turn 9",
+    "type": "turn-start"
+  }
+]

@@ -1,0 +1,627 @@
+00000 game 186032758
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 7 Copper.
+00003 mdwicker starts with 3 Estate.
+00004 mdwicker starts with 7 Copper.
+00005 SolDominion answered
+00006 mdwicker answered
+00007 SolDominion shuffles their deck.
+00008 mdwicker shuffles their deck.
+00009 SolDominion draws 4 Copper, 1 Estate.
+00010 mdwicker draws 5 card.
+00011 SolDominion starts turn 1
+00012 SolDominion answered
+00013 SolDominion answered
+00014 SolDominion answered
+00015 SolDominion answered
+00016 play treasures for
+00017 SolDominion answered
+00018 SolDominion buys and gains 1 Hermit.
+00019 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00020 SolDominion draws 3 Copper, 2 Estate.
+00021 mdwicker starts turn 1
+00022 mdwicker answered
+00023 play treasures for
+00024 mdwicker answered
+00025 mdwicker buys and gains 1 Hermit.
+00026 mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.
+00027 mdwicker draws 5 card.
+00028 SolDominion starts turn 2
+00029 SolDominion answered
+00030 SolDominion answered
+00031 SolDominion answered
+00032 play treasures for
+00033 SolDominion answered
+00034 SolDominion buys and gains 1 Monastery.
+00035 SolDominion shuffles their deck.
+00036 SolDominion draws 4 Copper, 1 Estate.
+00037 mdwicker starts turn 2
+00038 mdwicker answered
+00039 play treasures for
+00040 mdwicker answered
+00041 mdwicker buys and gains 1 Silver.
+00042 mdwicker shuffles their deck.
+00043 mdwicker draws 5 card.
+00044 SolDominion starts turn 3
+00045 SolDominion answered
+00046 SolDominion answered
+00047 SolDominion answered
+00048 SolDominion answered
+00049 play treasures for
+00050 SolDominion answered
+00051 SolDominion buys and gains 1 Silver.
+00052 SolDominion draws 3 Copper, 2 Estate.
+00053 mdwicker starts turn 3
+00054 mdwicker answered
+00055 mdwicker plays 1 Hermit.
+00056 mdwicker answered
+00057 mdwicker trashes 1 Estate.
+00058 mdwicker answered
+00059 mdwicker gains 1 Herb Gatherer.
+00060 mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.
+00061 mdwicker answered
+00062 play treasures for
+00063 mdwicker answered
+00064 mdwicker buys and gains 1 Silver.
+00065 mdwicker draws 5 card.
+00066 SolDominion starts turn 4
+00067 SolDominion answered
+00068 SolDominion answered
+00069 SolDominion answered
+00070 play treasures for
+00071 SolDominion answered
+00072 SolDominion buys and gains 1 Silver.
+00073 SolDominion shuffles their deck.
+00074 SolDominion draws 3 Copper, 1 Hermit, 1 Monastery.
+00075 mdwicker starts turn 4
+00076 mdwicker answered
+00077 play treasures for
+00078 mdwicker answered
+00079 mdwicker buys and gains 1 Treasury.
+00080 mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.
+00081 mdwicker shuffles their deck.
+00082 mdwicker draws 5 card.
+00083 SolDominion starts turn 5
+00084 SolDominion answered
+00085 SolDominion plays 1 Hermit.
+00086 SolDominion answered
+00087 SolDominion answered
+00088 SolDominion gains 1 Hermit.
+00089 SolDominion answered
+00090 SolDominion answered
+00091 SolDominion answered
+00092 play treasures for
+00093 SolDominion answered
+00094 SolDominion buys and gains 1 Silver.
+00095 SolDominion answered
+00096 SolDominion plays 1 Monastery.
+00097 SolDominion answered
+00098 SolDominion answered
+00099 SolDominion trashes 2 Copper.
+00100 SolDominion draws 2 Copper, 1 Silver, 2 Estate.
+00101 mdwicker starts turn 5
+00102 mdwicker answered
+00103 mdwicker plays 1 Herb Gatherer.
+00104 mdwicker gets +1 Buy.
+00105 mdwicker moves their deck to the discard.
+00106 mdwicker looks at 8 card, 1 Copper.
+00107 mdwicker answered
+00108 play treasures for
+00109 mdwicker looks at 9 card.
+00110 mdwicker answered
+00111 mdwicker rotates 3 Herb Gatherer.
+00112 mdwicker answered
+00113 play treasures for
+00114 mdwicker answered
+00115 mdwicker buys and gains 1 Treasury.
+00116 mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.
+00117 mdwicker answered
+00118 mdwicker buys and gains 1 Curse.
+00119 mdwicker takes 5 VP from Player 0 landscape.
+00120 mdwicker shuffles their deck.
+00121 mdwicker draws 5 card.
+00122 SolDominion starts turn 6
+00123 SolDominion answered
+00124 SolDominion answered
+00125 SolDominion answered
+00126 play treasures for
+00127 SolDominion answered
+00128 SolDominion buys and gains 1 Acolyte.
+00129 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00130 SolDominion shuffles their deck.
+00131 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Acolyte.
+00132 mdwicker starts turn 6
+00133 mdwicker answered
+00134 mdwicker plays 1 Treasury.
+00135 mdwicker draws 1 card.
+00136 mdwicker gets +1 Action.
+00137 mdwicker gets +$1.
+00138 mdwicker answered
+00139 mdwicker plays 1 Hermit.
+00140 mdwicker answered
+00141 mdwicker trashes 1 Estate.
+00142 mdwicker answered
+00143 mdwicker gains 1 Silver.
+00144 mdwicker answered
+00145 play treasures for
+00146 mdwicker answered
+00147 mdwicker buys and gains 1 Silver.
+00148 mdwicker begins their Cleanup phase.
+00149 mdwicker answered
+00150 mdwicker topdecks 1 Treasury.
+00151 mdwicker draws 5 card.
+00152 SolDominion starts turn 7
+00153 SolDominion answered
+00154 SolDominion plays 1 Acolyte.
+00155 SolDominion answered
+00156 SolDominion trashes 1 Estate.
+00157 SolDominion gains 1 Gold.
+00158 SolDominion answered
+00159 SolDominion trashes 1 Acolyte.
+00160 SolDominion gains 1 Acolyte.
+00161 SolDominion answered
+00162 SolDominion answered
+00163 SolDominion answered
+00164 play treasures for
+00165 SolDominion answered
+00166 SolDominion buys and gains 1 Silver.
+00167 SolDominion draws 2 Copper, 1 Estate, 1 Hermit, 1 Monastery.
+00168 mdwicker starts turn 7
+00169 mdwicker answered
+00170 mdwicker plays 1 Treasury.
+00171 mdwicker draws 1 card.
+00172 mdwicker gets +1 Action.
+00173 mdwicker gets +$1.
+00174 mdwicker answered
+00175 play treasures for
+00176 mdwicker answered
+00177 mdwicker buys and gains 1 Gold.
+00178 mdwicker begins their Cleanup phase.
+00179 mdwicker answered
+00180 mdwicker topdecks 1 Treasury.
+00181 mdwicker draws 5 card.
+00182 SolDominion starts turn 8
+00183 SolDominion answered
+00184 SolDominion plays 1 Hermit.
+00185 SolDominion looks at 2 Copper, 2 Silver, 1 Gold, 1 Acolyte.
+00186 SolDominion answered
+00187 SolDominion trashes 1 Estate.
+00188 SolDominion answered
+00189 SolDominion gains 1 Silver.
+00190 SolDominion answered
+00191 SolDominion ends their buy phase.
+00192 SolDominion returns 1 Hermit.
+00193 SolDominion receives 1 Madman.
+00194 SolDominion answered
+00195 SolDominion plays 1 Monastery.
+00196 SolDominion answered
+00197 SolDominion trashes 1 Copper.
+00198 SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Hermit.
+00199 mdwicker starts turn 8
+00200 mdwicker answered
+00201 mdwicker plays 1 Treasury.
+00202 mdwicker draws 1 card.
+00203 mdwicker gets +1 Action.
+00204 mdwicker gets +$1.
+00205 mdwicker answered
+00206 mdwicker plays 1 Treasury.
+00207 mdwicker shuffles their deck.
+00208 mdwicker draws 1 card.
+00209 mdwicker gets +1 Action.
+00210 mdwicker gets +$1.
+00211 mdwicker answered
+00212 play treasures for
+00213 mdwicker answered
+00214 mdwicker buys and gains 1 Tormentor.
+00215 mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.
+00216 mdwicker begins their Cleanup phase.
+00217 mdwicker answered
+00218 mdwicker answered
+00219 mdwicker topdecks 1 card, 1 Treasury.
+00220 mdwicker draws 5 card.
+00221 SolDominion starts turn 9
+00222 SolDominion answered
+00223 SolDominion plays 1 Hermit.
+00224 SolDominion looks at 3 Copper, 3 Silver, 1 Gold, 1 Madman, 1 Monastery, 1 Acolyte.
+00225 SolDominion answered
+00226 SolDominion trashes 1 Estate.
+00227 SolDominion answered
+00228 SolDominion gains 1 Silver.
+00229 SolDominion answered
+00230 SolDominion answered
+00231 SolDominion answered
+00232 play treasures for
+00233 SolDominion answered
+00234 SolDominion buys and gains 1 Butcher.
+00235 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00236 SolDominion shuffles their deck.
+00237 SolDominion draws 1 Copper, 2 Silver, 1 Gold, 1 Hermit.
+00238 mdwicker starts turn 9
+00239 mdwicker answered
+00240 mdwicker plays 1 Treasury.
+00241 mdwicker draws 1 card.
+00242 mdwicker gets +1 Action.
+00243 mdwicker gets +$1.
+00244 mdwicker answered
+00245 mdwicker plays 1 Treasury.
+00246 mdwicker draws 1 card.
+00247 mdwicker gets +1 Action.
+00248 mdwicker gets +$1.
+00249 mdwicker answered
+00250 play treasures for
+00251 mdwicker answered
+00252 mdwicker buys and gains 1 Gold.
+00253 mdwicker begins their Cleanup phase.
+00254 mdwicker answered
+00255 mdwicker answered
+00256 mdwicker topdecks 1 card, 1 Treasury.
+00257 mdwicker draws 5 card.
+00258 SolDominion starts turn 10
+00259 SolDominion answered
+00260 SolDominion answered
+00261 SolDominion answered
+00262 SolDominion answered
+00263 SolDominion answered
+00264 play treasures for
+00265 SolDominion answered
+00266 SolDominion buys and gains 1 Province.
+00267 SolDominion draws 1 Copper, 2 Silver, 1 Monastery, 1 Acolyte.
+00268 mdwicker starts turn 10
+00269 mdwicker answered
+00270 mdwicker plays 1 Treasury.
+00271 mdwicker draws 1 card.
+00272 mdwicker gets +1 Action.
+00273 mdwicker gets +$1.
+00274 mdwicker answered
+00275 mdwicker plays 1 Treasury.
+00276 mdwicker draws 1 card.
+00277 mdwicker gets +1 Action.
+00278 mdwicker gets +$1.
+00279 mdwicker answered
+00280 mdwicker plays 1 Hermit.
+00281 mdwicker looks at 11 card, 1 Tormentor.
+00282 mdwicker answered
+00283 mdwicker looks at 12 card.
+00284 mdwicker trashes 1 Curse.
+00285 mdwicker answered
+00286 mdwicker gains 1 Silver.
+00287 mdwicker answered
+00288 play treasures for
+00289 mdwicker answered
+00290 mdwicker buys and gains 1 Province.
+00291 mdwicker shuffles their deck.
+00292 mdwicker draws 5 card.
+00293 SolDominion starts turn 11
+00294 SolDominion answered
+00295 SolDominion plays 1 Acolyte.
+00296 SolDominion answered
+00297 SolDominion trashes 1 Acolyte.
+00298 SolDominion gains 1 Acolyte.
+00299 SolDominion answered
+00300 SolDominion answered
+00301 SolDominion answered
+00302 play treasures for
+00303 SolDominion answered
+00304 SolDominion buys and gains 1 Imperial Envoy.
+00305 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00306 SolDominion answered
+00307 SolDominion plays 1 Monastery.
+00308 SolDominion answered
+00309 SolDominion trashes 1 Copper.
+00310 SolDominion draws 1 Copper, 2 Silver, 1 Madman, 1 Butcher.
+00311 mdwicker starts turn 11
+00312 mdwicker answered
+00313 play treasures for
+00314 mdwicker answered
+00315 mdwicker buys and gains 1 Treasury.
+00316 mdwicker draws 5 card.
+00317 SolDominion starts turn 12
+00318 SolDominion answered
+00319 SolDominion plays 1 Madman.
+00320 SolDominion gets +2 Actions.
+00321 SolDominion returns 1 Madman to Player 0 nonSupply.
+00322 SolDominion shuffles their deck.
+00323 SolDominion draws 2 Copper, 1 Silver, 1 Imperial Envoy.
+00324 SolDominion answered
+00325 SolDominion plays 1 Imperial Envoy.
+00326 SolDominion draws 1 Silver, 1 Province, 1 Hermit, 1 Monastery, 1 Acolyte.
+00327 SolDominion gets +1 Buy.
+00328 SolDominion takes 2 debt.
+00329 SolDominion answered
+00330 SolDominion plays 1 Butcher.
+00331 SolDominion gets +2 Coffers.
+00332 SolDominion answered
+00333 SolDominion trashes 1 Acolyte.
+00334 SolDominion answered
+00335 SolDominion uses 1 Coffers. (+$1)
+00336 SolDominion gains 1 Imperial Envoy.
+00337 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00338 SolDominion answered
+00339 SolDominion answered
+00340 SolDominion answered
+00341 SolDominion answered
+00342 SolDominion answered
+00343 SolDominion answered
+00344 SolDominion answered
+00345 play treasures for
+00346 SolDominion answered
+00347 SolDominion repays 2 debt.
+00348 SolDominion answered
+00349 SolDominion buys and gains 1 Province.
+00350 SolDominion answered
+00351 SolDominion buys and gains 1 Curse.
+00352 SolDominion takes 5 VP from Player 0 landscape.
+00353 SolDominion answered
+00354 SolDominion plays 1 Monastery.
+00355 SolDominion answered
+00356 SolDominion answered
+00357 SolDominion answered
+00358 SolDominion trashes 3 Copper.
+00359 SolDominion shuffles their deck.
+00360 SolDominion draws 1 Curse, 2 Silver, 1 Gold, 1 Hermit.
+00361 mdwicker starts turn 12
+00362 mdwicker answered
+00363 mdwicker plays 1 Treasury.
+00364 mdwicker draws 1 card.
+00365 mdwicker gets +1 Action.
+00366 mdwicker gets +$1.
+00367 mdwicker answered
+00368 play treasures for
+00369 mdwicker answered
+00370 mdwicker buys and gains 1 Province.
+00371 mdwicker draws 5 card.
+00372 SolDominion starts turn 13
+00373 SolDominion answered
+00374 SolDominion plays 1 Hermit.
+00375 SolDominion answered
+00376 SolDominion trashes 1 Curse.
+00377 SolDominion answered
+00378 SolDominion gains 1 Estate.
+00379 SolDominion answered
+00380 SolDominion answered
+00381 SolDominion answered
+00382 play treasures for
+00383 SolDominion answered
+00384 SolDominion uses 1 Coffers. (+$1)
+00385 SolDominion answered
+00386 SolDominion buys and gains 1 Province.
+00387 SolDominion draws 1 Silver, 1 Province, 1 Butcher, 2 Imperial Envoy.
+00388 mdwicker starts turn 13
+00389 mdwicker answered
+00390 mdwicker plays 1 Herb Gatherer.
+00391 mdwicker gets +1 Buy.
+00392 mdwicker moves their deck to the discard.
+00393 mdwicker looks at 17 card, 1 Treasury.
+00394 mdwicker answered
+00395 play treasures for
+00396 mdwicker looks at 18 card.
+00397 mdwicker answered
+00398 mdwicker rotates 1 Acolyte.
+00399 mdwicker answered
+00400 play treasures for
+00401 mdwicker answered
+00402 mdwicker buys and gains 1 Duchy.
+00403 mdwicker answered
+00404 mdwicker buys and gains 1 Monastery.
+00405 mdwicker shuffles their deck.
+00406 mdwicker draws 5 card.
+00407 SolDominion starts turn 14
+00408 SolDominion answered
+00409 SolDominion plays 1 Butcher.
+00410 SolDominion gets +2 Coffers.
+00411 SolDominion answered
+00412 SolDominion trashes 1 Imperial Envoy.
+00413 SolDominion answered
+00414 SolDominion gains 1 Duchy.
+00415 SolDominion answered
+00416 play treasures for
+00417 SolDominion answered
+00418 SolDominion buys and gains 1 Estate.
+00419 SolDominion draws 3 Silver, 1 Province, 1 Monastery.
+00420 mdwicker starts turn 14
+00421 mdwicker answered
+00422 mdwicker plays 1 Treasury.
+00423 mdwicker draws 1 card.
+00424 mdwicker gets +1 Action.
+00425 mdwicker gets +$1.
+00426 mdwicker answered
+00427 play treasures for
+00428 mdwicker answered
+00429 mdwicker buys and gains 1 Province.
+00430 mdwicker draws 5 card.
+00431 SolDominion starts turn 15
+00432 SolDominion answered
+00433 SolDominion answered
+00434 SolDominion answered
+00435 play treasures for
+00436 SolDominion answered
+00437 SolDominion uses 2 Coffers. (+$2)
+00438 SolDominion answered
+00439 SolDominion buys and gains 1 Province.
+00440 SolDominion answered
+00441 SolDominion shuffles their deck.
+00442 SolDominion draws 3 Silver, 1 Estate, 1 Province.
+00443 mdwicker starts turn 15
+00444 mdwicker answered
+00445 mdwicker plays 1 Treasury.
+00446 mdwicker draws 1 card.
+00447 mdwicker gets +1 Action.
+00448 mdwicker gets +$1.
+00449 mdwicker answered
+00450 mdwicker plays 1 Herb Gatherer.
+00451 mdwicker gets +1 Buy.
+00452 mdwicker moves their deck to the discard.
+00453 mdwicker looks at 19 card, 1 Province.
+00454 mdwicker answered
+00455 play treasures for
+00456 mdwicker looks at 20 card.
+00457 mdwicker answered
+00458 mdwicker rotates 4 Sorceress.
+00459 mdwicker answered
+00460 play treasures for
+00461 mdwicker answered
+00462 mdwicker buys and gains 1 Duchy.
+00463 mdwicker answered
+00464 mdwicker answered
+00465 mdwicker plays 1 Monastery.
+00466 mdwicker answered
+00467 mdwicker trashes 1 Copper.
+00468 mdwicker shuffles their deck.
+00469 mdwicker draws 5 card.
+00470 SolDominion starts turn 16
+00471 SolDominion answered
+00472 SolDominion answered
+00473 SolDominion answered
+00474 play treasures for
+00475 SolDominion answered
+00476 SolDominion buys and gains 1 Duchy.
+00477 SolDominion draws 1 Silver, 1 Estate, 1 Duchy, 1 Province, 1 Hermit.
+00478 mdwicker starts turn 16
+00479 mdwicker answered
+00480 play treasures for
+00481 mdwicker answered
+00482 mdwicker buys and gains 1 Duchy.
+00483 mdwicker draws 5 card.
+00484 SolDominion starts turn 17
+00485 SolDominion answered
+00486 SolDominion plays 1 Hermit.
+00487 SolDominion looks at 3 Silver, 1 Estate, 1 Duchy, 1 Province.
+00488 SolDominion answered
+00489 SolDominion answered
+00490 SolDominion gains 1 Estate.
+00491 SolDominion answered
+00492 play treasures for
+00493 SolDominion answered
+00494 SolDominion buys and gains 1 Estate.
+00495 SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Monastery, 1 Imperial Envoy.
+00496 mdwicker starts turn 17
+00497 mdwicker answered
+00498 mdwicker plays 1 Treasury.
+00499 mdwicker draws 1 card.
+00500 mdwicker gets +1 Action.
+00501 mdwicker gets +$1.
+00502 mdwicker answered
+00503 mdwicker plays 1 Tormentor.
+00504 mdwicker gets +$2.
+00505 mdwicker takes 1 War.
+00506 SolDominion receives 1 War.
+00507 SolDominion reveals 1 Silver.
+00508 SolDominion trashes 1 Silver.
+00509 mdwicker discards 1 War.
+00510 mdwicker answered
+00511 play treasures for
+00512 mdwicker answered
+00513 mdwicker buys and gains 1 Duchy.
+00514 mdwicker draws 5 card.
+00515 SolDominion starts turn 18
+00516 SolDominion answered
+00517 SolDominion plays 1 Imperial Envoy.
+00518 SolDominion shuffles their deck.
+00519 SolDominion draws 1 Silver, 1 Estate, 1 Duchy, 1 Province, 1 Butcher.
+00520 SolDominion gets +1 Buy.
+00521 SolDominion takes 2 debt.
+00522 SolDominion answered
+00523 SolDominion answered
+00524 SolDominion answered
+00525 play treasures for
+00526 SolDominion answered
+00527 SolDominion repays 2 debt.
+00528 SolDominion answered
+00529 SolDominion buys and gains 1 Duchy.
+00530 SolDominion answered
+00531 SolDominion answered
+00532 SolDominion draws 2 Silver, 1 Estate, 1 Province, 1 Hermit.
+00533 mdwicker starts turn 18
+00534 mdwicker answered
+00535 mdwicker plays 1 Treasury.
+00536 mdwicker draws 1 card.
+00537 mdwicker gets +1 Action.
+00538 mdwicker gets +$1.
+00539 mdwicker answered
+00540 mdwicker plays 1 Herb Gatherer.
+00541 mdwicker gets +1 Buy.
+00542 mdwicker moves their deck to the discard.
+00543 mdwicker looks at 21 card, 1 Duchy.
+00544 mdwicker answered
+00545 play treasures for
+00546 mdwicker looks at 22 card.
+00547 mdwicker answered
+00548 mdwicker answered
+00549 play treasures for
+00550 mdwicker answered
+00551 mdwicker buys and gains 1 Duchy.
+00552 mdwicker answered
+00553 mdwicker buys and gains 1 Silver.
+00554 mdwicker shuffles their deck.
+00555 mdwicker draws 5 card.
+00556 SolDominion starts turn 19
+00557 SolDominion answered
+00558 SolDominion plays 1 Hermit.
+00559 SolDominion looks at 2 Silver, 1 Gold, 1 Estate, 2 Duchy, 2 Province, 1 Butcher, 1 Monastery, 1 Imperial Envoy.
+00560 SolDominion answered
+00561 SolDominion looks at 1 Estate, 2 Silver, 2 Province, 2 Duchy, 1 Imperial Envoy, 1 Butcher, 1 Monastery, 1 Gold.
+00562 SolDominion trashes 1 Monastery.
+00563 SolDominion answered
+00564 SolDominion gains 1 Estate.
+00565 SolDominion answered
+00566 SolDominion answered
+00567 play treasures for
+00568 SolDominion answered
+00569 SolDominion buys and gains 1 Estate.
+00570 SolDominion draws 1 Silver, 2 Estate, 1 Duchy, 1 Province.
+00571 mdwicker starts turn 19
+00572 mdwicker answered
+00573 mdwicker plays 1 Treasury.
+00574 mdwicker draws 1 card.
+00575 mdwicker gets +1 Action.
+00576 mdwicker gets +$1.
+00577 mdwicker answered
+00578 mdwicker plays 1 Herb Gatherer.
+00579 mdwicker gets +1 Buy.
+00580 mdwicker moves their deck to the discard.
+00581 mdwicker looks at 23 card, 1 Copper.
+00582 mdwicker answered
+00583 play treasures for
+00584 mdwicker looks at 24 card.
+00585 mdwicker answered
+00586 mdwicker answered
+00587 play treasures for
+00588 mdwicker answered
+00589 mdwicker buys and gains 1 Sibyl.
+00590 mdwicker answered
+00591 mdwicker begins their Cleanup phase.
+00592 mdwicker answered
+00593 mdwicker topdecks 1 Treasury.
+00594 mdwicker shuffles their deck.
+00595 mdwicker draws 5 card.
+00596 SolDominion starts turn 20
+00597 SolDominion answered
+00598 play treasures for
+00599 SolDominion answered
+00600 SolDominion buys and gains 1 Estate.
+00601 SolDominion shuffles their deck.
+00602 SolDominion draws 1 Silver, 3 Estate, 1 Province.
+00603 mdwicker starts turn 20
+00604 mdwicker answered
+00605 mdwicker plays 1 Treasury.
+00606 mdwicker draws 1 card.
+00607 mdwicker gets +1 Action.
+00608 mdwicker gets +$1.
+00609 mdwicker answered
+00610 play treasures for
+00611 mdwicker answered
+00612 mdwicker buys and gains 1 Estate.
+00613 mdwicker answered
+00614 mdwicker plays 1 Monastery.
+00615 mdwicker answered
+00616 mdwicker trashes 1 Copper.
+00617 mdwicker draws 5 card.
+00618 SolDominion starts turn 21
+00619 SolDominion answered
+00620 SolDominion draws 1 Silver, 1 Gold, 1 Estate, 2 Province.
+00621 mdwicker starts turn 21
+00622 mdwicker answered
+00623 play treasures for
+00624 mdwicker answered
+00625 mdwicker buys and gains 1 Province.
+00626 mdwicker draws 5 card.

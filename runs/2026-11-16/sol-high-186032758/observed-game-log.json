@@ -1,0 +1,3926 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186032758",
+    "type": "official-game-meta-info"
+  },
+  {
+    "player": 0,
+    "seq": 1,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 2,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 3,
+    "text": "mdwicker starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 4,
+    "text": "mdwicker starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 7,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 8,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion buys and gains 1 Hermit.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 19,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "mdwicker starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 1,
+    "seq": 25,
+    "text": "mdwicker buys and gains 1 Hermit.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 26,
+    "text": "mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 27,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 34,
+    "text": "SolDominion buys and gains 1 Monastery.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 36,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "mdwicker starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 41,
+    "text": "mdwicker buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 43,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 51,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "mdwicker starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 1,
+    "seq": 55,
+    "text": "mdwicker plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 57,
+    "text": "mdwicker trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 59,
+    "text": "mdwicker gains 1 Herb Gatherer.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 60,
+    "text": "mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 61,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 62,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 63,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 64,
+    "text": "mdwicker buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 70,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 74,
+    "text": "SolDominion draws 3 Copper, 1 Hermit, 1 Monastery.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "mdwicker starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 76,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 78,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 79,
+    "text": "mdwicker buys and gains 1 Treasury.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 80,
+    "text": "mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 81,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 82,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 83,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 84,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 85,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 88,
+    "text": "SolDominion gains 1 Hermit.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 90,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 92,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 94,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 96,
+    "text": "SolDominion plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion trashes 2 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 101,
+    "text": "mdwicker starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 103,
+    "text": "mdwicker plays 1 Herb Gatherer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 104,
+    "text": "mdwicker gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "mdwicker moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "mdwicker looks at 8 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 107,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 108,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "mdwicker looks at 9 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 111,
+    "text": "mdwicker rotates 3 Herb Gatherer.",
+    "type": "official-rotates"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 115,
+    "text": "mdwicker buys and gains 1 Treasury.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 116,
+    "text": "mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 118,
+    "text": "mdwicker buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 119,
+    "text": "mdwicker takes 5 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 121,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 125,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 127,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion buys and gains 1 Acolyte.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 130,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 131,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Acolyte.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 132,
+    "text": "mdwicker starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 133,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 134,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 135,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 136,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 1,
+    "seq": 139,
+    "text": "mdwicker plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 141,
+    "text": "mdwicker trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 142,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 143,
+    "text": "mdwicker gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 146,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 147,
+    "text": "mdwicker buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "mdwicker begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 150,
+    "text": "mdwicker topdecks 1 Treasury.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 152,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 153,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 154,
+    "text": "SolDominion plays 1 Acolyte.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 156,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Gold",
+    "player": 0,
+    "seq": 157,
+    "text": "SolDominion gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 159,
+    "text": "SolDominion trashes 1 Acolyte.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 160,
+    "text": "SolDominion gains 1 Acolyte.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 164,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 166,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "SolDominion draws 2 Copper, 1 Estate, 1 Hermit, 1 Monastery.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 168,
+    "text": "mdwicker starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 169,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 170,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 171,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 174,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 176,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 177,
+    "text": "mdwicker buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 178,
+    "text": "mdwicker begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 180,
+    "text": "mdwicker topdecks 1 Treasury.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 181,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 184,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 185,
+    "text": "SolDominion looks at 2 Copper, 2 Silver, 1 Gold, 1 Acolyte.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 186,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 187,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 189,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 191,
+    "text": "SolDominion ends their buy phase.",
+    "type": "official-ends-buyphase"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 192,
+    "text": "SolDominion returns 1 Hermit.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Madman",
+    "player": 0,
+    "seq": 193,
+    "text": "SolDominion receives 1 Madman.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 194,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 195,
+    "text": "SolDominion plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 197,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Hermit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "mdwicker starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 200,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 201,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 202,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 205,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 206,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 207,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 208,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 209,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 212,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tormentor",
+    "player": 1,
+    "seq": 214,
+    "text": "mdwicker buys and gains 1 Tormentor.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 215,
+    "text": "mdwicker moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 216,
+    "text": "mdwicker begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 217,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 218,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 219,
+    "text": "mdwicker topdecks 1 card, 1 Treasury.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 220,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 223,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "SolDominion looks at 3 Copper, 3 Silver, 1 Gold, 1 Madman, 1 Monastery, 1 Acolyte.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 225,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 226,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 227,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 228,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 229,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 233,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Butcher",
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion buys and gains 1 Butcher.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Gold, 1 Hermit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 238,
+    "text": "mdwicker starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 239,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 240,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 241,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 242,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 244,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 245,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 246,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 252,
+    "text": "mdwicker buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 253,
+    "text": "mdwicker begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 255,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 256,
+    "text": "mdwicker topdecks 1 card, 1 Treasury.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 257,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 263,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 265,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 266,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 267,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Monastery, 1 Acolyte.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "mdwicker starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 270,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 271,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 273,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 275,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 276,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 1,
+    "seq": 280,
+    "text": "mdwicker plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 281,
+    "text": "mdwicker looks at 11 card, 1 Tormentor.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 282,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 283,
+    "text": "mdwicker looks at 12 card.",
+    "type": "official-look-at"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 284,
+    "text": "mdwicker trashes 1 Curse.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 285,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 286,
+    "text": "mdwicker gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 290,
+    "text": "mdwicker buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 292,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 293,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 294,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 295,
+    "text": "SolDominion plays 1 Acolyte.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion trashes 1 Acolyte.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion gains 1 Acolyte.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 302,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imperial Envoy",
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion buys and gains 1 Imperial Envoy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 309,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 310,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Madman, 1 Butcher.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 311,
+    "text": "mdwicker starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 312,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 313,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 314,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 315,
+    "text": "mdwicker buys and gains 1 Treasury.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 316,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 318,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Madman",
+    "player": 0,
+    "seq": 319,
+    "text": "SolDominion plays 1 Madman.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 320,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "card": "Madman",
+    "player": 0,
+    "seq": 321,
+    "text": "SolDominion returns 1 Madman to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 322,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 323,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Imperial Envoy.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imperial Envoy",
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion plays 1 Imperial Envoy.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion draws 1 Silver, 1 Province, 1 Hermit, 1 Monastery, 1 Acolyte.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion takes 2 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 329,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Butcher",
+    "player": 0,
+    "seq": 330,
+    "text": "SolDominion plays 1 Butcher.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion gets +2 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 332,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 0,
+    "seq": 333,
+    "text": "SolDominion trashes 1 Acolyte.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 334,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 335,
+    "text": "SolDominion uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "card": "Imperial Envoy",
+    "player": 0,
+    "seq": 336,
+    "text": "SolDominion gains 1 Imperial Envoy.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 337,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 338,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 339,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 340,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 342,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 343,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 344,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 345,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 347,
+    "text": "SolDominion repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 348,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 349,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 351,
+    "text": "SolDominion buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 352,
+    "text": "SolDominion takes 5 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 0,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 354,
+    "text": "SolDominion plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 355,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 356,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 357,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 358,
+    "text": "SolDominion trashes 3 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 359,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 360,
+    "text": "SolDominion draws 1 Curse, 2 Silver, 1 Gold, 1 Hermit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 361,
+    "text": "mdwicker starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 362,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 363,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 364,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 365,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 366,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 367,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 370,
+    "text": "mdwicker buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 372,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 374,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 376,
+    "text": "SolDominion trashes 1 Curse.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 377,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 378,
+    "text": "SolDominion gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 379,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 382,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 383,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion uses 1 Coffers. (+$1)",
+    "type": "official-uses-coffer"
+  },
+  {
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion draws 1 Silver, 1 Province, 1 Butcher, 2 Imperial Envoy.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 388,
+    "text": "mdwicker starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 389,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 390,
+    "text": "mdwicker plays 1 Herb Gatherer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 391,
+    "text": "mdwicker gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 392,
+    "text": "mdwicker moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 1,
+    "seq": 393,
+    "text": "mdwicker looks at 17 card, 1 Treasury.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 394,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 395,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 396,
+    "text": "mdwicker looks at 18 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 397,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Acolyte",
+    "player": 1,
+    "seq": 398,
+    "text": "mdwicker rotates 1 Acolyte.",
+    "type": "official-rotates"
+  },
+  {
+    "player": 1,
+    "seq": 399,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 400,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 401,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 402,
+    "text": "mdwicker buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 403,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 1,
+    "seq": 404,
+    "text": "mdwicker buys and gains 1 Monastery.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 406,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 407,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 408,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Butcher",
+    "player": 0,
+    "seq": 409,
+    "text": "SolDominion plays 1 Butcher.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 410,
+    "text": "SolDominion gets +2 Coffers.",
+    "type": "official-gets-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 411,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imperial Envoy",
+    "player": 0,
+    "seq": 412,
+    "text": "SolDominion trashes 1 Imperial Envoy.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 414,
+    "text": "SolDominion gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 416,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 419,
+    "text": "SolDominion draws 3 Silver, 1 Province, 1 Monastery.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "mdwicker starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 421,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 422,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 423,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 425,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 429,
+    "text": "mdwicker buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 430,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 434,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 435,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 436,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "SolDominion uses 2 Coffers. (+$2)",
+    "type": "official-uses-coffers"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 439,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 440,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 442,
+    "text": "SolDominion draws 3 Silver, 1 Estate, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "mdwicker starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 444,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 445,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 446,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 448,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 449,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 450,
+    "text": "mdwicker plays 1 Herb Gatherer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 451,
+    "text": "mdwicker gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "mdwicker moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 1,
+    "seq": 453,
+    "text": "mdwicker looks at 19 card, 1 Province.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 454,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 455,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "mdwicker looks at 20 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 457,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "mdwicker rotates 4 Sorceress.",
+    "type": "official-rotates"
+  },
+  {
+    "player": 1,
+    "seq": 459,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 460,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 461,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 462,
+    "text": "mdwicker buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 463,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 464,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 1,
+    "seq": 465,
+    "text": "mdwicker plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 467,
+    "text": "mdwicker trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 468,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 469,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 472,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 474,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 476,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion draws 1 Silver, 1 Estate, 1 Duchy, 1 Province, 1 Hermit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 478,
+    "text": "mdwicker starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 481,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 482,
+    "text": "mdwicker buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 484,
+    "text": "SolDominion starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 485,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 486,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "SolDominion looks at 3 Silver, 1 Estate, 1 Duchy, 1 Province.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 488,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 489,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 490,
+    "text": "SolDominion gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 492,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 493,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 494,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 495,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Monastery, 1 Imperial Envoy.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "mdwicker starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 498,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 499,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 501,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 502,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tormentor",
+    "player": 1,
+    "seq": 503,
+    "text": "mdwicker plays 1 Tormentor.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "mdwicker gets +$2.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "War",
+    "player": 1,
+    "seq": 505,
+    "text": "mdwicker takes 1 War.",
+    "type": "official-take"
+  },
+  {
+    "card": "War",
+    "player": 0,
+    "seq": 506,
+    "text": "SolDominion receives 1 War.",
+    "type": "official-receives"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 507,
+    "text": "SolDominion reveals 1 Silver.",
+    "type": "official-reveal-finding"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 508,
+    "text": "SolDominion trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "card": "War",
+    "player": 1,
+    "seq": 509,
+    "text": "mdwicker discards 1 War.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 510,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 511,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 512,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 513,
+    "text": "mdwicker buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 514,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 515,
+    "text": "SolDominion starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 516,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Imperial Envoy",
+    "player": 0,
+    "seq": 517,
+    "text": "SolDominion plays 1 Imperial Envoy.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 518,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "SolDominion draws 1 Silver, 1 Estate, 1 Duchy, 1 Province, 1 Butcher.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 520,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 521,
+    "text": "SolDominion takes 2 debt.",
+    "type": "official-takes-debt"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 523,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 525,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 526,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 527,
+    "text": "SolDominion repays 2 debt.",
+    "type": "official-repays-debt"
+  },
+  {
+    "player": 0,
+    "seq": 528,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 529,
+    "text": "SolDominion buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 530,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 531,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 532,
+    "text": "SolDominion draws 2 Silver, 1 Estate, 1 Province, 1 Hermit.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 533,
+    "text": "mdwicker starts turn 18",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 534,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 535,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 536,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 540,
+    "text": "mdwicker plays 1 Herb Gatherer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 541,
+    "text": "mdwicker gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 542,
+    "text": "mdwicker moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 1,
+    "seq": 543,
+    "text": "mdwicker looks at 21 card, 1 Duchy.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 544,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 545,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 546,
+    "text": "mdwicker looks at 22 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 547,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 548,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 549,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 1,
+    "seq": 551,
+    "text": "mdwicker buys and gains 1 Duchy.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 552,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 553,
+    "text": "mdwicker buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 554,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 555,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 556,
+    "text": "SolDominion starts turn 19",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Hermit",
+    "player": 0,
+    "seq": 558,
+    "text": "SolDominion plays 1 Hermit.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 559,
+    "text": "SolDominion looks at 2 Silver, 1 Gold, 1 Estate, 2 Duchy, 2 Province, 1 Butcher, 1 Monastery, 1 Imperial Envoy.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "SolDominion looks at 1 Estate, 2 Silver, 2 Province, 2 Duchy, 1 Imperial Envoy, 1 Butcher, 1 Monastery, 1 Gold.",
+    "type": "official-look-at"
+  },
+  {
+    "card": "Monastery",
+    "player": 0,
+    "seq": 562,
+    "text": "SolDominion trashes 1 Monastery.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 564,
+    "text": "SolDominion gains 1 Estate.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 565,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 566,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 567,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 568,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 569,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "SolDominion draws 1 Silver, 2 Estate, 1 Duchy, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 571,
+    "text": "mdwicker starts turn 19",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 572,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 573,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 574,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 575,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 576,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 577,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Herb Gatherer",
+    "player": 1,
+    "seq": 578,
+    "text": "mdwicker plays 1 Herb Gatherer.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 579,
+    "text": "mdwicker gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 580,
+    "text": "mdwicker moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "mdwicker looks at 23 card, 1 Copper.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 583,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "mdwicker looks at 24 card.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 586,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 587,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 588,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sibyl",
+    "player": 1,
+    "seq": 589,
+    "text": "mdwicker buys and gains 1 Sibyl.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 591,
+    "text": "mdwicker begins their Cleanup phase.",
+    "type": "official-begins-cleanup-phase"
+  },
+  {
+    "player": 1,
+    "seq": 592,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 593,
+    "text": "mdwicker topdecks 1 Treasury.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 594,
+    "text": "mdwicker shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 595,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "SolDominion starts turn 20",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 598,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 599,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 600,
+    "text": "SolDominion buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 601,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "SolDominion draws 1 Silver, 3 Estate, 1 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 603,
+    "text": "mdwicker starts turn 20",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 604,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Treasury",
+    "player": 1,
+    "seq": 605,
+    "text": "mdwicker plays 1 Treasury.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 606,
+    "text": "mdwicker draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 607,
+    "text": "mdwicker gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "player": 1,
+    "seq": 608,
+    "text": "mdwicker gets +$1.",
+    "type": "official-gets-coin"
+  },
+  {
+    "player": 1,
+    "seq": 609,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 611,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 612,
+    "text": "mdwicker buys and gains 1 Estate.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 613,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Monastery",
+    "player": 1,
+    "seq": 614,
+    "text": "mdwicker plays 1 Monastery.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 615,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 616,
+    "text": "mdwicker trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 617,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 618,
+    "text": "SolDominion starts turn 21",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 619,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 620,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Estate, 2 Province.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 621,
+    "text": "mdwicker starts turn 21",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 622,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 623,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 624,
+    "text": "mdwicker answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 625,
+    "text": "mdwicker buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 626,
+    "text": "mdwicker draws 5 card.",
+    "type": "official-draw"
+  }
+]

@@ -1,0 +1,280 @@
+00000 game 186034949
+00001 yukkiboi starts with 3 Estate.
+00002 yukkiboi starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 yukkiboi answered
+00007 yukkiboi shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 yukkiboi draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 yukkiboi starts turn 1
+00012 yukkiboi answered
+00013 play treasures for
+00014 yukkiboi answered
+00015 yukkiboi buys and gains 1 Wharf.
+00016 yukkiboi draws 5 card.
+00017 SolDominion starts turn 1
+00018 SolDominion answered
+00019 SolDominion answered
+00020 SolDominion answered
+00021 play treasures for
+00022 SolDominion answered
+00023 SolDominion buys and gains 1 Chapel.
+00024 SolDominion draws 4 Copper, 1 Estate.
+00025 yukkiboi starts turn 2
+00026 yukkiboi answered
+00027 play treasures for
+00028 yukkiboi answered
+00029 yukkiboi buys and gains 1 Chapel.
+00030 yukkiboi shuffles their deck.
+00031 yukkiboi draws 5 card.
+00032 SolDominion starts turn 2
+00033 SolDominion answered
+00034 SolDominion answered
+00035 SolDominion answered
+00036 SolDominion answered
+00037 play treasures for
+00038 SolDominion answered
+00039 SolDominion buys and gains 1 Quarry.
+00040 SolDominion shuffles their deck.
+00041 SolDominion draws 1 Copper, 2 Estate, 1 Chapel, 1 Quarry.
+00042 yukkiboi starts turn 3
+00043 yukkiboi answered
+00044 play treasures for
+00045 yukkiboi answered
+00046 yukkiboi buys and gains 1 Supplies.
+00047 yukkiboi draws 5 card.
+00048 SolDominion starts turn 3
+00049 SolDominion answered
+00050 SolDominion plays 1 Chapel.
+00051 SolDominion answered
+00052 SolDominion trashes 1 Copper, 2 Estate.
+00053 SolDominion answered
+00054 play treasures for
+00055 SolDominion answered
+00056 SolDominion draws 5 Copper.
+00057 yukkiboi starts turn 4
+00058 yukkiboi answered
+00059 yukkiboi plays 1 Chapel.
+00060 yukkiboi answered
+00061 yukkiboi trashes 4 Copper.
+00062 yukkiboi answered
+00063 yukkiboi shuffles their deck.
+00064 yukkiboi draws 5 card.
+00065 SolDominion starts turn 4
+00066 SolDominion answered
+00067 SolDominion answered
+00068 SolDominion answered
+00069 SolDominion answered
+00070 SolDominion answered
+00071 play treasures for
+00072 SolDominion answered
+00073 SolDominion buys and gains 1 Wharf.
+00074 SolDominion shuffles their deck.
+00075 SolDominion draws 3 Copper, 1 Estate, 1 Wharf.
+00076 yukkiboi starts turn 5
+00077 yukkiboi answered
+00078 yukkiboi plays 1 Wharf.
+00079 yukkiboi draws 2 card.
+00080 yukkiboi gets +1 Buy.
+00081 yukkiboi answered
+00082 play treasures for
+00083 yukkiboi answered
+00084 yukkiboi buys and gains 1 Silver.
+00085 yukkiboi answered
+00086 yukkiboi shuffles their deck.
+00087 yukkiboi draws 5 card.
+00088 SolDominion starts turn 5
+00089 SolDominion answered
+00090 SolDominion plays 1 Wharf.
+00091 SolDominion draws 1 Copper, 1 Quarry.
+00092 SolDominion gets +1 Buy.
+00093 SolDominion answered
+00094 SolDominion answered
+00095 SolDominion answered
+00096 SolDominion answered
+00097 SolDominion answered
+00098 play treasures for
+00099 SolDominion answered
+00100 SolDominion buys 1 Ball.
+00101 SolDominion answered
+00102 SolDominion answered
+00103 SolDominion gains 2 Hunting Party.
+00104 SolDominion answered
+00105 SolDominion shuffles their deck.
+00106 SolDominion draws 3 Copper, 1 Chapel, 1 Hunting Party.
+00107 yukkiboi starts turn 6
+00108 yukkiboi starts their turn.
+00109 yukkiboi draws 2 card. (Wharf)
+00110 yukkiboi gets +1 Buy. (Wharf)
+00111 yukkiboi answered
+00112 yukkiboi plays 1 Chapel.
+00113 yukkiboi answered
+00114 yukkiboi trashes 1 Copper, 3 Estate.
+00115 yukkiboi answered
+00116 play treasures for
+00117 yukkiboi answered
+00118 yukkiboi plays 1 Supplies.
+00119 yukkiboi gains 1 Horse.
+00120 yukkiboi answered
+00121 yukkiboi buys and gains 1 Silver.
+00122 yukkiboi answered
+00123 yukkiboi shuffles their deck.
+00124 yukkiboi draws 5 card.
+00125 SolDominion starts turn 6
+00126 SolDominion starts their turn.
+00127 SolDominion draws 1 Copper, 1 Estate. (Wharf)
+00128 SolDominion gets +1 Buy. (Wharf)
+00129 SolDominion answered
+00130 SolDominion plays 1 Hunting Party.
+00131 SolDominion draws 1 Copper.
+00132 SolDominion gets +1 Action.
+00133 SolDominion reveals their hand: 1 Estate, 5 Copper, 1 Chapel.
+00134 SolDominion reveals 1 Copper, 1 Quarry.
+00135 SolDominion puts 1 Quarry into their hand.
+00136 SolDominion discards 1 Copper.
+00137 SolDominion answered
+00138 SolDominion plays 1 Chapel.
+00139 SolDominion answered
+00140 SolDominion trashes 2 Copper, 1 Estate.
+00141 SolDominion answered
+00142 play treasures for
+00143 returns minus coin token
+00144 SolDominion answered
+00145 SolDominion answered
+00146 SolDominion answered
+00147 play treasures for
+00148 SolDominion answered
+00149 SolDominion buys and gains 1 Wharf.
+00150 SolDominion answered
+00151 SolDominion shuffles their deck.
+00152 SolDominion draws 2 Copper, 2 Wharf, 1 Hunting Party.
+00153 yukkiboi starts turn 7
+00154 yukkiboi answered
+00155 yukkiboi plays 1 Horse.
+00156 yukkiboi draws 2 card.
+00157 yukkiboi gets +1 Action.
+00158 yukkiboi returns 1 Horse to Player 0 nonSupply.
+00159 yukkiboi answered
+00160 yukkiboi plays 1 Wharf.
+00161 yukkiboi draws 1 card.
+00162 yukkiboi gets +1 Buy.
+00163 yukkiboi answered
+00164 play treasures for
+00165 yukkiboi answered
+00166 yukkiboi plays 1 Supplies.
+00167 yukkiboi gains 1 Horse.
+00168 yukkiboi answered
+00169 yukkiboi buys and gains 1 Supplies.
+00170 yukkiboi answered
+00171 yukkiboi buys and gains 1 Groundskeeper.
+00172 yukkiboi shuffles their deck.
+00173 yukkiboi draws 5 card.
+00174 SolDominion starts turn 7
+00175 SolDominion answered
+00176 SolDominion plays 1 Hunting Party.
+00177 SolDominion draws 1 Chapel.
+00178 SolDominion gets +1 Action.
+00179 SolDominion reveals their hand: 2 Wharf, 2 Copper, 1 Chapel.
+00180 SolDominion reveals 1 Hunting Party.
+00181 SolDominion puts 1 Hunting Party into their hand.
+00182 SolDominion answered
+00183 SolDominion plays 1 Hunting Party.
+00184 SolDominion draws 1 Copper.
+00185 SolDominion gets +1 Action.
+00186 SolDominion reveals their hand: 2 Wharf, 3 Copper, 1 Chapel.
+00187 SolDominion reveals 1 Quarry.
+00188 SolDominion puts 1 Quarry into their hand.
+00189 SolDominion answered
+00190 SolDominion plays 1 Wharf.
+00191 SolDominion draws 1 Copper.
+00192 SolDominion gets +1 Buy.
+00193 SolDominion answered
+00194 SolDominion answered
+00195 SolDominion answered
+00196 SolDominion answered
+00197 SolDominion answered
+00198 play treasures for
+00199 SolDominion answered
+00200 SolDominion buys 1 Ball.
+00201 SolDominion answered
+00202 SolDominion gains 1 Quarry.
+00203 SolDominion answered
+00204 SolDominion gains 1 Groundskeeper.
+00205 SolDominion answered
+00206 SolDominion shuffles their deck.
+00207 SolDominion draws 1 Copper, 1 Wharf, 1 Quarry, 1 Hunting Party, 1 Groundskeeper.
+00208 yukkiboi starts turn 8
+00209 yukkiboi starts their turn.
+00210 yukkiboi draws 2 card. (Wharf)
+00211 yukkiboi gets +1 Buy. (Wharf)
+00212 yukkiboi answered
+00213 yukkiboi plays 1 Groundskeeper.
+00214 yukkiboi draws 1 card.
+00215 yukkiboi gets +1 Action.
+00216 yukkiboi answered
+00217 yukkiboi plays 1 Horse.
+00218 yukkiboi draws 1 card.
+00219 yukkiboi gets +1 Action.
+00220 yukkiboi returns 1 Horse to Player 0 nonSupply.
+00221 yukkiboi answered
+00222 yukkiboi plays 1 Chapel.
+00223 yukkiboi answered
+00224 yukkiboi trashes 2 Copper.
+00225 yukkiboi answered
+00226 play treasures for
+00227 yukkiboi answered
+00228 yukkiboi plays 1 Supplies.
+00229 yukkiboi gains 1 Horse.
+00230 yukkiboi answered
+00231 yukkiboi plays 1 Supplies.
+00232 yukkiboi gains 1 Horse.
+00233 yukkiboi answered
+00234 yukkiboi buys and gains 1 Quarry.
+00235 yukkiboi answered
+00236 yukkiboi buys and gains 1 Supplies.
+00237 yukkiboi shuffles their deck.
+00238 yukkiboi draws 5 card.
+00239 SolDominion starts turn 8
+00240 SolDominion starts their turn.
+00241 SolDominion draws 2 Copper. (Wharf)
+00242 SolDominion gets +1 Buy. (Wharf)
+00243 SolDominion answered
+00244 SolDominion plays 1 Groundskeeper.
+00245 SolDominion draws 1 Copper.
+00246 SolDominion gets +1 Action.
+00247 SolDominion answered
+00248 SolDominion plays 1 Hunting Party.
+00249 SolDominion draws 1 Hunting Party.
+00250 SolDominion gets +1 Action.
+00251 SolDominion reveals their hand: 1 Wharf, 1 Quarry, 4 Copper, 1 Hunting Party.
+00252 SolDominion reveals 1 Chapel, 1 Quarry.
+00253 SolDominion puts 1 Chapel into their hand.
+00254 SolDominion discards 1 Quarry.
+00255 SolDominion answered
+00256 SolDominion plays 1 Hunting Party.
+00257 SolDominion shuffles their deck.
+00258 SolDominion draws 1 Quarry.
+00259 SolDominion gets +1 Action.
+00260 SolDominion reveals their hand: 1 Wharf, 2 Quarry, 4 Copper, 1 Chapel.
+00261 SolDominion answered
+00262 SolDominion plays 1 Wharf.
+00263 SolDominion gets +1 Buy.
+00264 SolDominion answered
+00265 play treasures for
+00266 returns minus coin token
+00267 SolDominion answered
+00268 SolDominion answered
+00269 SolDominion answered
+00270 SolDominion answered
+00271 SolDominion answered
+00272 play treasures for
+00273 SolDominion answered
+00274 SolDominion answered
+00275 SolDominion answered
+00276 SolDominion buys and gains 3 Groundskeeper.
+00277 SolDominion shuffles their deck.
+00278 SolDominion draws 2 Copper, 1 Quarry, 2 Groundskeeper.
+00279 yukkiboi starts turn 9

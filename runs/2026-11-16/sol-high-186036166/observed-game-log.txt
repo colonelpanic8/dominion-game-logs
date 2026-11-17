@@ -1,0 +1,1093 @@
+00000 game 186036166
+00001 Relicdog gets +1 Favor. (Family of Inventors)
+00002 SolDominion gets +1 Favor. (Family of Inventors)
+00003 Relicdog starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.
+00004 Relicdog starts with 7 Copper.
+00005 SolDominion starts with 1 Hovel, 1 Necropolis, 1 Overgrown Estate.
+00006 SolDominion starts with 7 Copper.
+00007 SolDominion answered
+00008 Relicdog answered
+00009 Relicdog shuffles their deck.
+00010 SolDominion shuffles their deck.
+00011 Relicdog draws 5 card.
+00012 SolDominion draws 4 Copper, 1 Overgrown Estate.
+00013 Relicdog starts turn 1
+00014 Relicdog begins their buy phase.
+00015 Relicdog answered
+00016 play treasures for
+00017 Relicdog answered
+00018 Relicdog buys and gains 1 Flag Bearer.
+00019 Relicdog takes 1 Flag.
+00020 Relicdog shuffles their deck.
+00021 Relicdog draws 6 card.
+00022 SolDominion starts turn 1
+00023 SolDominion begins their buy phase.
+00024 SolDominion answered
+00025 SolDominion answered
+00026 SolDominion answered
+00027 SolDominion answered
+00028 play treasures for
+00029 SolDominion answered
+00030 SolDominion buys and gains 1 Research.
+00031 SolDominion draws 3 Copper, 1 Hovel, 1 Necropolis.
+00032 Relicdog starts turn 2
+00033 Relicdog answered
+00034 Relicdog plays 1 Necropolis.
+00035 Relicdog gets +2 Actions.
+00036 Relicdog begins their buy phase.
+00037 Relicdog answered
+00038 play treasures for
+00039 Relicdog answered
+00040 Relicdog buys and gains 1 Research.
+00041 Relicdog shuffles their deck.
+00042 Relicdog draws 6 card.
+00043 SolDominion starts turn 2
+00044 SolDominion answered
+00045 SolDominion begins their buy phase.
+00046 SolDominion answered
+00047 SolDominion answered
+00048 SolDominion answered
+00049 play treasures for
+00050 SolDominion answered
+00051 SolDominion buys and gains 1 Stockpile.
+00052 SolDominion shuffles their deck.
+00053 SolDominion draws 3 Copper, 1 Hovel, 1 Stockpile.
+00054 Relicdog starts turn 3
+00055 Relicdog answered
+00056 Relicdog plays 1 Flag Bearer.
+00057 Relicdog gets +$2.
+00058 Relicdog begins their buy phase.
+00059 Relicdog answered
+00060 play treasures for
+00061 Relicdog answered
+00062 Relicdog buys and gains 1 Minion.
+00063 Relicdog draws 6 card.
+00064 SolDominion starts turn 3
+00065 SolDominion begins their buy phase.
+00066 SolDominion answered
+00067 SolDominion answered
+00068 SolDominion places a Favor token on Player 0 supply. ([Family of Inventors])
+00069 SolDominion spends 1 Favor.
+00070 SolDominion answered
+00071 play treasures for
+00072 SolDominion answered
+00073 SolDominion plays 1 Stockpile.
+00074 SolDominion gets +1 Buy.
+00075 SolDominion exiles 1 Stockpile.
+00076 SolDominion answered
+00077 SolDominion answered
+00078 play treasures for
+00079 SolDominion answered
+00080 SolDominion buys and gains 1 Flag Bearer.
+00081 SolDominion takes 1 Flag.
+00082 SolDominion answered
+00083 SolDominion buys and gains 1 Bauble.
+00084 SolDominion draws 4 Copper, 1 Overgrown Estate, 1 Research.
+00085 Relicdog starts turn 4
+00086 Relicdog answered
+00087 Relicdog plays 1 Research.
+00088 Relicdog gets +1 Action.
+00089 Relicdog answered
+00090 Relicdog trashes 1 Overgrown Estate.
+00091 Relicdog shuffles their deck.
+00092 Relicdog draws 1 card.
+00093 Relicdog sets 1 card aside.
+00094 Relicdog answered
+00095 Relicdog plays 1 Necropolis.
+00096 Relicdog gets +2 Actions.
+00097 Relicdog begins their buy phase.
+00098 Relicdog answered
+00099 Relicdog answered
+00100 Relicdog places a Favor token on Player 0 supply. ([Family of Inventors])
+00101 Relicdog spends 1 Favor.
+00102 Relicdog answered
+00103 play treasures for
+00104 Relicdog answered
+00105 Relicdog buys and gains 1 Minion.
+00106 Relicdog draws 5 card.
+00107 SolDominion starts turn 4
+00108 SolDominion answered
+00109 SolDominion plays 1 Research.
+00110 SolDominion gets +1 Action.
+00111 SolDominion answered
+00112 SolDominion trashes 1 Overgrown Estate.
+00113 SolDominion draws 1 Necropolis.
+00114 SolDominion shuffles their deck.
+00115 SolDominion sets 1 Flag Bearer aside.
+00116 SolDominion answered
+00117 SolDominion begins their buy phase.
+00118 SolDominion answered
+00119 SolDominion answered
+00120 SolDominion answered
+00121 SolDominion answered
+00122 play treasures for
+00123 SolDominion answered
+00124 SolDominion buys and gains 1 Minion.
+00125 SolDominion shuffles their deck.
+00126 SolDominion draws 4 Copper, 1 Hovel, 1 Bauble.
+00127 Relicdog starts turn 5
+00128 Relicdog starts their turn.
+00129 Relicdog puts 1 card in hand (Research).
+00130 Relicdog answered
+00131 Relicdog plays 1 Minion.
+00132 Relicdog gets +1 Action.
+00133 Relicdog answered
+00134 Relicdog gets +$2.
+00135 Relicdog answered
+00136 Relicdog begins their buy phase.
+00137 Relicdog answered
+00138 Relicdog answered
+00139 play treasures for
+00140 Relicdog answered
+00141 Relicdog buys 1 Maelstrom.
+00142 Relicdog trashes 1 Copper, 1 Hovel, 1 Flag Bearer.
+00143 Relicdog takes 1 Flag.
+00144 SolDominion answered
+00145 SolDominion trashes 1 Hovel.
+00146 Relicdog shuffles their deck.
+00147 Relicdog draws 6 card.
+00148 SolDominion starts turn 5
+00149 SolDominion starts their turn.
+00150 SolDominion puts 1 Flag Bearer in hand (Research).
+00151 SolDominion answered
+00152 SolDominion plays 1 Flag Bearer.
+00153 SolDominion gets +$2.
+00154 SolDominion begins their buy phase.
+00155 SolDominion answered
+00156 play treasures for
+00157 SolDominion answered
+00158 SolDominion plays 1 Bauble.
+00159 SolDominion answered
+00160 SolDominion gets +1 Buy.
+00161 SolDominion gets +$1.
+00162 SolDominion answered
+00163 SolDominion answered
+00164 SolDominion answered
+00165 play treasures for
+00166 SolDominion answered
+00167 SolDominion buys and gains 1 Minion.
+00168 SolDominion answered
+00169 SolDominion buys and gains 1 Stockpile.
+00170 SolDominion answered
+00171 SolDominion discards 1 Stockpile from Exile.
+00172 SolDominion draws 3 Copper, 1 Minion, 1 Necropolis.
+00173 Relicdog starts turn 6
+00174 Relicdog answered
+00175 Relicdog plays 1 Research.
+00176 Relicdog gets +1 Action.
+00177 Relicdog answered
+00178 Relicdog trashes 1 Copper.
+00179 Relicdog answered
+00180 Relicdog plays 1 Necropolis.
+00181 Relicdog gets +2 Actions.
+00182 Relicdog begins their buy phase.
+00183 Relicdog answered
+00184 play treasures for
+00185 Relicdog answered
+00186 Relicdog buys and gains 1 Stockpile.
+00187 Relicdog shuffles their deck.
+00188 Relicdog draws 6 card.
+00189 SolDominion starts turn 6
+00190 SolDominion answered
+00191 SolDominion plays 1 Necropolis.
+00192 SolDominion gets +2 Actions.
+00193 SolDominion answered
+00194 SolDominion plays 1 Minion.
+00195 SolDominion gets +1 Action.
+00196 SolDominion answered
+00197 SolDominion discards 3 Copper.
+00198 SolDominion shuffles their deck.
+00199 SolDominion draws 4 Copper.
+00200 Relicdog discards 5 card, 1 Minion.
+00201 Relicdog draws 4 card.
+00202 SolDominion begins their buy phase.
+00203 SolDominion answered
+00204 SolDominion answered
+00205 SolDominion answered
+00206 SolDominion answered
+00207 play treasures for
+00208 SolDominion answered
+00209 SolDominion buys and gains 1 Minion.
+00210 SolDominion draws 2 Copper, 1 Minion, 1 Research, 1 Bauble.
+00211 Relicdog starts turn 7
+00212 Relicdog answered
+00213 Relicdog plays 1 Research.
+00214 Relicdog gets +1 Action.
+00215 Relicdog answered
+00216 Relicdog trashes 1 Necropolis.
+00217 Relicdog shuffles their deck.
+00218 Relicdog sets 1 card aside.
+00219 Relicdog begins their buy phase.
+00220 Relicdog answered
+00221 play treasures for
+00222 Relicdog answered
+00223 Relicdog buys and gains 1 Bauble.
+00224 Relicdog shuffles their deck.
+00225 Relicdog draws 6 card.
+00226 SolDominion starts turn 7
+00227 SolDominion answered
+00228 SolDominion plays 1 Research.
+00229 SolDominion gets +1 Action.
+00230 SolDominion answered
+00231 SolDominion trashes 1 Copper.
+00232 SolDominion answered
+00233 SolDominion plays 1 Minion.
+00234 SolDominion gets +1 Action.
+00235 SolDominion answered
+00236 SolDominion discards 1 Copper, 1 Bauble.
+00237 SolDominion draws 1 Copper, 1 Flag Bearer, 2 Stockpile.
+00238 Relicdog discards 5 card, 1 Copper.
+00239 Relicdog shuffles their deck.
+00240 Relicdog draws 4 card.
+00241 SolDominion answered
+00242 SolDominion plays 1 Flag Bearer.
+00243 SolDominion gets +$2.
+00244 SolDominion begins their buy phase.
+00245 SolDominion answered
+00246 play treasures for
+00247 SolDominion answered
+00248 SolDominion plays 1 Stockpile.
+00249 SolDominion gets +1 Buy.
+00250 SolDominion exiles 1 Stockpile.
+00251 SolDominion answered
+00252 SolDominion plays 1 Stockpile.
+00253 SolDominion gets +1 Buy.
+00254 SolDominion exiles 1 Stockpile.
+00255 SolDominion answered
+00256 SolDominion buys and gains 1 Minion.
+00257 SolDominion answered
+00258 SolDominion buys and gains 1 Stockpile.
+00259 SolDominion answered
+00260 SolDominion discards 2 Stockpile from Exile.
+00261 SolDominion answered
+00262 SolDominion shuffles their deck.
+00263 SolDominion draws 3 Copper, 1 Minion, 1 Research.
+00264 Relicdog starts turn 8
+00265 Relicdog starts their turn.
+00266 Relicdog puts 1 card in hand (Research).
+00267 Relicdog answered
+00268 Relicdog plays 1 Minion.
+00269 Relicdog gets +1 Action.
+00270 Relicdog answered
+00271 Relicdog discards 3 card, 1 Copper.
+00272 Relicdog draws 4 card.
+00273 SolDominion discards 3 Copper, 1 Minion, 1 Research.
+00274 SolDominion draws 2 Copper, 1 Flag Bearer, 1 Stockpile.
+00275 Relicdog answered
+00276 Relicdog plays 1 Minion.
+00277 Relicdog gets +1 Action.
+00278 Relicdog answered
+00279 Relicdog discards 2 card, 1 Copper.
+00280 Relicdog shuffles their deck.
+00281 Relicdog draws 4 card.
+00282 Relicdog begins their buy phase.
+00283 Relicdog answered
+00284 play treasures for
+00285 Relicdog answered
+00286 Relicdog plays 1 Stockpile.
+00287 Relicdog gets +1 Buy.
+00288 Relicdog exiles 1 Stockpile.
+00289 Relicdog answered
+00290 Relicdog buys and gains 1 Stockpile.
+00291 Relicdog answered
+00292 Relicdog discards 1 Stockpile from Exile.
+00293 Relicdog answered
+00294 Relicdog buys and gains 1 Stockpile.
+00295 Relicdog shuffles their deck.
+00296 Relicdog draws 6 card.
+00297 SolDominion starts turn 8
+00298 SolDominion answered
+00299 SolDominion plays 1 Flag Bearer.
+00300 SolDominion gets +$2.
+00301 SolDominion begins their buy phase.
+00302 SolDominion answered
+00303 play treasures for
+00304 SolDominion answered
+00305 SolDominion plays 1 Stockpile.
+00306 SolDominion gets +1 Buy.
+00307 SolDominion exiles 1 Stockpile.
+00308 SolDominion answered
+00309 play treasures for
+00310 SolDominion answered
+00311 SolDominion buys and gains 1 Minion.
+00312 SolDominion answered
+00313 SolDominion buys and gains 1 Stockpile.
+00314 SolDominion answered
+00315 SolDominion discards 1 Stockpile from Exile.
+00316 SolDominion draws 1 Minion, 1 Necropolis, 2 Stockpile, 1 Bauble.
+00317 Relicdog starts turn 9
+00318 Relicdog answered
+00319 Relicdog plays 1 Research.
+00320 Relicdog gets +1 Action.
+00321 Relicdog answered
+00322 Relicdog trashes 1 Bauble.
+00323 Relicdog sets 2 card aside.
+00324 Relicdog begins their buy phase.
+00325 Relicdog answered
+00326 Relicdog plays 1 Stockpile.
+00327 Relicdog gets +1 Buy.
+00328 Relicdog exiles 1 Stockpile.
+00329 Relicdog answered
+00330 Relicdog plays 1 Stockpile.
+00331 Relicdog gets +1 Buy.
+00332 Relicdog exiles 1 Stockpile.
+00333 Relicdog answered
+00334 play treasures for
+00335 Relicdog answered
+00336 Relicdog answered
+00337 Relicdog buys and gains 2 Minion.
+00338 Relicdog answered
+00339 Relicdog shuffles their deck.
+00340 Relicdog draws 6 card.
+00341 SolDominion starts turn 9
+00342 SolDominion answered
+00343 SolDominion plays 1 Minion.
+00344 SolDominion gets +1 Action.
+00345 SolDominion answered
+00346 SolDominion gets +$2.
+00347 SolDominion answered
+00348 SolDominion begins their buy phase.
+00349 SolDominion answered
+00350 SolDominion plays 1 Bauble.
+00351 SolDominion answered
+00352 SolDominion gets +$1.
+00353 SolDominion answered
+00354 SolDominion plays 1 Stockpile.
+00355 SolDominion gets +1 Buy.
+00356 SolDominion exiles 1 Stockpile.
+00357 SolDominion answered
+00358 SolDominion plays 1 Stockpile.
+00359 SolDominion gets +1 Buy.
+00360 SolDominion exiles 1 Stockpile.
+00361 SolDominion answered
+00362 SolDominion buys and gains 1 Minion.
+00363 SolDominion answered
+00364 SolDominion topdecks 1 Minion with Bauble.
+00365 SolDominion answered
+00366 SolDominion buys and gains 1 Stockpile.
+00367 SolDominion answered
+00368 SolDominion discards 2 Stockpile from Exile.
+00369 SolDominion answered
+00370 SolDominion topdecks 1 Stockpile with Bauble.
+00371 SolDominion looks at 5 Stockpile, 2 Minion, 5 Copper, 1 Research, 1 Flag Bearer.
+00372 SolDominion answered
+00373 SolDominion draws 1 Copper, 3 Minion, 1 Stockpile.
+00374 Relicdog starts turn 10
+00375 Relicdog starts their turn.
+00376 Relicdog puts 2 card in hand (Research).
+00377 Relicdog answered
+00378 Relicdog plays 1 Minion.
+00379 Relicdog gets +1 Action.
+00380 Relicdog answered
+00381 Relicdog gets +$2.
+00382 Relicdog answered
+00383 Relicdog plays 1 Minion.
+00384 Relicdog gets +1 Action.
+00385 Relicdog answered
+00386 Relicdog gets +$2.
+00387 Relicdog begins their buy phase.
+00388 Relicdog answered
+00389 Relicdog plays 1 Stockpile.
+00390 Relicdog gets +1 Buy.
+00391 Relicdog exiles 1 Stockpile.
+00392 Relicdog answered
+00393 play treasures for
+00394 Relicdog answered
+00395 Relicdog buys and gains 1 Stockpile.
+00396 Relicdog answered
+00397 Relicdog discards 3 Stockpile from Exile.
+00398 Relicdog answered
+00399 Relicdog buys and gains 1 City Quarter.
+00400 Relicdog answered
+00401 Relicdog repays 8 debt.
+00402 Relicdog shuffles their deck.
+00403 Relicdog draws 6 card.
+00404 SolDominion starts turn 10
+00405 SolDominion answered
+00406 SolDominion plays 1 Minion.
+00407 SolDominion gets +1 Action.
+00408 SolDominion answered
+00409 SolDominion gets +$2.
+00410 SolDominion answered
+00411 SolDominion plays 1 Minion.
+00412 SolDominion gets +1 Action.
+00413 SolDominion answered
+00414 SolDominion gets +$2.
+00415 SolDominion answered
+00416 SolDominion plays 1 Minion.
+00417 SolDominion gets +1 Action.
+00418 SolDominion answered
+00419 SolDominion gets +$2.
+00420 SolDominion begins their buy phase.
+00421 SolDominion answered
+00422 play treasures for
+00423 SolDominion answered
+00424 SolDominion plays 1 Stockpile.
+00425 SolDominion gets +1 Buy.
+00426 SolDominion exiles 1 Stockpile.
+00427 SolDominion answered
+00428 SolDominion buys and gains 1 Stockpile.
+00429 SolDominion answered
+00430 SolDominion discards 1 Stockpile from Exile.
+00431 SolDominion answered
+00432 SolDominion buys and gains 1 City Quarter.
+00433 SolDominion answered
+00434 SolDominion repays 7 debt (1 remaining).
+00435 SolDominion shuffles their deck.
+00436 SolDominion draws 2 Copper, 2 Minion, 1 Flag Bearer.
+00437 Relicdog starts turn 11
+00438 Relicdog answered
+00439 Relicdog plays 1 Research.
+00440 Relicdog gets +1 Action.
+00441 Relicdog answered
+00442 Relicdog trashes 1 Copper.
+00443 Relicdog answered
+00444 Relicdog plays 1 Minion.
+00445 Relicdog gets +1 Action.
+00446 Relicdog answered
+00447 Relicdog gets +$2.
+00448 Relicdog answered
+00449 Relicdog plays 1 Minion.
+00450 Relicdog gets +1 Action.
+00451 Relicdog answered
+00452 Relicdog discards 1 card, 1 Stockpile.
+00453 Relicdog draws 4 card.
+00454 SolDominion discards 2 Copper, 2 Minion, 1 Flag Bearer.
+00455 SolDominion draws 1 Minion, 1 City Quarter, 2 Stockpile.
+00456 Relicdog answered
+00457 Relicdog plays 1 City Quarter.
+00458 Relicdog gets +2 Actions.
+00459 Relicdog reveals their hand: 1 Minion, 2 Copper.
+00460 Relicdog draws 1 card.
+00461 Relicdog answered
+00462 Relicdog plays 1 Minion.
+00463 Relicdog gets +1 Action.
+00464 Relicdog answered
+00465 Relicdog gets +$2.
+00466 Relicdog begins their buy phase.
+00467 Relicdog answered
+00468 Relicdog buys 1 Maelstrom.
+00469 Relicdog trashes 3 Copper.
+00470 Relicdog shuffles their deck.
+00471 Relicdog draws 6 card.
+00472 SolDominion starts turn 11
+00473 SolDominion answered
+00474 SolDominion plays 1 City Quarter.
+00475 SolDominion gets +2 Actions.
+00476 SolDominion reveals their hand: 2 Stockpile, 1 Minion.
+00477 SolDominion draws 1 Minion.
+00478 SolDominion answered
+00479 SolDominion plays 1 Minion.
+00480 SolDominion gets +1 Action.
+00481 SolDominion answered
+00482 SolDominion gets +$2.
+00483 SolDominion answered
+00484 SolDominion plays 1 Minion.
+00485 SolDominion gets +1 Action.
+00486 SolDominion answered
+00487 SolDominion gets +$2.
+00488 SolDominion begins their buy phase.
+00489 SolDominion answered
+00490 SolDominion plays 1 Stockpile.
+00491 SolDominion gets +1 Buy.
+00492 SolDominion exiles 1 Stockpile.
+00493 SolDominion answered
+00494 SolDominion plays 1 Stockpile.
+00495 SolDominion gets +1 Buy.
+00496 SolDominion exiles 1 Stockpile.
+00497 SolDominion answered
+00498 SolDominion repays 1 debt.
+00499 SolDominion answered
+00500 SolDominion buys and gains 1 Province.
+00501 SolDominion answered
+00502 SolDominion draws 2 Copper, 1 Minion, 1 Necropolis, 1 Stockpile.
+00503 Relicdog starts turn 12
+00504 Relicdog answered
+00505 Relicdog plays 1 Research.
+00506 Relicdog gets +1 Action.
+00507 Relicdog answered
+00508 Relicdog trashes 1 Copper.
+00509 Relicdog answered
+00510 Relicdog plays 1 Minion.
+00511 Relicdog gets +1 Action.
+00512 Relicdog answered
+00513 Relicdog gets +$2.
+00514 Relicdog answered
+00515 Relicdog plays 1 Minion.
+00516 Relicdog gets +1 Action.
+00517 Relicdog answered
+00518 Relicdog discards 1 card, 1 Stockpile.
+00519 Relicdog draws 4 card.
+00520 SolDominion discards 2 Copper, 1 Minion, 1 Necropolis, 1 Stockpile.
+00521 SolDominion draws 1 Copper, 1 Research, 2 Stockpile.
+00522 Relicdog answered
+00523 Relicdog plays 1 City Quarter.
+00524 Relicdog gets +2 Actions.
+00525 Relicdog reveals their hand: 2 Stockpile, 1 Minion.
+00526 Relicdog draws 1 card.
+00527 Relicdog answered
+00528 Relicdog plays 1 Minion.
+00529 Relicdog gets +1 Action.
+00530 Relicdog answered
+00531 Relicdog gets +$2.
+00532 Relicdog answered
+00533 Relicdog plays 1 Minion.
+00534 Relicdog gets +1 Action.
+00535 Relicdog answered
+00536 Relicdog discards 1 card, 1 Stockpile.
+00537 Relicdog shuffles their deck.
+00538 Relicdog draws 4 card.
+00539 Relicdog begins their buy phase.
+00540 Relicdog answered
+00541 Relicdog plays 1 Stockpile.
+00542 Relicdog gets +1 Buy.
+00543 Relicdog exiles 1 Stockpile.
+00544 Relicdog answered
+00545 Relicdog plays 1 Stockpile.
+00546 Relicdog gets +1 Buy.
+00547 Relicdog exiles 1 Stockpile.
+00548 Relicdog answered
+00549 Relicdog plays 1 Stockpile.
+00550 Relicdog gets +1 Buy.
+00551 Relicdog exiles 1 Stockpile.
+00552 Relicdog answered
+00553 Relicdog plays 1 Stockpile.
+00554 Relicdog gets +1 Buy.
+00555 Relicdog exiles 1 Stockpile.
+00556 Relicdog answered
+00557 Relicdog buys and gains 1 Merchant Guild.
+00558 Relicdog answered
+00559 Relicdog buys and gains 1 Gold.
+00560 Relicdog answered
+00561 Relicdog buys and gains 1 Merchant Guild.
+00562 Relicdog answered
+00563 Relicdog buys and gains 1 City Quarter.
+00564 Relicdog shuffles their deck.
+00565 Relicdog draws 6 card.
+00566 SolDominion starts turn 12
+00567 SolDominion answered
+00568 SolDominion plays 1 Research.
+00569 SolDominion gets +1 Action.
+00570 SolDominion answered
+00571 SolDominion trashes 1 Copper.
+00572 SolDominion begins their buy phase.
+00573 SolDominion answered
+00574 SolDominion plays 1 Stockpile.
+00575 SolDominion gets +1 Buy.
+00576 SolDominion exiles 1 Stockpile.
+00577 SolDominion answered
+00578 SolDominion plays 1 Stockpile.
+00579 SolDominion gets +1 Buy.
+00580 SolDominion exiles 1 Stockpile.
+00581 SolDominion answered
+00582 SolDominion buys and gains 1 City Quarter.
+00583 SolDominion answered
+00584 SolDominion repays 6 debt (2 remaining).
+00585 SolDominion shuffles their deck.
+00586 SolDominion draws 2 Copper, 1 Minion, 1 Stockpile, 1 Bauble.
+00587 Relicdog starts turn 13
+00588 Relicdog answered
+00589 Relicdog plays 1 City Quarter.
+00590 Relicdog gets +2 Actions.
+00591 Relicdog reveals their hand: 2 Minion, 2 Merchant Guild, 1 Research.
+00592 Relicdog draws 4 card.
+00593 Relicdog answered
+00594 Relicdog plays 1 Minion.
+00595 Relicdog gets +1 Action.
+00596 Relicdog answered
+00597 Relicdog gets +$2.
+00598 Relicdog answered
+00599 Relicdog plays 1 Minion.
+00600 Relicdog gets +1 Action.
+00601 Relicdog answered
+00602 Relicdog gets +$2.
+00603 Relicdog answered
+00604 Relicdog plays 1 Minion.
+00605 Relicdog gets +1 Action.
+00606 Relicdog answered
+00607 Relicdog gets +$2.
+00608 Relicdog answered
+00609 Relicdog plays 1 Minion.
+00610 Relicdog gets +1 Action.
+00611 Relicdog answered
+00612 Relicdog gets +$2.
+00613 Relicdog answered
+00614 Relicdog plays 1 Merchant Guild.
+00615 Relicdog gets +1 Buy.
+00616 Relicdog gets +$1.
+00617 Relicdog answered
+00618 Relicdog plays 1 Merchant Guild.
+00619 Relicdog gets +1 Buy.
+00620 Relicdog gets +$1.
+00621 Relicdog begins their buy phase.
+00622 Relicdog answered
+00623 play treasures for
+00624 Relicdog answered
+00625 Relicdog repays 8 debt.
+00626 Relicdog answered
+00627 Relicdog buys and gains 1 Marauder.
+00628 Relicdog answered
+00629 Relicdog answered
+00630 Relicdog buys and gains 2 Copper.
+00631 Relicdog ends their buy phase.
+00632 Relicdog gets +6 Coffers.
+00633 Relicdog shuffles their deck.
+00634 Relicdog draws 6 card.
+00635 SolDominion starts turn 13
+00636 SolDominion answered
+00637 SolDominion plays 1 Minion.
+00638 SolDominion gets +1 Action.
+00639 SolDominion answered
+00640 SolDominion discards 2 Copper, 1 Stockpile, 1 Bauble.
+00641 SolDominion draws 2 Minion, 1 Necropolis, 1 Stockpile.
+00642 Relicdog discards 5 card, 1 Minion.
+00643 Relicdog draws 4 card.
+00644 SolDominion answered
+00645 SolDominion plays 1 Necropolis.
+00646 SolDominion gets +2 Actions.
+00647 SolDominion answered
+00648 SolDominion plays 1 Minion.
+00649 SolDominion gets +1 Action.
+00650 SolDominion answered
+00651 SolDominion gets +$2.
+00652 SolDominion answered
+00653 SolDominion plays 1 Minion.
+00654 SolDominion gets +1 Action.
+00655 SolDominion answered
+00656 SolDominion discards 1 Stockpile.
+00657 SolDominion draws 1 Copper, 1 Province, 1 Minion, 1 City Quarter.
+00658 SolDominion answered
+00659 SolDominion plays 1 City Quarter.
+00660 SolDominion gets +2 Actions.
+00661 SolDominion reveals their hand: 1 Province, 1 Minion, 1 Copper.
+00662 SolDominion draws 1 City Quarter.
+00663 SolDominion answered
+00664 SolDominion plays 1 City Quarter.
+00665 SolDominion gets +2 Actions.
+00666 SolDominion reveals their hand: 1 Province, 1 Minion, 1 Copper.
+00667 SolDominion draws 1 Minion.
+00668 SolDominion answered
+00669 SolDominion plays 1 Minion.
+00670 SolDominion gets +1 Action.
+00671 SolDominion answered
+00672 SolDominion gets +$2.
+00673 SolDominion answered
+00674 SolDominion plays 1 Minion.
+00675 SolDominion gets +1 Action.
+00676 SolDominion answered
+00677 SolDominion discards 1 Copper, 1 Province.
+00678 SolDominion draws 1 Copper, 1 Minion, 1 Flag Bearer, 1 Research.
+00679 SolDominion answered
+00680 SolDominion plays 1 Research.
+00681 SolDominion gets +1 Action.
+00682 SolDominion answered
+00683 SolDominion trashes 1 Flag Bearer.
+00684 SolDominion takes 1 Flag.
+00685 SolDominion shuffles their deck.
+00686 SolDominion sets 2 Copper, 2 Stockpile aside.
+00687 SolDominion answered
+00688 SolDominion plays 1 Minion.
+00689 SolDominion gets +1 Action.
+00690 SolDominion answered
+00691 SolDominion gets +$2.
+00692 SolDominion begins their buy phase.
+00693 SolDominion answered
+00694 play treasures for
+00695 SolDominion answered
+00696 SolDominion repays 2 debt.
+00697 SolDominion answered
+00698 SolDominion buys and gains 1 Merchant Guild.
+00699 SolDominion shuffles their deck.
+00700 SolDominion draws 2 Copper, 1 Province, 2 Minion, 1 Bauble.
+00701 Relicdog starts turn 14
+00702 Relicdog answered
+00703 Relicdog plays 1 City Quarter.
+00704 Relicdog gets +2 Actions.
+00705 Relicdog reveals their hand: 1 Merchant Guild, 1 Marauder, 1 Research.
+00706 Relicdog draws 3 card.
+00707 Relicdog answered
+00708 Relicdog plays 1 Research.
+00709 Relicdog gets +1 Action.
+00710 Relicdog answered
+00711 Relicdog trashes 1 Copper.
+00712 Relicdog answered
+00713 Relicdog plays 1 Merchant Guild.
+00714 Relicdog gets +1 Buy.
+00715 Relicdog gets +$1.
+00716 Relicdog answered
+00717 Relicdog plays 1 Minion.
+00718 Relicdog gets +1 Action.
+00719 Relicdog answered
+00720 Relicdog discards 1 card, 1 Marauder.
+00721 Relicdog shuffles their deck.
+00722 Relicdog draws 4 card.
+00723 SolDominion discards 2 Copper, 1 Province, 2 Minion, 1 Bauble.
+00724 SolDominion draws 1 Minion, 1 Merchant Guild, 2 City Quarter.
+00725 Relicdog answered
+00726 Relicdog plays 1 Minion.
+00727 Relicdog gets +1 Action.
+00728 Relicdog answered
+00729 Relicdog discards 2 card, 1 Gold.
+00730 Relicdog draws 4 card.
+00731 Relicdog answered
+00732 Relicdog plays 1 City Quarter.
+00733 Relicdog gets +2 Actions.
+00734 Relicdog reveals their hand: 2 Minion, 1 Copper.
+00735 Relicdog shuffles their deck.
+00736 Relicdog draws 2 card.
+00737 Relicdog answered
+00738 Relicdog plays 1 Minion.
+00739 Relicdog gets +1 Action.
+00740 Relicdog answered
+00741 Relicdog gets +$2.
+00742 Relicdog answered
+00743 Relicdog plays 1 Minion.
+00744 Relicdog gets +1 Action.
+00745 Relicdog answered
+00746 Relicdog gets +$2.
+00747 Relicdog answered
+00748 Relicdog plays 1 Merchant Guild.
+00749 Relicdog gets +1 Buy.
+00750 Relicdog gets +$1.
+00751 Relicdog answered
+00752 Relicdog plays 1 Marauder.
+00753 Relicdog gains 1 Spoils.
+00754 SolDominion gains 1 Ruined Village.
+00755 Relicdog begins their buy phase.
+00756 Relicdog answered
+00757 play treasures for
+00758 Relicdog answered
+00759 Relicdog answered
+00760 Relicdog uses 2 Coffers. (+$2)
+00761 Relicdog answered
+00762 Relicdog uses 1 Coffers. (+$1)
+00763 Relicdog answered
+00764 Relicdog buys and gains 1 Merchant Guild.
+00765 Relicdog answered
+00766 Relicdog buys and gains 1 Flag Bearer.
+00767 Relicdog takes 1 Flag.
+00768 Relicdog answered
+00769 Relicdog buys and gains 1 City Quarter.
+00770 Relicdog answered
+00771 Relicdog repays 1 debt (7 remaining).
+00772 Relicdog answered
+00773 Relicdog ends their buy phase.
+00774 Relicdog gets +6 Coffers.
+00775 Relicdog shuffles their deck.
+00776 Relicdog draws 6 card.
+00777 SolDominion starts turn 14
+00778 SolDominion starts their turn.
+00779 SolDominion puts 2 Copper, 2 Stockpile in hand (Research).
+00780 SolDominion answered
+00781 SolDominion plays 1 City Quarter.
+00782 SolDominion gets +2 Actions.
+00783 SolDominion reveals their hand: 2 Stockpile, 1 Minion, 1 Merchant Guild, 2 Copper, 1 City Quarter.
+00784 SolDominion draws 1 Copper, 2 Minion.
+00785 SolDominion answered
+00786 SolDominion plays 1 City Quarter.
+00787 SolDominion gets +2 Actions.
+00788 SolDominion reveals their hand: 2 Stockpile, 3 Minion, 1 Merchant Guild, 3 Copper.
+00789 SolDominion shuffles their deck.
+00790 SolDominion draws 2 Minion, 1 Necropolis, 1 Bauble.
+00791 SolDominion answered
+00792 SolDominion plays 1 Minion.
+00793 SolDominion gets +1 Action.
+00794 SolDominion answered
+00795 SolDominion gets +$2.
+00796 SolDominion answered
+00797 SolDominion plays 1 Minion.
+00798 SolDominion gets +1 Action.
+00799 SolDominion answered
+00800 SolDominion gets +$2.
+00801 SolDominion answered
+00802 SolDominion plays 1 Minion.
+00803 SolDominion gets +1 Action.
+00804 SolDominion answered
+00805 SolDominion gets +$2.
+00806 SolDominion answered
+00807 SolDominion plays 1 Minion.
+00808 SolDominion gets +1 Action.
+00809 SolDominion answered
+00810 SolDominion gets +$2.
+00811 SolDominion answered
+00812 SolDominion plays 1 Minion.
+00813 SolDominion gets +1 Action.
+00814 SolDominion answered
+00815 SolDominion gets +$2.
+00816 SolDominion answered
+00817 SolDominion plays 1 Merchant Guild.
+00818 SolDominion gets +1 Buy.
+00819 SolDominion gets +$1.
+00820 SolDominion answered
+00821 SolDominion begins their buy phase.
+00822 SolDominion answered
+00823 SolDominion plays 1 Bauble.
+00824 SolDominion answered
+00825 SolDominion gets +$1.
+00826 SolDominion answered
+00827 SolDominion plays 1 Stockpile.
+00828 SolDominion gets +1 Buy.
+00829 SolDominion exiles 1 Stockpile.
+00830 SolDominion answered
+00831 SolDominion plays 1 Stockpile.
+00832 SolDominion gets +1 Buy.
+00833 SolDominion exiles 1 Stockpile.
+00834 SolDominion answered
+00835 SolDominion buys 1 Maelstrom.
+00836 SolDominion answered
+00837 SolDominion trashes 3 Copper.
+00838 Relicdog answered
+00839 Relicdog trashes 1 Copper.
+00840 SolDominion answered
+00841 SolDominion buys and gains 1 Province.
+00842 SolDominion answered
+00843 SolDominion answered
+00844 SolDominion buys and gains 1 Merchant Guild.
+00845 SolDominion answered
+00846 SolDominion topdecks 1 Merchant Guild with Bauble.
+00847 SolDominion answered
+00848 SolDominion ends their buy phase.
+00849 SolDominion gets +2 Coffers.
+00850 SolDominion draws 1 Copper, 1 Province, 1 Minion, 1 Ruined Village, 1 Merchant Guild.
+00851 Relicdog starts turn 15
+00852 Relicdog answered
+00853 Relicdog plays 1 City Quarter.
+00854 Relicdog gets +2 Actions.
+00855 Relicdog reveals their hand: 2 Minion, 1 Gold, 1 Flag Bearer.
+00856 Relicdog draws 3 card.
+00857 Relicdog answered
+00858 Relicdog plays 1 Minion.
+00859 Relicdog gets +1 Action.
+00860 Relicdog answered
+00861 Relicdog gets +$2.
+00862 Relicdog answered
+00863 Relicdog plays 1 Minion.
+00864 Relicdog gets +1 Action.
+00865 Relicdog answered
+00866 Relicdog gets +$2.
+00867 Relicdog answered
+00868 Relicdog plays 1 Marauder.
+00869 Relicdog gains 1 Spoils.
+00870 SolDominion gains 1 Ruined Library.
+00871 Relicdog answered
+00872 Relicdog plays 1 Minion.
+00873 Relicdog gets +1 Action.
+00874 Relicdog answered
+00875 Relicdog discards 2 card, 1 Spoils.
+00876 Relicdog draws 4 card.
+00877 SolDominion discards 1 Copper, 1 Province, 1 Minion, 1 Ruined Village, 1 Merchant Guild.
+00878 SolDominion shuffles their deck.
+00879 SolDominion draws 1 Copper, 2 Minion, 1 Research.
+00880 Relicdog answered
+00881 Relicdog plays 1 City Quarter.
+00882 Relicdog gets +2 Actions.
+00883 Relicdog reveals their hand: 2 Merchant Guild, 1 Research.
+00884 Relicdog draws 3 card.
+00885 Relicdog answered
+00886 Relicdog plays 1 City Quarter.
+00887 Relicdog gets +2 Actions.
+00888 Relicdog reveals their hand: 1 Minion, 3 Merchant Guild, 1 Research.
+00889 Relicdog shuffles their deck.
+00890 Relicdog draws 4 card.
+00891 Relicdog answered
+00892 Relicdog plays 1 Minion.
+00893 Relicdog gets +1 Action.
+00894 Relicdog answered
+00895 Relicdog gets +$2.
+00896 Relicdog answered
+00897 Relicdog plays 1 Merchant Guild.
+00898 Relicdog gets +1 Buy.
+00899 Relicdog gets +$1.
+00900 Relicdog answered
+00901 Relicdog plays 1 Merchant Guild.
+00902 Relicdog gets +1 Buy.
+00903 Relicdog gets +$1.
+00904 Relicdog answered
+00905 Relicdog plays 1 Merchant Guild.
+00906 Relicdog gets +1 Buy.
+00907 Relicdog gets +$1.
+00908 Relicdog begins their buy phase.
+00909 Relicdog answered
+00910 play treasures for
+00911 Relicdog answered
+00912 play treasures for
+00913 Relicdog returns 1 Spoils to Player 0 nonSupply.
+00914 Relicdog answered
+00915 play treasures for
+00916 Relicdog returns 1 Spoils to Player 0 nonSupply.
+00917 Relicdog answered
+00918 Relicdog repays 7 debt.
+00919 Relicdog answered
+00920 Relicdog answered
+00921 Relicdog answered
+00922 Relicdog answered
+00923 Relicdog uses 4 Coffers. (+$4)
+00924 Relicdog answered
+00925 Relicdog uses 1 Coffers. (+$1)
+00926 Relicdog answered
+00927 Relicdog answered
+00928 Relicdog buys and gains 2 Province.
+00929 Relicdog answered
+00930 Relicdog buys and gains 1 Copper.
+00931 Relicdog answered
+00932 Relicdog buys and gains 1 City Quarter.
+00933 Relicdog answered
+00934 Relicdog ends their buy phase.
+00935 Relicdog gets +12 Coffers.
+00936 Relicdog shuffles their deck.
+00937 Relicdog draws 6 card.
+00938 SolDominion starts turn 15
+00939 SolDominion answered
+00940 SolDominion plays 1 Research.
+00941 SolDominion gets +1 Action.
+00942 SolDominion answered
+00943 SolDominion trashes 1 Copper.
+00944 SolDominion answered
+00945 SolDominion plays 1 Minion.
+00946 SolDominion gets +1 Action.
+00947 SolDominion answered
+00948 SolDominion gets +$2.
+00949 SolDominion answered
+00950 SolDominion plays 1 Minion.
+00951 SolDominion gets +1 Action.
+00952 SolDominion answered
+00953 SolDominion draws 1 Province, 1 Minion, 1 Ruined Library, 1 Merchant Guild.
+00954 Relicdog discards 5 card, 1 Marauder.
+00955 Relicdog draws 4 card.
+00956 SolDominion answered
+00957 SolDominion plays 1 Minion.
+00958 SolDominion gets +1 Action.
+00959 SolDominion answered
+00960 SolDominion discards 1 Province, 1 Ruined Library, 1 Merchant Guild.
+00961 SolDominion draws 1 Province, 1 Minion, 1 Merchant Guild, 1 City Quarter.
+00962 SolDominion answered
+00963 SolDominion plays 1 City Quarter.
+00964 SolDominion gets +2 Actions.
+00965 SolDominion reveals their hand: 1 Province, 1 Minion, 1 Merchant Guild.
+00966 SolDominion draws 1 Minion, 1 Necropolis.
+00967 SolDominion answered
+00968 SolDominion plays 1 Necropolis.
+00969 SolDominion gets +2 Actions.
+00970 SolDominion answered
+00971 SolDominion plays 1 Merchant Guild.
+00972 SolDominion gets +1 Buy.
+00973 SolDominion gets +$1.
+00974 SolDominion answered
+00975 SolDominion plays 1 Minion.
+00976 SolDominion gets +1 Action.
+00977 SolDominion answered
+00978 SolDominion gets +$2.
+00979 SolDominion answered
+00980 SolDominion plays 1 Minion.
+00981 SolDominion gets +1 Action.
+00982 SolDominion answered
+00983 SolDominion discards 1 Province.
+00984 SolDominion draws 1 Copper, 1 Minion, 1 Ruined Village, 1 Bauble.
+00985 SolDominion answered
+00986 SolDominion plays 1 Minion.
+00987 SolDominion gets +1 Action.
+00988 SolDominion answered
+00989 SolDominion gets +$2.
+00990 SolDominion answered
+00991 SolDominion begins their buy phase.
+00992 SolDominion answered
+00993 SolDominion plays 1 Bauble.
+00994 SolDominion answered
+00995 SolDominion gets +1 Buy.
+00996 SolDominion gets +$1.
+00997 SolDominion answered
+00998 play treasures for
+00999 SolDominion answered
+01000 SolDominion uses 1 Coffers. (+$1)
+01001 SolDominion answered
+01002 SolDominion buys and gains 1 Province.
+01003 SolDominion answered
+01004 SolDominion buys and gains 1 Estate.
+01005 SolDominion answered
+01006 SolDominion buys and gains 1 Ruined Library.
+01007 SolDominion ends their buy phase.
+01008 SolDominion gets +3 Coffers.
+01009 SolDominion shuffles their deck.
+01010 SolDominion draws 2 Province, 2 Minion, 1 City Quarter.
+01011 Relicdog starts turn 16
+01012 Relicdog answered
+01013 Relicdog plays 1 City Quarter.
+01014 Relicdog gets +2 Actions.
+01015 Relicdog reveals their hand: 1 Minion, 2 Merchant Guild.
+01016 Relicdog draws 3 card.
+01017 Relicdog answered
+01018 Relicdog plays 1 City Quarter.
+01019 Relicdog gets +2 Actions.
+01020 Relicdog reveals their hand: 2 Minion, 2 Merchant Guild, 1 Gold.
+01021 Relicdog draws 4 card.
+01022 Relicdog answered
+01023 Relicdog plays 1 City Quarter.
+01024 Relicdog gets +2 Actions.
+01025 Relicdog reveals their hand: 3 Minion, 3 Merchant Guild, 1 City Quarter, 1 Gold.
+01026 Relicdog shuffles their deck.
+01027 Relicdog draws 7 card.
+01028 Relicdog answered
+01029 Relicdog plays 1 Merchant Guild.
+01030 Relicdog gets +1 Buy.
+01031 Relicdog gets +$1.
+01032 Relicdog answered
+01033 Relicdog plays 1 Merchant Guild.
+01034 Relicdog gets +1 Buy.
+01035 Relicdog gets +$1.
+01036 Relicdog answered
+01037 Relicdog plays 1 Merchant Guild.
+01038 Relicdog gets +1 Buy.
+01039 Relicdog gets +$1.
+01040 Relicdog answered
+01041 Relicdog plays 1 Minion.
+01042 Relicdog gets +1 Action.
+01043 Relicdog answered
+01044 Relicdog gets +$2.
+01045 Relicdog answered
+01046 Relicdog plays 1 Minion.
+01047 Relicdog gets +1 Action.
+01048 Relicdog answered
+01049 Relicdog gets +$2.
+01050 Relicdog answered
+01051 Relicdog plays 1 Minion.
+01052 Relicdog gets +1 Action.
+01053 Relicdog answered
+01054 Relicdog gets +$2.
+01055 Relicdog answered
+01056 Relicdog plays 1 City Quarter.
+01057 Relicdog gets +2 Actions.
+01058 Relicdog reveals their hand: 2 Province, 1 Minion, 1 Copper, 1 Marauder, 1 Gold, 1 Research, 1 Flag Bearer.
+01059 Relicdog answered
+01060 Relicdog plays 1 Research.
+01061 Relicdog gets +1 Action.
+01062 Relicdog answered
+01063 Relicdog trashes 1 Copper.
+01064 Relicdog answered
+01065 Relicdog plays 1 Marauder.
+01066 Relicdog gains 1 Spoils.
+01067 SolDominion gains 1 Survivors.
+01068 Relicdog answered
+01069 Relicdog plays 1 Minion.
+01070 Relicdog gets +1 Action.
+01071 Relicdog answered
+01072 Relicdog gets +$2.
+01073 Relicdog answered
+01074 Relicdog plays 1 Flag Bearer.
+01075 Relicdog gets +$2.
+01076 Relicdog begins their buy phase.
+01077 Relicdog answered
+01078 Relicdog repays 8 debt.
+01079 Relicdog answered
+01080 play treasures for
+01081 Relicdog answered
+01082 Relicdog uses 16 Coffers. (+$16)
+01083 Relicdog answered
+01084 Relicdog answered
+01085 Relicdog answered
+01086 Relicdog buys and gains 3 Province.
+01087 Relicdog answered
+01088 Relicdog buys and gains 1 Copper.
+01089 Relicdog ends their buy phase.
+01090 Relicdog gets +12 Coffers.
+01091 Relicdog shuffles their deck.
+01092 Relicdog draws 6 card.

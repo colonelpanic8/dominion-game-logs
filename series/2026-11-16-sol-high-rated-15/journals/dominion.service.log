@@ -1,0 +1,56 @@
+2026-11-16T15:27:35.292103-08:00 jimi-hendnix systemd[1]: Stopping Dominion game server...
+2026-11-16T15:27:35.301186-08:00 jimi-hendnix systemd[1]: dominion.service: Deactivated successfully.
+2026-11-16T15:27:35.301855-08:00 jimi-hendnix systemd[1]: Stopped Dominion game server.
+2026-11-16T15:27:35.302085-08:00 jimi-hendnix systemd[1]: dominion.service: Consumed 3.554s CPU time over 5min 48.164s wall clock time, 57.2M memory peak, 12.6M read from disk, 16K written to disk, 6.5M incoming IP traffic, 17.8M outgoing IP traffic.
+2026-11-16T15:29:20.651464-08:00 jimi-hendnix systemd[1]: Starting Dominion game server...
+2026-11-16T15:29:23.583499-08:00 jimi-hendnix dominion[3151255]: dominion: verified official client 2.3.7 catalog at /var/cache/dominion/online/body-2.3.7.js
+2026-11-16T15:29:23.964124-08:00 jimi-hendnix systemd[1]: Started Dominion game server.
+2026-11-16T15:29:23.979870-08:00 jimi-hendnix dominion[3151327]: dominion: 20 saved games in /var/lib/dominion/games (0 finished games moved to expired/)
+2026-11-16T15:29:23.979870-08:00 jimi-hendnix dominion[3151327]: dominion: MCP endpoint http://127.0.0.1:47317/mcp
+2026-11-16T15:29:23.980027-08:00 jimi-hendnix dominion[3151327]: dominion: web client http://127.0.0.1:47317/
+2026-11-16T15:29:30.326575-08:00 jimi-hendnix dominion[3151327]: dominion: an agent runner connected: Opus High, Sonnet High, Sol High, Terra High, Argon High (4 at once)
+2026-11-16T15:49:43.534372-08:00 jimi-hendnix systemd[1]: Stopping Dominion game server...
+2026-11-16T15:49:43.540718-08:00 jimi-hendnix systemd[1]: dominion.service: Deactivated successfully.
+2026-11-16T15:49:43.541545-08:00 jimi-hendnix systemd[1]: Stopped Dominion game server.
+2026-11-16T15:49:43.541823-08:00 jimi-hendnix systemd[1]: dominion.service: Consumed 12.691s CPU time over 20min 22.889s wall clock time, 45M memory peak, 10.1M memory swap peak, 8.5M read from disk, 10.2M written to disk, 8.5M incoming IP traffic, 138.8M outgoing IP traffic.
+2026-11-16T15:54:25.690058-08:00 jimi-hendnix systemd[1]: Starting Dominion game server...
+2026-11-16T15:54:28.659362-08:00 jimi-hendnix dominion[3203758]: dominion: verified official client 2.3.7 catalog at /var/cache/dominion/online/body-2.3.7.js
+2026-11-16T15:54:29.044790-08:00 jimi-hendnix systemd[1]: Started Dominion game server.
+2026-11-16T15:54:29.065644-08:00 jimi-hendnix dominion[3204009]: dominion: 20 saved games in /var/lib/dominion/games (0 finished games moved to expired/)
+2026-11-16T15:54:29.065644-08:00 jimi-hendnix dominion[3204009]: dominion: MCP endpoint http://127.0.0.1:47317/mcp
+2026-11-16T15:54:29.065951-08:00 jimi-hendnix dominion[3204009]: dominion: web client http://127.0.0.1:47317/
+2026-11-16T15:54:33.604547-08:00 jimi-hendnix dominion[3204009]: dominion: an agent runner connected: Opus High, Sonnet High, Sol High, Terra High, Argon High (4 at once)
+2026-11-16T16:31:53.917598-08:00 jimi-hendnix dominion[3204009]: dominion: the agent runner went away
+2026-11-16T16:31:53.919228-08:00 jimi-hendnix systemd[1]: Stopping Dominion game server...
+2026-11-16T16:31:53.931556-08:00 jimi-hendnix systemd[1]: dominion.service: Deactivated successfully.
+2026-11-16T16:31:53.932013-08:00 jimi-hendnix systemd[1]: Stopped Dominion game server.
+2026-11-16T16:31:53.932268-08:00 jimi-hendnix systemd[1]: dominion.service: Consumed 12.314s CPU time over 37min 28.241s wall clock time, 49.2M memory peak, 29.9M memory swap peak, 16.1M read from disk, 30.3M written to disk, 10.8M incoming IP traffic, 112.8M outgoing IP traffic.
+2026-11-16T16:31:56.132694-08:00 jimi-hendnix systemd[1]: Starting Dominion game server...
+2026-11-16T16:32:01.109916-08:00 jimi-hendnix dominion[3361065]: dominion: verified official client 2.3.7 catalog at /var/cache/dominion/online/body-2.3.7.js
+2026-11-16T16:32:01.470811-08:00 jimi-hendnix systemd[1]: Started Dominion game server.
+2026-11-16T16:32:01.491628-08:00 jimi-hendnix dominion[3361460]: dominion: 20 saved games in /var/lib/dominion/games (0 finished games moved to expired/)
+2026-11-16T16:32:01.492082-08:00 jimi-hendnix dominion[3361460]: dominion: MCP endpoint http://127.0.0.1:47317/mcp
+2026-11-16T16:32:01.492082-08:00 jimi-hendnix dominion[3361460]: dominion: web client http://127.0.0.1:47317/
+2026-11-16T16:32:06.503851-08:00 jimi-hendnix dominion[3361460]: dominion: an agent runner connected: Opus High, Fable High, Sonnet High, Sol High, Astra High, Terra High, Argon High (4 at once)
+2026-11-16T17:17:47.836581-08:00 jimi-hendnix systemd[1]: Stopping Dominion game server...
+2026-11-16T17:17:47.843743-08:00 jimi-hendnix systemd[1]: dominion.service: Deactivated successfully.
+2026-11-16T17:17:47.844178-08:00 jimi-hendnix systemd[1]: Stopped Dominion game server.
+2026-11-16T17:17:47.844377-08:00 jimi-hendnix systemd[1]: dominion.service: Consumed 16.304s CPU time over 45min 51.711s wall clock time, 79.8M memory peak, 28.5M read from disk, 52K written to disk, 11.6M incoming IP traffic, 137.7M outgoing IP traffic.
+2026-11-16T17:21:07.354690-08:00 jimi-hendnix systemd[1]: Starting Dominion game server...
+2026-11-16T17:21:09.802330-08:00 jimi-hendnix dominion[3435580]: dominion: verified official client 2.3.7 catalog at /var/cache/dominion/online/body-2.3.7.js
+2026-11-16T17:21:10.174400-08:00 jimi-hendnix systemd[1]: Started Dominion game server.
+2026-11-16T17:21:10.197092-08:00 jimi-hendnix dominion[3435618]: dominion: 20 saved games in /var/lib/dominion/games (0 finished games moved to expired/)
+2026-11-16T17:21:10.197092-08:00 jimi-hendnix dominion[3435618]: dominion: MCP endpoint http://127.0.0.1:47317/mcp
+2026-11-16T17:21:10.197682-08:00 jimi-hendnix dominion[3435618]: dominion: web client http://127.0.0.1:47317/
+2026-11-16T17:21:17.897515-08:00 jimi-hendnix dominion[3435618]: dominion: an agent runner connected: Opus High, Fable High, Sonnet High, Sol High, Astra High, Terra High, Argon High (4 at once)
+2026-11-16T17:42:02.514886-08:00 jimi-hendnix systemd[1]: Stopping Dominion game server...
+2026-11-16T17:42:02.521356-08:00 jimi-hendnix systemd[1]: dominion.service: Deactivated successfully.
+2026-11-16T17:42:02.521646-08:00 jimi-hendnix systemd[1]: Stopped Dominion game server.
+2026-11-16T17:42:02.521749-08:00 jimi-hendnix systemd[1]: dominion.service: Consumed 10.297s CPU time over 20min 55.166s wall clock time, 58.4M memory peak, 11.3M memory swap peak, 28.7M read from disk, 12.5M written to disk, 8.5M incoming IP traffic, 71.6M outgoing IP traffic.
+2026-11-16T17:42:07.126314-08:00 jimi-hendnix systemd[1]: Starting Dominion game server...
+2026-11-16T17:42:11.086560-08:00 jimi-hendnix dominion[3537346]: dominion: verified official client 2.3.7 catalog at /var/cache/dominion/online/body-2.3.7.js
+2026-11-16T17:42:11.421153-08:00 jimi-hendnix systemd[1]: Started Dominion game server.
+2026-11-16T17:42:11.439567-08:00 jimi-hendnix dominion[3538368]: dominion: 20 saved games in /var/lib/dominion/games (0 finished games moved to expired/)
+2026-11-16T17:42:11.439567-08:00 jimi-hendnix dominion[3538368]: dominion: MCP endpoint http://127.0.0.1:47317/mcp
+2026-11-16T17:42:11.439567-08:00 jimi-hendnix dominion[3538368]: dominion: web client http://127.0.0.1:47317/
+2026-11-16T17:42:17.154638-08:00 jimi-hendnix dominion[3538368]: dominion: an agent runner connected: Opus High, Fable High, Sonnet High, Sol High, Astra High, Terra High, Argon High (4 at once)

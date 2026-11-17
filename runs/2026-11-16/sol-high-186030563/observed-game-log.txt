@@ -1,0 +1,554 @@
+00000 game 186030563
+00001 Obelisk chooses Player 0 supply.
+00002 The Nearby Trait is acquired by Player 0 supply.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 amiwan starts with 3 Estate.
+00006 amiwan starts with 7 Copper.
+00007 SolDominion answered
+00008 amiwan answered
+00009 SolDominion shuffles their deck.
+00010 amiwan shuffles their deck.
+00011 SolDominion draws 3 Copper, 2 Estate.
+00012 amiwan draws 5 card.
+00013 SolDominion starts turn 1
+00014 SolDominion answered
+00015 SolDominion answered
+00016 SolDominion answered
+00017 play treasures for
+00018 SolDominion answered
+00019 SolDominion buys and gains 1 Black Market.
+00020 SolDominion draws 4 Copper, 1 Estate.
+00021 amiwan starts turn 1
+00022 amiwan answered
+00023 play treasures for
+00024 amiwan buys and gains 1 Sailor.
+00025 amiwan draws 5 card.
+00026 SolDominion starts turn 2
+00027 SolDominion answered
+00028 SolDominion answered
+00029 SolDominion answered
+00030 SolDominion answered
+00031 play treasures for
+00032 SolDominion answered
+00033 SolDominion buys and gains 1 Sailor.
+00034 SolDominion shuffles their deck.
+00035 SolDominion draws 2 Copper, 2 Estate, 1 Black Market.
+00036 amiwan starts turn 2
+00037 amiwan answered
+00038 play treasures for
+00039 amiwan buys and gains 1 Black Market.
+00040 amiwan shuffles their deck.
+00041 amiwan draws 5 card.
+00042 SolDominion starts turn 3
+00043 SolDominion answered
+00044 SolDominion plays 1 Black Market.
+00045 SolDominion gets +$2.
+00046 SolDominion answered
+00047 play treasures for
+00048 SolDominion answered
+00049 SolDominion gains 1 Town.
+00050 SolDominion puts 1 Scavenger, 1 Ranger on the bottom of Player 0 nonSupply.
+00051 SolDominion answered
+00052 SolDominion draws 4 Copper, 1 Sailor.
+00053 amiwan starts turn 3
+00054 amiwan answered
+00055 play treasures for
+00056 amiwan buys and gains 1 Silver.
+00057 amiwan draws 5 card.
+00058 SolDominion starts turn 4
+00059 SolDominion answered
+00060 SolDominion plays 1 Sailor.
+00061 SolDominion gets +1 Action.
+00062 SolDominion answered
+00063 SolDominion answered
+00064 SolDominion answered
+00065 SolDominion answered
+00066 play treasures for
+00067 SolDominion answered
+00068 SolDominion buys and gains 1 Sailor.
+00069 SolDominion answered
+00070 SolDominion plays 1 Sailor.
+00071 SolDominion gets +1 Action.
+00072 SolDominion shuffles their deck.
+00073 SolDominion draws 3 Copper, 2 Estate.
+00074 amiwan starts turn 4
+00075 amiwan answered
+00076 amiwan plays 1 Sailor.
+00077 amiwan gets +1 Action.
+00078 amiwan answered
+00079 play treasures for
+00080 amiwan answered
+00081 amiwan buys and gains 1 Shanty Town.
+00082 amiwan gets +1 Buy. (Nearby)
+00083 amiwan answered
+00084 amiwan shuffles their deck.
+00085 amiwan draws 5 card.
+00086 SolDominion starts turn 5
+00087 SolDominion starts their turn.
+00088 SolDominion gets +$2. (Sailor)
+00089 SolDominion answered
+00090 SolDominion trashes 1 Estate. (Sailor)
+00091 SolDominion gets +$2. (Sailor)
+00092 SolDominion answered
+00093 SolDominion trashes 1 Estate. (Sailor)
+00094 SolDominion answered
+00095 SolDominion answered
+00096 SolDominion answered
+00097 play treasures for
+00098 SolDominion answered
+00099 SolDominion buys and gains 1 Hunting Party.
+00100 SolDominion draws 3 Copper, 1 Estate, 1 Black Market.
+00101 amiwan starts turn 5
+00102 amiwan starts their turn.
+00103 amiwan gets +$2. (Sailor)
+00104 amiwan answered
+00105 amiwan trashes 1 Copper. (Sailor)
+00106 amiwan answered
+00107 amiwan plays 1 Shanty Town.
+00108 amiwan gets +2 Actions.
+00109 amiwan reveals their hand: 2 Copper, 1 Black Market.
+00110 amiwan answered
+00111 amiwan plays 1 Black Market.
+00112 amiwan gets +$2.
+00113 amiwan answered
+00114 amiwan gains 1 Salvager.
+00115 amiwan puts 1 Mint, 1 Cobbler on the bottom of Player 0 nonSupply.
+00116 amiwan answered
+00117 play treasures for
+00118 amiwan answered
+00119 amiwan buys and gains 1 Estate.
+00120 amiwan draws 5 card.
+00121 SolDominion starts turn 6
+00122 SolDominion answered
+00123 SolDominion plays 1 Black Market.
+00124 SolDominion gets +$2.
+00125 SolDominion answered
+00126 play treasures for
+00127 SolDominion answered
+00128 SolDominion puts 1 Market, 1 Wine Merchant, 1 Sheepdog on the bottom of Player 0 nonSupply.
+00129 SolDominion answered
+00130 SolDominion buys and gains 1 Hunting Party.
+00131 SolDominion shuffles their deck.
+00132 SolDominion draws 4 Copper, 1 Town.
+00133 amiwan starts turn 6
+00134 amiwan answered
+00135 play treasures for
+00136 amiwan buys and gains 1 Hunting Party.
+00137 amiwan shuffles their deck.
+00138 amiwan draws 5 card.
+00139 SolDominion starts turn 7
+00140 SolDominion answered
+00141 SolDominion plays 1 Town.
+00142 SolDominion answered
+00143 SolDominion gets +1 Buy.
+00144 SolDominion gets +$2.
+00145 SolDominion answered
+00146 SolDominion answered
+00147 SolDominion answered
+00148 SolDominion answered
+00149 play treasures for
+00150 SolDominion answered
+00151 SolDominion buys and gains 1 Hunting Party.
+00152 SolDominion answered
+00153 SolDominion draws 2 Copper, 2 Hunting Party, 1 Sailor.
+00154 amiwan starts turn 7
+00155 amiwan answered
+00156 amiwan plays 1 Hunting Party.
+00157 amiwan draws 1 card.
+00158 amiwan gets +1 Action.
+00159 amiwan reveals their hand: 2 Estate, 3 Copper.
+00160 amiwan reveals 1 Sailor.
+00161 amiwan puts 1 Sailor into their hand.
+00162 amiwan answered
+00163 amiwan plays 1 Sailor.
+00164 amiwan gets +1 Action.
+00165 amiwan answered
+00166 play treasures for
+00167 amiwan answered
+00168 amiwan buys and gains 1 Silver.
+00169 amiwan draws 5 card.
+00170 SolDominion starts turn 8
+00171 SolDominion answered
+00172 SolDominion plays 1 Hunting Party.
+00173 SolDominion draws 1 Black Market.
+00174 SolDominion gets +1 Action.
+00175 SolDominion reveals their hand: 2 Copper, 1 Black Market, 1 Hunting Party, 1 Sailor.
+00176 SolDominion reveals 1 Copper, 1 Estate.
+00177 SolDominion puts 1 Estate into their hand.
+00178 SolDominion discards 1 Copper.
+00179 SolDominion answered
+00180 SolDominion plays 1 Hunting Party.
+00181 SolDominion draws 1 Sailor.
+00182 SolDominion gets +1 Action.
+00183 SolDominion reveals their hand: 1 Estate, 2 Copper, 1 Black Market, 2 Sailor.
+00184 SolDominion shuffles their deck.
+00185 SolDominion reveals 1 Copper, 1 Hunting Party.
+00186 SolDominion puts 1 Hunting Party into their hand.
+00187 SolDominion discards 1 Copper.
+00188 SolDominion answered
+00189 SolDominion plays 1 Hunting Party.
+00190 SolDominion draws 1 Copper.
+00191 SolDominion gets +1 Action.
+00192 SolDominion reveals their hand: 1 Estate, 3 Copper, 1 Black Market, 2 Sailor.
+00193 SolDominion reveals 3 Copper, 1 Town.
+00194 SolDominion puts 1 Town into their hand.
+00195 SolDominion discards 3 Copper.
+00196 SolDominion answered
+00197 SolDominion plays 1 Sailor.
+00198 SolDominion gets +1 Action.
+00199 SolDominion answered
+00200 SolDominion plays 1 Sailor.
+00201 SolDominion gets +1 Action.
+00202 SolDominion answered
+00203 SolDominion plays 1 Town.
+00204 SolDominion answered
+00205 SolDominion shuffles their deck.
+00206 SolDominion draws 1 Copper.
+00207 SolDominion gets +2 Actions.
+00208 SolDominion answered
+00209 SolDominion plays 1 Black Market.
+00210 SolDominion gets +$2.
+00211 SolDominion answered
+00212 play treasures for
+00213 SolDominion answered
+00214 SolDominion gains 1 Captain.
+00215 SolDominion answered
+00216 SolDominion plays 1 Captain.
+00217 SolDominion answered
+00218 SolDominion plays 1 Dismantle.
+00219 SolDominion trashes 1 Estate.
+00220 SolDominion answered
+00221 SolDominion gains 1 Copper.
+00222 SolDominion gains 1 Gold.
+00223 SolDominion puts 1 Remodel, 1 Mining Village on the bottom of Player 0 nonSupply.
+00224 SolDominion answered
+00225 SolDominion shuffles their deck.
+00226 SolDominion draws 3 Copper, 1 Hunting Party, 1 Town.
+00227 amiwan starts turn 8
+00228 amiwan starts their turn.
+00229 amiwan gets +$2. (Sailor)
+00230 amiwan answered
+00231 amiwan trashes 1 Copper. (Sailor)
+00232 amiwan answered
+00233 amiwan plays 1 Shanty Town.
+00234 amiwan gets +2 Actions.
+00235 amiwan reveals their hand: 1 Silver, 1 Estate, 1 Salvager.
+00236 amiwan answered
+00237 amiwan plays 1 Salvager.
+00238 amiwan gets +1 Buy.
+00239 amiwan answered
+00240 amiwan trashes 1 Estate.
+00241 amiwan gets +$2.
+00242 amiwan answered
+00243 play treasures for
+00244 amiwan answered
+00245 amiwan buys and gains 1 Gold.
+00246 amiwan answered
+00247 amiwan shuffles their deck.
+00248 amiwan draws 5 card.
+00249 SolDominion starts turn 9
+00250 SolDominion starts their turn.
+00251 SolDominion answered
+00252 SolDominion gets +$2. (Sailor)
+00253 SolDominion answered
+00254 SolDominion trashes 1 Copper. (Sailor)
+00255 SolDominion answered
+00256 SolDominion gets +$2. (Sailor)
+00257 SolDominion answered
+00258 SolDominion trashes 1 Copper. (Sailor)
+00259 SolDominion answered
+00260 play with
+00261 SolDominion gets +$2.
+00262 SolDominion answered
+00263 SolDominion gains 1 Archive.
+00264 SolDominion puts 1 Rocks, 1 Investment on the bottom of Player 0 nonSupply.
+00265 SolDominion answered
+00266 SolDominion plays 1 Hunting Party.
+00267 SolDominion draws 1 Copper.
+00268 SolDominion gets +1 Action.
+00269 SolDominion reveals their hand: 2 Copper, 1 Town.
+00270 SolDominion reveals 2 Copper, 1 Gold.
+00271 SolDominion puts 1 Gold into their hand.
+00272 SolDominion discards 2 Copper.
+00273 SolDominion answered
+00274 SolDominion plays 1 Town.
+00275 SolDominion answered
+00276 SolDominion draws 1 Black Market.
+00277 SolDominion gets +2 Actions.
+00278 SolDominion answered
+00279 SolDominion plays 1 Black Market.
+00280 SolDominion gets +$2.
+00281 SolDominion answered
+00282 play treasures for
+00283 SolDominion answered
+00284 SolDominion gains 1 King's Court.
+00285 SolDominion puts 1 Smithy, 1 Dungeon on the bottom of Player 0 nonSupply.
+00286 SolDominion answered
+00287 SolDominion shuffles their deck.
+00288 SolDominion draws 2 Copper, 1 Gold, 2 Hunting Party.
+00289 amiwan starts turn 9
+00290 amiwan answered
+00291 amiwan plays 1 Hunting Party.
+00292 amiwan draws 1 card.
+00293 amiwan gets +1 Action.
+00294 amiwan reveals their hand: 2 Estate, 2 Copper, 1 Black Market.
+00295 amiwan reveals 1 Shanty Town.
+00296 amiwan puts 1 Shanty Town into their hand.
+00297 amiwan answered
+00298 amiwan plays 1 Shanty Town.
+00299 amiwan gets +2 Actions.
+00300 amiwan reveals their hand: 2 Estate, 2 Copper, 1 Black Market.
+00301 amiwan answered
+00302 amiwan plays 1 Black Market.
+00303 amiwan gets +$2.
+00304 amiwan answered
+00305 amiwan gains 1 Cellar.
+00306 amiwan puts 1 Beggar, 1 Marquis on the bottom of Player 0 nonSupply.
+00307 amiwan answered
+00308 play treasures for
+00309 amiwan answered
+00310 amiwan buys and gains 1 Estate.
+00311 amiwan draws 5 card.
+00312 SolDominion starts turn 10
+00313 SolDominion answered
+00314 SolDominion plays 1 Hunting Party.
+00315 SolDominion draws 1 Captain.
+00316 SolDominion gets +1 Action.
+00317 SolDominion reveals their hand: 1 Captain, 2 Copper, 1 Hunting Party, 1 Gold.
+00318 SolDominion reveals 1 Black Market.
+00319 SolDominion puts 1 Black Market into their hand.
+00320 SolDominion answered
+00321 SolDominion plays 1 Hunting Party.
+00322 SolDominion draws 1 Copper.
+00323 SolDominion gets +1 Action.
+00324 SolDominion reveals their hand: 1 Captain, 3 Copper, 1 Black Market, 1 Gold.
+00325 SolDominion reveals 1 Sailor.
+00326 SolDominion puts 1 Sailor into their hand.
+00327 SolDominion answered
+00328 SolDominion plays 1 Sailor.
+00329 SolDominion gets +1 Action.
+00330 SolDominion answered
+00331 SolDominion plays 1 Captain.
+00332 SolDominion answered
+00333 SolDominion plays 1 Shanty Town.
+00334 SolDominion gets +2 Actions.
+00335 SolDominion reveals their hand: 3 Copper, 1 Black Market, 1 Gold.
+00336 SolDominion answered
+00337 SolDominion plays 1 Black Market.
+00338 SolDominion gets +$2.
+00339 SolDominion answered
+00340 play treasures for
+00341 SolDominion answered
+00342 SolDominion puts 1 Nobles, 1 Fortress, 1 Change on the bottom of Player 0 nonSupply.
+00343 SolDominion answered
+00344 SolDominion buys and gains 1 Horn of Plenty.
+00345 SolDominion draws 2 Copper, 1 King's Court, 1 Hunting Party, 1 Town.
+00346 amiwan starts turn 10
+00347 amiwan answered
+00348 amiwan plays 1 Salvager.
+00349 amiwan gets +1 Buy.
+00350 amiwan answered
+00351 amiwan trashes 1 Estate.
+00352 amiwan gets +$2.
+00353 amiwan answered
+00354 play treasures for
+00355 amiwan answered
+00356 amiwan buys and gains 1 Potion.
+00357 amiwan answered
+00358 amiwan buys and gains 1 Black Market.
+00359 amiwan shuffles their deck.
+00360 amiwan draws 5 card.
+00361 SolDominion starts turn 11
+00362 SolDominion starts their turn.
+00363 SolDominion answered
+00364 SolDominion gets +$2. (Sailor)
+00365 SolDominion answered
+00366 SolDominion trashes 1 Copper. (Sailor)
+00367 SolDominion answered
+00368 play with
+00369 SolDominion gets +$2.
+00370 SolDominion answered
+00371 SolDominion gains 1 Church.
+00372 SolDominion puts 1 Duplicate, 1 Night Watchman on the bottom of Player 0 nonSupply.
+00373 SolDominion answered
+00374 SolDominion plays 1 King's Court.
+00375 SolDominion answered
+00376 SolDominion plays 1 Hunting Party.
+00377 SolDominion draws 1 Sailor.
+00378 SolDominion gets +1 Action.
+00379 SolDominion reveals their hand: 1 Copper, 1 Town, 1 Sailor.
+00380 SolDominion reveals 1 Copper, 1 Archive.
+00381 SolDominion puts 1 Archive into their hand.
+00382 SolDominion discards 1 Copper.
+00383 SolDominion plays 1 Hunting Party again.
+00384 SolDominion shuffles their deck.
+00385 SolDominion draws 1 Copper.
+00386 SolDominion gets +1 Action.
+00387 SolDominion reveals their hand: 1 Archive, 2 Copper, 1 Town, 1 Sailor.
+00388 SolDominion reveals 1 Copper, 1 Black Market.
+00389 SolDominion puts 1 Black Market into their hand.
+00390 SolDominion discards 1 Copper.
+00391 SolDominion plays 1 Hunting Party a third time.
+00392 SolDominion draws 1 Church.
+00393 SolDominion gets +1 Action.
+00394 SolDominion reveals their hand: 1 Church, 1 Archive, 2 Copper, 1 Black Market, 1 Town, 1 Sailor.
+00395 SolDominion reveals 1 Horn of Plenty.
+00396 SolDominion puts 1 Horn of Plenty into their hand.
+00397 SolDominion answered
+00398 SolDominion plays 1 Town.
+00399 SolDominion answered
+00400 SolDominion draws 1 Hunting Party.
+00401 SolDominion gets +2 Actions.
+00402 SolDominion answered
+00403 SolDominion plays 1 Hunting Party.
+00404 SolDominion draws 1 Copper.
+00405 SolDominion gets +1 Action.
+00406 SolDominion reveals their hand: 1 Church, 1 Archive, 3 Copper, 1 Black Market, 1 Horn of Plenty, 1 Sailor.
+00407 SolDominion reveals 1 Copper, 1 Hunting Party.
+00408 SolDominion puts 1 Hunting Party into their hand.
+00409 SolDominion discards 1 Copper.
+00410 SolDominion answered
+00411 SolDominion plays 1 Hunting Party.
+00412 SolDominion draws 1 Gold.
+00413 SolDominion gets +1 Action.
+00414 SolDominion reveals their hand: 1 Church, 1 Archive, 3 Copper, 1 Black Market, 1 Horn of Plenty, 1 Gold, 1 Sailor.
+00415 SolDominion shuffles their deck.
+00416 SolDominion reveals 2 Copper.
+00417 SolDominion discards 2 Copper.
+00418 SolDominion answered
+00419 SolDominion plays 1 Archive.
+00420 SolDominion gets +1 Action.
+00421 SolDominion shuffles their deck.
+00422 SolDominion looks at 2 Copper.
+00423 SolDominion puts 1 Copper into their hand.
+00424 SolDominion sets 1 Copper aside.
+00425 SolDominion answered
+00426 SolDominion plays 1 Sailor.
+00427 SolDominion gets +1 Action.
+00428 SolDominion answered
+00429 SolDominion plays 1 Church.
+00430 SolDominion gets +1 Action.
+00431 SolDominion answered
+00432 SolDominion sets 3 Copper aside with Church.
+00433 SolDominion answered
+00434 SolDominion plays 1 Black Market.
+00435 SolDominion gets +$2.
+00436 SolDominion answered
+00437 SolDominion answered
+00438 play treasures for
+00439 SolDominion answered
+00440 SolDominion plays 1 Horn of Plenty.
+00441 SolDominion answered
+00442 SolDominion gains 1 Horn of Plenty.
+00443 SolDominion answered
+00444 SolDominion gains 1 Lighthouse.
+00445 SolDominion answered
+00446 SolDominion plays 1 Lighthouse.
+00447 SolDominion gets +1 Action.
+00448 SolDominion gets +$1.
+00449 SolDominion puts 1 Expand, 1 Cabin Boy on the bottom of Player 0 nonSupply.
+00450 SolDominion answered
+00451 SolDominion buys and gains 1 Counterfeit.
+00452 SolDominion shuffles their deck.
+00453 SolDominion draws 1 Copper, 3 Hunting Party, 1 Black Market.
+00454 amiwan starts turn 11
+00455 amiwan answered
+00456 amiwan answered
+00457 amiwan plays 1 Potion.
+00458 play treasures for
+00459 amiwan buys and gains 1 Golem.
+00460 amiwan draws 5 card.
+00461 SolDominion starts turn 12
+00462 SolDominion starts their turn.
+00463 SolDominion answered
+00464 SolDominion puts 3 Copper in hand (Church).
+00465 SolDominion answered
+00466 SolDominion trashes 1 Copper. (Church)
+00467 SolDominion answered
+00468 SolDominion gets +$2. (Sailor)
+00469 SolDominion answered
+00470 SolDominion trashes 1 Copper. (Sailor)
+00471 SolDominion gets +$1. (Lighthouse)
+00472 SolDominion puts 1 Copper in hand (Archive).
+00473 SolDominion answered
+00474 SolDominion plays 1 Hunting Party.
+00475 SolDominion draws 1 Sailor.
+00476 SolDominion gets +1 Action.
+00477 SolDominion reveals their hand: 1 Black Market, 3 Copper, 2 Hunting Party, 1 Sailor.
+00478 SolDominion reveals 1 Counterfeit.
+00479 SolDominion puts 1 Counterfeit into their hand.
+00480 SolDominion answered
+00481 SolDominion plays 1 Hunting Party.
+00482 SolDominion draws 1 King's Court.
+00483 SolDominion gets +1 Action.
+00484 SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Hunting Party, 1 King's Court, 1 Sailor.
+00485 SolDominion reveals 1 Town.
+00486 SolDominion puts 1 Town into their hand.
+00487 SolDominion answered
+00488 SolDominion plays 1 King's Court.
+00489 SolDominion answered
+00490 SolDominion plays 1 Hunting Party.
+00491 SolDominion draws 1 Gold.
+00492 SolDominion gets +1 Action.
+00493 SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 1 Gold, 1 Sailor.
+00494 SolDominion reveals 1 Horn of Plenty.
+00495 SolDominion puts 1 Horn of Plenty into their hand.
+00496 SolDominion plays 1 Hunting Party again.
+00497 SolDominion draws 1 Horn of Plenty.
+00498 SolDominion gets +1 Action.
+00499 SolDominion reveals their hand: 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 2 Horn of Plenty, 1 Gold, 1 Sailor.
+00500 SolDominion reveals 1 Captain.
+00501 SolDominion puts 1 Captain into their hand.
+00502 SolDominion plays 1 Hunting Party a third time.
+00503 SolDominion gets +1 Action.
+00504 SolDominion reveals their hand: 1 Captain, 1 Black Market, 3 Copper, 1 Counterfeit, 1 Town, 2 Horn of Plenty, 1 Gold, 1 Sailor.
+00505 SolDominion answered
+00506 SolDominion plays 1 Sailor.
+00507 SolDominion gets +1 Action.
+00508 SolDominion answered
+00509 SolDominion plays 1 Town.
+00510 SolDominion answered
+00511 SolDominion gets +1 Buy.
+00512 SolDominion gets +$2.
+00513 SolDominion answered
+00514 SolDominion plays 1 Captain.
+00515 SolDominion answered
+00516 SolDominion plays 1 Black Market.
+00517 SolDominion gets +$2.
+00518 SolDominion answered
+00519 SolDominion puts 1 Festival, 1 Procession, 1 Flagship on the bottom of Player 0 nonSupply.
+00520 SolDominion answered
+00521 SolDominion plays 1 Black Market.
+00522 SolDominion gets +$2.
+00523 SolDominion answered
+00524 SolDominion answered
+00525 SolDominion answered
+00526 SolDominion answered
+00527 play treasures for
+00528 SolDominion answered
+00529 play treasures for
+00530 SolDominion gets +1 Buy.
+00531 SolDominion answered
+00532 SolDominion plays 1 Horn of Plenty.
+00533 SolDominion answered
+00534 SolDominion gains 1 Province.
+00535 SolDominion trashes 1 Horn of Plenty.
+00536 SolDominion plays 1 Horn of Plenty again.
+00537 SolDominion answered
+00538 SolDominion gains 1 Province.
+00539 SolDominion answered
+00540 SolDominion plays 1 Horn of Plenty.
+00541 SolDominion answered
+00542 SolDominion gains 1 Province.
+00543 SolDominion trashes 1 Horn of Plenty.
+00544 SolDominion answered
+00545 SolDominion puts 1 Trader, 1 Sacrifice, 1 Litter on the bottom of Player 0 nonSupply.
+00546 SolDominion answered
+00547 SolDominion answered
+00548 SolDominion buys and gains 2 Province.
+00549 SolDominion answered
+00550 SolDominion shuffles their deck.
+00551 SolDominion draws 1 Copper, 1 Gold, 1 Lighthouse, 1 Black Market, 1 Town.
+00552 amiwan starts turn 12
+00553 amiwan answered

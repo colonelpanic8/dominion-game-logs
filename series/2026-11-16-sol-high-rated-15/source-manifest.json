@@ -1,0 +1,876 @@
+{
+  "series": "sol-rating-20261116",
+  "account": "SolDominion",
+  "agent": "Sol High",
+  "created_at": "2026-11-17T05:35:12.133558+00:00",
+  "completed_games": 15,
+  "agent_sessions": 17,
+  "games": [
+    {
+      "number": 1,
+      "game_id": "dominion.games:186028514",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "Quen_tin_Zug",
+            "vp": 18,
+            "rank": 2,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 36,
+            "rank": 1,
+            "turns": 19
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794871859778-86246eaa153e49bd",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794871859778-86246eaa153e49bd",
+          "events": 585,
+          "event_kinds": {
+            "seat": 1,
+            "request": 120,
+            "response": 120,
+            "direct_request": 120,
+            "direct_usage": 120,
+            "native_event": 101,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794871859779,
+          "last_time_ms": 1794872945571,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 1006,
+      "log_seq_range": [
+        0,
+        1005
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 2,
+      "game_id": "dominion.games:186029319",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 37,
+            "rank": 1,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "weitzy",
+            "vp": 3,
+            "rank": 2,
+            "turns": 15,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794873290772-7c143ecc32c5047e",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794873290772-7c143ecc32c5047e",
+          "events": 901,
+          "event_kinds": {
+            "seat": 1,
+            "request": 189,
+            "response": 188,
+            "direct_request": 188,
+            "direct_usage": 188,
+            "native_event": 144,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794873290772,
+          "last_time_ms": 1794875132509,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 758,
+      "log_seq_range": [
+        0,
+        757
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 3,
+      "game_id": "dominion.games:186030563",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 36,
+            "rank": 1,
+            "turns": 12
+          },
+          {
+            "index": 1,
+            "name": "amiwan",
+            "vp": 5,
+            "rank": 2,
+            "turns": 12,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794875592579-c6a4a43eeefab8b7",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794875592579-c6a4a43eeefab8b7",
+          "events": 610,
+          "event_kinds": {
+            "seat": 1,
+            "request": 125,
+            "response": 125,
+            "direct_request": 125,
+            "direct_usage": 125,
+            "native_event": 106,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794875592579,
+          "last_time_ms": 1794876446604,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 554,
+      "log_seq_range": [
+        0,
+        553
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 4,
+      "game_id": "dominion.games:186031039",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "dominiondominion",
+            "vp": 0,
+            "rank": 2,
+            "turns": 9,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 9
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794876438638-891347acd0707098",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794876438638-891347acd0707098",
+          "events": 437,
+          "event_kinds": {
+            "seat": 1,
+            "request": 93,
+            "response": 92,
+            "direct_request": 92,
+            "direct_usage": 92,
+            "native_event": 64,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794876438638,
+          "last_time_ms": 1794878273857,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 327,
+      "log_seq_range": [
+        0,
+        326
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 5,
+      "game_id": "dominion.games:186032083",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "GameBot3000",
+            "vp": 10,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 11,
+            "rank": 2,
+            "turns": 13,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794878511005-721a9e593f92cb1a",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794878511005-721a9e593f92cb1a",
+          "events": 374,
+          "event_kinds": {
+            "seat": 1,
+            "request": 80,
+            "response": 79,
+            "direct_request": 79,
+            "direct_usage": 79,
+            "native_event": 53,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794878511006,
+          "last_time_ms": 1794879216699,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 494,
+      "log_seq_range": [
+        0,
+        493
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 6,
+      "game_id": "dominion.games:186032758",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 45,
+            "rank": 2,
+            "turns": 21
+          },
+          {
+            "index": 1,
+            "name": "mdwicker",
+            "vp": 46,
+            "rank": 1,
+            "turns": 21
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794879824340-b4b293416d4bef68",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794879824340-b4b293416d4bef68",
+          "events": 146,
+          "event_kinds": {
+            "seat": 1,
+            "request": 31,
+            "response": 32,
+            "direct_request": 31,
+            "direct_usage": 30,
+            "native_event": 20,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794879824340,
+          "last_time_ms": 1794880162854,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        },
+        {
+          "archive": "1794880167857-60043b3f43efcc02",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794880167857-60043b3f43efcc02",
+          "events": 404,
+          "event_kinds": {
+            "seat": 1,
+            "request": 84,
+            "response": 85,
+            "direct_request": 84,
+            "direct_usage": 83,
+            "native_event": 66,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794880167859,
+          "last_time_ms": 1794881153975,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        },
+        {
+          "archive": "1794881163977-3d956ff62b37805b",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794881163977-3d956ff62b37805b",
+          "events": 65,
+          "event_kinds": {
+            "seat": 1,
+            "request": 14,
+            "response": 14,
+            "direct_request": 14,
+            "direct_usage": 14,
+            "native_event": 5,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794881163977,
+          "last_time_ms": 1794881317179,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 627,
+      "log_seq_range": [
+        0,
+        626
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 7,
+      "game_id": "dominion.games:186033558",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 29,
+            "rank": 1,
+            "turns": 17
+          },
+          {
+            "index": 1,
+            "name": "Pitstop363",
+            "vp": 8,
+            "rank": 2,
+            "turns": 16
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794881306863-87e62f33632751f8",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794881306863-87e62f33632751f8",
+          "events": 590,
+          "event_kinds": {
+            "seat": 1,
+            "request": 124,
+            "response": 124,
+            "direct_request": 124,
+            "direct_usage": 124,
+            "native_event": 90,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794881306863,
+          "last_time_ms": 1794882661375,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 651,
+      "log_seq_range": [
+        0,
+        650
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 8,
+      "game_id": "dominion.games:186034175",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "hangdong69",
+            "vp": 1,
+            "rank": 2,
+            "turns": 6,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 1,
+            "rank": 1,
+            "turns": 6
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794882656836-3b19e7de042da9c6",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794882656836-3b19e7de042da9c6",
+          "events": 198,
+          "event_kinds": {
+            "seat": 1,
+            "request": 40,
+            "response": 39,
+            "direct_request": 39,
+            "direct_usage": 39,
+            "native_event": 37,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794882656837,
+          "last_time_ms": 1794883121116,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 199,
+      "log_seq_range": [
+        0,
+        198
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 9,
+      "game_id": "dominion.games:186034403",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 3,
+            "rank": 1,
+            "turns": 0
+          },
+          {
+            "index": 1,
+            "name": "nateopp",
+            "vp": 3,
+            "rank": 2,
+            "turns": 0,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794883120294-ec0785c2b5913e25",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794883120294-ec0785c2b5913e25",
+          "events": 56,
+          "event_kinds": {
+            "seat": 1,
+            "request": 12,
+            "response": 12,
+            "direct_request": 12,
+            "direct_usage": 12,
+            "native_event": 4,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794883120295,
+          "last_time_ms": 1794883256130,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 6,
+      "log_seq_range": [
+        0,
+        5
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 10,
+      "game_id": "dominion.games:186034460",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 13
+          },
+          {
+            "index": 1,
+            "name": "GameBot3000",
+            "vp": 3,
+            "rank": 2,
+            "turns": 12,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794883251410-a315e22ce30a1111",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794883251410-a315e22ce30a1111",
+          "events": 491,
+          "event_kinds": {
+            "seat": 1,
+            "request": 103,
+            "response": 102,
+            "direct_request": 102,
+            "direct_usage": 102,
+            "native_event": 78,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794883251410,
+          "last_time_ms": 1794884132244,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 538,
+      "log_seq_range": [
+        0,
+        537
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 11,
+      "game_id": "dominion.games:186034884",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 3,
+            "rank": 1,
+            "turns": 1
+          },
+          {
+            "index": 1,
+            "name": "nateopp",
+            "vp": 3,
+            "rank": 2,
+            "turns": 0,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794884126971-239033aa74dfcf39",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794884126971-239033aa74dfcf39",
+          "events": 51,
+          "event_kinds": {
+            "seat": 1,
+            "request": 12,
+            "response": 11,
+            "direct_request": 11,
+            "direct_usage": 11,
+            "native_event": 2,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794884126972,
+          "last_time_ms": 1794884210322,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 10,
+      "log_seq_range": [
+        0,
+        9
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 12,
+      "game_id": "dominion.games:186034949",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "yukkiboi",
+            "vp": 0,
+            "rank": 2,
+            "turns": 9,
+            "resigned": true
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 0,
+            "rank": 1,
+            "turns": 8
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794884217728-dbea679abae3277a",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794884217728-dbea679abae3277a",
+          "events": 255,
+          "event_kinds": {
+            "seat": 1,
+            "request": 51,
+            "response": 51,
+            "direct_request": 51,
+            "direct_usage": 51,
+            "native_event": 47,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794884217728,
+          "last_time_ms": 1794884693463,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 280,
+      "log_seq_range": [
+        0,
+        279
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 13,
+      "game_id": "dominion.games:186035246",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 35,
+            "rank": 1,
+            "turns": 18
+          },
+          {
+            "index": 1,
+            "name": "dtbomber",
+            "vp": 26,
+            "rank": 2,
+            "turns": 17,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794884693329-2edbc869e8b91a0b",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794884693329-2edbc869e8b91a0b",
+          "events": 525,
+          "event_kinds": {
+            "seat": 1,
+            "request": 106,
+            "response": 105,
+            "direct_request": 105,
+            "direct_usage": 105,
+            "native_event": 100,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794884693329,
+          "last_time_ms": 1794885899730,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 735,
+      "log_seq_range": [
+        0,
+        734
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 14,
+      "game_id": "dominion.games:186035907",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "SolDominion",
+            "vp": 18,
+            "rank": 1,
+            "turns": 9
+          },
+          {
+            "index": 1,
+            "name": "Rok3",
+            "vp": 2,
+            "rank": 2,
+            "turns": 8,
+            "resigned": true
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794885909345-49a0314ff5540970",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794885909345-49a0314ff5540970",
+          "events": 346,
+          "event_kinds": {
+            "seat": 1,
+            "request": 73,
+            "response": 72,
+            "direct_request": 72,
+            "direct_usage": 72,
+            "native_event": 53,
+            "transport_error": 1,
+            "final_view_unavailable": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794885909345,
+          "last_time_ms": 1794886456692,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": false
+        }
+      ],
+      "observed_log_entries": 311,
+      "log_seq_range": [
+        0,
+        310
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": false,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    },
+    {
+      "number": 15,
+      "game_id": "dominion.games:186036166",
+      "result": {
+        "reason": "official server result",
+        "players": [
+          {
+            "index": 0,
+            "name": "Relicdog",
+            "vp": 30,
+            "rank": 1,
+            "turns": 16
+          },
+          {
+            "index": 1,
+            "name": "SolDominion",
+            "vp": 19,
+            "rank": 2,
+            "turns": 15
+          }
+        ]
+      },
+      "sessions": [
+        {
+          "archive": "1794886461245-a2868ba62f33551e",
+          "source": "/home/imalison/.local/state/dominion/agents/archives/1794886461245-a2868ba62f33551e",
+          "events": 750,
+          "event_kinds": {
+            "seat": 1,
+            "request": 163,
+            "response": 163,
+            "direct_request": 163,
+            "direct_usage": 163,
+            "native_event": 94,
+            "result": 1,
+            "native_response": 1,
+            "seat_finished": 1
+          },
+          "first_time_ms": 1794886461245,
+          "last_time_ms": 1794887766057,
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "recorded_final_view": true
+        }
+      ],
+      "observed_log_entries": 1093,
+      "log_seq_range": [
+        0,
+        1092
+      ],
+      "missing_observed_sequence_numbers": [],
+      "has_recorded_final_view": true,
+      "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+    }
+  ],
+  "preservation": "Byte-for-byte copies of all matching local agent archive directories; original files untouched. No official login or game reload performed.",
+  "limitations": [
+    "Only data actually recorded can be preserved. No raw official WebSocket capture was enabled.",
+    "Some agent sessions stopped before the final server notification. Saved authoritative results cover all 15 games.",
+    "Agent archives contain recorded tool requests/replies, legal views, usage and reasoning summaries; unrecorded provider internals are unavailable.",
+    "Local disk archive and compressed copy; no off-machine backup is asserted."
+  ]
+}

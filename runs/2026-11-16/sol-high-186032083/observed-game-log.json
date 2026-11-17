@@ -1,0 +1,3146 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186032083",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "Circle of Witches",
+    "player": 0,
+    "seq": 1,
+    "text": "GameBot3000 gets +1 Favor. (Circle of Witches)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "card": "Circle of Witches",
+    "player": 1,
+    "seq": 2,
+    "text": "SolDominion gets +1 Favor. (Circle of Witches)",
+    "type": "official-gets-favor-from"
+  },
+  {
+    "player": 0,
+    "seq": 3,
+    "text": "GameBot3000 starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 4,
+    "text": "GameBot3000 starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 7,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 8,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 9,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 10,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 11,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 12,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 13,
+    "text": "GameBot3000 starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 17,
+    "text": "GameBot3000 buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 21,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 25,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 27,
+    "text": "GameBot3000 starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 29,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 31,
+    "text": "GameBot3000 buys and gains 1 Vampire.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 37,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 1,
+    "seq": 41,
+    "text": "SolDominion buys and gains 1 Broker.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 43,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Broker.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 44,
+    "text": "GameBot3000 starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 45,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 46,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 48,
+    "text": "GameBot3000 buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 50,
+    "text": "GameBot3000 plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "Plague",
+    "player": 0,
+    "seq": 51,
+    "text": "GameBot3000 takes 1 Plague.",
+    "type": "official-take"
+  },
+  {
+    "card": "Plague",
+    "player": 1,
+    "seq": 52,
+    "text": "SolDominion receives 1 Plague.",
+    "type": "official-receives"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Plague",
+    "player": 0,
+    "seq": 54,
+    "text": "GameBot3000 discards 1 Plague.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 0,
+    "seq": 55,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 56,
+    "text": "GameBot3000 gains 1 Charlatan.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 57,
+    "text": "GameBot3000 returns 1 Vampire.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 58,
+    "text": "GameBot3000 receives 1 Bat.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 59,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 60,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 61,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 1,
+    "seq": 62,
+    "text": "SolDominion plays 1 Broker.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 63,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 64,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 65,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 1,
+    "seq": 66,
+    "text": "SolDominion gets +2 Favors. (Broker)",
+    "type": "official-gets-favors-from"
+  },
+  {
+    "player": 1,
+    "seq": 67,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Circle of Witches",
+    "player": 1,
+    "seq": 68,
+    "text": "SolDominion spends 3 Favors.",
+    "type": "official-spends-favors"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 69,
+    "text": "GameBot3000 gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 70,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 72,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 76,
+    "text": "SolDominion buys and gains 1 Cultist.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 78,
+    "text": "GameBot3000 starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 79,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 80,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 82,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 83,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 84,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 85,
+    "text": "GameBot3000 buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 86,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 90,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 92,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 93,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 94,
+    "text": "SolDominion buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 95,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 96,
+    "text": "SolDominion draws 4 Copper, 1 Supplies.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "GameBot3000 starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 99,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 102,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 103,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 105,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Altar",
+    "player": 0,
+    "seq": 106,
+    "text": "GameBot3000 buys and gains 1 Altar.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 109,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 110,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 111,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 112,
+    "text": "SolDominion plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 113,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 1,
+    "seq": 119,
+    "text": "SolDominion buys and gains 1 Vampire.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "SolDominion draws 1 Curse, 1 Copper, 1 Estate, 1 Horse, 1 Broker.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "GameBot3000 starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 123,
+    "text": "GameBot3000 plays 1 Charlatan.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "GameBot3000 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 125,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 127,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 128,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 130,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 131,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 133,
+    "text": "GameBot3000 buys and gains 1 Vampire.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 134,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 135,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 136,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 137,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "SolDominion draws 1 Copper, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 139,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 140,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 141,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 1,
+    "seq": 142,
+    "text": "SolDominion plays 1 Broker.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 143,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 144,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 145,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 146,
+    "text": "SolDominion gets +2 Actions.",
+    "type": "official-gets-actions"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion draws 1 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Ruined Village",
+    "player": 0,
+    "seq": 150,
+    "text": "GameBot3000 gains 1 Ruined Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 155,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 156,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 157,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 158,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 159,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Broker.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 160,
+    "text": "GameBot3000 starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 162,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 164,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 165,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 167,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 168,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 170,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 171,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 172,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 173,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 174,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 175,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 176,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 177,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 178,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 179,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 180,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 181,
+    "text": "GameBot3000 buys and gains 1 Vampire.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 182,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 183,
+    "text": "GameBot3000 plays 1 Bat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 184,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 185,
+    "text": "GameBot3000 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 186,
+    "text": "GameBot3000 returns 1 Bat.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 187,
+    "text": "GameBot3000 receives 1 Vampire.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 188,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 190,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 1,
+    "seq": 191,
+    "text": "SolDominion plays 1 Broker.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 192,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 193,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 194,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 195,
+    "text": "SolDominion draws 1 Curse, 1 Vampire.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 197,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 200,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 201,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 202,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 203,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "Haunting",
+    "player": 1,
+    "seq": 205,
+    "text": "SolDominion takes 1 Haunting.",
+    "type": "official-take"
+  },
+  {
+    "card": "Haunting",
+    "player": 0,
+    "seq": 206,
+    "text": "GameBot3000 receives 1 Haunting.",
+    "type": "official-receives"
+  },
+  {
+    "player": 0,
+    "seq": 207,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 208,
+    "text": "GameBot3000 topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "card": "Haunting",
+    "player": 1,
+    "seq": 209,
+    "text": "SolDominion discards 1 Haunting.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 211,
+    "text": "SolDominion gains 1 Cultist.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Vampire",
+    "player": 1,
+    "seq": 212,
+    "text": "SolDominion returns 1 Vampire.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Bat",
+    "player": 1,
+    "seq": 213,
+    "text": "SolDominion receives 1 Bat.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 214,
+    "text": "SolDominion draws 4 Copper, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 215,
+    "text": "GameBot3000 starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 216,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 217,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 218,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 219,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 220,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 221,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 222,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 223,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 224,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 225,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 226,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 227,
+    "text": "GameBot3000 plays 1 Charlatan.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "GameBot3000 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 229,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 230,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 231,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 233,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 234,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 235,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Training",
+    "player": 0,
+    "seq": 236,
+    "text": "GameBot3000 buys 1 Training.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "GameBot3000 moves plus action to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 0,
+    "seq": 239,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 240,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 241,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 242,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 243,
+    "text": "SolDominion draws 1 Curse, 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Ruined Market",
+    "player": 0,
+    "seq": 244,
+    "text": "GameBot3000 gains 1 Ruined Market.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 245,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 246,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 248,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 249,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 250,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 251,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 252,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 253,
+    "text": "SolDominion buys and gains 1 Cultist.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 255,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Supplies.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 256,
+    "text": "GameBot3000 starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 257,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 258,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 261,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Altar",
+    "player": 0,
+    "seq": 263,
+    "text": "GameBot3000 plays 1 Altar.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 264,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 0,
+    "seq": 265,
+    "text": "GameBot3000 trashes 1 Curse.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 266,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 267,
+    "text": "GameBot3000 gains 1 Charlatan.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 268,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 269,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 270,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 271,
+    "text": "GameBot3000 buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 272,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 273,
+    "text": "GameBot3000 plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "War",
+    "player": 0,
+    "seq": 274,
+    "text": "GameBot3000 takes 1 War.",
+    "type": "official-take"
+  },
+  {
+    "card": "War",
+    "player": 1,
+    "seq": 275,
+    "text": "SolDominion receives 1 War.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "SolDominion reveals 1 Curse, 1 Copper, 1 Silver, 1 Gold, 1 Cultist.",
+    "type": "official-reveal-searching"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion trashes 1 Silver.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "SolDominion discards 1 Curse, 1 Copper, 1 Gold, 1 Cultist.",
+    "type": "official-discard"
+  },
+  {
+    "card": "War",
+    "player": 0,
+    "seq": 279,
+    "text": "GameBot3000 discards 1 War.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 0,
+    "seq": 280,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bandit",
+    "player": 0,
+    "seq": 281,
+    "text": "GameBot3000 gains 1 Bandit.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 282,
+    "text": "GameBot3000 returns 1 Vampire.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 283,
+    "text": "GameBot3000 receives 1 Bat.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 284,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 285,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 286,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 288,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 290,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 292,
+    "text": "SolDominion plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 293,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 294,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 295,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 296,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Training",
+    "player": 1,
+    "seq": 297,
+    "text": "SolDominion buys 1 Training.",
+    "type": "official-buy"
+  },
+  {
+    "player": 1,
+    "seq": 298,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 299,
+    "text": "SolDominion moves plus buy to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 1,
+    "seq": 300,
+    "text": "SolDominion draws 1 Curse, 1 Copper, 1 Cultist, 1 Bat, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "GameBot3000 starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 302,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 304,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 305,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 306,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 307,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 309,
+    "text": "GameBot3000 buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 310,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 311,
+    "text": "GameBot3000 plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "Poverty",
+    "player": 0,
+    "seq": 312,
+    "text": "GameBot3000 takes 1 Poverty.",
+    "type": "official-take"
+  },
+  {
+    "card": "Poverty",
+    "player": 1,
+    "seq": 313,
+    "text": "SolDominion receives 1 Poverty.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 314,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 315,
+    "text": "SolDominion discards 1 Curse, 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "card": "Poverty",
+    "player": 0,
+    "seq": 316,
+    "text": "GameBot3000 discards 1 Poverty.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 0,
+    "seq": 317,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ronin",
+    "player": 0,
+    "seq": 318,
+    "text": "GameBot3000 gains 1 Ronin.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 319,
+    "text": "GameBot3000 returns 1 Vampire.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 320,
+    "text": "GameBot3000 receives 1 Bat.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 321,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 322,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 323,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 324,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 325,
+    "text": "SolDominion draws 1 Copper, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 326,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 327,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 328,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 329,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 330,
+    "text": "SolDominion draws 1 Copper, 1 Broker.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Abandoned Mine",
+    "player": 0,
+    "seq": 331,
+    "text": "GameBot3000 gains 1 Abandoned Mine.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 332,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 333,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 334,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "SolDominion draws 1 Curse, 1 Copper.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Ruined Village",
+    "player": 0,
+    "seq": 336,
+    "text": "GameBot3000 gains 1 Ruined Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 337,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 340,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 341,
+    "text": "SolDominion buys and gains 1 Supplies.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bat",
+    "player": 1,
+    "seq": 343,
+    "text": "SolDominion plays 1 Bat.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 345,
+    "text": "SolDominion trashes 1 Curse, 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Bat",
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion returns 1 Bat.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Vampire",
+    "player": 1,
+    "seq": 347,
+    "text": "SolDominion receives 1 Vampire.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 1,
+    "seq": 348,
+    "text": "SolDominion draws 1 Curse, 2 Copper, 1 Gold, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "GameBot3000 starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 351,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 352,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 353,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 354,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 355,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 356,
+    "text": "GameBot3000 plays 1 Charlatan.",
+    "type": "official-play"
+  },
+  {
+    "card": "Training",
+    "player": 0,
+    "seq": 357,
+    "text": "GameBot3000 gets +1 Coin (from Training).",
+    "type": "official-plus-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 358,
+    "text": "GameBot3000 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 359,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 360,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 361,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 362,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 363,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 364,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 365,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 366,
+    "text": "GameBot3000 buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 368,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 369,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 370,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 371,
+    "text": "SolDominion draws 1 Copper, 1 Supplies.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Survivors",
+    "player": 0,
+    "seq": 372,
+    "text": "GameBot3000 gains 1 Survivors.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 374,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 376,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 377,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 378,
+    "text": "SolDominion plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 379,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 380,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 381,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 382,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 383,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 384,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 385,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 386,
+    "text": "SolDominion draws 1 Curse, 2 Copper, 1 Silver, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "GameBot3000 starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 389,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 390,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 391,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 392,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 393,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Charlatan",
+    "player": 0,
+    "seq": 394,
+    "text": "GameBot3000 plays 1 Charlatan.",
+    "type": "official-play"
+  },
+  {
+    "card": "Training",
+    "player": 0,
+    "seq": 395,
+    "text": "GameBot3000 gets +1 Coin (from Training).",
+    "type": "official-plus-coin-from"
+  },
+  {
+    "player": 0,
+    "seq": 396,
+    "text": "GameBot3000 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 397,
+    "text": "SolDominion gains 1 Curse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 398,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 399,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 400,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 401,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 402,
+    "text": "GameBot3000 buys and gains 1 Vampire.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 404,
+    "text": "GameBot3000 plays 1 Bat.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 405,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 406,
+    "text": "GameBot3000 trashes 1 Estate, 1 Ruined Village.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 407,
+    "text": "GameBot3000 returns 1 Bat.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 408,
+    "text": "GameBot3000 receives 1 Vampire.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 409,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 412,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 413,
+    "text": "SolDominion draws 1 Copper, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 414,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 415,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 416,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 417,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 418,
+    "text": "SolDominion draws 1 Cultist, 1 Supplies.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Ruined Village",
+    "player": 0,
+    "seq": 419,
+    "text": "GameBot3000 gains 1 Ruined Village.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 420,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 421,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 422,
+    "text": "SolDominion draws 1 Gold, 1 Broker.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Ruined Market",
+    "player": 0,
+    "seq": 423,
+    "text": "GameBot3000 gains 1 Ruined Market.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 424,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 425,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 426,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 428,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 429,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 1,
+    "seq": 430,
+    "text": "SolDominion plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 431,
+    "text": "SolDominion gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 432,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 433,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 1,
+    "seq": 435,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 436,
+    "text": "SolDominion draws 2 Copper, 1 Province, 1 Vampire, 1 Horse.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 437,
+    "text": "GameBot3000 starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 438,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 439,
+    "text": "GameBot3000 plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "card": "Ronin",
+    "player": 0,
+    "seq": 440,
+    "text": "GameBot3000 puts 1 Ronin on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 441,
+    "text": "GameBot3000 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 442,
+    "text": "GameBot3000 draws 2 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 443,
+    "text": "GameBot3000 gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 444,
+    "text": "GameBot3000 returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 0,
+    "seq": 445,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ronin",
+    "player": 0,
+    "seq": 446,
+    "text": "GameBot3000 plays 1 Ronin.",
+    "type": "official-play"
+  },
+  {
+    "card": "card",
+    "player": 0,
+    "seq": 447,
+    "text": "GameBot3000 draws 1 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 448,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 449,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 450,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Supplies",
+    "player": 0,
+    "seq": 451,
+    "text": "GameBot3000 plays 1 Supplies.",
+    "type": "official-play"
+  },
+  {
+    "card": "Horse",
+    "player": 0,
+    "seq": 452,
+    "text": "GameBot3000 gains 1 Horse.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 453,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Broker",
+    "player": 0,
+    "seq": 454,
+    "text": "GameBot3000 buys and gains 1 Broker.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 455,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 456,
+    "text": "GameBot3000 plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "Envy",
+    "player": 0,
+    "seq": 457,
+    "text": "GameBot3000 takes 1 Envy.",
+    "type": "official-take"
+  },
+  {
+    "card": "Envy",
+    "player": 1,
+    "seq": 458,
+    "text": "SolDominion receives 1 Envy.",
+    "type": "official-receives"
+  },
+  {
+    "card": "Envious",
+    "player": 1,
+    "seq": 459,
+    "text": "SolDominion takes 1 Envious.",
+    "type": "official-take"
+  },
+  {
+    "card": "Envy",
+    "player": 0,
+    "seq": 460,
+    "text": "GameBot3000 discards 1 Envy.",
+    "type": "official-discard-receivable"
+  },
+  {
+    "player": 0,
+    "seq": 461,
+    "text": "GameBot3000 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Duchy",
+    "player": 0,
+    "seq": 462,
+    "text": "GameBot3000 gains 1 Duchy.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Vampire",
+    "player": 0,
+    "seq": 463,
+    "text": "GameBot3000 returns 1 Vampire.",
+    "type": "official-exchange-return"
+  },
+  {
+    "card": "Bat",
+    "player": 0,
+    "seq": 464,
+    "text": "GameBot3000 receives 1 Bat.",
+    "type": "official-exchange-receive"
+  },
+  {
+    "player": 0,
+    "seq": 465,
+    "text": "GameBot3000 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 466,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 467,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 468,
+    "text": "SolDominion plays 1 Horse.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 469,
+    "text": "SolDominion draws 1 Copper, 1 Cultist.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 470,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official-gets-action"
+  },
+  {
+    "card": "Horse",
+    "player": 1,
+    "seq": 471,
+    "text": "SolDominion returns 1 Horse to Player 0 nonSupply.",
+    "type": "official-return-to"
+  },
+  {
+    "player": 1,
+    "seq": 472,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cultist",
+    "player": 1,
+    "seq": 473,
+    "text": "SolDominion plays 1 Cultist.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 474,
+    "text": "SolDominion draws 2 Curse.",
+    "type": "official-draw"
+  },
+  {
+    "card": "Abandoned Mine",
+    "player": 0,
+    "seq": 475,
+    "text": "GameBot3000 gains 1 Abandoned Mine.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 476,
+    "text": "SolDominion begins their buy phase.",
+    "type": "official-begins-buyphase"
+  },
+  {
+    "card": "Envious",
+    "player": 1,
+    "seq": 477,
+    "text": "SolDominion returns 1 Envious.",
+    "type": "official-return"
+  },
+  {
+    "player": 1,
+    "seq": 478,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 479,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 480,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 481,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 482,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 484,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Ronin",
+    "player": 1,
+    "seq": 485,
+    "text": "SolDominion buys and gains 1 Ronin.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Vampire",
+    "player": 1,
+    "seq": 487,
+    "text": "SolDominion plays 1 Vampire.",
+    "type": "official-play"
+  },
+  {
+    "card": "Bad Omens",
+    "player": 1,
+    "seq": 488,
+    "text": "SolDominion takes 1 Bad Omens.",
+    "type": "official-take"
+  },
+  {
+    "card": "Bad Omens",
+    "player": 0,
+    "seq": 489,
+    "text": "GameBot3000 receives 1 Bad Omens.",
+    "type": "official-receives"
+  },
+  {
+    "player": 0,
+    "seq": 490,
+    "text": "GameBot3000 moves their deck to the discard.",
+    "type": "official-deck-to-discard"
+  },
+  {
+    "player": 0,
+    "seq": 491,
+    "text": "GameBot3000 looks at 26 card, 1 Broker, 1 Ronin.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 492,
+    "text": "GameBot3000 topdecks 2 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "card": "Bad Omens",
+    "player": 1,
+    "seq": 493,
+    "text": "SolDominion discards 1 Bad Omens.",
+    "type": "official-discard-receivable"
+  }
+]

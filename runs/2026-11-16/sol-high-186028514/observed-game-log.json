@@ -1,0 +1,5334 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186028514",
+    "type": "official"
+  },
+  {
+    "seq": 1,
+    "text": "Quen_tin_Zug starts with 3 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 2,
+    "text": "Quen_tin_Zug starts with 7 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 3,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 4,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 5,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 6,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 7,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 8,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 9,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 10,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 11,
+    "text": "Quen_tin_Zug turn 1",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 13,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 15,
+    "text": "Quen_tin_Zug buys and gains 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 16,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 17,
+    "text": "SolDominion turn 1",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 19,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 21,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 22,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 23,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 24,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 25,
+    "text": "Quen_tin_Zug turn 2",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 26,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 27,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 28,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 29,
+    "text": "Quen_tin_Zug buys and gains 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 30,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 31,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 32,
+    "text": "SolDominion turn 2",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 34,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 36,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 37,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 38,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 39,
+    "text": "SolDominion buys and gains 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 40,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 41,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 42,
+    "text": "Quen_tin_Zug turn 3",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 43,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 44,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 45,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 46,
+    "text": "SolDominion topdecks 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 48,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 50,
+    "text": "Quen_tin_Zug buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 51,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 52,
+    "text": "SolDominion turn 3",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 53,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 54,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 57,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 59,
+    "text": "SolDominion buys and gains 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 60,
+    "text": "SolDominion draws 3 Copper, 1 Estate, 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 61,
+    "text": "Quen_tin_Zug turn 4",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 63,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 65,
+    "text": "Quen_tin_Zug buys and gains 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 66,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 67,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 68,
+    "text": "SolDominion turn 4",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 69,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 70,
+    "text": "SolDominion plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 71,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 72,
+    "text": "SolDominion trashes 3 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 73,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 74,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 75,
+    "text": "SolDominion draws 2 Copper, 2 Estate, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 76,
+    "text": "Quen_tin_Zug turn 5",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 77,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 78,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 79,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 80,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 81,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 82,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 83,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 84,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 85,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 86,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 87,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 88,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 89,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 90,
+    "text": "Quen_tin_Zug trashes 3 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 92,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 93,
+    "text": "SolDominion turn 5",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 94,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 95,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 96,
+    "text": "SolDominion draws 1 Silver, 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 97,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 99,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 100,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 101,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 103,
+    "text": "SolDominion buys and gains 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 104,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 105,
+    "text": "SolDominion draws 4 Copper, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 106,
+    "text": "Quen_tin_Zug turn 6",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 107,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 108,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 109,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 110,
+    "text": "Quen_tin_Zug buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 111,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 112,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 113,
+    "text": "SolDominion turn 6",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 115,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 117,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 119,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 120,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 121,
+    "text": "SolDominion buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 122,
+    "text": "SolDominion draws 1 Silver, 2 Estate, 1 Chapel, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 123,
+    "text": "Quen_tin_Zug turn 7",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 125,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 126,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 127,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 129,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 130,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 131,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 132,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 133,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 134,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 135,
+    "text": "SolDominion topdecks 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 136,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 137,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 138,
+    "text": "Quen_tin_Zug gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 139,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 140,
+    "text": "Quen_tin_Zug buys and gains 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 141,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 142,
+    "text": "SolDominion turn 7",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 143,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 144,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 145,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 146,
+    "text": "SolDominion draws 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 147,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 148,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 150,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 152,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 153,
+    "text": "SolDominion draws 3 Copper, 1 Merchant, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 154,
+    "text": "Quen_tin_Zug turn 8",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 156,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 157,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 158,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 159,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 160,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 161,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 162,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 163,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 164,
+    "text": "Quen_tin_Zug trashes 1 Curse, 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 166,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 168,
+    "text": "Quen_tin_Zug buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 170,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 171,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 172,
+    "text": "SolDominion turn 8",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 174,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 176,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 177,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 178,
+    "text": "SolDominion draws 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 179,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 180,
+    "text": "SolDominion plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 181,
+    "text": "SolDominion draws 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 182,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 183,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 184,
+    "text": "SolDominion plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 185,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 186,
+    "text": "SolDominion trashes 3 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 188,
+    "text": "SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 189,
+    "text": "Quen_tin_Zug turn 9",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 190,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 191,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 192,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 193,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 194,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 195,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 196,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 197,
+    "text": "SolDominion topdecks 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 198,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 199,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 200,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 201,
+    "text": "Quen_tin_Zug buys and gains 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 202,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 203,
+    "text": "SolDominion turn 9",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 204,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 205,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 206,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 207,
+    "text": "SolDominion draws 1 Estate, 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 208,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 209,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 210,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 212,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 213,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 214,
+    "text": "SolDominion buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 215,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 216,
+    "text": "SolDominion draws 1 Silver, 1 Estate, 1 Chapel, 1 Merchant, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 217,
+    "text": "Quen_tin_Zug turn 10",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 218,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 219,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 220,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 221,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 222,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 223,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 224,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 225,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 226,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 227,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 228,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 229,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 230,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 231,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 232,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 233,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 234,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 235,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 236,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 237,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 239,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 241,
+    "text": "Quen_tin_Zug trashes 1 Copper.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 243,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 244,
+    "text": "Quen_tin_Zug gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 245,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 246,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 247,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 248,
+    "text": "Quen_tin_Zug buys and gains 2 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 250,
+    "text": "Quen_tin_Zug buys and gains 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 251,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 252,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 253,
+    "text": "SolDominion turn 10",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 254,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 255,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 256,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 257,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 258,
+    "text": "SolDominion draws 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 259,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 260,
+    "text": "SolDominion plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 261,
+    "text": "SolDominion draws 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 262,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 264,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 265,
+    "text": "SolDominion draws 1 Silver, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 266,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 267,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 268,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 269,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 270,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 271,
+    "text": "SolDominion plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 273,
+    "text": "SolDominion trashes 1 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 274,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 275,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 276,
+    "text": "SolDominion gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 278,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 279,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 280,
+    "text": "SolDominion buys and gains 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 281,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 282,
+    "text": "SolDominion draws 2 Silver, 1 Market, 1 Merchant, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 283,
+    "text": "Quen_tin_Zug turn 11",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 284,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 285,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 286,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 287,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 288,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 289,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 290,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 291,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 292,
+    "text": "Quen_tin_Zug plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 293,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 294,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 295,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 296,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 298,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 299,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 300,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 301,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 302,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 303,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 305,
+    "text": "Quen_tin_Zug discards 1 card, 1 Copper.",
+    "type": "official"
+  },
+  {
+    "seq": 306,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 307,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 308,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 309,
+    "text": "Quen_tin_Zug gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 310,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 311,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 312,
+    "text": "Quen_tin_Zug buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 313,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 314,
+    "text": "Quen_tin_Zug buys and gains 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 315,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 316,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 317,
+    "text": "SolDominion turn 11",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 318,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 319,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 320,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 321,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 322,
+    "text": "SolDominion draws 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 323,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 324,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 325,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 326,
+    "text": "SolDominion plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 327,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 328,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 329,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 330,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 331,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 332,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 333,
+    "text": "SolDominion draws 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 334,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 335,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 336,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 337,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 338,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 339,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 340,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 341,
+    "text": "SolDominion gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 342,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 343,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 344,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 345,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 347,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 348,
+    "text": "SolDominion draws 2 Silver, 1 Gold, 1 Chapel, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 349,
+    "text": "Quen_tin_Zug turn 12",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 351,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 352,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 353,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 354,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 355,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 356,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 357,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 358,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 359,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 360,
+    "text": "Quen_tin_Zug plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 361,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 362,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 363,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 364,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 365,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 366,
+    "text": "SolDominion reveals their hand: 2 Silver, 1 Chapel, 1 Gold, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 368,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 369,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 370,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 371,
+    "text": "Quen_tin_Zug discards 1 Estate.",
+    "type": "official"
+  },
+  {
+    "seq": 372,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 373,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 374,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 376,
+    "text": "Quen_tin_Zug trashes 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 377,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 378,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 379,
+    "text": "Quen_tin_Zug gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 380,
+    "text": "Quen_tin_Zug gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 381,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 382,
+    "text": "Quen_tin_Zug buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 383,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 384,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 385,
+    "text": "SolDominion turn 12",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 386,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 387,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 388,
+    "text": "SolDominion draws 1 Merchant, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 389,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 390,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 391,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 392,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 393,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 394,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 395,
+    "text": "SolDominion buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 396,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 397,
+    "text": "SolDominion draws 1 Silver, 1 Chapel, 1 Laboratory, 1 Market, 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 398,
+    "text": "Quen_tin_Zug turn 13",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 399,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 400,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 401,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 402,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 403,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 404,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 405,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 406,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 407,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 408,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 409,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 410,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 411,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 412,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 414,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 415,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 416,
+    "text": "SolDominion reveals their hand: 1 Silver, 1 Merchant, 1 Laboratory, 1 Market, 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 418,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 419,
+    "text": "Quen_tin_Zug gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 420,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 421,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 422,
+    "text": "Quen_tin_Zug buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 423,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 424,
+    "text": "Quen_tin_Zug buys and gains 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 425,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 426,
+    "text": "SolDominion turn 13",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 427,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 428,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 429,
+    "text": "SolDominion draws 1 Gold, 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 430,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 431,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 432,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 433,
+    "text": "SolDominion draws 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 434,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 435,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 436,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 438,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 439,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 440,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 441,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 442,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 443,
+    "text": "SolDominion plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 444,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 445,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 446,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 447,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 448,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 449,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 450,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 451,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 453,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 454,
+    "text": "SolDominion gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 457,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 458,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 459,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 460,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 461,
+    "text": "SolDominion buys and gains 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 462,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 463,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 464,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Chapel, 1 Market, 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 465,
+    "text": "Quen_tin_Zug turn 14",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 467,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 468,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 469,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 471,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 472,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 473,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 474,
+    "text": "Quen_tin_Zug plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 475,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 476,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 477,
+    "text": "Quen_tin_Zug plays 1 Throne Room again.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 479,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 480,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 481,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 482,
+    "text": "Quen_tin_Zug plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 483,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 484,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 485,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 486,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 488,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 489,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 490,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 491,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 492,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 493,
+    "text": "Quen_tin_Zug plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 494,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 495,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 496,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 497,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 498,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 499,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 500,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 501,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 502,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 503,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 504,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 505,
+    "text": "Quen_tin_Zug trashes 1 Curse, 2 Copper, 1 Estate.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 506,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 507,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 508,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 509,
+    "text": "Quen_tin_Zug gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 510,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 511,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 512,
+    "text": "Quen_tin_Zug buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 513,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 514,
+    "text": "Quen_tin_Zug buys and gains 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 515,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 516,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 517,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 518,
+    "text": "SolDominion turn 14",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 519,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 520,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 521,
+    "text": "SolDominion draws 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 522,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 523,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 524,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 525,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 526,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 527,
+    "text": "SolDominion draws 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 528,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 529,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 530,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 531,
+    "text": "SolDominion plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 532,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 533,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 534,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 535,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 536,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 537,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 539,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 540,
+    "text": "SolDominion draws 1 Silver, 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 541,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "seq": 542,
+    "text": "SolDominion plays 1 Witch again.",
+    "type": "official"
+  },
+  {
+    "seq": 543,
+    "text": "SolDominion draws 1 Gold, 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 544,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 546,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 547,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 548,
+    "text": "SolDominion gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 549,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 550,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 551,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 552,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 553,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 554,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 556,
+    "text": "SolDominion buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 558,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 559,
+    "text": "SolDominion draws 2 Silver, 1 Gold, 1 Market, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 560,
+    "text": "Quen_tin_Zug turn 15",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 562,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 564,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 565,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 566,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 567,
+    "text": "Quen_tin_Zug plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 568,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 569,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 570,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 571,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 572,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 573,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 574,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 575,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 576,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 577,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 578,
+    "text": "Quen_tin_Zug discards 1 card, 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 579,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 580,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 581,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 582,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 583,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 584,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 585,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 586,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 587,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 588,
+    "text": "Quen_tin_Zug plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 589,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 590,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 591,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 592,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 593,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 594,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 596,
+    "text": "Quen_tin_Zug trashes 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 598,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 599,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 600,
+    "text": "Quen_tin_Zug gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 601,
+    "text": "Quen_tin_Zug gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 604,
+    "text": "Quen_tin_Zug buys and gains 2 Merchant.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 605,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 606,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 607,
+    "text": "SolDominion turn 15",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 608,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 609,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 610,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 611,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 612,
+    "text": "SolDominion draws 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 613,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 614,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 615,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 616,
+    "text": "SolDominion plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 617,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 618,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 619,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 620,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 621,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 622,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 623,
+    "text": "SolDominion draws 1 Gold, 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 624,
+    "text": "Quen_tin_Zug gains 1 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 625,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 626,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 627,
+    "text": "SolDominion draws 1 Laboratory, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 628,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 629,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 630,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 631,
+    "text": "SolDominion draws 1 Chapel, 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 632,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 633,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 634,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 635,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 636,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 637,
+    "text": "SolDominion draws 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 638,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 639,
+    "text": "SolDominion plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 640,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 641,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 642,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 643,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 644,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 645,
+    "text": "SolDominion gets +$2. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 646,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 648,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 649,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 650,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 651,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 652,
+    "text": "SolDominion buys and gains 1 Gold.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 653,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 654,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 655,
+    "text": "SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Chapel, 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 656,
+    "text": "Quen_tin_Zug turn 16",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 657,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 658,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 659,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 660,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 661,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 662,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 663,
+    "text": "Quen_tin_Zug plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 664,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 665,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 666,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 667,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 668,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 669,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 670,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 671,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 672,
+    "text": "Quen_tin_Zug plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 673,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 674,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 675,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 676,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 677,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 678,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 679,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 680,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 681,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 682,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 683,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 684,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 685,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 686,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 687,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 688,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 689,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 690,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 691,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 692,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 693,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 694,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 695,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 696,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 697,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 698,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 699,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 700,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 701,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 702,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 703,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 704,
+    "text": "Quen_tin_Zug discards 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 705,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 706,
+    "text": "Quen_tin_Zug plays 1 Cellar again.",
+    "type": "official"
+  },
+  {
+    "seq": 707,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 708,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 709,
+    "text": "Quen_tin_Zug discards 3 card, 1 Curse.",
+    "type": "official"
+  },
+  {
+    "seq": 710,
+    "text": "Quen_tin_Zug draws 4 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 711,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 712,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 713,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 714,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 715,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 716,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 717,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 718,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 719,
+    "text": "Quen_tin_Zug plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 720,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 721,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 722,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 723,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 724,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 725,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 726,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 727,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 728,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 729,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 730,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 731,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 732,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 733,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 734,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 735,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 736,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 737,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 738,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 739,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 740,
+    "text": "Quen_tin_Zug discards 1 card, 1 Curse.",
+    "type": "official"
+  },
+  {
+    "seq": 741,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 742,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 743,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 744,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 745,
+    "text": "Quen_tin_Zug gets +$6. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 746,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 747,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 748,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 749,
+    "text": "Quen_tin_Zug buys and gains 2 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 750,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 751,
+    "text": "Quen_tin_Zug buys and gains 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 752,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 753,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 754,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 755,
+    "text": "SolDominion turn 16",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 756,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 757,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 758,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official"
+  },
+  {
+    "seq": 759,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 760,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 761,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 762,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 763,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 764,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 765,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 766,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 767,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 768,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 769,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 770,
+    "text": "SolDominion draws 1 Gold, 1 Province, 2 Laboratory, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 771,
+    "text": "Quen_tin_Zug turn 17",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 772,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 773,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 774,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 775,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 776,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 777,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 778,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 779,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 780,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 781,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 782,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 783,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 784,
+    "text": "Quen_tin_Zug discards 2 card, 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 785,
+    "text": "Quen_tin_Zug draws 3 card.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 786,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 787,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 788,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 789,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 790,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 791,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 792,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 793,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 794,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 795,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 796,
+    "text": "Quen_tin_Zug plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 797,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 798,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 799,
+    "text": "Quen_tin_Zug plays 1 Throne Room again.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 800,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 801,
+    "text": "Quen_tin_Zug plays 1 Cellar.",
+    "type": "official"
+  },
+  {
+    "seq": 802,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 803,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 804,
+    "text": "Quen_tin_Zug discards 1 Curse.",
+    "type": "official"
+  },
+  {
+    "seq": 805,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 806,
+    "text": "Quen_tin_Zug plays 1 Cellar again.",
+    "type": "official"
+  },
+  {
+    "seq": 807,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 808,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 809,
+    "text": "Quen_tin_Zug discards 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 810,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 811,
+    "text": "Quen_tin_Zug plays 1 Throne Room again.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 812,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 813,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 814,
+    "text": "Quen_tin_Zug gets +$4. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 815,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 816,
+    "text": "Quen_tin_Zug buys and gains 1 Duchy.",
+    "type": "official"
+  },
+  {
+    "seq": 817,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 818,
+    "text": "SolDominion turn 17",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 819,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 820,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 821,
+    "text": "SolDominion draws 1 Silver, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 822,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 823,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 824,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 825,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 826,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 827,
+    "text": "SolDominion draws 1 Laboratory, 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 828,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 829,
+    "text": "SolDominion plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 830,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 831,
+    "text": "SolDominion draws 1 Gold, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 832,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 833,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 834,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 835,
+    "text": "SolDominion draws 1 Province, 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 836,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 837,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 838,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 839,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 840,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 841,
+    "text": "SolDominion draws 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "seq": 842,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 843,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 844,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "seq": 845,
+    "text": "SolDominion plays 1 Market again.",
+    "type": "official"
+  },
+  {
+    "seq": 846,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official"
+  },
+  {
+    "seq": 847,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 848,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 849,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 850,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 851,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 852,
+    "text": "SolDominion draws 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 853,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 854,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 855,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 856,
+    "text": "SolDominion draws 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 857,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 858,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 859,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 860,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 861,
+    "text": "SolDominion gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 862,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 863,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 864,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 865,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 866,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 867,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 868,
+    "text": "SolDominion buys and gains 2 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 869,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 870,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 871,
+    "text": "SolDominion draws 2 Province, 1 Laboratory, 1 Merchant, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 872,
+    "text": "Quen_tin_Zug turn 18",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 873,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 874,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 875,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 876,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat.",
+    "type": "official"
+  },
+  {
+    "seq": 877,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 878,
+    "text": "SolDominion topdecks 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 879,
+    "text": "Quen_tin_Zug plays 1 Bureaucrat again.",
+    "type": "official"
+  },
+  {
+    "seq": 880,
+    "text": "Quen_tin_Zug gains 1 Silver.",
+    "type": "official"
+  },
+  {
+    "seq": 881,
+    "text": "SolDominion topdecks 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 882,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 883,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 884,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 885,
+    "text": "Quen_tin_Zug buys and gains 1 Smithy.",
+    "type": "official"
+  },
+  {
+    "seq": 886,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 887,
+    "text": "SolDominion turn 18",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 888,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 889,
+    "text": "SolDominion plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 890,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 891,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 892,
+    "text": "SolDominion draws 2 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 893,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 894,
+    "text": "SolDominion plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 895,
+    "text": "SolDominion draws 1 Province, 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 896,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 897,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 898,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 899,
+    "text": "SolDominion draws 1 Silver, 1 Province.",
+    "type": "official"
+  },
+  {
+    "seq": 900,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 901,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 902,
+    "text": "SolDominion plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 903,
+    "text": "SolDominion draws 1 Gold.",
+    "type": "official"
+  },
+  {
+    "seq": 904,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 905,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 906,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 907,
+    "text": "SolDominion gets +$1. (Merchant)",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 908,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 909,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 910,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 911,
+    "text": "SolDominion buys and gains 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 912,
+    "text": "SolDominion draws 2 Gold, 1 Province, 1 Market, 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 913,
+    "text": "Quen_tin_Zug turn 19",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 914,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 915,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 916,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 917,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 918,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 919,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 920,
+    "text": "Quen_tin_Zug plays 1 Laboratory again.",
+    "type": "official"
+  },
+  {
+    "seq": 921,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 922,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 923,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 924,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 925,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 926,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 927,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 928,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 929,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 930,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 931,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 932,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 933,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 934,
+    "text": "Quen_tin_Zug plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 935,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 936,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 937,
+    "text": "Quen_tin_Zug gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 938,
+    "text": "Quen_tin_Zug gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 939,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 940,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 941,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 942,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 943,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 944,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 945,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 946,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 947,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 948,
+    "text": "Quen_tin_Zug plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 949,
+    "text": "Quen_tin_Zug draws 2 card.",
+    "type": "official"
+  },
+  {
+    "seq": 950,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 951,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 952,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 953,
+    "text": "Quen_tin_Zug shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 954,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 955,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 956,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 957,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 958,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 959,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 960,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 961,
+    "text": "Quen_tin_Zug plays 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 962,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 963,
+    "text": "Quen_tin_Zug plays 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "seq": 964,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 965,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 966,
+    "text": "Quen_tin_Zug plays 1 Merchant again.",
+    "type": "official"
+  },
+  {
+    "seq": 967,
+    "text": "Quen_tin_Zug draws 1 card.",
+    "type": "official"
+  },
+  {
+    "seq": 968,
+    "text": "Quen_tin_Zug gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 969,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 970,
+    "text": "Quen_tin_Zug plays 1 Chapel.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 971,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 972,
+    "text": "Quen_tin_Zug trashes 3 Curse.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 973,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 974,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "seq": 975,
+    "text": "Quen_tin_Zug gets +$6. (Merchant)",
+    "type": "official"
+  },
+  {
+    "seq": 976,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 977,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 978,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 979,
+    "text": "Quen_tin_Zug buys and gains 2 Duchy.",
+    "type": "official"
+  },
+  {
+    "player": 0,
+    "seq": 980,
+    "text": "Quen_tin_Zug answered",
+    "type": "decision"
+  },
+  {
+    "seq": 981,
+    "text": "Quen_tin_Zug buys and gains 1 Smithy.",
+    "type": "official"
+  },
+  {
+    "seq": 982,
+    "text": "Quen_tin_Zug draws 5 card.",
+    "type": "official"
+  },
+  {
+    "seq": 983,
+    "text": "SolDominion turn 19",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 984,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 985,
+    "text": "SolDominion plays 1 Market.",
+    "type": "official"
+  },
+  {
+    "seq": 986,
+    "text": "SolDominion draws 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 987,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "seq": 988,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official"
+  },
+  {
+    "seq": 989,
+    "text": "SolDominion gets +$1.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 990,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 991,
+    "text": "SolDominion plays 1 Laboratory.",
+    "type": "official"
+  },
+  {
+    "seq": 992,
+    "text": "SolDominion draws 1 Chapel, 1 Throne Room.",
+    "type": "official"
+  },
+  {
+    "seq": 993,
+    "text": "SolDominion gets +1 Action.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 994,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 995,
+    "text": "SolDominion plays 1 Witch.",
+    "type": "official"
+  },
+  {
+    "seq": 996,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official"
+  },
+  {
+    "seq": 997,
+    "text": "SolDominion draws 1 Silver, 1 Merchant.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 998,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 999,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 1000,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 1001,
+    "text": "play treasures for",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 1002,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 1003,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official"
+  },
+  {
+    "player": 1,
+    "seq": 1004,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "seq": 1005,
+    "text": "SolDominion draws 2 Province, 2 Laboratory, 1 Throne Room.",
+    "type": "official"
+  }
+]

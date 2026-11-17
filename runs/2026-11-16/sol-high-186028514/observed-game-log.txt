@@ -1,0 +1,1006 @@
+00000 game 186028514
+00001 Quen_tin_Zug starts with 3 Estate.
+00002 Quen_tin_Zug starts with 7 Copper.
+00003 SolDominion starts with 3 Estate.
+00004 SolDominion starts with 7 Copper.
+00005 SolDominion answered
+00006 Quen_tin_Zug answered
+00007 Quen_tin_Zug shuffles their deck.
+00008 SolDominion shuffles their deck.
+00009 Quen_tin_Zug draws 5 card.
+00010 SolDominion draws 3 Copper, 2 Estate.
+00011 Quen_tin_Zug turn 1
+00012 Quen_tin_Zug answered
+00013 play treasures for
+00014 Quen_tin_Zug answered
+00015 Quen_tin_Zug buys and gains 1 Bureaucrat.
+00016 Quen_tin_Zug draws 5 card.
+00017 SolDominion turn 1
+00018 SolDominion answered
+00019 SolDominion answered
+00020 SolDominion answered
+00021 play treasures for
+00022 SolDominion answered
+00023 SolDominion buys and gains 1 Silver.
+00024 SolDominion draws 4 Copper, 1 Estate.
+00025 Quen_tin_Zug turn 2
+00026 Quen_tin_Zug answered
+00027 play treasures for
+00028 Quen_tin_Zug answered
+00029 Quen_tin_Zug buys and gains 1 Chapel.
+00030 Quen_tin_Zug shuffles their deck.
+00031 Quen_tin_Zug draws 5 card.
+00032 SolDominion turn 2
+00033 SolDominion answered
+00034 SolDominion answered
+00035 SolDominion answered
+00036 SolDominion answered
+00037 play treasures for
+00038 SolDominion answered
+00039 SolDominion buys and gains 1 Chapel.
+00040 SolDominion shuffles their deck.
+00041 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00042 Quen_tin_Zug turn 3
+00043 Quen_tin_Zug answered
+00044 Quen_tin_Zug plays 1 Bureaucrat.
+00045 Quen_tin_Zug gains 1 Silver.
+00046 SolDominion topdecks 1 Estate.
+00047 Quen_tin_Zug answered
+00048 play treasures for
+00049 Quen_tin_Zug answered
+00050 Quen_tin_Zug buys and gains 1 Merchant.
+00051 Quen_tin_Zug draws 5 card.
+00052 SolDominion turn 3
+00053 SolDominion answered
+00054 SolDominion answered
+00055 SolDominion answered
+00056 SolDominion answered
+00057 play treasures for
+00058 SolDominion answered
+00059 SolDominion buys and gains 1 Witch.
+00060 SolDominion draws 3 Copper, 1 Estate, 1 Chapel.
+00061 Quen_tin_Zug turn 4
+00062 Quen_tin_Zug answered
+00063 play treasures for
+00064 Quen_tin_Zug answered
+00065 Quen_tin_Zug buys and gains 1 Market.
+00066 Quen_tin_Zug shuffles their deck.
+00067 Quen_tin_Zug draws 5 card.
+00068 SolDominion turn 4
+00069 SolDominion answered
+00070 SolDominion plays 1 Chapel.
+00071 SolDominion answered
+00072 SolDominion trashes 3 Copper, 1 Estate.
+00073 SolDominion answered
+00074 SolDominion shuffles their deck.
+00075 SolDominion draws 2 Copper, 2 Estate, 1 Witch.
+00076 Quen_tin_Zug turn 5
+00077 Quen_tin_Zug answered
+00078 Quen_tin_Zug plays 1 Merchant.
+00079 Quen_tin_Zug draws 1 card.
+00080 Quen_tin_Zug gets +1 Action.
+00081 Quen_tin_Zug answered
+00082 Quen_tin_Zug plays 1 Market.
+00083 Quen_tin_Zug draws 1 card.
+00084 Quen_tin_Zug gets +1 Action.
+00085 Quen_tin_Zug gets +1 Buy.
+00086 Quen_tin_Zug gets +$1.
+00087 Quen_tin_Zug answered
+00088 Quen_tin_Zug plays 1 Chapel.
+00089 Quen_tin_Zug answered
+00090 Quen_tin_Zug trashes 3 Copper, 1 Estate.
+00091 Quen_tin_Zug answered
+00092 Quen_tin_Zug draws 5 card.
+00093 SolDominion turn 5
+00094 SolDominion answered
+00095 SolDominion plays 1 Witch.
+00096 SolDominion draws 1 Silver, 1 Chapel.
+00097 Quen_tin_Zug gains 1 Curse.
+00098 SolDominion answered
+00099 SolDominion answered
+00100 SolDominion answered
+00101 play treasures for
+00102 SolDominion answered
+00103 SolDominion buys and gains 1 Throne Room.
+00104 SolDominion shuffles their deck.
+00105 SolDominion draws 4 Copper, 1 Throne Room.
+00106 Quen_tin_Zug turn 6
+00107 Quen_tin_Zug answered
+00108 play treasures for
+00109 Quen_tin_Zug answered
+00110 Quen_tin_Zug buys and gains 1 Merchant.
+00111 Quen_tin_Zug shuffles their deck.
+00112 Quen_tin_Zug draws 5 card.
+00113 SolDominion turn 6
+00114 SolDominion answered
+00115 SolDominion answered
+00116 SolDominion answered
+00117 SolDominion answered
+00118 SolDominion answered
+00119 play treasures for
+00120 SolDominion answered
+00121 SolDominion buys and gains 1 Merchant.
+00122 SolDominion draws 1 Silver, 2 Estate, 1 Chapel, 1 Witch.
+00123 Quen_tin_Zug turn 7
+00124 Quen_tin_Zug answered
+00125 Quen_tin_Zug plays 1 Merchant.
+00126 Quen_tin_Zug draws 1 card.
+00127 Quen_tin_Zug gets +1 Action.
+00128 Quen_tin_Zug answered
+00129 Quen_tin_Zug plays 1 Merchant.
+00130 Quen_tin_Zug draws 1 card.
+00131 Quen_tin_Zug gets +1 Action.
+00132 Quen_tin_Zug answered
+00133 Quen_tin_Zug plays 1 Bureaucrat.
+00134 Quen_tin_Zug gains 1 Silver.
+00135 SolDominion topdecks 1 Estate.
+00136 Quen_tin_Zug answered
+00137 play treasures for
+00138 Quen_tin_Zug gets +$2. (Merchant)
+00139 Quen_tin_Zug answered
+00140 Quen_tin_Zug buys and gains 1 Market.
+00141 Quen_tin_Zug draws 5 card.
+00142 SolDominion turn 7
+00143 SolDominion answered
+00144 SolDominion plays 1 Witch.
+00145 SolDominion shuffles their deck.
+00146 SolDominion draws 1 Copper, 1 Estate.
+00147 Quen_tin_Zug gains 1 Curse.
+00148 SolDominion answered
+00149 SolDominion answered
+00150 play treasures for
+00151 SolDominion answered
+00152 SolDominion buys and gains 1 Silver.
+00153 SolDominion draws 3 Copper, 1 Merchant, 1 Throne Room.
+00154 Quen_tin_Zug turn 8
+00155 Quen_tin_Zug answered
+00156 Quen_tin_Zug plays 1 Market.
+00157 Quen_tin_Zug draws 1 card.
+00158 Quen_tin_Zug gets +1 Action.
+00159 Quen_tin_Zug gets +1 Buy.
+00160 Quen_tin_Zug gets +$1.
+00161 Quen_tin_Zug answered
+00162 Quen_tin_Zug plays 1 Chapel.
+00163 Quen_tin_Zug answered
+00164 Quen_tin_Zug trashes 1 Curse, 1 Copper, 1 Estate.
+00165 Quen_tin_Zug answered
+00166 play treasures for
+00167 Quen_tin_Zug answered
+00168 Quen_tin_Zug buys and gains 1 Merchant.
+00169 Quen_tin_Zug answered
+00170 Quen_tin_Zug shuffles their deck.
+00171 Quen_tin_Zug draws 5 card.
+00172 SolDominion turn 8
+00173 SolDominion answered
+00174 SolDominion plays 1 Throne Room.
+00175 SolDominion answered
+00176 SolDominion plays 1 Merchant.
+00177 SolDominion shuffles their deck.
+00178 SolDominion draws 1 Chapel.
+00179 SolDominion gets +1 Action.
+00180 SolDominion plays 1 Merchant again.
+00181 SolDominion draws 1 Estate.
+00182 SolDominion gets +1 Action.
+00183 SolDominion answered
+00184 SolDominion plays 1 Chapel.
+00185 SolDominion answered
+00186 SolDominion trashes 3 Copper, 1 Estate.
+00187 SolDominion answered
+00188 SolDominion draws 1 Copper, 2 Silver, 1 Estate, 1 Witch.
+00189 Quen_tin_Zug turn 9
+00190 Quen_tin_Zug answered
+00191 Quen_tin_Zug plays 1 Merchant.
+00192 Quen_tin_Zug draws 1 card.
+00193 Quen_tin_Zug gets +1 Action.
+00194 Quen_tin_Zug answered
+00195 Quen_tin_Zug plays 1 Bureaucrat.
+00196 Quen_tin_Zug gains 1 Silver.
+00197 SolDominion topdecks 1 Estate.
+00198 Quen_tin_Zug answered
+00199 play treasures for
+00200 Quen_tin_Zug answered
+00201 Quen_tin_Zug buys and gains 1 Cellar.
+00202 Quen_tin_Zug draws 5 card.
+00203 SolDominion turn 9
+00204 SolDominion answered
+00205 SolDominion plays 1 Witch.
+00206 SolDominion shuffles their deck.
+00207 SolDominion draws 1 Estate, 1 Chapel.
+00208 Quen_tin_Zug gains 1 Curse.
+00209 SolDominion answered
+00210 SolDominion answered
+00211 SolDominion answered
+00212 play treasures for
+00213 SolDominion answered
+00214 SolDominion buys and gains 1 Laboratory.
+00215 SolDominion shuffles their deck.
+00216 SolDominion draws 1 Silver, 1 Estate, 1 Chapel, 1 Merchant, 1 Throne Room.
+00217 Quen_tin_Zug turn 10
+00218 Quen_tin_Zug answered
+00219 Quen_tin_Zug plays 1 Merchant.
+00220 Quen_tin_Zug draws 1 card.
+00221 Quen_tin_Zug gets +1 Action.
+00222 Quen_tin_Zug answered
+00223 Quen_tin_Zug plays 1 Market.
+00224 Quen_tin_Zug draws 1 card.
+00225 Quen_tin_Zug gets +1 Action.
+00226 Quen_tin_Zug gets +1 Buy.
+00227 Quen_tin_Zug gets +$1.
+00228 Quen_tin_Zug answered
+00229 Quen_tin_Zug plays 1 Merchant.
+00230 Quen_tin_Zug draws 1 card.
+00231 Quen_tin_Zug gets +1 Action.
+00232 Quen_tin_Zug answered
+00233 Quen_tin_Zug plays 1 Market.
+00234 Quen_tin_Zug draws 1 card.
+00235 Quen_tin_Zug gets +1 Action.
+00236 Quen_tin_Zug gets +1 Buy.
+00237 Quen_tin_Zug gets +$1.
+00238 Quen_tin_Zug answered
+00239 Quen_tin_Zug plays 1 Chapel.
+00240 Quen_tin_Zug answered
+00241 Quen_tin_Zug trashes 1 Copper.
+00242 Quen_tin_Zug answered
+00243 play treasures for
+00244 Quen_tin_Zug gets +$2. (Merchant)
+00245 play treasures for
+00246 Quen_tin_Zug answered
+00247 Quen_tin_Zug answered
+00248 Quen_tin_Zug buys and gains 2 Throne Room.
+00249 Quen_tin_Zug answered
+00250 Quen_tin_Zug buys and gains 1 Cellar.
+00251 Quen_tin_Zug shuffles their deck.
+00252 Quen_tin_Zug draws 5 card.
+00253 SolDominion turn 10
+00254 SolDominion answered
+00255 SolDominion plays 1 Throne Room.
+00256 SolDominion answered
+00257 SolDominion plays 1 Merchant.
+00258 SolDominion draws 1 Laboratory.
+00259 SolDominion gets +1 Action.
+00260 SolDominion plays 1 Merchant again.
+00261 SolDominion draws 1 Copper.
+00262 SolDominion gets +1 Action.
+00263 SolDominion answered
+00264 SolDominion plays 1 Laboratory.
+00265 SolDominion draws 1 Silver, 1 Witch.
+00266 SolDominion gets +1 Action.
+00267 SolDominion answered
+00268 SolDominion plays 1 Witch.
+00269 Quen_tin_Zug gains 1 Curse.
+00270 SolDominion answered
+00271 SolDominion plays 1 Chapel.
+00272 SolDominion answered
+00273 SolDominion trashes 1 Copper, 1 Estate.
+00274 SolDominion answered
+00275 play treasures for
+00276 SolDominion gets +$2. (Merchant)
+00277 SolDominion answered
+00278 play treasures for
+00279 SolDominion answered
+00280 SolDominion buys and gains 1 Market.
+00281 SolDominion shuffles their deck.
+00282 SolDominion draws 2 Silver, 1 Market, 1 Merchant, 1 Throne Room.
+00283 Quen_tin_Zug turn 11
+00284 Quen_tin_Zug answered
+00285 Quen_tin_Zug plays 1 Throne Room.
+00286 Quen_tin_Zug answered
+00287 Quen_tin_Zug plays 1 Market.
+00288 Quen_tin_Zug draws 1 card.
+00289 Quen_tin_Zug gets +1 Action.
+00290 Quen_tin_Zug gets +1 Buy.
+00291 Quen_tin_Zug gets +$1.
+00292 Quen_tin_Zug plays 1 Market again.
+00293 Quen_tin_Zug draws 1 card.
+00294 Quen_tin_Zug gets +1 Action.
+00295 Quen_tin_Zug gets +1 Buy.
+00296 Quen_tin_Zug gets +$1.
+00297 Quen_tin_Zug answered
+00298 Quen_tin_Zug plays 1 Merchant.
+00299 Quen_tin_Zug draws 1 card.
+00300 Quen_tin_Zug gets +1 Action.
+00301 Quen_tin_Zug answered
+00302 Quen_tin_Zug plays 1 Cellar.
+00303 Quen_tin_Zug gets +1 Action.
+00304 Quen_tin_Zug answered
+00305 Quen_tin_Zug discards 1 card, 1 Copper.
+00306 Quen_tin_Zug draws 2 card.
+00307 Quen_tin_Zug answered
+00308 play treasures for
+00309 Quen_tin_Zug gets +$1. (Merchant)
+00310 play treasures for
+00311 Quen_tin_Zug answered
+00312 Quen_tin_Zug buys and gains 1 Laboratory.
+00313 Quen_tin_Zug answered
+00314 Quen_tin_Zug buys and gains 1 Throne Room.
+00315 Quen_tin_Zug answered
+00316 Quen_tin_Zug draws 5 card.
+00317 SolDominion turn 11
+00318 SolDominion answered
+00319 SolDominion plays 1 Throne Room.
+00320 SolDominion answered
+00321 SolDominion plays 1 Market.
+00322 SolDominion draws 1 Laboratory.
+00323 SolDominion gets +1 Action.
+00324 SolDominion gets +1 Buy.
+00325 SolDominion gets +$1.
+00326 SolDominion plays 1 Market again.
+00327 SolDominion draws 1 Witch.
+00328 SolDominion gets +1 Action.
+00329 SolDominion gets +1 Buy.
+00330 SolDominion gets +$1.
+00331 SolDominion answered
+00332 SolDominion plays 1 Merchant.
+00333 SolDominion draws 1 Chapel.
+00334 SolDominion gets +1 Action.
+00335 SolDominion answered
+00336 SolDominion plays 1 Witch.
+00337 Quen_tin_Zug gains 1 Curse.
+00338 SolDominion answered
+00339 SolDominion answered
+00340 play treasures for
+00341 SolDominion gets +$1. (Merchant)
+00342 SolDominion answered
+00343 play treasures for
+00344 SolDominion answered
+00345 SolDominion buys and gains 1 Gold.
+00346 SolDominion answered
+00347 SolDominion shuffles their deck.
+00348 SolDominion draws 2 Silver, 1 Gold, 1 Chapel, 1 Witch.
+00349 Quen_tin_Zug turn 12
+00350 Quen_tin_Zug answered
+00351 Quen_tin_Zug plays 1 Merchant.
+00352 Quen_tin_Zug draws 1 card.
+00353 Quen_tin_Zug gets +1 Action.
+00354 Quen_tin_Zug answered
+00355 Quen_tin_Zug plays 1 Throne Room.
+00356 Quen_tin_Zug answered
+00357 Quen_tin_Zug plays 1 Merchant.
+00358 Quen_tin_Zug draws 1 card.
+00359 Quen_tin_Zug gets +1 Action.
+00360 Quen_tin_Zug plays 1 Merchant again.
+00361 Quen_tin_Zug draws 1 card.
+00362 Quen_tin_Zug gets +1 Action.
+00363 Quen_tin_Zug answered
+00364 Quen_tin_Zug plays 1 Bureaucrat.
+00365 Quen_tin_Zug gains 1 Silver.
+00366 SolDominion reveals their hand: 2 Silver, 1 Chapel, 1 Gold, 1 Witch.
+00367 Quen_tin_Zug answered
+00368 Quen_tin_Zug plays 1 Cellar.
+00369 Quen_tin_Zug gets +1 Action.
+00370 Quen_tin_Zug answered
+00371 Quen_tin_Zug discards 1 Estate.
+00372 Quen_tin_Zug draws 1 card.
+00373 Quen_tin_Zug answered
+00374 Quen_tin_Zug plays 1 Chapel.
+00375 Quen_tin_Zug answered
+00376 Quen_tin_Zug trashes 1 Curse.
+00377 Quen_tin_Zug answered
+00378 play treasures for
+00379 Quen_tin_Zug gets +$2. (Merchant)
+00380 Quen_tin_Zug gets +$1. (Merchant)
+00381 Quen_tin_Zug answered
+00382 Quen_tin_Zug buys and gains 1 Laboratory.
+00383 Quen_tin_Zug shuffles their deck.
+00384 Quen_tin_Zug draws 5 card.
+00385 SolDominion turn 12
+00386 SolDominion answered
+00387 SolDominion plays 1 Witch.
+00388 SolDominion draws 1 Merchant, 1 Throne Room.
+00389 Quen_tin_Zug gains 1 Curse.
+00390 SolDominion answered
+00391 SolDominion answered
+00392 SolDominion answered
+00393 play treasures for
+00394 SolDominion answered
+00395 SolDominion buys and gains 1 Laboratory.
+00396 SolDominion shuffles their deck.
+00397 SolDominion draws 1 Silver, 1 Chapel, 1 Laboratory, 1 Market, 1 Merchant.
+00398 Quen_tin_Zug turn 13
+00399 Quen_tin_Zug answered
+00400 Quen_tin_Zug plays 1 Merchant.
+00401 Quen_tin_Zug draws 1 card.
+00402 Quen_tin_Zug gets +1 Action.
+00403 Quen_tin_Zug answered
+00404 Quen_tin_Zug plays 1 Merchant.
+00405 Quen_tin_Zug draws 1 card.
+00406 Quen_tin_Zug gets +1 Action.
+00407 Quen_tin_Zug answered
+00408 Quen_tin_Zug plays 1 Market.
+00409 Quen_tin_Zug draws 1 card.
+00410 Quen_tin_Zug gets +1 Action.
+00411 Quen_tin_Zug gets +1 Buy.
+00412 Quen_tin_Zug gets +$1.
+00413 Quen_tin_Zug answered
+00414 Quen_tin_Zug plays 1 Bureaucrat.
+00415 Quen_tin_Zug gains 1 Silver.
+00416 SolDominion reveals their hand: 1 Silver, 1 Merchant, 1 Laboratory, 1 Market, 1 Chapel.
+00417 Quen_tin_Zug answered
+00418 play treasures for
+00419 Quen_tin_Zug gets +$2. (Merchant)
+00420 play treasures for
+00421 Quen_tin_Zug answered
+00422 Quen_tin_Zug buys and gains 1 Merchant.
+00423 Quen_tin_Zug answered
+00424 Quen_tin_Zug buys and gains 1 Throne Room.
+00425 Quen_tin_Zug draws 5 card.
+00426 SolDominion turn 13
+00427 SolDominion answered
+00428 SolDominion plays 1 Laboratory.
+00429 SolDominion draws 1 Gold, 1 Laboratory.
+00430 SolDominion gets +1 Action.
+00431 SolDominion answered
+00432 SolDominion plays 1 Merchant.
+00433 SolDominion draws 1 Throne Room.
+00434 SolDominion gets +1 Action.
+00435 SolDominion answered
+00436 SolDominion plays 1 Throne Room.
+00437 SolDominion answered
+00438 SolDominion plays 1 Market.
+00439 SolDominion draws 1 Witch.
+00440 SolDominion gets +1 Action.
+00441 SolDominion gets +1 Buy.
+00442 SolDominion gets +$1.
+00443 SolDominion plays 1 Market again.
+00444 SolDominion draws 1 Silver.
+00445 SolDominion gets +1 Action.
+00446 SolDominion gets +1 Buy.
+00447 SolDominion gets +$1.
+00448 SolDominion answered
+00449 SolDominion plays 1 Witch.
+00450 Quen_tin_Zug gains 1 Curse.
+00451 SolDominion answered
+00452 SolDominion answered
+00453 play treasures for
+00454 SolDominion gets +$1. (Merchant)
+00455 SolDominion answered
+00456 SolDominion answered
+00457 play treasures for
+00458 SolDominion answered
+00459 SolDominion buys and gains 1 Gold.
+00460 SolDominion answered
+00461 SolDominion buys and gains 1 Throne Room.
+00462 SolDominion answered
+00463 SolDominion shuffles their deck.
+00464 SolDominion draws 1 Silver, 1 Gold, 1 Chapel, 1 Market, 1 Merchant.
+00465 Quen_tin_Zug turn 14
+00466 Quen_tin_Zug answered
+00467 Quen_tin_Zug plays 1 Throne Room.
+00468 Quen_tin_Zug answered
+00469 Quen_tin_Zug plays 1 Throne Room.
+00470 Quen_tin_Zug answered
+00471 Quen_tin_Zug plays 1 Laboratory.
+00472 Quen_tin_Zug draws 2 card.
+00473 Quen_tin_Zug gets +1 Action.
+00474 Quen_tin_Zug plays 1 Laboratory again.
+00475 Quen_tin_Zug draws 2 card.
+00476 Quen_tin_Zug gets +1 Action.
+00477 Quen_tin_Zug plays 1 Throne Room again.
+00478 Quen_tin_Zug answered
+00479 Quen_tin_Zug plays 1 Laboratory.
+00480 Quen_tin_Zug draws 2 card.
+00481 Quen_tin_Zug gets +1 Action.
+00482 Quen_tin_Zug plays 1 Laboratory again.
+00483 Quen_tin_Zug draws 2 card.
+00484 Quen_tin_Zug gets +1 Action.
+00485 Quen_tin_Zug answered
+00486 Quen_tin_Zug plays 1 Throne Room.
+00487 Quen_tin_Zug answered
+00488 Quen_tin_Zug plays 1 Market.
+00489 Quen_tin_Zug draws 1 card.
+00490 Quen_tin_Zug gets +1 Action.
+00491 Quen_tin_Zug gets +1 Buy.
+00492 Quen_tin_Zug gets +$1.
+00493 Quen_tin_Zug plays 1 Market again.
+00494 Quen_tin_Zug draws 1 card.
+00495 Quen_tin_Zug gets +1 Action.
+00496 Quen_tin_Zug gets +1 Buy.
+00497 Quen_tin_Zug gets +$1.
+00498 Quen_tin_Zug answered
+00499 Quen_tin_Zug plays 1 Merchant.
+00500 Quen_tin_Zug draws 1 card.
+00501 Quen_tin_Zug gets +1 Action.
+00502 Quen_tin_Zug answered
+00503 Quen_tin_Zug plays 1 Chapel.
+00504 Quen_tin_Zug answered
+00505 Quen_tin_Zug trashes 1 Curse, 2 Copper, 1 Estate.
+00506 Quen_tin_Zug answered
+00507 Quen_tin_Zug answered
+00508 play treasures for
+00509 Quen_tin_Zug gets +$1. (Merchant)
+00510 play treasures for
+00511 Quen_tin_Zug answered
+00512 Quen_tin_Zug buys and gains 1 Laboratory.
+00513 Quen_tin_Zug answered
+00514 Quen_tin_Zug buys and gains 1 Throne Room.
+00515 Quen_tin_Zug answered
+00516 Quen_tin_Zug shuffles their deck.
+00517 Quen_tin_Zug draws 5 card.
+00518 SolDominion turn 14
+00519 SolDominion answered
+00520 SolDominion plays 1 Merchant.
+00521 SolDominion draws 1 Throne Room.
+00522 SolDominion gets +1 Action.
+00523 SolDominion answered
+00524 SolDominion plays 1 Throne Room.
+00525 SolDominion answered
+00526 SolDominion plays 1 Market.
+00527 SolDominion draws 1 Throne Room.
+00528 SolDominion gets +1 Action.
+00529 SolDominion gets +1 Buy.
+00530 SolDominion gets +$1.
+00531 SolDominion plays 1 Market again.
+00532 SolDominion draws 1 Witch.
+00533 SolDominion gets +1 Action.
+00534 SolDominion gets +1 Buy.
+00535 SolDominion gets +$1.
+00536 SolDominion answered
+00537 SolDominion plays 1 Throne Room.
+00538 SolDominion answered
+00539 SolDominion plays 1 Witch.
+00540 SolDominion draws 1 Silver, 1 Laboratory.
+00541 Quen_tin_Zug gains 1 Curse.
+00542 SolDominion plays 1 Witch again.
+00543 SolDominion draws 1 Gold, 1 Laboratory.
+00544 Quen_tin_Zug gains 1 Curse.
+00545 SolDominion answered
+00546 SolDominion answered
+00547 play treasures for
+00548 SolDominion gets +$1. (Merchant)
+00549 SolDominion answered
+00550 SolDominion answered
+00551 SolDominion answered
+00552 play treasures for
+00553 SolDominion answered
+00554 SolDominion buys and gains 1 Province.
+00555 SolDominion answered
+00556 SolDominion buys and gains 1 Laboratory.
+00557 SolDominion answered
+00558 SolDominion shuffles their deck.
+00559 SolDominion draws 2 Silver, 1 Gold, 1 Market, 1 Throne Room.
+00560 Quen_tin_Zug turn 15
+00561 Quen_tin_Zug answered
+00562 Quen_tin_Zug plays 1 Throne Room.
+00563 Quen_tin_Zug answered
+00564 Quen_tin_Zug plays 1 Merchant.
+00565 Quen_tin_Zug draws 1 card.
+00566 Quen_tin_Zug gets +1 Action.
+00567 Quen_tin_Zug plays 1 Merchant again.
+00568 Quen_tin_Zug draws 1 card.
+00569 Quen_tin_Zug gets +1 Action.
+00570 Quen_tin_Zug answered
+00571 Quen_tin_Zug plays 1 Merchant.
+00572 Quen_tin_Zug draws 1 card.
+00573 Quen_tin_Zug gets +1 Action.
+00574 Quen_tin_Zug answered
+00575 Quen_tin_Zug plays 1 Cellar.
+00576 Quen_tin_Zug gets +1 Action.
+00577 Quen_tin_Zug answered
+00578 Quen_tin_Zug discards 1 card, 1 Silver.
+00579 Quen_tin_Zug draws 2 card.
+00580 Quen_tin_Zug answered
+00581 Quen_tin_Zug plays 1 Throne Room.
+00582 Quen_tin_Zug answered
+00583 Quen_tin_Zug plays 1 Market.
+00584 Quen_tin_Zug draws 1 card.
+00585 Quen_tin_Zug gets +1 Action.
+00586 Quen_tin_Zug gets +1 Buy.
+00587 Quen_tin_Zug gets +$1.
+00588 Quen_tin_Zug plays 1 Market again.
+00589 Quen_tin_Zug draws 1 card.
+00590 Quen_tin_Zug gets +1 Action.
+00591 Quen_tin_Zug gets +1 Buy.
+00592 Quen_tin_Zug gets +$1.
+00593 Quen_tin_Zug answered
+00594 Quen_tin_Zug plays 1 Chapel.
+00595 Quen_tin_Zug answered
+00596 Quen_tin_Zug trashes 1 Curse.
+00597 Quen_tin_Zug answered
+00598 Quen_tin_Zug answered
+00599 play treasures for
+00600 Quen_tin_Zug gets +$2. (Merchant)
+00601 Quen_tin_Zug gets +$1. (Merchant)
+00602 Quen_tin_Zug answered
+00603 Quen_tin_Zug answered
+00604 Quen_tin_Zug buys and gains 2 Merchant.
+00605 Quen_tin_Zug answered
+00606 Quen_tin_Zug draws 5 card.
+00607 SolDominion turn 15
+00608 SolDominion answered
+00609 SolDominion plays 1 Throne Room.
+00610 SolDominion answered
+00611 SolDominion plays 1 Market.
+00612 SolDominion draws 1 Witch.
+00613 SolDominion gets +1 Action.
+00614 SolDominion gets +1 Buy.
+00615 SolDominion gets +$1.
+00616 SolDominion plays 1 Market again.
+00617 SolDominion draws 1 Province.
+00618 SolDominion gets +1 Action.
+00619 SolDominion gets +1 Buy.
+00620 SolDominion gets +$1.
+00621 SolDominion answered
+00622 SolDominion plays 1 Witch.
+00623 SolDominion draws 1 Gold, 1 Laboratory.
+00624 Quen_tin_Zug gains 1 Curse.
+00625 SolDominion answered
+00626 SolDominion plays 1 Laboratory.
+00627 SolDominion draws 1 Laboratory, 1 Throne Room.
+00628 SolDominion gets +1 Action.
+00629 SolDominion answered
+00630 SolDominion plays 1 Laboratory.
+00631 SolDominion draws 1 Chapel, 1 Merchant.
+00632 SolDominion gets +1 Action.
+00633 SolDominion answered
+00634 SolDominion plays 1 Throne Room.
+00635 SolDominion answered
+00636 SolDominion plays 1 Merchant.
+00637 SolDominion draws 1 Laboratory.
+00638 SolDominion gets +1 Action.
+00639 SolDominion plays 1 Merchant again.
+00640 SolDominion gets +1 Action.
+00641 SolDominion answered
+00642 SolDominion answered
+00643 SolDominion answered
+00644 play treasures for
+00645 SolDominion gets +$2. (Merchant)
+00646 SolDominion answered
+00647 SolDominion answered
+00648 play treasures for
+00649 SolDominion answered
+00650 SolDominion buys and gains 1 Province.
+00651 SolDominion answered
+00652 SolDominion buys and gains 1 Gold.
+00653 SolDominion answered
+00654 SolDominion shuffles their deck.
+00655 SolDominion draws 1 Silver, 1 Gold, 1 Province, 1 Chapel, 1 Market.
+00656 Quen_tin_Zug turn 16
+00657 Quen_tin_Zug answered
+00658 Quen_tin_Zug plays 1 Throne Room.
+00659 Quen_tin_Zug answered
+00660 Quen_tin_Zug plays 1 Laboratory.
+00661 Quen_tin_Zug draws 2 card.
+00662 Quen_tin_Zug gets +1 Action.
+00663 Quen_tin_Zug plays 1 Laboratory again.
+00664 Quen_tin_Zug draws 2 card.
+00665 Quen_tin_Zug gets +1 Action.
+00666 Quen_tin_Zug answered
+00667 Quen_tin_Zug plays 1 Throne Room.
+00668 Quen_tin_Zug answered
+00669 Quen_tin_Zug plays 1 Laboratory.
+00670 Quen_tin_Zug draws 2 card.
+00671 Quen_tin_Zug gets +1 Action.
+00672 Quen_tin_Zug plays 1 Laboratory again.
+00673 Quen_tin_Zug draws 2 card.
+00674 Quen_tin_Zug gets +1 Action.
+00675 Quen_tin_Zug answered
+00676 Quen_tin_Zug plays 1 Merchant.
+00677 Quen_tin_Zug draws 1 card.
+00678 Quen_tin_Zug gets +1 Action.
+00679 Quen_tin_Zug answered
+00680 Quen_tin_Zug plays 1 Laboratory.
+00681 Quen_tin_Zug shuffles their deck.
+00682 Quen_tin_Zug draws 2 card.
+00683 Quen_tin_Zug gets +1 Action.
+00684 Quen_tin_Zug answered
+00685 Quen_tin_Zug plays 1 Merchant.
+00686 Quen_tin_Zug draws 1 card.
+00687 Quen_tin_Zug gets +1 Action.
+00688 Quen_tin_Zug answered
+00689 Quen_tin_Zug plays 1 Market.
+00690 Quen_tin_Zug draws 1 card.
+00691 Quen_tin_Zug gets +1 Action.
+00692 Quen_tin_Zug gets +1 Buy.
+00693 Quen_tin_Zug gets +$1.
+00694 Quen_tin_Zug answered
+00695 Quen_tin_Zug plays 1 Merchant.
+00696 Quen_tin_Zug draws 1 card.
+00697 Quen_tin_Zug gets +1 Action.
+00698 Quen_tin_Zug answered
+00699 Quen_tin_Zug plays 1 Throne Room.
+00700 Quen_tin_Zug answered
+00701 Quen_tin_Zug plays 1 Cellar.
+00702 Quen_tin_Zug gets +1 Action.
+00703 Quen_tin_Zug answered
+00704 Quen_tin_Zug discards 1 Bureaucrat.
+00705 Quen_tin_Zug draws 1 card.
+00706 Quen_tin_Zug plays 1 Cellar again.
+00707 Quen_tin_Zug gets +1 Action.
+00708 Quen_tin_Zug answered
+00709 Quen_tin_Zug discards 3 card, 1 Curse.
+00710 Quen_tin_Zug draws 4 card.
+00711 Quen_tin_Zug answered
+00712 Quen_tin_Zug plays 1 Throne Room.
+00713 Quen_tin_Zug answered
+00714 Quen_tin_Zug plays 1 Market.
+00715 Quen_tin_Zug draws 1 card.
+00716 Quen_tin_Zug gets +1 Action.
+00717 Quen_tin_Zug gets +1 Buy.
+00718 Quen_tin_Zug gets +$1.
+00719 Quen_tin_Zug plays 1 Market again.
+00720 Quen_tin_Zug draws 1 card.
+00721 Quen_tin_Zug gets +1 Action.
+00722 Quen_tin_Zug gets +1 Buy.
+00723 Quen_tin_Zug gets +$1.
+00724 Quen_tin_Zug answered
+00725 Quen_tin_Zug plays 1 Merchant.
+00726 Quen_tin_Zug draws 1 card.
+00727 Quen_tin_Zug gets +1 Action.
+00728 Quen_tin_Zug answered
+00729 Quen_tin_Zug plays 1 Merchant.
+00730 Quen_tin_Zug draws 1 card.
+00731 Quen_tin_Zug gets +1 Action.
+00732 Quen_tin_Zug answered
+00733 Quen_tin_Zug plays 1 Merchant.
+00734 Quen_tin_Zug draws 1 card.
+00735 Quen_tin_Zug gets +1 Action.
+00736 Quen_tin_Zug answered
+00737 Quen_tin_Zug plays 1 Cellar.
+00738 Quen_tin_Zug gets +1 Action.
+00739 Quen_tin_Zug answered
+00740 Quen_tin_Zug discards 1 card, 1 Curse.
+00741 Quen_tin_Zug draws 2 card.
+00742 Quen_tin_Zug answered
+00743 Quen_tin_Zug answered
+00744 play treasures for
+00745 Quen_tin_Zug gets +$6. (Merchant)
+00746 play treasures for
+00747 Quen_tin_Zug answered
+00748 Quen_tin_Zug answered
+00749 Quen_tin_Zug buys and gains 2 Province.
+00750 Quen_tin_Zug answered
+00751 Quen_tin_Zug buys and gains 1 Merchant.
+00752 Quen_tin_Zug answered
+00753 Quen_tin_Zug shuffles their deck.
+00754 Quen_tin_Zug draws 5 card.
+00755 SolDominion turn 16
+00756 SolDominion answered
+00757 SolDominion plays 1 Market.
+00758 SolDominion draws 1 Gold.
+00759 SolDominion gets +1 Action.
+00760 SolDominion gets +1 Buy.
+00761 SolDominion gets +$1.
+00762 SolDominion answered
+00763 SolDominion answered
+00764 SolDominion answered
+00765 SolDominion answered
+00766 play treasures for
+00767 SolDominion answered
+00768 SolDominion buys and gains 1 Province.
+00769 SolDominion answered
+00770 SolDominion draws 1 Gold, 1 Province, 2 Laboratory, 1 Witch.
+00771 Quen_tin_Zug turn 17
+00772 Quen_tin_Zug answered
+00773 Quen_tin_Zug plays 1 Merchant.
+00774 Quen_tin_Zug draws 1 card.
+00775 Quen_tin_Zug gets +1 Action.
+00776 Quen_tin_Zug answered
+00777 Quen_tin_Zug plays 1 Merchant.
+00778 Quen_tin_Zug draws 1 card.
+00779 Quen_tin_Zug gets +1 Action.
+00780 Quen_tin_Zug answered
+00781 Quen_tin_Zug plays 1 Cellar.
+00782 Quen_tin_Zug gets +1 Action.
+00783 Quen_tin_Zug answered
+00784 Quen_tin_Zug discards 2 card, 1 Silver.
+00785 Quen_tin_Zug draws 3 card.
+00786 Quen_tin_Zug answered
+00787 Quen_tin_Zug plays 1 Throne Room.
+00788 Quen_tin_Zug answered
+00789 Quen_tin_Zug plays 1 Throne Room.
+00790 Quen_tin_Zug answered
+00791 Quen_tin_Zug plays 1 Throne Room.
+00792 Quen_tin_Zug answered
+00793 Quen_tin_Zug plays 1 Merchant.
+00794 Quen_tin_Zug draws 1 card.
+00795 Quen_tin_Zug gets +1 Action.
+00796 Quen_tin_Zug plays 1 Merchant again.
+00797 Quen_tin_Zug draws 1 card.
+00798 Quen_tin_Zug gets +1 Action.
+00799 Quen_tin_Zug plays 1 Throne Room again.
+00800 Quen_tin_Zug answered
+00801 Quen_tin_Zug plays 1 Cellar.
+00802 Quen_tin_Zug gets +1 Action.
+00803 Quen_tin_Zug answered
+00804 Quen_tin_Zug discards 1 Curse.
+00805 Quen_tin_Zug draws 1 card.
+00806 Quen_tin_Zug plays 1 Cellar again.
+00807 Quen_tin_Zug gets +1 Action.
+00808 Quen_tin_Zug answered
+00809 Quen_tin_Zug discards 1 Silver.
+00810 Quen_tin_Zug draws 1 card.
+00811 Quen_tin_Zug plays 1 Throne Room again.
+00812 Quen_tin_Zug answered
+00813 play treasures for
+00814 Quen_tin_Zug gets +$4. (Merchant)
+00815 Quen_tin_Zug answered
+00816 Quen_tin_Zug buys and gains 1 Duchy.
+00817 Quen_tin_Zug draws 5 card.
+00818 SolDominion turn 17
+00819 SolDominion answered
+00820 SolDominion plays 1 Laboratory.
+00821 SolDominion draws 1 Silver, 1 Throne Room.
+00822 SolDominion gets +1 Action.
+00823 SolDominion answered
+00824 SolDominion plays 1 Throne Room.
+00825 SolDominion answered
+00826 SolDominion plays 1 Laboratory.
+00827 SolDominion draws 1 Laboratory, 1 Merchant.
+00828 SolDominion gets +1 Action.
+00829 SolDominion plays 1 Laboratory again.
+00830 SolDominion shuffles their deck.
+00831 SolDominion draws 1 Gold, 1 Throne Room.
+00832 SolDominion gets +1 Action.
+00833 SolDominion answered
+00834 SolDominion plays 1 Laboratory.
+00835 SolDominion draws 1 Province, 1 Market.
+00836 SolDominion gets +1 Action.
+00837 SolDominion answered
+00838 SolDominion plays 1 Throne Room.
+00839 SolDominion answered
+00840 SolDominion plays 1 Market.
+00841 SolDominion draws 1 Chapel.
+00842 SolDominion gets +1 Action.
+00843 SolDominion gets +1 Buy.
+00844 SolDominion gets +$1.
+00845 SolDominion plays 1 Market again.
+00846 SolDominion draws 1 Gold.
+00847 SolDominion gets +1 Action.
+00848 SolDominion gets +1 Buy.
+00849 SolDominion gets +$1.
+00850 SolDominion answered
+00851 SolDominion plays 1 Merchant.
+00852 SolDominion draws 1 Silver.
+00853 SolDominion gets +1 Action.
+00854 SolDominion answered
+00855 SolDominion plays 1 Witch.
+00856 SolDominion draws 1 Province.
+00857 SolDominion answered
+00858 SolDominion answered
+00859 SolDominion answered
+00860 play treasures for
+00861 SolDominion gets +$1. (Merchant)
+00862 SolDominion answered
+00863 SolDominion answered
+00864 SolDominion answered
+00865 play treasures for
+00866 SolDominion answered
+00867 SolDominion answered
+00868 SolDominion buys and gains 2 Province.
+00869 SolDominion answered
+00870 SolDominion shuffles their deck.
+00871 SolDominion draws 2 Province, 1 Laboratory, 1 Merchant, 1 Throne Room.
+00872 Quen_tin_Zug turn 18
+00873 Quen_tin_Zug answered
+00874 Quen_tin_Zug plays 1 Throne Room.
+00875 Quen_tin_Zug answered
+00876 Quen_tin_Zug plays 1 Bureaucrat.
+00877 Quen_tin_Zug gains 1 Silver.
+00878 SolDominion topdecks 1 Province.
+00879 Quen_tin_Zug plays 1 Bureaucrat again.
+00880 Quen_tin_Zug gains 1 Silver.
+00881 SolDominion topdecks 1 Province.
+00882 Quen_tin_Zug answered
+00883 play treasures for
+00884 Quen_tin_Zug answered
+00885 Quen_tin_Zug buys and gains 1 Smithy.
+00886 Quen_tin_Zug draws 5 card.
+00887 SolDominion turn 18
+00888 SolDominion answered
+00889 SolDominion plays 1 Throne Room.
+00890 SolDominion answered
+00891 SolDominion plays 1 Laboratory.
+00892 SolDominion draws 2 Province.
+00893 SolDominion gets +1 Action.
+00894 SolDominion plays 1 Laboratory again.
+00895 SolDominion draws 1 Province, 1 Laboratory.
+00896 SolDominion gets +1 Action.
+00897 SolDominion answered
+00898 SolDominion plays 1 Laboratory.
+00899 SolDominion draws 1 Silver, 1 Province.
+00900 SolDominion gets +1 Action.
+00901 SolDominion answered
+00902 SolDominion plays 1 Merchant.
+00903 SolDominion draws 1 Gold.
+00904 SolDominion gets +1 Action.
+00905 SolDominion answered
+00906 play treasures for
+00907 SolDominion gets +$1. (Merchant)
+00908 SolDominion answered
+00909 play treasures for
+00910 SolDominion answered
+00911 SolDominion buys and gains 1 Laboratory.
+00912 SolDominion draws 2 Gold, 1 Province, 1 Market, 1 Witch.
+00913 Quen_tin_Zug turn 19
+00914 Quen_tin_Zug answered
+00915 Quen_tin_Zug plays 1 Throne Room.
+00916 Quen_tin_Zug answered
+00917 Quen_tin_Zug plays 1 Laboratory.
+00918 Quen_tin_Zug draws 2 card.
+00919 Quen_tin_Zug gets +1 Action.
+00920 Quen_tin_Zug plays 1 Laboratory again.
+00921 Quen_tin_Zug draws 2 card.
+00922 Quen_tin_Zug gets +1 Action.
+00923 Quen_tin_Zug answered
+00924 Quen_tin_Zug plays 1 Merchant.
+00925 Quen_tin_Zug draws 1 card.
+00926 Quen_tin_Zug gets +1 Action.
+00927 Quen_tin_Zug answered
+00928 Quen_tin_Zug plays 1 Market.
+00929 Quen_tin_Zug draws 1 card.
+00930 Quen_tin_Zug gets +1 Action.
+00931 Quen_tin_Zug gets +1 Buy.
+00932 Quen_tin_Zug gets +$1.
+00933 Quen_tin_Zug answered
+00934 Quen_tin_Zug plays 1 Market.
+00935 Quen_tin_Zug draws 1 card.
+00936 Quen_tin_Zug gets +1 Action.
+00937 Quen_tin_Zug gets +1 Buy.
+00938 Quen_tin_Zug gets +$1.
+00939 Quen_tin_Zug answered
+00940 Quen_tin_Zug plays 1 Merchant.
+00941 Quen_tin_Zug draws 1 card.
+00942 Quen_tin_Zug gets +1 Action.
+00943 Quen_tin_Zug answered
+00944 Quen_tin_Zug plays 1 Laboratory.
+00945 Quen_tin_Zug draws 2 card.
+00946 Quen_tin_Zug gets +1 Action.
+00947 Quen_tin_Zug answered
+00948 Quen_tin_Zug plays 1 Laboratory.
+00949 Quen_tin_Zug draws 2 card.
+00950 Quen_tin_Zug gets +1 Action.
+00951 Quen_tin_Zug answered
+00952 Quen_tin_Zug plays 1 Merchant.
+00953 Quen_tin_Zug shuffles their deck.
+00954 Quen_tin_Zug draws 1 card.
+00955 Quen_tin_Zug gets +1 Action.
+00956 Quen_tin_Zug answered
+00957 Quen_tin_Zug plays 1 Merchant.
+00958 Quen_tin_Zug draws 1 card.
+00959 Quen_tin_Zug gets +1 Action.
+00960 Quen_tin_Zug answered
+00961 Quen_tin_Zug plays 1 Throne Room.
+00962 Quen_tin_Zug answered
+00963 Quen_tin_Zug plays 1 Merchant.
+00964 Quen_tin_Zug draws 1 card.
+00965 Quen_tin_Zug gets +1 Action.
+00966 Quen_tin_Zug plays 1 Merchant again.
+00967 Quen_tin_Zug draws 1 card.
+00968 Quen_tin_Zug gets +1 Action.
+00969 Quen_tin_Zug answered
+00970 Quen_tin_Zug plays 1 Chapel.
+00971 Quen_tin_Zug answered
+00972 Quen_tin_Zug trashes 3 Curse.
+00973 Quen_tin_Zug answered
+00974 play treasures for
+00975 Quen_tin_Zug gets +$6. (Merchant)
+00976 play treasures for
+00977 Quen_tin_Zug answered
+00978 Quen_tin_Zug answered
+00979 Quen_tin_Zug buys and gains 2 Duchy.
+00980 Quen_tin_Zug answered
+00981 Quen_tin_Zug buys and gains 1 Smithy.
+00982 Quen_tin_Zug draws 5 card.
+00983 SolDominion turn 19
+00984 SolDominion answered
+00985 SolDominion plays 1 Market.
+00986 SolDominion draws 1 Laboratory.
+00987 SolDominion gets +1 Action.
+00988 SolDominion gets +1 Buy.
+00989 SolDominion gets +$1.
+00990 SolDominion answered
+00991 SolDominion plays 1 Laboratory.
+00992 SolDominion draws 1 Chapel, 1 Throne Room.
+00993 SolDominion gets +1 Action.
+00994 SolDominion answered
+00995 SolDominion plays 1 Witch.
+00996 SolDominion shuffles their deck.
+00997 SolDominion draws 1 Silver, 1 Merchant.
+00998 SolDominion answered
+00999 SolDominion answered
+01000 SolDominion answered
+01001 play treasures for
+01002 SolDominion answered
+01003 SolDominion buys and gains 1 Province.
+01004 SolDominion answered
+01005 SolDominion draws 2 Province, 2 Laboratory, 1 Throne Room.

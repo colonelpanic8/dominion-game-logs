@@ -1,0 +1,199 @@
+00000 game 186034175
+00001 druid selects boons
+00002 druid selects boons
+00003 druid selects boons
+00004 hangdong69 gets +1 Favor. (Forest Dwellers)
+00005 SolDominion gets +1 Favor. (Forest Dwellers)
+00006 hangdong69 starts with 3 Estate.
+00007 hangdong69 starts with 7 Copper.
+00008 SolDominion starts with 3 Estate.
+00009 SolDominion starts with 7 Copper.
+00010 SolDominion answered
+00011 hangdong69 answered
+00012 hangdong69 shuffles their deck.
+00013 SolDominion shuffles their deck.
+00014 hangdong69 draws 5 card.
+00015 SolDominion draws 3 Copper, 2 Estate.
+00016 hangdong69 starts turn 1
+00017 hangdong69 starts their turn.
+00018 hangdong69 answered
+00019 hangdong69 spends 1 Favor.
+00020 hangdong69 looks at 3 card.
+00021 hangdong69 answered
+00022 hangdong69 discards 2 card, 1 Copper.
+00023 hangdong69 answered
+00024 play treasures for
+00025 hangdong69 answered
+00026 hangdong69 buys and gains 1 Student.
+00027 hangdong69 shuffles their deck.
+00028 hangdong69 draws 5 card.
+00029 SolDominion starts turn 1
+00030 SolDominion starts their turn.
+00031 SolDominion answered
+00032 SolDominion answered
+00033 SolDominion answered
+00034 SolDominion answered
+00035 play treasures for
+00036 SolDominion answered
+00037 SolDominion buys and gains 1 Student.
+00038 SolDominion draws 4 Copper, 1 Estate.
+00039 hangdong69 starts turn 2
+00040 hangdong69 starts their turn.
+00041 hangdong69 answered
+00042 hangdong69 plays 1 Student.
+00043 hangdong69 gets +1 Action.
+00044 hangdong69 answered
+00045 hangdong69 answered
+00046 hangdong69 trashes 1 Estate.
+00047 hangdong69 answered
+00048 play treasures for
+00049 hangdong69 answered
+00050 hangdong69 buys and gains 1 Student.
+00051 hangdong69 draws 5 card.
+00052 SolDominion starts turn 2
+00053 SolDominion starts their turn.
+00054 SolDominion answered
+00055 SolDominion answered
+00056 SolDominion answered
+00057 SolDominion answered
+00058 SolDominion answered
+00059 play treasures for
+00060 SolDominion answered
+00061 SolDominion buys and gains 1 Magpie.
+00062 SolDominion shuffles their deck.
+00063 SolDominion draws 2 Copper, 2 Estate, 1 Magpie.
+00064 hangdong69 starts turn 3
+00065 hangdong69 starts their turn.
+00066 hangdong69 answered
+00067 play treasures for
+00068 hangdong69 answered
+00069 hangdong69 buys and gains 1 Student.
+00070 hangdong69 shuffles their deck.
+00071 hangdong69 draws 5 card.
+00072 SolDominion starts turn 3
+00073 SolDominion starts their turn.
+00074 SolDominion answered
+00075 SolDominion spends 1 Favor.
+00076 SolDominion looks at 2 Copper, 1 Estate.
+00077 SolDominion answered
+00078 SolDominion discards 1 Estate.
+00079 SolDominion topdecks 2 Copper with Forest Dwellers.
+00080 SolDominion answered
+00081 SolDominion plays 1 Magpie.
+00082 SolDominion draws 1 Copper.
+00083 SolDominion gets +1 Action.
+00084 SolDominion reveals 1 Copper.
+00085 SolDominion puts 1 Copper into their hand.
+00086 SolDominion answered
+00087 SolDominion answered
+00088 SolDominion answered
+00089 SolDominion answered
+00090 play treasures for
+00091 SolDominion answered
+00092 SolDominion buys and gains 1 Conjurer.
+00093 SolDominion shuffles their deck.
+00094 SolDominion draws 3 Copper, 1 Estate, 1 Student.
+00095 hangdong69 starts turn 4
+00096 hangdong69 starts their turn.
+00097 hangdong69 answered
+00098 play treasures for
+00099 hangdong69 answered
+00100 hangdong69 buys and gains 1 Magpie.
+00101 hangdong69 draws 5 card.
+00102 SolDominion starts turn 4
+00103 SolDominion starts their turn.
+00104 SolDominion answered
+00105 SolDominion plays 1 Student.
+00106 SolDominion gets +1 Action.
+00107 SolDominion answered
+00108 SolDominion answered
+00109 SolDominion trashes 1 Estate.
+00110 SolDominion answered
+00111 SolDominion answered
+00112 SolDominion answered
+00113 play treasures for
+00114 SolDominion answered
+00115 SolDominion buys and gains 1 Silver.
+00116 SolDominion draws 3 Copper, 1 Estate, 1 Conjurer.
+00117 hangdong69 starts turn 5
+00118 hangdong69 starts their turn.
+00119 hangdong69 answered
+00120 hangdong69 plays 1 Student.
+00121 hangdong69 gets +1 Action.
+00122 hangdong69 answered
+00123 hangdong69 answered
+00124 hangdong69 trashes 1 Copper.
+00125 hangdong69 gets +1 Favor. (Student)
+00126 hangdong69 topdecks 1 Student.
+00127 hangdong69 answered
+00128 hangdong69 plays 1 Student.
+00129 hangdong69 gets +1 Action.
+00130 hangdong69 answered
+00131 hangdong69 answered
+00132 hangdong69 trashes 1 Copper.
+00133 hangdong69 gets +1 Favor. (Student)
+00134 hangdong69 topdecks 1 Student.
+00135 hangdong69 answered
+00136 hangdong69 answered
+00137 hangdong69 shuffles their deck.
+00138 hangdong69 draws 5 card.
+00139 SolDominion starts turn 5
+00140 SolDominion starts their turn.
+00141 SolDominion answered
+00142 SolDominion plays 1 Conjurer.
+00143 SolDominion answered
+00144 SolDominion gains 1 Cavalry.
+00145 SolDominion draws 1 Estate, 1 Magpie.
+00146 SolDominion gets +1 Buy.
+00147 SolDominion answered
+00148 SolDominion answered
+00149 SolDominion answered
+00150 play treasures for
+00151 SolDominion answered
+00152 SolDominion buys and gains 1 Druid.
+00153 SolDominion answered
+00154 SolDominion shuffles their deck.
+00155 SolDominion draws 1 Copper, 1 Silver, 1 Estate, 1 Magpie, 1 Cavalry.
+00156 hangdong69 starts turn 6
+00157 hangdong69 starts their turn.
+00158 hangdong69 answered
+00159 hangdong69 plays 1 Student.
+00160 hangdong69 gets +1 Action.
+00161 hangdong69 answered
+00162 hangdong69 answered
+00163 hangdong69 trashes 1 Estate.
+00164 hangdong69 answered
+00165 hangdong69 plays 1 Student.
+00166 hangdong69 gets +1 Action.
+00167 hangdong69 answered
+00168 hangdong69 rotates 3 Conjurer.
+00169 hangdong69 answered
+00170 hangdong69 trashes 1 Copper.
+00171 hangdong69 gets +1 Favor. (Student)
+00172 hangdong69 topdecks 1 Student.
+00173 hangdong69 answered
+00174 hangdong69 answered
+00175 hangdong69 draws 5 card.
+00176 SolDominion starts turn 6
+00177 SolDominion starts their turn.
+00178 SolDominion puts 1 Conjurer in hand (Conjurer).
+00179 SolDominion answered
+00180 SolDominion plays 1 Magpie.
+00181 SolDominion draws 1 Student.
+00182 SolDominion gets +1 Action.
+00183 SolDominion reveals 1 Copper.
+00184 SolDominion puts 1 Copper into their hand.
+00185 SolDominion answered
+00186 SolDominion plays 1 Student.
+00187 SolDominion gets +1 Action.
+00188 SolDominion answered
+00189 SolDominion answered
+00190 SolDominion trashes 1 Estate.
+00191 SolDominion answered
+00192 SolDominion plays 1 Conjurer.
+00193 SolDominion answered
+00194 SolDominion gains 1 Magpie.
+00195 SolDominion answered
+00196 SolDominion answered
+00197 SolDominion answered
+00198 play treasures for

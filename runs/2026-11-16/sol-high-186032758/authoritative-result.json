@@ -1,0 +1,23 @@
+{
+  "game_id": "dominion.games:186032758",
+  "completed_at": "2026-11-17T02:08:26.640700+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "SolDominion",
+        "vp": 45,
+        "rank": 2,
+        "turns": 21
+      },
+      {
+        "index": 1,
+        "name": "mdwicker",
+        "vp": 46,
+        "rank": 1,
+        "turns": 21
+      }
+    ]
+  }
+}

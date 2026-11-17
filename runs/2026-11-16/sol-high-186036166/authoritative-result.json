@@ -1,0 +1,23 @@
+{
+  "game_id": "dominion.games:186036166",
+  "completed_at": "2026-11-17T03:55:59.364058+00:00",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "Relicdog",
+        "vp": 30,
+        "rank": 1,
+        "turns": 16
+      },
+      {
+        "index": 1,
+        "name": "SolDominion",
+        "vp": 19,
+        "rank": 2,
+        "turns": 15
+      }
+    ]
+  }
+}

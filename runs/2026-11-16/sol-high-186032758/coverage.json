@@ -1,0 +1,92 @@
+{
+  "number": 6,
+  "game_id": "dominion.games:186032758",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "SolDominion",
+        "vp": 45,
+        "rank": 2,
+        "turns": 21
+      },
+      {
+        "index": 1,
+        "name": "mdwicker",
+        "vp": 46,
+        "rank": 1,
+        "turns": 21
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "archive": "1794879824340-b4b293416d4bef68",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794879824340-b4b293416d4bef68",
+      "events": 146,
+      "event_kinds": {
+        "seat": 1,
+        "request": 31,
+        "response": 32,
+        "direct_request": 31,
+        "direct_usage": 30,
+        "native_event": 20,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794879824340,
+      "last_time_ms": 1794880162854,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": false
+    },
+    {
+      "archive": "1794880167857-60043b3f43efcc02",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794880167857-60043b3f43efcc02",
+      "events": 404,
+      "event_kinds": {
+        "seat": 1,
+        "request": 84,
+        "response": 85,
+        "direct_request": 84,
+        "direct_usage": 83,
+        "native_event": 66,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794880167859,
+      "last_time_ms": 1794881153975,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": false
+    },
+    {
+      "archive": "1794881163977-3d956ff62b37805b",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794881163977-3d956ff62b37805b",
+      "events": 65,
+      "event_kinds": {
+        "seat": 1,
+        "request": 14,
+        "response": 14,
+        "direct_request": 14,
+        "direct_usage": 14,
+        "native_event": 5,
+        "result": 1,
+        "native_response": 1,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794881163977,
+      "last_time_ms": 1794881317179,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": true
+    }
+  ],
+  "observed_log_entries": 627,
+  "log_seq_range": [
+    0,
+    626
+  ],
+  "missing_observed_sequence_numbers": [],
+  "has_recorded_final_view": true,
+  "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+}

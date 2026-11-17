@@ -1,0 +1,54 @@
+{
+  "number": 7,
+  "game_id": "dominion.games:186033558",
+  "result": {
+    "reason": "official server result",
+    "players": [
+      {
+        "index": 0,
+        "name": "SolDominion",
+        "vp": 29,
+        "rank": 1,
+        "turns": 17
+      },
+      {
+        "index": 1,
+        "name": "Pitstop363",
+        "vp": 8,
+        "rank": 2,
+        "turns": 16
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "archive": "1794881306863-87e62f33632751f8",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794881306863-87e62f33632751f8",
+      "events": 590,
+      "event_kinds": {
+        "seat": 1,
+        "request": 124,
+        "response": 124,
+        "direct_request": 124,
+        "direct_usage": 124,
+        "native_event": 90,
+        "result": 1,
+        "native_response": 1,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794881306863,
+      "last_time_ms": 1794882661375,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": true
+    }
+  ],
+  "observed_log_entries": 651,
+  "log_seq_range": [
+    0,
+    650
+  ],
+  "missing_observed_sequence_numbers": [],
+  "has_recorded_final_view": true,
+  "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+}

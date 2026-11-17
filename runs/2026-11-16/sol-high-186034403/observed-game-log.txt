@@ -1,0 +1,6 @@
+00000 game 186034403
+00001 SolDominion starts with 3 Estate.
+00002 SolDominion starts with 7 Copper.
+00003 nateopp starts with 3 Estate.
+00004 nateopp starts with 7 Copper.
+00005 SolDominion answered

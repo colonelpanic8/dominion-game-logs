@@ -1,0 +1,4101 @@
+[
+  {
+    "seq": 0,
+    "text": "game 186033558",
+    "type": "official-game-meta-info"
+  },
+  {
+    "card": "The Earth's Gift",
+    "player": 0,
+    "seq": 1,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "card": "The Swamp's Gift",
+    "player": 0,
+    "seq": 2,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 0,
+    "seq": 3,
+    "text": "druid selects boons",
+    "type": "official-druid-selects-boons"
+  },
+  {
+    "player": 0,
+    "seq": 4,
+    "text": "SolDominion starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 5,
+    "text": "SolDominion starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 6,
+    "text": "Pitstop363 starts with 3 Estate.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 1,
+    "seq": 7,
+    "text": "Pitstop363 starts with 7 Copper.",
+    "type": "official-starts-with"
+  },
+  {
+    "player": 0,
+    "seq": 8,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 9,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 10,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 11,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 12,
+    "text": "SolDominion draws 4 Copper, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 13,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 14,
+    "text": "SolDominion starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 15,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 16,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 17,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 18,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 19,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 20,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 21,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 22,
+    "text": "SolDominion draws 3 Copper, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 23,
+    "text": "Pitstop363 starts turn 1",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 24,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 25,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 26,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 27,
+    "text": "Pitstop363 buys and gains 1 Tanuki.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 28,
+    "text": "Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 29,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 30,
+    "text": "SolDominion starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 31,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 32,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 33,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 34,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 35,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 36,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 37,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 38,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 2 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 39,
+    "text": "Pitstop363 starts turn 2",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 40,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 41,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 42,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 43,
+    "text": "Pitstop363 buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 44,
+    "text": "Pitstop363 puts 1 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 1,
+    "seq": 45,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 46,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 47,
+    "text": "SolDominion starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 48,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 49,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 50,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 51,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 52,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 53,
+    "text": "SolDominion buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 54,
+    "text": "SolDominion draws 3 Copper, 1 Silver, 1 Estate.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 55,
+    "text": "Pitstop363 starts turn 3",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 56,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 57,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 58,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 59,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 60,
+    "text": "Pitstop363 buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 61,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 62,
+    "text": "SolDominion starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 63,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 64,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 65,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 66,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 67,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 68,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 69,
+    "text": "SolDominion buys and gains 1 Tanuki.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 70,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 71,
+    "text": "SolDominion puts 1 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 72,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 73,
+    "text": "SolDominion draws 4 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 74,
+    "text": "Pitstop363 starts turn 4",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 75,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 76,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 77,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 78,
+    "text": "Pitstop363 trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 79,
+    "text": "Pitstop363 reveals 1 Spell Scroll.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 80,
+    "text": "Pitstop363 gains 1 Spell Scroll.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 81,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 82,
+    "text": "Pitstop363 gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 83,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 84,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 85,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 86,
+    "text": "Pitstop363 buys and gains 1 Abundance.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 87,
+    "text": "Pitstop363 puts 1 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 1,
+    "seq": 88,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 89,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 90,
+    "text": "SolDominion starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 91,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 92,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 93,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 94,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 95,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 96,
+    "text": "SolDominion gains 1 Jewelled Egg.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 97,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 98,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 99,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 100,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 101,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 102,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cobbler",
+    "player": 0,
+    "seq": 103,
+    "text": "SolDominion buys and gains 1 Cobbler.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 104,
+    "text": "SolDominion draws 1 Copper, 3 Estate, 1 Jewelled Egg.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 105,
+    "text": "Pitstop363 starts turn 5",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 106,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 107,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 108,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 109,
+    "text": "Pitstop363 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 110,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 111,
+    "text": "Pitstop363 gains 1 Jewelled Egg.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 112,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 113,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 114,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 115,
+    "text": "Pitstop363 plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 116,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 117,
+    "text": "Pitstop363 buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 118,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 119,
+    "text": "SolDominion starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 120,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 121,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 122,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 123,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 124,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 125,
+    "text": "SolDominion buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 126,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 127,
+    "text": "SolDominion puts 1 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 128,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 129,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Jewelled Egg.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 130,
+    "text": "Pitstop363 starts turn 6",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 131,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 132,
+    "text": "Pitstop363 plays 1 Spell Scroll.",
+    "type": "official-play"
+  },
+  {
+    "card": "Spell Scroll",
+    "player": 1,
+    "seq": 133,
+    "text": "Pitstop363 trashes 1 Spell Scroll.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 134,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 135,
+    "text": "Pitstop363 gains 1 Tanuki.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 136,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 137,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 138,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 139,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 140,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 141,
+    "text": "Pitstop363 trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 142,
+    "text": "Pitstop363 reveals 1 Figurehead.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 143,
+    "text": "Pitstop363 gains 1 Figurehead.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 144,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 145,
+    "text": "Pitstop363 gains 1 Watchtower.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 146,
+    "text": "Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 147,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 148,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 149,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 150,
+    "text": "Pitstop363 buys and gains 1 Abundance.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 151,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 152,
+    "text": "Pitstop363 puts 2 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 1,
+    "seq": 153,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 154,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 155,
+    "text": "SolDominion starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 156,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 157,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 158,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 159,
+    "text": "SolDominion trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 160,
+    "text": "SolDominion reveals 1 Jewels.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 161,
+    "text": "SolDominion gains 1 Jewels.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 162,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 163,
+    "text": "SolDominion gains 1 Watchtower.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 164,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 165,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 166,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 167,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 168,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 169,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 170,
+    "text": "SolDominion buys and gains 1 Abundance.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 171,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 2 Estate, 1 Cobbler.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 172,
+    "text": "Pitstop363 starts turn 7",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 173,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 174,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 175,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 1,
+    "seq": 176,
+    "text": "Pitstop363 trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 177,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 178,
+    "text": "Pitstop363 gains 1 Jewelled Egg.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 179,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 180,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 181,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 182,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 183,
+    "text": "Pitstop363 plays 2 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 184,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 1,
+    "seq": 185,
+    "text": "Pitstop363 buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 186,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 187,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 188,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 189,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 190,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 191,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 192,
+    "text": "Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 193,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 194,
+    "text": "Pitstop363 buys and gains 1 Samurai.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 195,
+    "text": "Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 196,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 197,
+    "text": "Pitstop363 buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 198,
+    "text": "Pitstop363 takes 6 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 1,
+    "seq": 199,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 200,
+    "text": "SolDominion starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 201,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 202,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 203,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 204,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Plan",
+    "player": 0,
+    "seq": 205,
+    "text": "SolDominion buys 1 Plan.",
+    "type": "official-buy"
+  },
+  {
+    "player": 0,
+    "seq": 206,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 207,
+    "text": "SolDominion moves plus action to Player 0 supply.",
+    "type": "official-player-moves-token-to"
+  },
+  {
+    "player": 0,
+    "seq": 208,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cobbler",
+    "player": 0,
+    "seq": 209,
+    "text": "SolDominion plays 1 Cobbler.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 210,
+    "text": "SolDominion draws 3 Copper, 2 Jewelled Egg.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 211,
+    "text": "Pitstop363 starts turn 8",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 212,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 213,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 214,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 215,
+    "text": "Pitstop363 trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 216,
+    "text": "Pitstop363 reveals 1 Sword.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 217,
+    "text": "Pitstop363 gains 1 Sword.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 218,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 219,
+    "text": "Pitstop363 reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 220,
+    "text": "Pitstop363 topdecks 1 Sword.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 221,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 222,
+    "text": "Pitstop363 gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 223,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 224,
+    "text": "Pitstop363 reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 225,
+    "text": "Pitstop363 topdecks 1 Abundance.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 226,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 227,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 228,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 229,
+    "text": "Pitstop363 buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 230,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 231,
+    "text": "Pitstop363 reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 232,
+    "text": "Pitstop363 topdecks 1 Jewelled Egg.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 233,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 234,
+    "text": "SolDominion starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 235,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 236,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 237,
+    "text": "SolDominion gains 1 Abundance. (Cobbler)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 238,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 239,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 240,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 241,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 242,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 243,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 244,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 245,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 246,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 247,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 0,
+    "seq": 248,
+    "text": "SolDominion buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 249,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 250,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 251,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 0,
+    "seq": 252,
+    "text": "SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 0,
+    "seq": 253,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 254,
+    "text": "SolDominion buys and gains 1 Tanuki.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 255,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 256,
+    "text": "SolDominion trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 257,
+    "text": "SolDominion reveals 1 Orb.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 258,
+    "text": "SolDominion gains 1 Orb.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 259,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 260,
+    "text": "SolDominion puts 2 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 261,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 262,
+    "text": "SolDominion draws 2 Copper, 1 Watchtower, 1 Cobbler, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 263,
+    "text": "Pitstop363 starts turn 9",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 264,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 265,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 266,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 267,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 268,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 269,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 270,
+    "text": "Pitstop363 plays 1 Sword.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 271,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 272,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 273,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 274,
+    "text": "SolDominion discards 1 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 275,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 276,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 277,
+    "text": "Pitstop363 plays 2 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 278,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 1,
+    "seq": 279,
+    "text": "Pitstop363 buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 280,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 281,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 282,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 283,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 284,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 285,
+    "text": "Pitstop363 buys and gains 1 Samurai.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "card": "Defiled Shrine",
+    "player": 1,
+    "seq": 286,
+    "text": "Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.",
+    "type": "official-move-vp-from-to"
+  },
+  {
+    "player": 1,
+    "seq": 287,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 288,
+    "text": "Pitstop363 buys and gains 1 Jewelled Egg.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 289,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Curse",
+    "player": 1,
+    "seq": 290,
+    "text": "Pitstop363 buys and gains 1 Curse.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 291,
+    "text": "Pitstop363 takes 2 VP from Player 0 landscape.",
+    "type": "official-take-vp-from"
+  },
+  {
+    "player": 1,
+    "seq": 292,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 293,
+    "text": "Pitstop363 puts 2 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 1,
+    "seq": 294,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 295,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 296,
+    "text": "SolDominion starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 297,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 298,
+    "text": "SolDominion plays 1 Watchtower.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 299,
+    "text": "SolDominion draws 1 Estate, 1 Druid, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 300,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 301,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 302,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 303,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 304,
+    "text": "SolDominion plays 2 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 305,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 306,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Cobbler",
+    "player": 0,
+    "seq": 307,
+    "text": "SolDominion plays 1 Cobbler.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 308,
+    "text": "SolDominion draws 3 Copper, 1 Jewelled Egg, 1 Orb.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 309,
+    "text": "Pitstop363 starts turn 10",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 310,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 311,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 312,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 1,
+    "seq": 313,
+    "text": "Pitstop363 trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 1,
+    "seq": 314,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 315,
+    "text": "Pitstop363 gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 316,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 317,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 318,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 319,
+    "text": "Pitstop363 plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 320,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 321,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 1,
+    "seq": 322,
+    "text": "Pitstop363 buys and gains 1 Horn of Plenty.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 323,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 324,
+    "text": "SolDominion starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 325,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 0,
+    "seq": 326,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 327,
+    "text": "SolDominion gains 1 Watchtower. (Cobbler)",
+    "type": "official-gain-with"
+  },
+  {
+    "player": 0,
+    "seq": 328,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 329,
+    "text": "SolDominion gets +1 Buy. (Abundance)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 330,
+    "text": "SolDominion gets +$3. (Abundance)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 331,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 332,
+    "text": "SolDominion gets +1 Buy. (Abundance)",
+    "type": "official-gets-buy-from"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 333,
+    "text": "SolDominion gets +$3. (Abundance)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 0,
+    "seq": 334,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 335,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 336,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 337,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 0,
+    "seq": 338,
+    "text": "SolDominion trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 339,
+    "text": "SolDominion reveals 1 Insignia.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 340,
+    "text": "SolDominion gains 1 Insignia.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 341,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 342,
+    "text": "SolDominion reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 343,
+    "text": "SolDominion topdecks 1 Insignia.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 344,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 345,
+    "text": "SolDominion gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 346,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 347,
+    "text": "SolDominion reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 348,
+    "text": "SolDominion topdecks 1 Abundance.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 349,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 350,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 351,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 352,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 353,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 354,
+    "text": "SolDominion plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 355,
+    "text": "SolDominion looks at 2 Copper, 1 Estate, 1 Watchtower, 1 Druid.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 356,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 357,
+    "text": "SolDominion plays 1 Watchtower.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 358,
+    "text": "SolDominion looks at 1 Estate, 1 Watchtower, 2 Copper, 1 Druid.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 359,
+    "text": "SolDominion draws 1 Copper, 1 Estate, 1 Abundance, 1 Insignia, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 360,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 361,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 362,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 363,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 364,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 365,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 366,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 367,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 368,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 369,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 370,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 371,
+    "text": "SolDominion buys and gains 1 Tanuki.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 372,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 373,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 374,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 375,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 376,
+    "text": "SolDominion reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 377,
+    "text": "SolDominion trashes 1 Tanuki.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 378,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 379,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 380,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Platinum",
+    "player": 0,
+    "seq": 381,
+    "text": "SolDominion buys and gains 1 Platinum.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 382,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 383,
+    "text": "SolDominion topdecks 1 Platinum with Insignia.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 384,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 385,
+    "text": "SolDominion buys and gains 1 Horn of Plenty.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 386,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 387,
+    "text": "SolDominion topdecks 1 Horn of Plenty with Insignia.",
+    "type": "official-topdeck-with"
+  },
+  {
+    "player": 0,
+    "seq": 388,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 389,
+    "text": "SolDominion draws 2 Silver, 1 Estate, 1 Platinum, 1 Horn of Plenty.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 390,
+    "text": "Pitstop363 starts turn 11",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 391,
+    "text": "Pitstop363 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "player": 1,
+    "seq": 392,
+    "text": "Pitstop363 draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 393,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 394,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 395,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 396,
+    "text": "Pitstop363 trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 397,
+    "text": "Pitstop363 reveals 1 Hammer.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Hammer",
+    "player": 1,
+    "seq": 398,
+    "text": "Pitstop363 gains 1 Hammer.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 399,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 400,
+    "text": "Pitstop363 gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 401,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 402,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 403,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 404,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 405,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 406,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 407,
+    "text": "Pitstop363 plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 408,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 409,
+    "text": "Pitstop363 buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 410,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 411,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 412,
+    "text": "SolDominion starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 413,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 414,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 415,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 416,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 417,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Estate",
+    "player": 0,
+    "seq": 418,
+    "text": "SolDominion trashes 1 Estate.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 419,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 420,
+    "text": "SolDominion gains 1 Abundance.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 421,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 422,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 423,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 424,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 425,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 426,
+    "text": "SolDominion plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 427,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 428,
+    "text": "SolDominion gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 429,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Platinum",
+    "player": 0,
+    "seq": 430,
+    "text": "SolDominion buys and gains 1 Platinum.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 431,
+    "text": "SolDominion puts 2 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 432,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 433,
+    "text": "SolDominion draws 1 Copper, 1 Silver, 1 Horn of Plenty, 1 Abundance, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 434,
+    "text": "Pitstop363 starts turn 12",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 435,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 1,
+    "seq": 436,
+    "text": "Pitstop363 plays 1 Druid.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 437,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 438,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 1,
+    "seq": 439,
+    "text": "Pitstop363 receives 1 The Moon's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 1,
+    "seq": 440,
+    "text": "Pitstop363 looks at 13 card, 1 Abundance, 2 Tanuki.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 1,
+    "seq": 441,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "card",
+    "player": 1,
+    "seq": 442,
+    "text": "Pitstop363 topdecks 1 card.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 443,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 444,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 445,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 1,
+    "seq": 446,
+    "text": "Pitstop363 plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 447,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 1,
+    "seq": 448,
+    "text": "Pitstop363 buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 449,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 450,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 451,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 452,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 453,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 454,
+    "text": "Pitstop363 buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 455,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 456,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 457,
+    "text": "SolDominion starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 458,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 459,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 460,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Copper",
+    "player": 0,
+    "seq": 461,
+    "text": "SolDominion trashes 1 Copper.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 462,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 0,
+    "seq": 463,
+    "text": "SolDominion gains 1 Druid.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 464,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 465,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 466,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 467,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 468,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 469,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 470,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 471,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 472,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 0,
+    "seq": 473,
+    "text": "SolDominion plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 474,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 475,
+    "text": "SolDominion gains 1 Tanuki.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 476,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 477,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 478,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 479,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 480,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 481,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 482,
+    "text": "SolDominion draws 1 Copper, 1 Platinum, 1 Abundance, 1 Insignia, 1 Orb.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 483,
+    "text": "Pitstop363 starts turn 13",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 484,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 485,
+    "text": "Pitstop363 plays 1 Samurai.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 486,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 487,
+    "text": "SolDominion discards 1 Copper, 1 Abundance.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 488,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 489,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 490,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 491,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Figurehead",
+    "player": 1,
+    "seq": 492,
+    "text": "Pitstop363 plays 1 Figurehead.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 493,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 494,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Sword",
+    "player": 1,
+    "seq": 495,
+    "text": "Pitstop363 plays 1 Sword.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 496,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 497,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 498,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 499,
+    "text": "Pitstop363 buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 500,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 501,
+    "text": "Pitstop363 reacts with 1 Watchtower.",
+    "type": "official-reacts-with"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 502,
+    "text": "Pitstop363 topdecks 1 Gold.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 1,
+    "seq": 503,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 504,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 505,
+    "text": "SolDominion starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 506,
+    "text": "SolDominion starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 507,
+    "text": "SolDominion puts 1 Jewels on the bottom of SolDominion deck.",
+    "type": "official-put-on-bottom-of"
+  },
+  {
+    "player": 0,
+    "seq": 508,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 0,
+    "seq": 509,
+    "text": "SolDominion plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 510,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Insignia",
+    "player": 0,
+    "seq": 511,
+    "text": "SolDominion trashes 1 Insignia.",
+    "type": "official-trash"
+  },
+  {
+    "player": 0,
+    "seq": 512,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 513,
+    "text": "SolDominion gains 1 Province.",
+    "type": "official-gain"
+  },
+  {
+    "player": 0,
+    "seq": 514,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Platinum",
+    "player": 0,
+    "seq": 515,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 516,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Orb",
+    "player": 0,
+    "seq": 517,
+    "text": "SolDominion plays 1 Orb.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 518,
+    "text": "SolDominion looks at 1 Copper, 1 Silver, 2 Province, 1 Horn of Plenty, 1 Druid, 2 Abundance, 2 Tanuki.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 519,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 520,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 521,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 522,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Province",
+    "player": 0,
+    "seq": 523,
+    "text": "SolDominion buys and gains 1 Province.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 524,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 525,
+    "text": "SolDominion draws 2 Copper, 1 Silver, 1 Druid, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 526,
+    "text": "Pitstop363 starts turn 14",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 527,
+    "text": "Pitstop363 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 528,
+    "text": "Pitstop363 gets +$1. (Samurai)",
+    "type": "official-gets-coin-from"
+  },
+  {
+    "player": 1,
+    "seq": 529,
+    "text": "Pitstop363 puts 2 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 1,
+    "seq": 530,
+    "text": "Pitstop363 shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 1,
+    "seq": 531,
+    "text": "Pitstop363 draws 2 card. (Figurehead)",
+    "type": "official-draw-from"
+  },
+  {
+    "player": 1,
+    "seq": 532,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 533,
+    "text": "Pitstop363 plays 1 Samurai.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 534,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 535,
+    "text": "SolDominion discards 2 Copper.",
+    "type": "official-discard"
+  },
+  {
+    "player": 1,
+    "seq": 536,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 537,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 538,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 539,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 540,
+    "text": "Pitstop363 plays 2 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 541,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 542,
+    "text": "Pitstop363 buys and gains 1 Gold.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 543,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 544,
+    "text": "SolDominion starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 545,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 0,
+    "seq": 546,
+    "text": "SolDominion plays 1 Druid.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 547,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 548,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "The Moon's Gift",
+    "player": 0,
+    "seq": 549,
+    "text": "SolDominion receives 1 The Moon's Gift.",
+    "type": "official-receives"
+  },
+  {
+    "player": 0,
+    "seq": 550,
+    "text": "SolDominion looks at 3 Copper, 1 Silver, 3 Province, 1 Platinum, 1 Horn of Plenty, 1 Druid, 2 Abundance, 1 Orb, 3 Tanuki.",
+    "type": "official-look-at"
+  },
+  {
+    "player": 0,
+    "seq": 551,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Platinum",
+    "player": 0,
+    "seq": 552,
+    "text": "SolDominion topdecks 1 Platinum.",
+    "type": "official-topdeck"
+  },
+  {
+    "player": 0,
+    "seq": 553,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 554,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 555,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 556,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 557,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 0,
+    "seq": 558,
+    "text": "SolDominion buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 559,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 560,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 561,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 0,
+    "seq": 562,
+    "text": "SolDominion buys and gains 1 Silver.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 563,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 564,
+    "text": "SolDominion draws 1 Estate, 2 Platinum, 2 Watchtower.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 565,
+    "text": "Pitstop363 starts turn 15",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 566,
+    "text": "Pitstop363 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 567,
+    "text": "Pitstop363 gets +$2. (Samurai)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 568,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 569,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 570,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 1,
+    "seq": 571,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 572,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 573,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 574,
+    "text": "Pitstop363 plays 1 Hammer, 2 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 575,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 576,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 1,
+    "seq": 577,
+    "text": "Pitstop363 gains 1 Watchtower.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 578,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 579,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 580,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 581,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 582,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 583,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 584,
+    "text": "Pitstop363 gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 1,
+    "seq": 585,
+    "text": "Pitstop363 gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 1,
+    "seq": 586,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 587,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 588,
+    "text": "Pitstop363 buys and gains 2 Platinum.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 1,
+    "seq": 589,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 590,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 591,
+    "text": "SolDominion starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 592,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 593,
+    "text": "SolDominion plays 1 Watchtower.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 594,
+    "text": "SolDominion draws 1 Copper, 1 Silver.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 595,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 596,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 597,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 598,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 599,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 600,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Colony",
+    "player": 0,
+    "seq": 601,
+    "text": "SolDominion buys and gains 1 Colony.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 602,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 603,
+    "text": "SolDominion puts 3 Tanuki on the bottom of their deck.",
+    "type": "official-bottomdecks"
+  },
+  {
+    "player": 0,
+    "seq": 604,
+    "text": "SolDominion shuffles their deck.",
+    "type": "official-shuffles"
+  },
+  {
+    "player": 0,
+    "seq": 605,
+    "text": "SolDominion draws 1 Copper, 1 Watchtower, 1 Cobbler, 1 Abundance, 1 Jewels.",
+    "type": "official-draw"
+  },
+  {
+    "player": 1,
+    "seq": 606,
+    "text": "Pitstop363 starts turn 16",
+    "type": "turn-start"
+  },
+  {
+    "player": 1,
+    "seq": 607,
+    "text": "Pitstop363 starts their turn.",
+    "type": "official-starts-turn"
+  },
+  {
+    "card": "Samurai",
+    "player": 1,
+    "seq": 608,
+    "text": "Pitstop363 gets +$2. (Samurai)",
+    "type": "official-gets-coins-from"
+  },
+  {
+    "player": 1,
+    "seq": 609,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Tanuki",
+    "player": 1,
+    "seq": 610,
+    "text": "Pitstop363 plays 1 Tanuki.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 611,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewelled Egg",
+    "player": 1,
+    "seq": 612,
+    "text": "Pitstop363 trashes 1 Jewelled Egg.",
+    "type": "official-trash"
+  },
+  {
+    "card": "Doubloons",
+    "player": 1,
+    "seq": 613,
+    "text": "Pitstop363 reveals 1 Doubloons.",
+    "type": "official-reveal"
+  },
+  {
+    "card": "Doubloons",
+    "player": 1,
+    "seq": 614,
+    "text": "Pitstop363 gains 1 Doubloons.",
+    "type": "official-gain"
+  },
+  {
+    "card": "Gold",
+    "player": 1,
+    "seq": 615,
+    "text": "Pitstop363 gains 1 Gold.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 616,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 617,
+    "text": "Pitstop363 gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 618,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Horn of Plenty",
+    "player": 1,
+    "seq": 619,
+    "text": "Pitstop363 plays 1 Horn of Plenty.",
+    "type": "official-play"
+  },
+  {
+    "player": 1,
+    "seq": 620,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "card": "Silver",
+    "player": 1,
+    "seq": 621,
+    "text": "Pitstop363 gains 1 Silver.",
+    "type": "official-gain"
+  },
+  {
+    "player": 1,
+    "seq": 622,
+    "text": "Pitstop363 answered",
+    "type": "decision"
+  },
+  {
+    "player": 1,
+    "seq": 623,
+    "text": "Pitstop363 draws 5 card.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 624,
+    "text": "SolDominion starts turn 17",
+    "type": "turn-start"
+  },
+  {
+    "player": 0,
+    "seq": 625,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Watchtower",
+    "player": 0,
+    "seq": 626,
+    "text": "SolDominion plays 1 Watchtower.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 627,
+    "text": "SolDominion draws 1 Copper, 1 Abundance.",
+    "type": "official-draw"
+  },
+  {
+    "player": 0,
+    "seq": 628,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Jewels",
+    "player": 0,
+    "seq": 629,
+    "text": "SolDominion plays 1 Jewels.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 630,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 631,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 632,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 633,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 634,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 635,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 636,
+    "text": "play treasures for",
+    "type": "official-play-treasures-for"
+  },
+  {
+    "player": 0,
+    "seq": 637,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Abundance",
+    "player": 0,
+    "seq": 638,
+    "text": "SolDominion plays 1 Abundance.",
+    "type": "official-play"
+  },
+  {
+    "player": 0,
+    "seq": 639,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "card": "Druid",
+    "player": 0,
+    "seq": 640,
+    "text": "SolDominion buys and gains 1 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 641,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 642,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 643,
+    "text": "SolDominion gets +1 Buy.",
+    "type": "official-gets-buy"
+  },
+  {
+    "player": 0,
+    "seq": 644,
+    "text": "SolDominion gets +$3.",
+    "type": "official-gets-coins"
+  },
+  {
+    "player": 0,
+    "seq": 645,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 646,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 647,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 648,
+    "text": "SolDominion buys and gains 3 Druid.",
+    "type": "official-buy-and-gain"
+  },
+  {
+    "player": 0,
+    "seq": 649,
+    "text": "SolDominion answered",
+    "type": "decision"
+  },
+  {
+    "player": 0,
+    "seq": 650,
+    "text": "SolDominion draws 1 Silver, 1 Province, 1 Colony, 1 Platinum, 1 Abundance.",
+    "type": "official-draw"
+  }
+]

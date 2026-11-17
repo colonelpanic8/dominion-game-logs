@@ -1,0 +1,36 @@
+{
+  "dominion-arena": {
+    "fe91607eff4e4ec4ef85d12b02d37affce2eb32a": {
+      "games": [
+        3,
+        4,
+        5
+      ],
+      "basis": "Operator deployment record: deployed after game 2, replaced after game 5."
+    },
+    "539b4c4fb196f2ea3ac66089d492bdd872ea7236": {
+      "games": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "basis": "Verified production deployment and coordinator state."
+    }
+  },
+  "unknown": {
+    "games": [
+      1,
+      2
+    ],
+    "note": "Exact first deployment revision and any dirty changes were not recorded. Do not infer them from the later deployment."
+  },
+  "provider": "Direct OpenAI Responses API, not a Codex CLI harness. Per-session model and settings are in the seat event.",
+  "source_note": "Published source snapshots provide context for the known deployments. Exact complete API input bodies were not saved."
+}

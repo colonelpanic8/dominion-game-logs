@@ -1,0 +1,735 @@
+00000 game 186035246
+00001 The Friendly Trait is acquired by Player 0 supply.
+00002 SolDominion starts with 3 Estate.
+00003 SolDominion starts with 7 Copper.
+00004 dtbomber starts with 3 Estate.
+00005 dtbomber starts with 7 Copper.
+00006 SolDominion answered
+00007 dtbomber answered
+00008 SolDominion shuffles their deck.
+00009 dtbomber shuffles their deck.
+00010 SolDominion draws 4 Copper, 1 Estate.
+00011 dtbomber draws 5 card.
+00012 SolDominion starts turn 1
+00013 SolDominion starts their turn.
+00014 SolDominion answered
+00015 SolDominion answered
+00016 SolDominion answered
+00017 SolDominion answered
+00018 play treasures for
+00019 SolDominion answered
+00020 SolDominion buys and gains 1 Carpenter.
+00021 SolDominion draws 3 Copper, 2 Estate.
+00022 dtbomber starts turn 1
+00023 dtbomber starts their turn.
+00024 dtbomber answered
+00025 play treasures for
+00026 dtbomber answered
+00027 dtbomber buys and gains 1 Carpenter.
+00028 dtbomber draws 5 card.
+00029 SolDominion starts turn 2
+00030 SolDominion starts their turn.
+00031 SolDominion answered
+00032 SolDominion answered
+00033 SolDominion answered
+00034 play treasures for
+00035 SolDominion answered
+00036 SolDominion buys and gains 1 Silver.
+00037 SolDominion shuffles their deck.
+00038 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Carpenter.
+00039 dtbomber starts turn 2
+00040 dtbomber starts their turn.
+00041 dtbomber answered
+00042 play treasures for
+00043 dtbomber answered
+00044 dtbomber buys and gains 1 Smugglers.
+00045 dtbomber shuffles their deck.
+00046 dtbomber draws 5 card.
+00047 SolDominion starts turn 3
+00048 SolDominion starts their turn.
+00049 SolDominion answered
+00050 SolDominion plays 1 Carpenter.
+00051 SolDominion gets +1 Action.
+00052 SolDominion answered
+00053 SolDominion gains 1 Carpenter.
+00054 SolDominion answered
+00055 SolDominion answered
+00056 SolDominion answered
+00057 play treasures for
+00058 SolDominion answered
+00059 SolDominion buys and gains 1 Gondola.
+00060 SolDominion draws 3 Copper, 2 Estate.
+00061 dtbomber starts turn 3
+00062 dtbomber starts their turn.
+00063 dtbomber answered
+00064 play treasures for
+00065 dtbomber answered
+00066 dtbomber buys and gains 1 Gondola.
+00067 dtbomber draws 5 card.
+00068 SolDominion starts turn 4
+00069 SolDominion starts their turn.
+00070 SolDominion answered
+00071 SolDominion answered
+00072 SolDominion answered
+00073 play treasures for
+00074 SolDominion answered
+00075 SolDominion buys and gains 1 Silver.
+00076 SolDominion shuffles their deck.
+00077 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Gondola.
+00078 dtbomber starts turn 4
+00079 dtbomber starts their turn.
+00080 dtbomber answered
+00081 dtbomber plays 1 Carpenter.
+00082 dtbomber gets +1 Action.
+00083 dtbomber answered
+00084 dtbomber gains 1 Rustic Village.
+00085 dtbomber answered
+00086 dtbomber plays 1 Smugglers.
+00087 dtbomber gains 1 Silver.
+00088 dtbomber answered
+00089 play treasures for
+00090 dtbomber answered
+00091 dtbomber buys and gains 1 Harbinger.
+00092 dtbomber shuffles their deck.
+00093 dtbomber draws 5 card.
+00094 SolDominion starts turn 5
+00095 SolDominion starts their turn.
+00096 SolDominion answered
+00097 SolDominion plays 1 Gondola.
+00098 SolDominion answered
+00099 SolDominion gets +$2.
+00100 SolDominion answered
+00101 SolDominion answered
+00102 SolDominion answered
+00103 play treasures for
+00104 SolDominion answered
+00105 SolDominion buys and gains 1 Frigate.
+00106 SolDominion draws 1 Copper, 1 Silver, 1 Estate, 2 Carpenter.
+00107 dtbomber starts turn 5
+00108 dtbomber starts their turn.
+00109 dtbomber answered
+00110 dtbomber draws 5 card.
+00111 SolDominion starts turn 6
+00112 SolDominion starts their turn.
+00113 SolDominion answered
+00114 SolDominion plays 1 Carpenter.
+00115 SolDominion gets +1 Action.
+00116 SolDominion answered
+00117 SolDominion gains 1 Rustic Village.
+00118 SolDominion answered
+00119 SolDominion plays 1 Carpenter.
+00120 SolDominion gets +1 Action.
+00121 SolDominion answered
+00122 SolDominion gains 1 Gondola.
+00123 SolDominion answered
+00124 SolDominion answered
+00125 play treasures for
+00126 SolDominion answered
+00127 SolDominion buys and gains 1 Silver.
+00128 SolDominion draws 4 Copper, 1 Estate.
+00129 dtbomber starts turn 6
+00130 dtbomber starts their turn.
+00131 dtbomber answered
+00132 dtbomber plays 1 Carpenter.
+00133 dtbomber gets +1 Action.
+00134 dtbomber answered
+00135 dtbomber gains 1 Rustic Village.
+00136 dtbomber answered
+00137 play treasures for
+00138 dtbomber answered
+00139 dtbomber plays 1 Gondola.
+00140 dtbomber answered
+00141 dtbomber gets +$2.
+00142 dtbomber answered
+00143 dtbomber buys and gains 1 Displace.
+00144 dtbomber draws 5 card.
+00145 SolDominion starts turn 7
+00146 SolDominion starts their turn.
+00147 SolDominion answered
+00148 SolDominion answered
+00149 SolDominion answered
+00150 SolDominion answered
+00151 play treasures for
+00152 SolDominion answered
+00153 SolDominion buys and gains 1 Rustic Village.
+00154 SolDominion shuffles their deck.
+00155 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Frigate.
+00156 dtbomber starts turn 7
+00157 dtbomber starts their turn.
+00158 dtbomber answered
+00159 dtbomber plays 1 Rustic Village.
+00160 dtbomber draws 1 card.
+00161 dtbomber gets +2 Actions.
+00162 dtbomber answered
+00163 dtbomber plays 1 Harbinger.
+00164 dtbomber shuffles their deck.
+00165 dtbomber draws 1 card.
+00166 dtbomber gets +1 Action.
+00167 dtbomber answered
+00168 dtbomber plays 1 Smugglers.
+00169 dtbomber gains 1 Rustic Village.
+00170 dtbomber answered
+00171 play treasures for
+00172 dtbomber answered
+00173 dtbomber buys and gains 1 Frigate.
+00174 dtbomber draws 5 card.
+00175 SolDominion starts turn 8
+00176 SolDominion starts their turn.
+00177 SolDominion answered
+00178 SolDominion plays 1 Frigate.
+00179 SolDominion gets +$3.
+00180 SolDominion answered
+00181 SolDominion answered
+00182 SolDominion answered
+00183 play treasures for
+00184 SolDominion answered
+00185 SolDominion buys and gains 1 Displace.
+00186 SolDominion draws 1 Copper, 1 Estate, 1 Carpenter, 1 Gondola, 1 Rustic Village.
+00187 dtbomber starts turn 8
+00188 dtbomber starts their turn.
+00189 dtbomber answered
+00190 dtbomber plays 1 Rustic Village.
+00191 dtbomber draws 1 card.
+00192 dtbomber gets +2 Actions.
+00193 dtbomber answered
+00194 dtbomber answered
+00195 dtbomber discards 1 card, 1 Copper.
+00196 dtbomber draws 1 card.
+00197 dtbomber answered
+00198 dtbomber plays 1 Displace.
+00199 dtbomber answered
+00200 dtbomber exiles 1 Estate.
+00201 dtbomber answered
+00202 dtbomber gains 1 Rustic Village.
+00203 dtbomber answered
+00204 dtbomber plays 1 Gondola.
+00205 dtbomber answered
+00206 dtbomber answered
+00207 dtbomber shuffles their deck.
+00208 dtbomber draws 5 card.
+00209 SolDominion starts turn 9
+00210 SolDominion starts their turn.
+00211 SolDominion answered
+00212 SolDominion plays 1 Rustic Village.
+00213 SolDominion draws 1 Copper.
+00214 SolDominion gets +2 Actions.
+00215 SolDominion answered
+00216 SolDominion answered
+00217 SolDominion discards 1 Copper, 1 Estate.
+00218 SolDominion draws 1 Gondola.
+00219 SolDominion answered
+00220 SolDominion plays 1 Carpenter.
+00221 SolDominion gets +1 Action.
+00222 SolDominion answered
+00223 SolDominion gains 1 Rustic Village.
+00224 SolDominion answered
+00225 SolDominion plays 1 Gondola.
+00226 SolDominion answered
+00227 SolDominion gets +$2.
+00228 SolDominion answered
+00229 play treasures for
+00230 SolDominion answered
+00231 SolDominion plays 1 Gondola.
+00232 SolDominion answered
+00233 SolDominion gets +$2.
+00234 SolDominion answered
+00235 SolDominion buys and gains 1 Frigate.
+00236 SolDominion draws 3 Copper, 2 Silver.
+00237 dtbomber starts turn 9
+00238 dtbomber starts their turn.
+00239 dtbomber gets +$2. (Gondola)
+00240 dtbomber answered
+00241 dtbomber plays 1 Carpenter.
+00242 dtbomber gets +1 Action.
+00243 dtbomber answered
+00244 dtbomber gains 1 Rustic Village.
+00245 dtbomber answered
+00246 dtbomber plays 1 Rustic Village.
+00247 dtbomber draws 1 card.
+00248 dtbomber gets +2 Actions.
+00249 dtbomber answered
+00250 dtbomber answered
+00251 play treasures for
+00252 dtbomber answered
+00253 dtbomber buys and gains 1 Frigate.
+00254 dtbomber draws 5 card.
+00255 SolDominion starts turn 10
+00256 SolDominion starts their turn.
+00257 SolDominion answered
+00258 SolDominion answered
+00259 SolDominion answered
+00260 SolDominion answered
+00261 SolDominion answered
+00262 play treasures for
+00263 SolDominion answered
+00264 SolDominion buys and gains 1 Gold.
+00265 SolDominion shuffles their deck.
+00266 SolDominion draws 1 Silver, 1 Estate, 1 Carpenter, 1 Frigate, 1 Rustic Village.
+00267 dtbomber starts turn 10
+00268 dtbomber starts their turn.
+00269 dtbomber answered
+00270 dtbomber plays 1 Rustic Village.
+00271 Rapid Expansion comes true.
+00272 dtbomber draws 1 card.
+00273 dtbomber gets +2 Actions.
+00274 dtbomber answered
+00275 dtbomber plays 1 Harbinger.
+00276 dtbomber draws 1 card.
+00277 dtbomber gets +1 Action.
+00278 dtbomber looks at 8 card, 1 Rustic Village.
+00279 dtbomber answered
+00280 dtbomber topdecks 1 card.
+00281 dtbomber answered
+00282 dtbomber plays 1 Displace.
+00283 dtbomber answered
+00284 dtbomber exiles 1 Copper.
+00285 dtbomber answered
+00286 dtbomber gains 1 Estate.
+00287 dtbomber answered
+00288 dtbomber answered
+00289 dtbomber plays 1 Frigate.
+00290 dtbomber gets +$3.
+00291 dtbomber answered
+00292 play treasures for
+00293 dtbomber answered
+00294 dtbomber buys and gains 1 Gold.
+00295 dtbomber sets 1 Gold aside.
+00296 dtbomber draws 5 card.
+00297 SolDominion starts turn 11
+00298 SolDominion starts their turn.
+00299 SolDominion answered
+00300 SolDominion plays 1 Rustic Village.
+00301 SolDominion draws 1 Carpenter.
+00302 SolDominion gets +2 Actions.
+00303 SolDominion answered
+00304 SolDominion answered
+00305 SolDominion discards 1 Estate.
+00306 SolDominion answered
+00307 SolDominion plays 1 Carpenter.
+00308 SolDominion gets +1 Action.
+00309 SolDominion answered
+00310 SolDominion gains 1 Carpenter.
+00311 SolDominion sets 1 Carpenter aside.
+00312 SolDominion answered
+00313 SolDominion plays 1 Carpenter.
+00314 SolDominion gets +1 Action.
+00315 SolDominion answered
+00316 SolDominion gains 1 Gondola.
+00317 SolDominion answered
+00318 SolDominion sets 1 Gondola aside.
+00319 SolDominion answered
+00320 SolDominion answered
+00321 SolDominion plays 1 Frigate.
+00322 SolDominion gets +$3.
+00323 SolDominion answered
+00324 play treasures for
+00325 SolDominion answered
+00326 SolDominion buys and gains 1 Enlarge.
+00327 SolDominion sets 1 Enlarge aside.
+00328 SolDominion draws 2 Copper, 1 Silver, 2 Rustic Village.
+00329 dtbomber starts turn 11
+00330 dtbomber starts their turn.
+00331 play with
+00332 dtbomber answered
+00333 dtbomber plays 1 Rustic Village.
+00334 dtbomber draws 1 card.
+00335 dtbomber gets +2 Actions.
+00336 dtbomber answered
+00337 dtbomber answered
+00338 dtbomber discards 1 card, 1 Estate.
+00339 dtbomber draws 1 card.
+00340 dtbomber answered
+00341 dtbomber plays 1 Rustic Village.
+00342 dtbomber shuffles their deck.
+00343 dtbomber draws 1 card.
+00344 dtbomber gets +2 Actions.
+00345 dtbomber answered
+00346 dtbomber answered
+00347 dtbomber plays 1 Rustic Village.
+00348 dtbomber draws 1 card.
+00349 dtbomber gets +2 Actions.
+00350 dtbomber answered
+00351 dtbomber answered
+00352 dtbomber plays 1 Smugglers.
+00353 dtbomber answered
+00354 dtbomber gains 1 Enlarge.
+00355 dtbomber sets 1 Enlarge aside.
+00356 dtbomber answered
+00357 dtbomber plays 1 Frigate.
+00358 dtbomber gets +$3.
+00359 dtbomber answered
+00360 play treasures for
+00361 dtbomber answered
+00362 dtbomber buys and gains 1 Artificer.
+00363 dtbomber sets 1 Artificer aside.
+00364 dtbomber draws 5 card.
+00365 SolDominion starts turn 12
+00366 SolDominion starts their turn.
+00367 SolDominion answered
+00368 play with
+00369 SolDominion answered
+00370 SolDominion trashes 1 Rustic Village.
+00371 SolDominion answered
+00372 SolDominion gains 1 Gold.
+00373 SolDominion sets 1 Gold aside.
+00374 SolDominion answered
+00375 play with
+00376 SolDominion gets +1 Action.
+00377 SolDominion answered
+00378 SolDominion gains 1 Carpenter.
+00379 SolDominion sets 1 Carpenter aside.
+00380 play with
+00381 SolDominion answered
+00382 SolDominion gets +$2.
+00383 SolDominion answered
+00384 SolDominion plays 1 Rustic Village.
+00385 SolDominion draws 1 Silver.
+00386 SolDominion gets +2 Actions.
+00387 SolDominion answered
+00388 SolDominion answered
+00389 SolDominion answered
+00390 SolDominion answered
+00391 SolDominion answered
+00392 play treasures for
+00393 SolDominion answered
+00394 SolDominion buys and gains 1 Province.
+00395 SolDominion draws 3 Copper, 1 Estate, 1 Gondola.
+00396 dtbomber starts turn 12
+00397 dtbomber starts their turn.
+00398 dtbomber answered
+00399 play with
+00400 dtbomber draws 1 card.
+00401 dtbomber gets +1 Action.
+00402 dtbomber gets +$1.
+00403 dtbomber answered
+00404 play with
+00405 dtbomber answered
+00406 dtbomber trashes 1 Estate.
+00407 dtbomber answered
+00408 dtbomber gains 1 Rustic Village.
+00409 dtbomber sets 1 Rustic Village aside.
+00410 dtbomber answered
+00411 dtbomber plays 1 Carpenter.
+00412 dtbomber gets +1 Action.
+00413 dtbomber answered
+00414 dtbomber gains 1 Rustic Village.
+00415 dtbomber sets 1 Rustic Village aside.
+00416 dtbomber answered
+00417 dtbomber plays 1 Rustic Village.
+00418 dtbomber draws 1 card.
+00419 dtbomber gets +2 Actions.
+00420 dtbomber answered
+00421 dtbomber answered
+00422 dtbomber discards 1 card, 1 Copper.
+00423 dtbomber draws 1 card.
+00424 dtbomber answered
+00425 dtbomber plays 1 Gondola.
+00426 dtbomber answered
+00427 dtbomber gets +$2.
+00428 dtbomber answered
+00429 play treasures for
+00430 dtbomber answered
+00431 dtbomber buys and gains 1 Artificer.
+00432 dtbomber sets 1 Artificer aside.
+00433 dtbomber draws 5 card.
+00434 SolDominion starts turn 13
+00435 SolDominion starts their turn.
+00436 SolDominion answered
+00437 SolDominion answered
+00438 SolDominion trashes 1 Gondola. (Enlarge)
+00439 SolDominion answered
+00440 SolDominion gains 1 Gold. (Enlarge)
+00441 SolDominion sets 1 Gold aside with Rapid Expansion.
+00442 SolDominion answered
+00443 play with
+00444 SolDominion answered
+00445 SolDominion trashes 1 Estate.
+00446 SolDominion answered
+00447 SolDominion gains 1 Gondola.
+00448 SolDominion sets 1 Gondola aside.
+00449 play with
+00450 SolDominion answered
+00451 SolDominion answered
+00452 SolDominion answered
+00453 play treasures for
+00454 SolDominion answered
+00455 SolDominion buys and gains 1 Gold.
+00456 SolDominion sets 1 Gold aside.
+00457 SolDominion draws 2 Copper, 1 Estate, 1 Displace, 1 Gondola.
+00458 dtbomber starts turn 13
+00459 dtbomber starts their turn.
+00460 dtbomber answered
+00461 play with
+00462 dtbomber draws 1 card.
+00463 dtbomber gets +1 Action.
+00464 dtbomber gets +$1.
+00465 dtbomber answered
+00466 dtbomber answered
+00467 play with
+00468 dtbomber shuffles their deck.
+00469 dtbomber draws 1 card.
+00470 dtbomber gets +2 Actions.
+00471 dtbomber answered
+00472 dtbomber answered
+00473 play with
+00474 dtbomber draws 1 card.
+00475 dtbomber gets +2 Actions.
+00476 dtbomber answered
+00477 dtbomber answered
+00478 dtbomber trashes 1 Silver. (Enlarge)
+00479 dtbomber answered
+00480 dtbomber gains 1 Artificer. (Enlarge)
+00481 dtbomber sets 1 Artificer aside with Rapid Expansion.
+00482 dtbomber answered
+00483 dtbomber plays 1 Rustic Village.
+00484 dtbomber draws 1 card.
+00485 dtbomber gets +2 Actions.
+00486 dtbomber answered
+00487 dtbomber plays 1 Rustic Village.
+00488 dtbomber draws 1 card.
+00489 dtbomber gets +2 Actions.
+00490 dtbomber answered
+00491 dtbomber plays 1 Harbinger.
+00492 dtbomber draws 1 card.
+00493 dtbomber gets +1 Action.
+00494 dtbomber answered
+00495 dtbomber plays 1 Frigate.
+00496 dtbomber gets +$3.
+00497 dtbomber answered
+00498 dtbomber plays 1 Displace.
+00499 dtbomber exiles 1 Copper.
+00500 dtbomber answered
+00501 dtbomber gains 1 Estate.
+00502 dtbomber answered
+00503 dtbomber answered
+00504 play treasures for
+00505 dtbomber answered
+00506 dtbomber buys and gains 1 Province.
+00507 dtbomber draws 5 card.
+00508 SolDominion starts turn 14
+00509 SolDominion starts their turn.
+00510 SolDominion answered
+00511 SolDominion answered
+00512 play with
+00513 SolDominion answered
+00514 SolDominion plays 1 Displace.
+00515 SolDominion answered
+00516 SolDominion exiles 1 Gondola.
+00517 SolDominion answered
+00518 SolDominion gains 1 Gold.
+00519 SolDominion sets 1 Gold aside.
+00520 SolDominion answered
+00521 SolDominion answered
+00522 play treasures for
+00523 SolDominion answered
+00524 SolDominion buys and gains 1 Province.
+00525 SolDominion shuffles their deck.
+00526 SolDominion draws 2 Gold, 1 Carpenter, 1 Gondola, 1 Frigate.
+00527 dtbomber starts turn 14
+00528 dtbomber starts their turn.
+00529 play with
+00530 dtbomber draws 1 card.
+00531 dtbomber gets +1 Action.
+00532 dtbomber gets +$1.
+00533 dtbomber answered
+00534 dtbomber answered
+00535 dtbomber plays 1 Rustic Village.
+00536 dtbomber draws 1 card.
+00537 dtbomber gets +2 Actions.
+00538 dtbomber answered
+00539 dtbomber plays 1 Carpenter.
+00540 dtbomber answered
+00541 dtbomber trashes 1 Estate.
+00542 dtbomber answered
+00543 dtbomber gains 1 Gondola.
+00544 dtbomber answered
+00545 dtbomber sets 1 Gondola aside.
+00546 dtbomber answered
+00547 dtbomber answered
+00548 dtbomber plays 1 Frigate.
+00549 dtbomber gets +$3.
+00550 dtbomber answered
+00551 dtbomber plays 1 Smugglers.
+00552 dtbomber gains 1 Gold.
+00553 dtbomber sets 1 Gold aside.
+00554 dtbomber answered
+00555 play treasures for
+00556 dtbomber answered
+00557 dtbomber plays 1 Gondola.
+00558 dtbomber answered
+00559 dtbomber gets +$2.
+00560 dtbomber answered
+00561 dtbomber buys and gains 1 Province.
+00562 dtbomber draws 5 card.
+00563 SolDominion starts turn 15
+00564 SolDominion starts their turn.
+00565 SolDominion answered
+00566 SolDominion gets +$2. (Gondola)
+00567 play with
+00568 SolDominion answered
+00569 SolDominion plays 1 Carpenter.
+00570 SolDominion answered
+00571 SolDominion trashes 1 Gold.
+00572 SolDominion answered
+00573 SolDominion gains 1 Province.
+00574 SolDominion answered
+00575 SolDominion plays 1 Gondola.
+00576 SolDominion answered
+00577 SolDominion answered
+00578 SolDominion buys and gains 1 Duchy.
+00579 SolDominion draws 2 Copper, 1 Silver, 1 Carpenter, 1 Enlarge.
+00580 dtbomber starts turn 15
+00581 dtbomber starts their turn.
+00582 dtbomber answered
+00583 dtbomber answered
+00584 play with
+00585 dtbomber answered
+00586 dtbomber plays 1 Rustic Village.
+00587 dtbomber shuffles their deck.
+00588 dtbomber draws 1 card.
+00589 dtbomber gets +2 Actions.
+00590 dtbomber answered
+00591 dtbomber answered
+00592 dtbomber discards 1 card, 1 Estate.
+00593 dtbomber draws 1 card.
+00594 dtbomber answered
+00595 dtbomber plays 1 Rustic Village.
+00596 dtbomber draws 1 card.
+00597 dtbomber gets +2 Actions.
+00598 dtbomber answered
+00599 dtbomber plays 1 Artificer.
+00600 dtbomber draws 1 card.
+00601 dtbomber gets +1 Action.
+00602 dtbomber gets +$1.
+00603 dtbomber answered
+00604 dtbomber plays 1 Rustic Village.
+00605 dtbomber draws 1 card.
+00606 dtbomber gets +2 Actions.
+00607 dtbomber answered
+00608 dtbomber plays 1 Rustic Village.
+00609 dtbomber draws 1 card.
+00610 dtbomber gets +2 Actions.
+00611 dtbomber answered
+00612 dtbomber plays 1 Harbinger.
+00613 dtbomber draws 1 card.
+00614 dtbomber gets +1 Action.
+00615 dtbomber looks at 1 card, 1 Copper.
+00616 dtbomber answered
+00617 dtbomber topdecks 1 card.
+00618 dtbomber answered
+00619 dtbomber plays 1 Rustic Village.
+00620 dtbomber draws 1 card.
+00621 dtbomber gets +2 Actions.
+00622 dtbomber answered
+00623 dtbomber plays 1 Displace.
+00624 dtbomber answered
+00625 dtbomber exiles 1 Estate.
+00626 dtbomber answered
+00627 dtbomber gains 1 Gondola.
+00628 dtbomber sets 1 Gondola aside.
+00629 dtbomber answered
+00630 play treasures for
+00631 dtbomber answered
+00632 dtbomber buys and gains 1 Gold.
+00633 dtbomber sets 1 Gold aside.
+00634 dtbomber draws 5 card.
+00635 SolDominion starts turn 16
+00636 SolDominion starts their turn.
+00637 SolDominion gets +$2. (Gondola)
+00638 SolDominion answered
+00639 SolDominion plays 1 Enlarge.
+00640 SolDominion answered
+00641 SolDominion trashes 1 Carpenter.
+00642 SolDominion answered
+00643 SolDominion gains 1 Gold.
+00644 SolDominion sets 1 Gold aside.
+00645 SolDominion answered
+00646 SolDominion answered
+00647 SolDominion answered
+00648 play treasures for
+00649 SolDominion answered
+00650 SolDominion buys and gains 1 Duchy.
+00651 SolDominion draws 3 Copper, 1 Displace, 1 Frigate.
+00652 dtbomber starts turn 16
+00653 dtbomber starts their turn.
+00654 dtbomber answered
+00655 dtbomber gets +$2. (Gondola)
+00656 dtbomber answered
+00657 play with
+00658 dtbomber answered
+00659 dtbomber gets +$2.
+00660 play with
+00661 dtbomber answered
+00662 dtbomber plays 1 Rustic Village.
+00663 dtbomber draws 1 card.
+00664 dtbomber gets +2 Actions.
+00665 dtbomber answered
+00666 dtbomber plays 1 Frigate.
+00667 dtbomber gets +$3.
+00668 dtbomber answered
+00669 dtbomber plays 1 Artificer.
+00670 dtbomber draws 1 card.
+00671 dtbomber gets +1 Action.
+00672 dtbomber gets +$1.
+00673 dtbomber answered
+00674 dtbomber plays 1 Smugglers.
+00675 dtbomber answered
+00676 dtbomber gains 1 Duchy.
+00677 dtbomber answered
+00678 play treasures for
+00679 dtbomber answered
+00680 dtbomber buys and gains 1 Province.
+00681 dtbomber draws 5 card.
+00682 SolDominion starts turn 17
+00683 SolDominion starts their turn.
+00684 SolDominion answered
+00685 SolDominion answered
+00686 SolDominion trashes 1 Displace. (Enlarge)
+00687 SolDominion answered
+00688 SolDominion gains 1 Duchy. (Enlarge)
+00689 play with
+00690 SolDominion answered
+00691 SolDominion plays 1 Frigate.
+00692 SolDominion gets +$3.
+00693 SolDominion answered
+00694 SolDominion answered
+00695 SolDominion answered
+00696 play treasures for
+00697 SolDominion answered
+00698 SolDominion buys and gains 1 Province.
+00699 SolDominion draws 2 Copper, 1 Silver, 1 Gold, 1 Province.
+00700 dtbomber starts turn 17
+00701 dtbomber starts their turn.
+00702 dtbomber answered
+00703 dtbomber plays 1 Artificer.
+00704 dtbomber draws 1 card.
+00705 dtbomber gets +1 Action.
+00706 dtbomber gets +$1.
+00707 dtbomber answered
+00708 dtbomber answered
+00709 dtbomber discards 1 Province.
+00710 dtbomber answered
+00711 dtbomber plays 1 Rustic Village.
+00712 dtbomber draws 1 card.
+00713 dtbomber gets +2 Actions.
+00714 dtbomber answered
+00715 dtbomber answered
+00716 dtbomber plays 1 Enlarge.
+00717 dtbomber answered
+00718 dtbomber trashes 1 Copper.
+00719 dtbomber answered
+00720 dtbomber gains 1 Estate.
+00721 dtbomber answered
+00722 dtbomber answered
+00723 play treasures for
+00724 dtbomber answered
+00725 dtbomber plays 1 Gondola.
+00726 dtbomber answered
+00727 dtbomber gets +$2.
+00728 dtbomber answered
+00729 dtbomber buys and gains 1 Estate.
+00730 dtbomber answered
+00731 dtbomber shuffles their deck.
+00732 dtbomber draws 5 card.
+00733 SolDominion starts turn 18
+00734 SolDominion starts their turn.

@@ -1,0 +1,201 @@
+{
+  "run": "2026-11-16/sol-high-186032758",
+  "source": "dominion-arena official dominion.games adapter",
+  "source_url": "https://dominion-arena.duckdns.org/online/sol",
+  "official_game_id": "dominion.games:186032758",
+  "series_game_number": 6,
+  "captured": "2026-11-17T05:35:12.133558+00:00",
+  "status": "finished",
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "high",
+    "agent": "Sol High",
+    "account": "SolDominion",
+    "opponent": "human",
+    "rated": true,
+    "players": 2,
+    "timer": "Patient",
+    "min_rating": -5,
+    "max_rating": 5,
+    "card_pool_min": 10,
+    "card_pool_max": 10,
+    "banned_cards": [],
+    "disliked_cards": [],
+    "subscription_note": "Complete subscription purchased after game 1; full-pool ownership and min/max 10 verified before game 2."
+  },
+  "versions": {
+    "dominion-arena": {
+      "commit": "539b4c4fb196f2ea3ac66089d492bdd872ea7236",
+      "dirty": null,
+      "basis": "Verified production deployment and coordinator state."
+    },
+    "provider": {
+      "name": "OpenAI Responses API",
+      "model": "gpt-6.1-sol",
+      "effort": "high"
+    },
+    "dominion-playbook": {
+      "commit": "?",
+      "note": "No playbook version or exact complete request prompt was recorded."
+    }
+  },
+  "sessions": [
+    {
+      "archive": "1794879824340-b4b293416d4bef68",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794879824340-b4b293416d4bef68",
+      "events": 146,
+      "event_kinds": {
+        "seat": 1,
+        "request": 31,
+        "response": 32,
+        "direct_request": 31,
+        "direct_usage": 30,
+        "native_event": 20,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794879824340,
+      "last_time_ms": 1794880162854,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": false,
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "source_sha256": "3a8f2e9b8027411e1f77835a3af40493f90c21cd4942c413207341f58fad4ff1",
+      "journal": "sessions/1794879824340-b4b293416d4bef68/interactions.jsonl.gz"
+    },
+    {
+      "archive": "1794880167857-60043b3f43efcc02",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794880167857-60043b3f43efcc02",
+      "events": 404,
+      "event_kinds": {
+        "seat": 1,
+        "request": 84,
+        "response": 85,
+        "direct_request": 84,
+        "direct_usage": 83,
+        "native_event": 66,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794880167859,
+      "last_time_ms": 1794881153975,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": false,
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "source_sha256": "7f0381cae8c612506121239b1ab61393ea6f934ce0186a78c467e44a9e0f8c3b",
+      "journal": "sessions/1794880167857-60043b3f43efcc02/interactions.jsonl.gz"
+    },
+    {
+      "archive": "1794881163977-3d956ff62b37805b",
+      "source": "/home/imalison/.local/state/dominion/agents/archives/1794881163977-3d956ff62b37805b",
+      "events": 65,
+      "event_kinds": {
+        "seat": 1,
+        "request": 14,
+        "response": 14,
+        "direct_request": 14,
+        "direct_usage": 14,
+        "native_event": 5,
+        "result": 1,
+        "native_response": 1,
+        "seat_finished": 1
+      },
+      "first_time_ms": 1794881163977,
+      "last_time_ms": 1794881317179,
+      "model": "gpt-6.1-sol",
+      "effort": "high",
+      "recorded_final_view": true,
+      "agent": {
+        "about": null,
+        "api_key_env": null,
+        "auth_dir": null,
+        "command": null,
+        "context_results": null,
+        "effort": "high",
+        "history_turns": null,
+        "instructions": null,
+        "model": "gpt-6.1-sol",
+        "name": "Sol High",
+        "options": {},
+        "program": "openai",
+        "provider_instance": null,
+        "response_seconds": null
+      },
+      "seat": 0,
+      "source_sha256": "af787c7b1a18aab29fc1b4f151d846ee27ba53d6f090e4acb536f06acc1be47a",
+      "journal": "sessions/1794881163977-3d956ff62b37805b/interactions.jsonl.gz"
+    }
+  ],
+  "coverage": {
+    "observed_log_entries": 627,
+    "log_seq_range": [
+      0,
+      626
+    ],
+    "missing_observed_sequence_numbers": [],
+    "has_recorded_final_view": true,
+    "log_note": "Observed entries and revisions only; authoritative result saved separately. An unobserved final notification is not reconstructed."
+  },
+  "outcome": {
+    "games": [
+      {
+        "game": "186032758",
+        "result": {
+          "reason": "official server result",
+          "players": [
+            {
+              "index": 0,
+              "name": "SolDominion",
+              "vp": 45,
+              "rank": 2,
+              "turns": 21,
+              "points": 45
+            },
+            {
+              "index": 1,
+              "name": "mdwicker",
+              "vp": 46,
+              "rank": 1,
+              "turns": 21,
+              "points": 46
+            }
+          ]
+        }
+      }
+    ],
+    "cost_usd": null
+  },
+  "series": "../../../series/2026-11-16-sol-high-rated-15",
+  "notes": []
+}

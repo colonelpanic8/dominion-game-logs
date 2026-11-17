@@ -1,0 +1,651 @@
+00000 game 186033558
+00001 druid selects boons
+00002 druid selects boons
+00003 druid selects boons
+00004 SolDominion starts with 3 Estate.
+00005 SolDominion starts with 7 Copper.
+00006 Pitstop363 starts with 3 Estate.
+00007 Pitstop363 starts with 7 Copper.
+00008 SolDominion answered
+00009 Pitstop363 answered
+00010 SolDominion shuffles their deck.
+00011 Pitstop363 shuffles their deck.
+00012 SolDominion draws 4 Copper, 1 Estate.
+00013 Pitstop363 draws 5 card.
+00014 SolDominion starts turn 1
+00015 SolDominion answered
+00016 SolDominion answered
+00017 SolDominion answered
+00018 SolDominion answered
+00019 play treasures for
+00020 SolDominion answered
+00021 SolDominion buys and gains 1 Silver.
+00022 SolDominion draws 3 Copper, 2 Estate.
+00023 Pitstop363 starts turn 1
+00024 Pitstop363 answered
+00025 play treasures for
+00026 Pitstop363 answered
+00027 Pitstop363 buys and gains 1 Tanuki.
+00028 Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.
+00029 Pitstop363 draws 5 card.
+00030 SolDominion starts turn 2
+00031 SolDominion answered
+00032 SolDominion answered
+00033 SolDominion answered
+00034 play treasures for
+00035 SolDominion answered
+00036 SolDominion buys and gains 1 Silver.
+00037 SolDominion shuffles their deck.
+00038 SolDominion draws 2 Copper, 1 Silver, 2 Estate.
+00039 Pitstop363 starts turn 2
+00040 Pitstop363 answered
+00041 play treasures for
+00042 Pitstop363 answered
+00043 Pitstop363 buys and gains 1 Jewelled Egg.
+00044 Pitstop363 puts 1 Tanuki on the bottom of their deck.
+00045 Pitstop363 shuffles their deck.
+00046 Pitstop363 draws 5 card.
+00047 SolDominion starts turn 3
+00048 SolDominion answered
+00049 SolDominion answered
+00050 SolDominion answered
+00051 play treasures for
+00052 SolDominion answered
+00053 SolDominion buys and gains 1 Jewelled Egg.
+00054 SolDominion draws 3 Copper, 1 Silver, 1 Estate.
+00055 Pitstop363 starts turn 3
+00056 Pitstop363 answered
+00057 Pitstop363 answered
+00058 play treasures for
+00059 Pitstop363 answered
+00060 Pitstop363 buys and gains 1 Jewelled Egg.
+00061 Pitstop363 draws 5 card.
+00062 SolDominion starts turn 4
+00063 SolDominion answered
+00064 SolDominion answered
+00065 SolDominion answered
+00066 SolDominion answered
+00067 play treasures for
+00068 SolDominion answered
+00069 SolDominion buys and gains 1 Tanuki.
+00070 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00071 SolDominion puts 1 Tanuki on the bottom of their deck.
+00072 SolDominion shuffles their deck.
+00073 SolDominion draws 4 Copper, 1 Silver.
+00074 Pitstop363 starts turn 4
+00075 Pitstop363 answered
+00076 Pitstop363 plays 1 Tanuki.
+00077 Pitstop363 answered
+00078 Pitstop363 trashes 1 Jewelled Egg.
+00079 Pitstop363 reveals 1 Spell Scroll.
+00080 Pitstop363 gains 1 Spell Scroll.
+00081 Pitstop363 answered
+00082 Pitstop363 gains 1 Abundance.
+00083 Pitstop363 answered
+00084 play treasures for
+00085 Pitstop363 answered
+00086 Pitstop363 buys and gains 1 Abundance.
+00087 Pitstop363 puts 1 Tanuki on the bottom of their deck.
+00088 Pitstop363 shuffles their deck.
+00089 Pitstop363 draws 5 card.
+00090 SolDominion starts turn 5
+00091 SolDominion answered
+00092 SolDominion plays 1 Tanuki.
+00093 SolDominion answered
+00094 SolDominion trashes 1 Copper.
+00095 SolDominion answered
+00096 SolDominion gains 1 Jewelled Egg.
+00097 SolDominion answered
+00098 SolDominion answered
+00099 SolDominion answered
+00100 SolDominion answered
+00101 play treasures for
+00102 SolDominion answered
+00103 SolDominion buys and gains 1 Cobbler.
+00104 SolDominion draws 1 Copper, 3 Estate, 1 Jewelled Egg.
+00105 Pitstop363 starts turn 5
+00106 Pitstop363 answered
+00107 Pitstop363 plays 1 Tanuki.
+00108 Pitstop363 answered
+00109 Pitstop363 trashes 1 Copper.
+00110 Pitstop363 answered
+00111 Pitstop363 gains 1 Jewelled Egg.
+00112 Pitstop363 answered
+00113 play treasures for
+00114 Pitstop363 answered
+00115 Pitstop363 plays 1 Abundance.
+00116 Pitstop363 answered
+00117 Pitstop363 buys and gains 1 Jewelled Egg.
+00118 Pitstop363 draws 5 card.
+00119 SolDominion starts turn 6
+00120 SolDominion answered
+00121 SolDominion answered
+00122 play treasures for
+00123 SolDominion gets +1 Buy.
+00124 SolDominion answered
+00125 SolDominion buys and gains 1 Jewelled Egg.
+00126 SolDominion answered
+00127 SolDominion puts 1 Tanuki on the bottom of their deck.
+00128 SolDominion shuffles their deck.
+00129 SolDominion draws 2 Copper, 1 Silver, 1 Estate, 1 Jewelled Egg.
+00130 Pitstop363 starts turn 6
+00131 Pitstop363 answered
+00132 Pitstop363 plays 1 Spell Scroll.
+00133 Pitstop363 trashes 1 Spell Scroll.
+00134 Pitstop363 answered
+00135 Pitstop363 gains 1 Tanuki.
+00136 Pitstop363 gets +1 Buy.
+00137 Pitstop363 gets +$3.
+00138 Pitstop363 answered
+00139 Pitstop363 plays 1 Tanuki.
+00140 Pitstop363 answered
+00141 Pitstop363 trashes 1 Jewelled Egg.
+00142 Pitstop363 reveals 1 Figurehead.
+00143 Pitstop363 gains 1 Figurehead.
+00144 Pitstop363 answered
+00145 Pitstop363 gains 1 Watchtower.
+00146 Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.
+00147 Pitstop363 answered
+00148 play treasures for
+00149 Pitstop363 answered
+00150 Pitstop363 buys and gains 1 Abundance.
+00151 Pitstop363 answered
+00152 Pitstop363 puts 2 Tanuki on the bottom of their deck.
+00153 Pitstop363 shuffles their deck.
+00154 Pitstop363 draws 5 card.
+00155 SolDominion starts turn 7
+00156 SolDominion answered
+00157 SolDominion plays 1 Tanuki.
+00158 SolDominion answered
+00159 SolDominion trashes 1 Jewelled Egg.
+00160 SolDominion reveals 1 Jewels.
+00161 SolDominion gains 1 Jewels.
+00162 SolDominion answered
+00163 SolDominion gains 1 Watchtower.
+00164 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00165 SolDominion answered
+00166 SolDominion answered
+00167 SolDominion answered
+00168 play treasures for
+00169 SolDominion answered
+00170 SolDominion buys and gains 1 Abundance.
+00171 SolDominion draws 1 Copper, 1 Silver, 2 Estate, 1 Cobbler.
+00172 Pitstop363 starts turn 7
+00173 Pitstop363 answered
+00174 Pitstop363 plays 1 Tanuki.
+00175 Pitstop363 answered
+00176 Pitstop363 trashes 1 Copper.
+00177 Pitstop363 answered
+00178 Pitstop363 gains 1 Jewelled Egg.
+00179 Pitstop363 answered
+00180 play treasures for
+00181 Pitstop363 answered
+00182 Pitstop363 answered
+00183 Pitstop363 plays 2 Abundance.
+00184 Pitstop363 answered
+00185 Pitstop363 buys and gains 1 Druid.
+00186 Pitstop363 answered
+00187 Pitstop363 gets +1 Buy.
+00188 Pitstop363 gets +$3.
+00189 Pitstop363 answered
+00190 Pitstop363 gets +1 Buy.
+00191 Pitstop363 gets +$3.
+00192 Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.
+00193 Pitstop363 answered
+00194 Pitstop363 buys and gains 1 Samurai.
+00195 Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.
+00196 Pitstop363 answered
+00197 Pitstop363 buys and gains 1 Curse.
+00198 Pitstop363 takes 6 VP from Player 0 landscape.
+00199 Pitstop363 draws 5 card.
+00200 SolDominion starts turn 8
+00201 SolDominion answered
+00202 SolDominion answered
+00203 play treasures for
+00204 SolDominion answered
+00205 SolDominion buys 1 Plan.
+00206 SolDominion answered
+00207 SolDominion moves plus action to Player 0 supply.
+00208 SolDominion answered
+00209 SolDominion plays 1 Cobbler.
+00210 SolDominion draws 3 Copper, 2 Jewelled Egg.
+00211 Pitstop363 starts turn 8
+00212 Pitstop363 answered
+00213 Pitstop363 plays 1 Tanuki.
+00214 Pitstop363 answered
+00215 Pitstop363 trashes 1 Jewelled Egg.
+00216 Pitstop363 reveals 1 Sword.
+00217 Pitstop363 gains 1 Sword.
+00218 Pitstop363 answered
+00219 Pitstop363 reacts with 1 Watchtower.
+00220 Pitstop363 topdecks 1 Sword.
+00221 Pitstop363 answered
+00222 Pitstop363 gains 1 Abundance.
+00223 Pitstop363 answered
+00224 Pitstop363 reacts with 1 Watchtower.
+00225 Pitstop363 topdecks 1 Abundance.
+00226 Pitstop363 answered
+00227 play treasures for
+00228 Pitstop363 answered
+00229 Pitstop363 buys and gains 1 Jewelled Egg.
+00230 Pitstop363 answered
+00231 Pitstop363 reacts with 1 Watchtower.
+00232 Pitstop363 topdecks 1 Jewelled Egg.
+00233 Pitstop363 draws 5 card.
+00234 SolDominion starts turn 9
+00235 SolDominion starts their turn.
+00236 SolDominion answered
+00237 SolDominion gains 1 Abundance. (Cobbler)
+00238 SolDominion answered
+00239 play treasures for
+00240 SolDominion gets +1 Buy.
+00241 SolDominion answered
+00242 SolDominion answered
+00243 SolDominion answered
+00244 play treasures for
+00245 SolDominion answered
+00246 SolDominion plays 1 Abundance.
+00247 SolDominion answered
+00248 SolDominion buys and gains 1 Druid.
+00249 SolDominion answered
+00250 SolDominion gets +1 Buy.
+00251 SolDominion gets +$3.
+00252 SolDominion moves 1 VP from Player 0 supply to Defiled Shrine.
+00253 SolDominion answered
+00254 SolDominion buys and gains 1 Tanuki.
+00255 SolDominion answered
+00256 SolDominion trashes 1 Jewelled Egg.
+00257 SolDominion reveals 1 Orb.
+00258 SolDominion gains 1 Orb.
+00259 SolDominion answered
+00260 SolDominion puts 2 Tanuki on the bottom of their deck.
+00261 SolDominion shuffles their deck.
+00262 SolDominion draws 2 Copper, 1 Watchtower, 1 Cobbler, 1 Abundance.
+00263 Pitstop363 starts turn 9
+00264 Pitstop363 answered
+00265 play treasures for
+00266 Pitstop363 gets +1 Buy.
+00267 play treasures for
+00268 Pitstop363 gets +1 Buy.
+00269 Pitstop363 answered
+00270 Pitstop363 plays 1 Sword.
+00271 Pitstop363 gets +1 Buy.
+00272 Pitstop363 gets +$3.
+00273 SolDominion answered
+00274 SolDominion discards 1 Copper.
+00275 Pitstop363 answered
+00276 Pitstop363 answered
+00277 Pitstop363 plays 2 Abundance.
+00278 Pitstop363 answered
+00279 Pitstop363 buys and gains 1 Druid.
+00280 Pitstop363 gets +1 Buy.
+00281 Pitstop363 gets +$3.
+00282 Pitstop363 gets +1 Buy.
+00283 Pitstop363 gets +$3.
+00284 Pitstop363 answered
+00285 Pitstop363 buys and gains 1 Samurai.
+00286 Pitstop363 moves 1 VP from Player 0 supply to Defiled Shrine.
+00287 Pitstop363 answered
+00288 Pitstop363 buys and gains 1 Jewelled Egg.
+00289 Pitstop363 answered
+00290 Pitstop363 buys and gains 1 Curse.
+00291 Pitstop363 takes 2 VP from Player 0 landscape.
+00292 Pitstop363 answered
+00293 Pitstop363 puts 2 Tanuki on the bottom of their deck.
+00294 Pitstop363 shuffles their deck.
+00295 Pitstop363 draws 5 card.
+00296 SolDominion starts turn 10
+00297 SolDominion answered
+00298 SolDominion plays 1 Watchtower.
+00299 SolDominion draws 1 Estate, 1 Druid, 1 Abundance.
+00300 SolDominion answered
+00301 play treasures for
+00302 SolDominion answered
+00303 SolDominion answered
+00304 SolDominion plays 2 Abundance.
+00305 SolDominion answered
+00306 SolDominion answered
+00307 SolDominion plays 1 Cobbler.
+00308 SolDominion draws 3 Copper, 1 Jewelled Egg, 1 Orb.
+00309 Pitstop363 starts turn 10
+00310 Pitstop363 answered
+00311 Pitstop363 plays 1 Tanuki.
+00312 Pitstop363 answered
+00313 Pitstop363 trashes 1 Estate.
+00314 Pitstop363 answered
+00315 Pitstop363 gains 1 Abundance.
+00316 Pitstop363 answered
+00317 play treasures for
+00318 Pitstop363 answered
+00319 Pitstop363 plays 1 Figurehead.
+00320 Pitstop363 gets +$3.
+00321 Pitstop363 answered
+00322 Pitstop363 buys and gains 1 Horn of Plenty.
+00323 Pitstop363 draws 5 card.
+00324 SolDominion starts turn 11
+00325 SolDominion starts their turn.
+00326 SolDominion answered
+00327 SolDominion gains 1 Watchtower. (Cobbler)
+00328 SolDominion answered
+00329 SolDominion gets +1 Buy. (Abundance)
+00330 SolDominion gets +$3. (Abundance)
+00331 SolDominion answered
+00332 SolDominion gets +1 Buy. (Abundance)
+00333 SolDominion gets +$3. (Abundance)
+00334 SolDominion answered
+00335 SolDominion answered
+00336 SolDominion plays 1 Tanuki.
+00337 SolDominion answered
+00338 SolDominion trashes 1 Jewelled Egg.
+00339 SolDominion reveals 1 Insignia.
+00340 SolDominion gains 1 Insignia.
+00341 SolDominion answered
+00342 SolDominion reacts with 1 Watchtower.
+00343 SolDominion topdecks 1 Insignia.
+00344 SolDominion answered
+00345 SolDominion gains 1 Abundance.
+00346 SolDominion answered
+00347 SolDominion reacts with 1 Watchtower.
+00348 SolDominion topdecks 1 Abundance.
+00349 SolDominion answered
+00350 SolDominion answered
+00351 SolDominion answered
+00352 play treasures for
+00353 SolDominion answered
+00354 SolDominion plays 1 Orb.
+00355 SolDominion looks at 2 Copper, 1 Estate, 1 Watchtower, 1 Druid.
+00356 SolDominion answered
+00357 SolDominion plays 1 Watchtower.
+00358 SolDominion looks at 1 Estate, 1 Watchtower, 2 Copper, 1 Druid.
+00359 SolDominion draws 1 Copper, 1 Estate, 1 Abundance, 1 Insignia, 1 Jewels.
+00360 SolDominion answered
+00361 SolDominion plays 1 Abundance.
+00362 SolDominion answered
+00363 play treasures for
+00364 SolDominion answered
+00365 SolDominion plays 1 Jewels.
+00366 SolDominion gets +1 Buy.
+00367 SolDominion gets +$3.
+00368 SolDominion answered
+00369 play treasures for
+00370 SolDominion answered
+00371 SolDominion buys and gains 1 Tanuki.
+00372 SolDominion answered
+00373 SolDominion answered
+00374 SolDominion trashes 1 Estate.
+00375 SolDominion answered
+00376 SolDominion reacts with 1 Watchtower.
+00377 SolDominion trashes 1 Tanuki.
+00378 SolDominion gets +1 Buy.
+00379 SolDominion gets +$3.
+00380 SolDominion answered
+00381 SolDominion buys and gains 1 Platinum.
+00382 SolDominion answered
+00383 SolDominion topdecks 1 Platinum with Insignia.
+00384 SolDominion answered
+00385 SolDominion buys and gains 1 Horn of Plenty.
+00386 SolDominion answered
+00387 SolDominion topdecks 1 Horn of Plenty with Insignia.
+00388 SolDominion answered
+00389 SolDominion draws 2 Silver, 1 Estate, 1 Platinum, 1 Horn of Plenty.
+00390 Pitstop363 starts turn 11
+00391 Pitstop363 starts their turn.
+00392 Pitstop363 draws 2 card. (Figurehead)
+00393 Pitstop363 answered
+00394 Pitstop363 plays 1 Tanuki.
+00395 Pitstop363 answered
+00396 Pitstop363 trashes 1 Jewelled Egg.
+00397 Pitstop363 reveals 1 Hammer.
+00398 Pitstop363 gains 1 Hammer.
+00399 Pitstop363 answered
+00400 Pitstop363 gains 1 Abundance.
+00401 Pitstop363 answered
+00402 play treasures for
+00403 Pitstop363 gets +1 Buy.
+00404 play treasures for
+00405 Pitstop363 gets +1 Buy.
+00406 Pitstop363 answered
+00407 Pitstop363 plays 1 Abundance.
+00408 Pitstop363 answered
+00409 Pitstop363 buys and gains 1 Silver.
+00410 Pitstop363 answered
+00411 Pitstop363 draws 5 card.
+00412 SolDominion starts turn 12
+00413 SolDominion starts their turn.
+00414 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00415 SolDominion answered
+00416 SolDominion plays 1 Tanuki.
+00417 SolDominion answered
+00418 SolDominion trashes 1 Estate.
+00419 SolDominion answered
+00420 SolDominion gains 1 Abundance.
+00421 SolDominion answered
+00422 SolDominion answered
+00423 SolDominion answered
+00424 play treasures for
+00425 SolDominion answered
+00426 SolDominion plays 1 Horn of Plenty.
+00427 SolDominion answered
+00428 SolDominion gains 1 Silver.
+00429 SolDominion answered
+00430 SolDominion buys and gains 1 Platinum.
+00431 SolDominion puts 2 Tanuki on the bottom of their deck.
+00432 SolDominion shuffles their deck.
+00433 SolDominion draws 1 Copper, 1 Silver, 1 Horn of Plenty, 1 Abundance, 1 Jewels.
+00434 Pitstop363 starts turn 12
+00435 Pitstop363 answered
+00436 Pitstop363 plays 1 Druid.
+00437 Pitstop363 gets +1 Buy.
+00438 Pitstop363 answered
+00439 Pitstop363 receives 1 The Moon's Gift.
+00440 Pitstop363 looks at 13 card, 1 Abundance, 2 Tanuki.
+00441 Pitstop363 answered
+00442 Pitstop363 topdecks 1 card.
+00443 Pitstop363 answered
+00444 play treasures for
+00445 Pitstop363 answered
+00446 Pitstop363 plays 1 Abundance.
+00447 Pitstop363 answered
+00448 Pitstop363 buys and gains 1 Druid.
+00449 Pitstop363 gets +1 Buy.
+00450 Pitstop363 gets +$3.
+00451 Pitstop363 gets +1 Buy.
+00452 Pitstop363 gets +$3.
+00453 Pitstop363 answered
+00454 Pitstop363 buys and gains 1 Gold.
+00455 Pitstop363 answered
+00456 Pitstop363 draws 5 card.
+00457 SolDominion starts turn 13
+00458 SolDominion answered
+00459 SolDominion plays 1 Tanuki.
+00460 SolDominion answered
+00461 SolDominion trashes 1 Copper.
+00462 SolDominion answered
+00463 SolDominion gains 1 Druid.
+00464 SolDominion answered
+00465 SolDominion plays 1 Abundance.
+00466 SolDominion answered
+00467 play treasures for
+00468 SolDominion answered
+00469 SolDominion plays 1 Jewels.
+00470 SolDominion gets +1 Buy.
+00471 SolDominion gets +$3.
+00472 SolDominion answered
+00473 SolDominion plays 1 Horn of Plenty.
+00474 SolDominion answered
+00475 SolDominion gains 1 Tanuki.
+00476 SolDominion answered
+00477 SolDominion gets +1 Buy.
+00478 SolDominion gets +$3.
+00479 SolDominion answered
+00480 SolDominion buys and gains 1 Province.
+00481 SolDominion answered
+00482 SolDominion draws 1 Copper, 1 Platinum, 1 Abundance, 1 Insignia, 1 Orb.
+00483 Pitstop363 starts turn 13
+00484 Pitstop363 answered
+00485 Pitstop363 plays 1 Samurai.
+00486 SolDominion answered
+00487 SolDominion discards 1 Copper, 1 Abundance.
+00488 Pitstop363 answered
+00489 play treasures for
+00490 Pitstop363 gets +1 Buy.
+00491 Pitstop363 answered
+00492 Pitstop363 plays 1 Figurehead.
+00493 Pitstop363 gets +$3.
+00494 Pitstop363 answered
+00495 Pitstop363 plays 1 Sword.
+00496 Pitstop363 gets +1 Buy.
+00497 Pitstop363 gets +$3.
+00498 Pitstop363 answered
+00499 Pitstop363 buys and gains 1 Gold.
+00500 Pitstop363 answered
+00501 Pitstop363 reacts with 1 Watchtower.
+00502 Pitstop363 topdecks 1 Gold.
+00503 Pitstop363 answered
+00504 Pitstop363 draws 5 card.
+00505 SolDominion starts turn 14
+00506 SolDominion starts their turn.
+00507 SolDominion puts 1 Jewels on the bottom of SolDominion deck.
+00508 SolDominion answered
+00509 SolDominion plays 1 Tanuki.
+00510 SolDominion answered
+00511 SolDominion trashes 1 Insignia.
+00512 SolDominion answered
+00513 SolDominion gains 1 Province.
+00514 SolDominion answered
+00515 play treasures for
+00516 SolDominion answered
+00517 SolDominion plays 1 Orb.
+00518 SolDominion looks at 1 Copper, 1 Silver, 2 Province, 1 Horn of Plenty, 1 Druid, 2 Abundance, 2 Tanuki.
+00519 SolDominion answered
+00520 SolDominion gets +1 Buy.
+00521 SolDominion gets +$3.
+00522 SolDominion answered
+00523 SolDominion buys and gains 1 Province.
+00524 SolDominion answered
+00525 SolDominion draws 2 Copper, 1 Silver, 1 Druid, 1 Abundance.
+00526 Pitstop363 starts turn 14
+00527 Pitstop363 starts their turn.
+00528 Pitstop363 gets +$1. (Samurai)
+00529 Pitstop363 puts 2 Tanuki on the bottom of their deck.
+00530 Pitstop363 shuffles their deck.
+00531 Pitstop363 draws 2 card. (Figurehead)
+00532 Pitstop363 answered
+00533 Pitstop363 plays 1 Samurai.
+00534 SolDominion answered
+00535 SolDominion discards 2 Copper.
+00536 Pitstop363 answered
+00537 play treasures for
+00538 Pitstop363 answered
+00539 Pitstop363 answered
+00540 Pitstop363 plays 2 Abundance.
+00541 Pitstop363 answered
+00542 Pitstop363 buys and gains 1 Gold.
+00543 Pitstop363 draws 5 card.
+00544 SolDominion starts turn 15
+00545 SolDominion answered
+00546 SolDominion plays 1 Druid.
+00547 SolDominion gets +1 Buy.
+00548 SolDominion answered
+00549 SolDominion receives 1 The Moon's Gift.
+00550 SolDominion looks at 3 Copper, 1 Silver, 3 Province, 1 Platinum, 1 Horn of Plenty, 1 Druid, 2 Abundance, 1 Orb, 3 Tanuki.
+00551 SolDominion answered
+00552 SolDominion topdecks 1 Platinum.
+00553 SolDominion answered
+00554 play treasures for
+00555 SolDominion answered
+00556 SolDominion plays 1 Abundance.
+00557 SolDominion answered
+00558 SolDominion buys and gains 1 Druid.
+00559 SolDominion gets +1 Buy.
+00560 SolDominion gets +$3.
+00561 SolDominion answered
+00562 SolDominion buys and gains 1 Silver.
+00563 SolDominion answered
+00564 SolDominion draws 1 Estate, 2 Platinum, 2 Watchtower.
+00565 Pitstop363 starts turn 15
+00566 Pitstop363 starts their turn.
+00567 Pitstop363 gets +$2. (Samurai)
+00568 Pitstop363 answered
+00569 Pitstop363 answered
+00570 play treasures for
+00571 Pitstop363 answered
+00572 Pitstop363 answered
+00573 Pitstop363 answered
+00574 Pitstop363 plays 1 Hammer, 2 Abundance.
+00575 Pitstop363 gets +$3.
+00576 Pitstop363 answered
+00577 Pitstop363 gains 1 Watchtower.
+00578 Pitstop363 gets +1 Buy.
+00579 Pitstop363 gets +$3.
+00580 Pitstop363 gets +1 Buy.
+00581 Pitstop363 gets +$3.
+00582 Pitstop363 gets +1 Buy.
+00583 Pitstop363 gets +$3.
+00584 Pitstop363 gets +1 Buy.
+00585 Pitstop363 gets +$3.
+00586 Pitstop363 answered
+00587 Pitstop363 answered
+00588 Pitstop363 buys and gains 2 Platinum.
+00589 Pitstop363 answered
+00590 Pitstop363 draws 5 card.
+00591 SolDominion starts turn 16
+00592 SolDominion answered
+00593 SolDominion plays 1 Watchtower.
+00594 SolDominion draws 1 Copper, 1 Silver.
+00595 SolDominion answered
+00596 SolDominion answered
+00597 SolDominion answered
+00598 SolDominion answered
+00599 play treasures for
+00600 SolDominion answered
+00601 SolDominion buys and gains 1 Colony.
+00602 SolDominion answered
+00603 SolDominion puts 3 Tanuki on the bottom of their deck.
+00604 SolDominion shuffles their deck.
+00605 SolDominion draws 1 Copper, 1 Watchtower, 1 Cobbler, 1 Abundance, 1 Jewels.
+00606 Pitstop363 starts turn 16
+00607 Pitstop363 starts their turn.
+00608 Pitstop363 gets +$2. (Samurai)
+00609 Pitstop363 answered
+00610 Pitstop363 plays 1 Tanuki.
+00611 Pitstop363 answered
+00612 Pitstop363 trashes 1 Jewelled Egg.
+00613 Pitstop363 reveals 1 Doubloons.
+00614 Pitstop363 gains 1 Doubloons.
+00615 Pitstop363 gains 1 Gold.
+00616 Pitstop363 answered
+00617 Pitstop363 gains 1 Silver.
+00618 Pitstop363 answered
+00619 Pitstop363 plays 1 Horn of Plenty.
+00620 Pitstop363 answered
+00621 Pitstop363 gains 1 Silver.
+00622 Pitstop363 answered
+00623 Pitstop363 draws 5 card.
+00624 SolDominion starts turn 17
+00625 SolDominion answered
+00626 SolDominion plays 1 Watchtower.
+00627 SolDominion draws 1 Copper, 1 Abundance.
+00628 SolDominion answered
+00629 SolDominion plays 1 Jewels.
+00630 SolDominion gets +1 Buy.
+00631 SolDominion gets +$3.
+00632 SolDominion answered
+00633 SolDominion plays 1 Abundance.
+00634 SolDominion answered
+00635 SolDominion answered
+00636 play treasures for
+00637 SolDominion answered
+00638 SolDominion plays 1 Abundance.
+00639 SolDominion answered
+00640 SolDominion buys and gains 1 Druid.
+00641 SolDominion gets +1 Buy.
+00642 SolDominion gets +$3.
+00643 SolDominion gets +1 Buy.
+00644 SolDominion gets +$3.
+00645 SolDominion answered
+00646 SolDominion answered
+00647 SolDominion answered
+00648 SolDominion buys and gains 3 Druid.
+00649 SolDominion answered
+00650 SolDominion draws 1 Silver, 1 Province, 1 Colony, 1 Platinum, 1 Abundance.

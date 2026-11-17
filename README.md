@@ -4,6 +4,12 @@ Games of Dominion played by AI agents on dominion.games, with everything needed 
 
 An agent runs in [dominion-playbook](https://github.com/colonelpanic8/dominion-playbook) (its context and skills) and plays through the MCP server in [dominion-navigator](https://github.com/colonelpanic8/dominion-navigator).
 
+Official matches played through dominion-arena are also archived here. The
+[Sol High rated series](series/2026-11-16-sol-high-rated-15/README.md) contains
+15 games and all 17 agent sessions, with deployment provenance, service journals,
+and the verified final rating. Each game's directory contains the observed game
+log, authoritative result, and losslessly compressed interaction journals.
+
 ## Playing a game
 
 Start the navigator's Chrome first (`npm run launch:chrome` in dominion-navigator, logged in to dominion.games), then:
@@ -34,6 +40,21 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 <!-- runs:start -->
 | Run | Model | Opponent | Games (final VP) | dominion-playbook | dominion-navigator | Cost |
 | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-16/sol-high-186036166](runs/2026-11-16/sol-high-186036166) | gpt-6.1-sol high | human | 186036166: Relicdog 30, SolDominion 19 | ? | ? |  |
+| [2026-11-16/sol-high-186035907](runs/2026-11-16/sol-high-186035907) | gpt-6.1-sol high | human | 186035907: SolDominion 18, Rok3 2 | ? | ? |  |
+| [2026-11-16/sol-high-186035246](runs/2026-11-16/sol-high-186035246) | gpt-6.1-sol high | human | 186035246: SolDominion 35, dtbomber 26 | ? | ? |  |
+| [2026-11-16/sol-high-186034949](runs/2026-11-16/sol-high-186034949) | gpt-6.1-sol high | human | 186034949: yukkiboi 0, SolDominion 0 | ? | ? |  |
+| [2026-11-16/sol-high-186034884](runs/2026-11-16/sol-high-186034884) | gpt-6.1-sol high | human | 186034884: SolDominion 3, nateopp 3 | ? | ? |  |
+| [2026-11-16/sol-high-186034460](runs/2026-11-16/sol-high-186034460) | gpt-6.1-sol high | human | 186034460: SolDominion 0, GameBot3000 3 | ? | ? |  |
+| [2026-11-16/sol-high-186034403](runs/2026-11-16/sol-high-186034403) | gpt-6.1-sol high | human | 186034403: SolDominion 3, nateopp 3 | ? | ? |  |
+| [2026-11-16/sol-high-186034175](runs/2026-11-16/sol-high-186034175) | gpt-6.1-sol high | human | 186034175: hangdong69 1, SolDominion 1 | ? | ? |  |
+| [2026-11-16/sol-high-186033558](runs/2026-11-16/sol-high-186033558) | gpt-6.1-sol high | human | 186033558: SolDominion 29, Pitstop363 8 | ? | ? |  |
+| [2026-11-16/sol-high-186032758](runs/2026-11-16/sol-high-186032758) | gpt-6.1-sol high | human | 186032758: SolDominion 45, mdwicker 46 | ? | ? |  |
+| [2026-11-16/sol-high-186032083](runs/2026-11-16/sol-high-186032083) | gpt-6.1-sol high | human | 186032083: GameBot3000 10, SolDominion 11 | ? | ? |  |
+| [2026-11-16/sol-high-186031039](runs/2026-11-16/sol-high-186031039) | gpt-6.1-sol high | human | 186031039: dominiondominion 0, SolDominion 0 | ? | ? |  |
+| [2026-11-16/sol-high-186030563](runs/2026-11-16/sol-high-186030563) | gpt-6.1-sol high | human | 186030563: SolDominion 36, amiwan 5 | ? | ? |  |
+| [2026-11-16/sol-high-186029319](runs/2026-11-16/sol-high-186029319) | gpt-6.1-sol high | human | 186029319: SolDominion 37, weitzy 3 | ? | ? |  |
+| [2026-11-16/sol-high-186028514](runs/2026-11-16/sol-high-186028514) | gpt-6.1-sol high | human | 186028514: Quen_tin_Zug 18, SolDominion 36 | ? | ? |  |
 | [2026-11-15/arena-g5](runs/2026-11-15/arena-g5) | Argon High vs Terra  | agent | g5: Argon High 27, Terra 13 | ? | ? |  |
 | [2026-11-15/arena-g4](runs/2026-11-15/arena-g4) | Terra vs Sonnet High  | agent | g4: Terra 40, Sonnet High 23 | ? | ? |  |
 | [2026-11-15/arena-g3](runs/2026-11-15/arena-g3) | Terra vs Sonnet Low  | agent | g3: Terra 36, Sonnet Low 28 | ? | ? |  |
