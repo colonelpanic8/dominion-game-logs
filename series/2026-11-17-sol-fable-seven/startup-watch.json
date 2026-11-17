@@ -1,0 +1,648 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g77",
+      "running": true,
+      "kingdom": [
+        "Maroon",
+        "Village Green",
+        "Swamp Shacks",
+        "Pawn",
+        "Tea House",
+        "Sea Chart",
+        "Mining Road",
+        "First Mate",
+        "Siren",
+        "Market Square"
+      ],
+      "landscapes": [
+        "Donate",
+        "Looting",
+        "Kind Emperor"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "number": 1,
+      "player": 0,
+      "activePlayer": "Sol High",
+      "yourTurn": false,
+      "phase": "buy",
+      "actions": 1,
+      "buys": 1,
+      "coins": 0,
+      "potions": 0
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Sol High",
+        "vp": 3,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Copper": 4,
+            "Estate": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 5,
+          "known": {
+            "Copper": 3,
+            "Estate": 2
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 7,
+            "Estate": 3
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 1,
+        "counters": {}
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 3,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Copper": 2,
+            "Estate": 3
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 5,
+          "known": {
+            "Copper": 5
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 7,
+            "Estate": 3
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "turnsTaken": 0,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 46,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 46
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 40,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 30,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 8,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 8,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 8,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 10,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Maroon",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Maroon",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Village Green",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action",
+          "Reaction",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Village Green",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Swamp Shacks",
+        "count": 10,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Swamp Shacks",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Pawn",
+        "count": 10,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Pawn",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Tea House",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action",
+          "Omen"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Tea House",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Sea Chart",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Sea Chart",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Mining Road",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Mining Road",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "First Mate",
+        "count": 10,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "First Mate",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Siren",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Attack",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Siren",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Market Square",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Reaction"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Market Square",
+              "count": 10
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [
+      {
+        "card": "Loot",
+        "count": 30,
+        "members": [
+          "Amphora",
+          "Doubloons",
+          "Endless Chalice",
+          "Figurehead",
+          "Hammer",
+          "Insignia",
+          "Jewels",
+          "Orb",
+          "Prize Goat",
+          "Puzzle Box",
+          "Sextant",
+          "Shield",
+          "Spell Scroll",
+          "Staff",
+          "Sword"
+        ],
+        "types": [],
+        "hidden": true,
+        "structure": {
+          "kind": "shuffled",
+          "cards": [
+            {
+              "card": "Amphora",
+              "count": 2
+            },
+            {
+              "card": "Doubloons",
+              "count": 2
+            },
+            {
+              "card": "Endless Chalice",
+              "count": 2
+            },
+            {
+              "card": "Figurehead",
+              "count": 2
+            },
+            {
+              "card": "Hammer",
+              "count": 2
+            },
+            {
+              "card": "Insignia",
+              "count": 2
+            },
+            {
+              "card": "Jewels",
+              "count": 2
+            },
+            {
+              "card": "Orb",
+              "count": 2
+            },
+            {
+              "card": "Prize Goat",
+              "count": 2
+            },
+            {
+              "card": "Puzzle Box",
+              "count": 2
+            },
+            {
+              "card": "Sextant",
+              "count": 2
+            },
+            {
+              "card": "Shield",
+              "count": 2
+            },
+            {
+              "card": "Spell Scroll",
+              "count": 2
+            },
+            {
+              "card": "Staff",
+              "count": 2
+            },
+            {
+              "card": "Sword",
+              "count": 2
+            }
+          ]
+        }
+      }
+    ],
+    "landscapes": [
+      {
+        "card": "Donate",
+        "kind": "event",
+        "cost": {
+          "coins": 0,
+          "debt": 8
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Looting",
+        "kind": "event",
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Event"
+        ]
+      },
+      {
+        "card": "Kind Emperor",
+        "kind": "prophecy",
+        "types": [
+          "Prophecy"
+        ],
+        "suns": 5,
+        "active": false
+      }
+    ],
+    "trash": {
+      "count": 0,
+      "known": {},
+      "unknown": 0
+    },
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 1"
+      }
+    ]
+  },
+  "version": 0,
+  "deciding": 0,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [],
+        "discardTop": null
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": null
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Sol High",
+        "kind": "bot"
+      },
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "forfeitAt": 1794935718244,
+    "watchers": 0,
+    "now": 1794933968908
+  }
+}

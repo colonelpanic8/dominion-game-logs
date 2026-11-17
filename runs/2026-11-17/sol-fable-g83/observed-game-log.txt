@@ -1,0 +1,592 @@
+00000 Sol High starts turn 1
+00001 Sol High plays Copper
+00002 Sol High plays Copper
+00003 Sol High buys Squire
+00004 Sol High gains Squire
+00005 Sol High draws 5 cards
+00006 Fable High starts turn 1
+00007 Fable High plays Cursed Gold
+00008 Fable High gains Curse
+00009 Fable High plays Copper
+00010 Fable High plays Copper
+00011 Fable High buys Pooka
+00012 Fable High gains Pooka
+00013 Fable High draws 5 cards
+00014 Sol High starts turn 2
+00015 Sol High plays Copper
+00016 Sol High plays Copper
+00017 Sol High plays Cursed Gold
+00018 Sol High gains Curse
+00019 Sol High plays Copper
+00020 Sol High plays Pasture
+00021 Sol High buys Litter
+00022 Sol High gains Litter
+00023 Sol High shuffles
+00024 Sol High draws 5 cards
+00025 Fable High starts turn 2
+00026 Fable High plays Copper
+00027 Fable High plays Pasture
+00028 Fable High plays Copper
+00029 Fable High plays Copper
+00030 Fable High buys Shepherd
+00031 Fable High gains Shepherd
+00032 Fable High shuffles
+00033 Fable High draws 5 cards
+00034 Sol High starts turn 3
+00035 Sol High plays Squire
+00036 Sol High chooses to gain a Silver (Squire)
+00037 Sol High gains Silver
+00038 Sol High plays Pasture
+00039 Sol High plays Copper
+00040 Sol High buys Secluded Shrine
+00041 Sol High gains Secluded Shrine
+00042 Sol High draws 5 cards
+00043 Fable High starts turn 3
+00044 Fable High plays Cursed Gold
+00045 Fable High gains Curse
+00046 Fable High plays Copper
+00047 Fable High plays Copper
+00048 Fable High plays Copper
+00049 Fable High buys Gold
+00050 Fable High gains Gold
+00051 Fable High draws 5 cards
+00052 Sol High starts turn 4
+00053 Sol High plays Litter
+00054 Sol High draws 2 cards
+00055 Sol High takes 1 Debt
+00056 Sol High plays Copper
+00057 Sol High plays Copper
+00058 Sol High plays Copper
+00059 Sol High pays off 1 Debt
+00060 Sol High buys Pawn
+00061 Sol High gains Pawn
+00062 Sol High shuffles
+00063 Sol High draws 5 cards
+00064 Fable High starts turn 4
+00065 Fable High plays Pooka
+00066 Fable High trashes Copper
+00067 Fable High shuffles
+00068 Fable High draws 4 cards
+00069 Fable High plays Copper
+00070 Fable High plays Pasture
+00071 Fable High plays Copper
+00072 Fable High buys Secluded Shrine
+00073 Fable High gains Secluded Shrine
+00074 Fable High draws 5 cards
+00075 Sol High starts turn 5
+00076 Sol High plays Pawn
+00077 Sol High chooses +1 Card; +$1 (Pawn)
+00078 Sol High draws 1 card
+00079 Sol High plays Copper
+00080 Sol High plays Pasture
+00081 Sol High plays Copper
+00082 Sol High buys Shepherd
+00083 Sol High gains Shepherd
+00084 Sol High draws 5 cards
+00085 Fable High starts turn 5
+00086 Fable High plays Copper
+00087 Fable High plays Copper
+00088 Fable High buys Squire
+00089 Fable High gains Squire
+00090 Fable High shuffles
+00091 Fable High draws 5 cards
+00092 Sol High starts turn 6
+00093 Sol High plays Secluded Shrine
+00094 Sol High plays Cursed Gold
+00095 Sol High gains Curse
+00096 Sol High buys Silver
+00097 Sol High gains Silver
+00098 Sol High's Secluded Shrine resolves
+00099 Sol High trashes Copper
+00100 Sol High trashes Curse
+00101 Sol High draws 5 cards
+00102 Fable High starts turn 6
+00103 Fable High plays Gold
+00104 Fable High plays Copper
+00105 Fable High buys Silver
+00106 Fable High gains Silver
+00107 Fable High draws 5 cards
+00108 Sol High starts turn 7
+00109 Sol High plays Litter
+00110 Sol High shuffles
+00111 Sol High draws 2 cards
+00112 Sol High takes 1 Debt
+00113 Sol High plays Pawn
+00114 Sol High chooses +1 Card; +1 Action (Pawn)
+00115 Sol High draws 1 card
+00116 Sol High plays Squire
+00117 Sol High chooses to gain a Silver (Squire)
+00118 Sol High gains Silver
+00119 Sol High plays Silver
+00120 Sol High plays Copper
+00121 Sol High plays Copper
+00122 Sol High plays Silver
+00123 Sol High pays off 1 Debt
+00124 Sol High buys Litter
+00125 Sol High gains Litter
+00126 Sol High draws 5 cards
+00127 Fable High starts turn 7
+00128 Fable High plays Squire
+00129 Fable High chooses to gain a Silver (Squire)
+00130 Fable High gains Silver
+00131 Fable High plays Pasture
+00132 Fable High buys Squire
+00133 Fable High gains Squire
+00134 Fable High draws 5 cards
+00135 Sol High starts turn 8
+00136 Sol High plays Shepherd
+00137 Sol High reveals Estate
+00138 Sol High reveals Pasture
+00139 Sol High discards Estate
+00140 Sol High discards Pasture
+00141 Sol High draws 4 cards
+00142 Sol High plays Secluded Shrine
+00143 Sol High plays Copper
+00144 Sol High plays Copper
+00145 Sol High buys Silver
+00146 Sol High gains Silver
+00147 Sol High's Secluded Shrine resolves
+00148 Sol High trashes Cursed Gold
+00149 Sol High shuffles
+00150 Sol High draws 5 cards
+00151 Fable High starts turn 8
+00152 Fable High plays Secluded Shrine
+00153 Fable High plays Copper
+00154 Fable High plays Copper
+00155 Fable High buys Acting Troupe
+00156 Fable High gains Acting Troupe
+00157 Fable High shuffles
+00158 Fable High draws 5 cards
+00159 Sol High starts turn 9
+00160 Sol High plays Litter
+00161 Sol High draws 2 cards
+00162 Sol High takes 1 Debt
+00163 Sol High plays Secluded Shrine
+00164 Sol High plays Silver
+00165 Sol High plays Silver
+00166 Sol High plays Silver
+00167 Sol High plays Silver
+00168 Sol High pays off 1 Debt
+00169 Sol High buys Shepherd
+00170 Sol High gains Shepherd
+00171 Sol High draws 5 cards
+00172 Fable High starts turn 9
+00173 Fable High plays Squire
+00174 Fable High chooses to gain a Silver (Squire)
+00175 Fable High gains Silver
+00176 Fable High plays Copper
+00177 Fable High plays Copper
+00178 Fable High plays Gold
+00179 Fable High buys Gold
+00180 Fable High gains Gold
+00181 Fable High draws 5 cards
+00182 Sol High starts turn 10
+00183 Sol High plays Pawn
+00184 Sol High chooses +1 Card; +1 Action (Pawn)
+00185 Sol High draws 1 card
+00186 Sol High plays Shepherd
+00187 Sol High reveals Estate
+00188 Sol High discards Estate
+00189 Sol High draws 2 cards
+00190 Sol High plays Squire
+00191 Sol High chooses to gain a Silver (Squire)
+00192 Sol High gains Silver
+00193 Sol High's Secluded Shrine resolves
+00194 Sol High trashes Copper
+00195 Sol High trashes Curse
+00196 Sol High plays Copper
+00197 Sol High buys Town Crier
+00198 Sol High gains Town Crier
+00199 Sol High shuffles
+00200 Sol High draws 5 cards
+00201 Fable High starts turn 10
+00202 Fable High plays Pooka
+00203 Fable High trashes Copper
+00204 Fable High draws 4 cards
+00205 Fable High plays Silver
+00206 Fable High plays Copper
+00207 Fable High buys Silver
+00208 Fable High gains Silver
+00209 Fable High draws 5 cards
+00210 Sol High starts turn 11
+00211 Sol High plays Litter
+00212 Sol High draws 2 cards
+00213 Sol High takes 1 Debt
+00214 Sol High plays Shepherd
+00215 Sol High reveals Pasture
+00216 Sol High discards Pasture
+00217 Sol High draws 2 cards
+00218 Sol High plays Town Crier
+00219 Sol High chooses +1 Card and +1 Action (Town Crier)
+00220 Sol High draws 1 card
+00221 Sol High rotates the Townsfolk pile
+00222 Sol High plays Squire
+00223 Sol High chooses +2 Buys (Squire)
+00224 Sol High plays Copper
+00225 Sol High plays Copper
+00226 Sol High plays Silver
+00227 Sol High plays Silver
+00228 Sol High pays off 1 Debt
+00229 Sol High buys Blacksmith
+00230 Sol High gains Blacksmith
+00231 Sol High buys Blacksmith
+00232 Sol High gains Blacksmith
+00233 Sol High draws 5 cards
+00234 Fable High starts turn 11
+00235 Fable High plays Squire
+00236 Fable High chooses to gain a Silver (Squire)
+00237 Fable High gains Silver
+00238 Fable High plays Silver
+00239 Fable High plays Pasture
+00240 Fable High buys Shepherd
+00241 Fable High gains Shepherd
+00242 Fable High shuffles
+00243 Fable High draws 5 cards
+00244 Sol High starts turn 12
+00245 Sol High plays Pawn
+00246 Sol High chooses +1 Card; +1 Action (Pawn)
+00247 Sol High draws 1 card
+00248 Sol High plays Silver
+00249 Sol High plays Silver
+00250 Sol High plays Copper
+00251 Sol High plays Silver
+00252 Sol High buys Litter
+00253 Sol High gains Litter
+00254 Sol High shuffles
+00255 Sol High draws 5 cards
+00256 Fable High starts turn 12
+00257 Fable High plays Shepherd
+00258 Fable High reveals Estate
+00259 Fable High reveals Estate
+00260 Fable High discards Estate
+00261 Fable High discards Estate
+00262 Fable High draws 4 cards
+00263 Fable High plays Silver
+00264 Fable High plays Silver
+00265 Fable High plays Copper
+00266 Fable High plays Gold
+00267 Fable High plays Silver
+00268 Fable High buys Province
+00269 Fable High gains Province
+00270 Fable High draws 5 cards
+00271 Sol High starts turn 13
+00272 Sol High plays Litter
+00273 Sol High draws 2 cards
+00274 Sol High takes 1 Debt
+00275 Sol High plays Shepherd
+00276 Sol High reveals Estate
+00277 Sol High reveals Estate
+00278 Sol High discards Estate
+00279 Sol High discards Estate
+00280 Sol High draws 4 cards
+00281 Sol High plays Pawn
+00282 Sol High chooses +1 Card; +1 Action (Pawn)
+00283 Sol High draws 1 card
+00284 Sol High plays Litter
+00285 Sol High draws 2 cards
+00286 Sol High takes 1 Debt
+00287 Sol High plays Town Crier
+00288 Sol High chooses +1 Card and +1 Action (Town Crier)
+00289 Sol High draws 1 card
+00290 Sol High plays Secluded Shrine
+00291 Sol High plays Silver
+00292 Sol High plays Silver
+00293 Sol High plays Copper
+00294 Sol High plays Silver
+00295 Sol High plays Copper
+00296 Sol High plays Pasture
+00297 Sol High pays off 1 Debt
+00298 Sol High pays off 1 Debt
+00299 Sol High buys Province
+00300 Sol High gains Province
+00301 Sol High draws 5 cards
+00302 Fable High starts turn 13
+00303 Fable High plays Acting Troupe
+00304 Fable High takes 4 Villagers
+00305 Fable High trashes Acting Troupe
+00306 Fable High plays Pasture
+00307 Fable High plays Copper
+00308 Fable High buys Estate
+00309 Fable High gains Estate
+00310 Fable High draws 5 cards
+00311 Sol High starts turn 14
+00312 Sol High plays Litter
+00313 Sol High draws 2 cards
+00314 Sol High takes 1 Debt
+00315 Sol High plays Squire
+00316 Sol High chooses +2 Actions (Squire)
+00317 Sol High plays Blacksmith
+00318 Sol High chooses +2 Cards (Blacksmith)
+00319 Sol High shuffles
+00320 Sol High draws 2 cards
+00321 Sol High plays Litter
+00322 Sol High draws 2 cards
+00323 Sol High takes 1 Debt
+00324 Sol High plays Town Crier
+00325 Sol High chooses +1 Card and +1 Action (Town Crier)
+00326 Sol High draws 1 card
+00327 Sol High plays Pawn
+00328 Sol High chooses +1 Card; +1 Buy (Pawn)
+00329 Sol High draws 1 card
+00330 Sol High plays Shepherd
+00331 Sol High reveals Pasture
+00332 Sol High reveals Province
+00333 Sol High discards Pasture
+00334 Sol High discards Province
+00335 Sol High draws 4 cards
+00336 Sol High plays Blacksmith
+00337 Sol High chooses +2 Cards (Blacksmith)
+00338 Sol High draws 2 cards
+00339 Sol High plays Shepherd
+00340 Sol High reveals Estate
+00341 Sol High reveals Estate
+00342 Sol High discards Estate
+00343 Sol High discards Estate
+00344 Sol High draws 4 cards
+00345 Sol High plays Silver
+00346 Sol High plays Silver
+00347 Sol High plays Copper
+00348 Sol High plays Silver
+00349 Sol High plays Copper
+00350 Sol High plays Copper
+00351 Sol High plays Silver
+00352 Sol High plays Silver
+00353 Sol High pays off 1 Debt
+00354 Sol High pays off 1 Debt
+00355 Sol High buys Province
+00356 Sol High gains Province
+00357 Sol High buys Shepherd
+00358 Sol High gains Shepherd
+00359 Sol High shuffles
+00360 Sol High draws 5 cards
+00361 Fable High starts turn 14
+00362 Fable High plays Squire
+00363 Fable High chooses +2 Buys (Squire)
+00364 Fable High plays Copper
+00365 Fable High plays Silver
+00366 Fable High plays Gold
+00367 Fable High plays Cursed Gold
+00368 Fable High gains Curse
+00369 Fable High buys Province
+00370 Fable High gains Province
+00371 Fable High buys Estate
+00372 Fable High gains Estate
+00373 Fable High draws 5 cards
+00374 Sol High starts turn 15
+00375 Sol High plays Shepherd
+00376 Sol High reveals Estate
+00377 Sol High reveals Estate
+00378 Sol High discards Estate
+00379 Sol High discards Estate
+00380 Sol High draws 4 cards
+00381 Sol High plays Litter
+00382 Sol High draws 2 cards
+00383 Sol High takes 1 Debt
+00384 Sol High plays Litter
+00385 Sol High draws 2 cards
+00386 Sol High takes 1 Debt
+00387 Sol High plays Shepherd
+00388 Sol High reveals Estate
+00389 Sol High discards Estate
+00390 Sol High draws 2 cards
+00391 Sol High plays Shepherd
+00392 Sol High reveals Pasture
+00393 Sol High discards Pasture
+00394 Sol High draws 2 cards
+00395 Sol High plays Blacksmith
+00396 Sol High chooses +2 Cards (Blacksmith)
+00397 Sol High draws 2 cards
+00398 Sol High plays Pawn
+00399 Sol High chooses +1 Card; +1 Buy (Pawn)
+00400 Sol High draws 1 card
+00401 Sol High plays Litter
+00402 Sol High draws 2 cards
+00403 Sol High takes 1 Debt
+00404 Sol High plays Squire
+00405 Sol High chooses +2 Buys (Squire)
+00406 Sol High plays Silver
+00407 Sol High plays Copper
+00408 Sol High plays Silver
+00409 Sol High plays Silver
+00410 Sol High plays Copper
+00411 Sol High plays Silver
+00412 Sol High plays Copper
+00413 Sol High plays Silver
+00414 Sol High pays off 1 Debt
+00415 Sol High pays off 1 Debt
+00416 Sol High pays off 1 Debt
+00417 Sol High buys Province
+00418 Sol High gains Province
+00419 Sol High buys Estate
+00420 Sol High gains Estate
+00421 Sol High shuffles
+00422 Sol High draws 5 cards
+00423 Fable High starts turn 15
+00424 Fable High plays Pooka
+00425 Fable High trashes Silver
+00426 Fable High shuffles
+00427 Fable High draws 4 cards
+00428 Fable High spends 1 Villager
+00429 Fable High plays Secluded Shrine
+00430 Fable High spends 1 Villager
+00431 Fable High plays Squire
+00432 Fable High chooses +2 Buys (Squire)
+00433 Fable High plays Copper
+00434 Fable High plays Pasture
+00435 Fable High buys Copper
+00436 Fable High gains Copper
+00437 Fable High's Secluded Shrine resolves
+00438 Fable High trashes Curse
+00439 Fable High trashes Curse
+00440 Fable High buys Estate
+00441 Fable High gains Estate
+00442 Fable High buys Estate
+00443 Fable High gains Estate
+00444 Fable High draws 5 cards
+00445 Sol High starts turn 16
+00446 Sol High plays Pawn
+00447 Sol High chooses +1 Card; +1 Action (Pawn)
+00448 Sol High draws 1 card
+00449 Sol High plays Litter
+00450 Sol High draws 2 cards
+00451 Sol High takes 1 Debt
+00452 Sol High plays Blacksmith
+00453 Sol High chooses +2 Cards (Blacksmith)
+00454 Sol High draws 2 cards
+00455 Sol High plays Litter
+00456 Sol High draws 2 cards
+00457 Sol High takes 1 Debt
+00458 Sol High plays Blacksmith
+00459 Sol High chooses +2 Cards (Blacksmith)
+00460 Sol High draws 2 cards
+00461 Sol High plays Shepherd
+00462 Sol High reveals Province
+00463 Sol High reveals Estate
+00464 Sol High reveals Estate
+00465 Sol High discards Province
+00466 Sol High discards Estate
+00467 Sol High discards Estate
+00468 Sol High draws 6 cards
+00469 Sol High plays Shepherd
+00470 Sol High reveals Province
+00471 Sol High reveals Estate
+00472 Sol High discards Province
+00473 Sol High discards Estate
+00474 Sol High draws 4 cards
+00475 Sol High plays Litter
+00476 Sol High draws 2 cards
+00477 Sol High takes 1 Debt
+00478 Sol High plays Shepherd
+00479 Sol High reveals Province
+00480 Sol High discards Province
+00481 Sol High shuffles
+00482 Sol High draws 2 cards
+00483 Sol High plays Town Crier
+00484 Sol High chooses +$2 (Town Crier)
+00485 Sol High plays Squire
+00486 Sol High chooses +2 Buys (Squire)
+00487 Sol High plays Copper
+00488 Sol High plays Silver
+00489 Sol High plays Silver
+00490 Sol High plays Copper
+00491 Sol High plays Copper
+00492 Sol High plays Pasture
+00493 Sol High plays Silver
+00494 Sol High plays Silver
+00495 Sol High plays Silver
+00496 Sol High pays off 1 Debt
+00497 Sol High pays off 1 Debt
+00498 Sol High pays off 1 Debt
+00499 Sol High buys Province
+00500 Sol High gains Province
+00501 Sol High buys Fleet
+00502 Sol High draws 5 cards
+00503 Fable High starts turn 16
+00504 Fable High plays Shepherd
+00505 Fable High reveals Province
+00506 Fable High discards Province
+00507 Fable High draws 2 cards
+00508 Fable High plays Squire
+00509 Fable High chooses to gain a Silver (Squire)
+00510 Fable High gains Silver
+00511 Fable High plays Copper
+00512 Fable High plays Gold
+00513 Fable High plays Silver
+00514 Fable High plays Silver
+00515 Fable High buys Province
+00516 Fable High gains Province
+00517 Fable High draws 5 cards
+00518 Sol High starts turn 17
+00519 Sol High shuffles
+00520 Sol High draws 5 cards
+00521 Fable High starts turn 17
+00522 Fable High plays Silver
+00523 Fable High plays Gold
+00524 Fable High buys Duchy
+00525 Fable High gains Duchy
+00526 Fable High draws 5 cards
+00527 Sol High starts turn 18
+00528 Sol High plays Litter
+00529 Sol High draws 2 cards
+00530 Sol High takes 1 Debt
+00531 Sol High plays Litter
+00532 Sol High draws 2 cards
+00533 Sol High takes 1 Debt
+00534 Sol High plays Pawn
+00535 Sol High chooses +1 Card; +1 Buy (Pawn)
+00536 Sol High draws 1 card
+00537 Sol High plays Copper
+00538 Sol High plays Silver
+00539 Sol High plays Copper
+00540 Sol High plays Silver
+00541 Sol High pays off 1 Debt
+00542 Sol High pays off 1 Debt
+00543 Sol High buys Estate
+00544 Sol High gains Estate
+00545 Sol High buys Estate
+00546 Sol High gains Estate
+00547 Sol High draws 5 cards
+00548 Fable High starts turn 18
+00549 Fable High plays Copper
+00550 Fable High plays Silver
+00551 Fable High buys Estate
+00552 Fable High gains Estate
+00553 Fable High shuffles
+00554 Fable High draws 5 cards
+00555 Sol High starts turn 19
+00556 Sol High plays Shepherd
+00557 Sol High reveals Province
+00558 Sol High discards Province
+00559 Sol High draws 2 cards
+00560 Sol High plays Town Crier
+00561 Sol High chooses +1 Card and +1 Action (Town Crier)
+00562 Sol High draws 1 card
+00563 Sol High plays Litter
+00564 Sol High draws 2 cards
+00565 Sol High takes 1 Debt
+00566 Sol High plays Shepherd
+00567 Sol High reveals Province
+00568 Sol High reveals Province
+00569 Sol High discards Province
+00570 Sol High discards Province
+00571 Sol High draws 4 cards
+00572 Sol High plays Squire
+00573 Sol High chooses +2 Actions (Squire)
+00574 Sol High plays Blacksmith
+00575 Sol High chooses +2 Cards (Blacksmith)
+00576 Sol High draws 2 cards
+00577 Sol High plays Blacksmith
+00578 Sol High chooses +2 Cards (Blacksmith)
+00579 Sol High draws 2 cards
+00580 Sol High plays Silver
+00581 Sol High plays Silver
+00582 Sol High plays Pasture
+00583 Sol High plays Copper
+00584 Sol High plays Silver
+00585 Sol High pays off 1 Debt
+00586 Sol High buys Province
+00587 Sol High gains Province
+00588 Sol High shuffles
+00589 Sol High draws 5 cards
+00590 Sol High starts turn 20
+00591 Sol High draws 5 cards

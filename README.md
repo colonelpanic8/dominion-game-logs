@@ -48,6 +48,7 @@ A `*` after a commit means that repository had uncommitted changes, saved in the
 | [2026-11-17/sol-high-186043435](runs/2026-11-17/sol-high-186043435) | gpt-6.1-sol high | human | 186043435: thepilferer 4, SolDominion 18 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186043033](runs/2026-11-17/sol-high-186043033) | gpt-6.1-sol high | human | 186043033: SolDominion 30, Kaityo_777 28 | 6863517 | ? |  |
 | [2026-11-17/sol-high-186042551](runs/2026-11-17/sol-high-186042551) | gpt-6.1-sol high | human | 186042551: wyan 34, SolDominion 46 | e565fe8 | ? |  |
+| [2026-11-17/sol-fable-g83](runs/2026-11-17/sol-fable-g83) | Sol High vs Fable High high | agent | g83: Sol High 42, Fable High 36 | 6863517 | ? |  |
 | [2026-11-17/sol-fable-g82](runs/2026-11-17/sol-fable-g82) | Sol High vs Fable High high | agent | g82: Fable High 35, Sol High 41 | 6863517 | ? |  |
 | [2026-11-17/sol-fable-g81](runs/2026-11-17/sol-fable-g81) | Sol High vs Fable High high | agent | g81: Sol High 35, Fable High 12 | 6863517 | ? |  |
 | [2026-11-17/sol-fable-g80](runs/2026-11-17/sol-fable-g80) | Sol High vs Fable High high | agent | g80: Fable High 24, Sol High 40 | 6863517 | ? |  |

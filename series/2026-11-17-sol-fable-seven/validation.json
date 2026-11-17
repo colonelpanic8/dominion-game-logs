@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-11-17T16:46:08.913249+00:00",
+  "checks": {
+    "fixed_series_lifecycle": 9,
+    "model_guard": 9,
+    "journal_snapshot": 5,
+    "ruff": "passed"
+  },
+  "coordinator_sha256": "a7c195018f379f1bb6372a59e97ac340ed89ecee33f9751bfdca322c018d8353",
+  "start": {
+    "game_id": "g77",
+    "sol_first": true,
+    "public_running": true,
+    "models": {
+      "eligible": true,
+      "finished": false,
+      "sessions": [
+        {
+          "archive": "1794933918247-483f0e2d60fae684",
+          "agent": "Sol High",
+          "models": [
+            "gpt-6.1-sol"
+          ],
+          "finished": false
+        },
+        {
+          "archive": "1794933918247-82cf3bc591cf0bca",
+          "agent": "Fable High",
+          "models": [
+            "claude-fable-5-2"
+          ],
+          "finished": false
+        }
+      ],
+      "problems": []
+    }
+  }
+}

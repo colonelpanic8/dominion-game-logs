@@ -1,0 +1,61 @@
+{
+  "game_id": "g83",
+  "completed_at": "2026-11-17T21:17:10.174609+00:00",
+  "winner": "Sol High",
+  "result": {
+    "reason": "provinces-gone",
+    "players": [
+      {
+        "index": 0,
+        "name": "Sol High",
+        "vp": 42,
+        "rank": 1,
+        "turns": 19
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 36,
+        "rank": 2,
+        "turns": 18
+      }
+    ]
+  },
+  "request": {
+    "players": 2,
+    "names": [
+      "Sol High",
+      "Fable High"
+    ],
+    "agents": [
+      "Sol High",
+      "Fable High"
+    ],
+    "seed": 14585574275683558610,
+    "watchable": true
+  },
+  "eligible_for_score": true,
+  "model_verification": {
+    "eligible": true,
+    "finished": true,
+    "sessions": [
+      {
+        "archive": "1794948030448-8ce0f7b218becec3",
+        "agent": "Sol High",
+        "models": [
+          "gpt-6.1-sol"
+        ],
+        "finished": true
+      },
+      {
+        "archive": "1794948030448-e34a5567b1d22833",
+        "agent": "Fable High",
+        "models": [
+          "claude-fable-5-2"
+        ],
+        "finished": true
+      }
+    ],
+    "problems": []
+  }
+}

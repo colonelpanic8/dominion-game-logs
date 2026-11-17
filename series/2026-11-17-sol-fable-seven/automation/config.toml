@@ -1,0 +1,13 @@
+server = "https://dominion-arena.duckdns.org"
+owner = "Arena Matches"
+password_entry = "dominion-arena.duckdns.org/Arena Matches"
+agents = ["Sol High", "Fable High"]
+games = 7
+max_total_games = 21
+poll_seconds = 10
+state_dir = "/home/imalison/.local/state/dominion/series/sol-fable-7games-20261117"
+archives_dir = "/home/imalison/.local/state/dominion/agents/archives"
+
+[required_models]
+"Sol High" = "gpt-6.1-sol"
+"Fable High" = "claude-fable-5-2"

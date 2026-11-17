@@ -1,0 +1,393 @@
+{
+  "captured_at": "2026-11-17T21:17:34.671011+00:00",
+  "winner": "Sol High",
+  "score": {
+    "Sol High": 6,
+    "Fable High": 1
+  },
+  "draws": 0,
+  "games": [
+    {
+      "game": "g77",
+      "run": "../../runs/2026-11-17/sol-fable-g77",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 23,
+            "rank": 2,
+            "turns": 11
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 37,
+            "rank": 1,
+            "turns": 11
+          }
+        ]
+      },
+      "winner": "Fable High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794933918247-483f0e2d60fae684",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794933918247-82cf3bc591cf0bca",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 584,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g78",
+      "run": "../../runs/2026-11-17/sol-fable-g78",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 23,
+            "rank": 2,
+            "turns": 15
+          },
+          {
+            "index": 1,
+            "name": "Sol High",
+            "vp": 40,
+            "rank": 1,
+            "turns": 15
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794937208586-47c727ae53f6afdf",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794937208586-7f54eb1897b8acae",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 481,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g79",
+      "run": "../../runs/2026-11-17/sol-fable-g79",
+      "result": {
+        "reason": "piles-empty",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 55,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 35,
+            "rank": 2,
+            "turns": 13
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794938795464-70c02851c6c9153d",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794938795464-7e33b20d6af606a6",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 663,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g80",
+      "run": "../../runs/2026-11-17/sol-fable-g80",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 24,
+            "rank": 2,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "Sol High",
+            "vp": 40,
+            "rank": 1,
+            "turns": 19
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794941199295-3739c5b01e52dc0c",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794941199295-6f6437f9b37dad36",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 750,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g81",
+      "run": "../../runs/2026-11-17/sol-fable-g81",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 35,
+            "rank": 1,
+            "turns": 14
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 12,
+            "rank": 2,
+            "turns": 13
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794943993991-53220d16376172b6",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794943993991-9139082d872a1c5a",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 539,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g82",
+      "run": "../../runs/2026-11-17/sol-fable-g82",
+      "result": {
+        "reason": "colonies-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Fable High",
+            "vp": 35,
+            "rank": 2,
+            "turns": 18
+          },
+          {
+            "index": 1,
+            "name": "Sol High",
+            "vp": 41,
+            "rank": 1,
+            "turns": 18
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794945877529-72f87855ee847a79",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794945877529-98ce688a2d4e1611",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 646,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    },
+    {
+      "game": "g83",
+      "run": "../../runs/2026-11-17/sol-fable-g83",
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 42,
+            "rank": 1,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 36,
+            "rank": 2,
+            "turns": 18
+          }
+        ]
+      },
+      "winner": "Sol High",
+      "eligible_for_score": true,
+      "model_verification": {
+        "eligible": true,
+        "finished": true,
+        "sessions": [
+          {
+            "archive": "1794948030448-8ce0f7b218becec3",
+            "agent": "Sol High",
+            "models": [
+              "gpt-6.1-sol"
+            ],
+            "finished": true
+          },
+          {
+            "archive": "1794948030448-e34a5567b1d22833",
+            "agent": "Fable High",
+            "models": [
+              "claude-fable-5-2"
+            ],
+            "finished": true
+          }
+        ],
+        "problems": []
+      },
+      "coverage": {
+        "observed_log_entries": 592,
+        "missing_observed_sequence_numbers": [],
+        "has_recorded_final_view": true,
+        "note": "Saved observations and revisions, not an invented official replay. Authoritative result is independent of final trace notification."
+      }
+    }
+  ],
+  "application": "7d439ac36afa205ee8b37e36f2f4f0589ae53248",
+  "playbook": "686351798394ee507cefcc58a5a67891e224c416",
+  "playbook_source": "/nix/store/bxqbk2cfpgj03w1ibvss9qz6c17gh9d7-source",
+  "raw_files_verified": 49
+}

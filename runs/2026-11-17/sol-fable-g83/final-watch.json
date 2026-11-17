@@ -1,0 +1,4603 @@
+{
+  "view": {
+    "schema": "dominion/agent-view@2",
+    "game": {
+      "id": "g83",
+      "running": false,
+      "result": {
+        "reason": "provinces-gone",
+        "players": [
+          {
+            "index": 0,
+            "name": "Sol High",
+            "vp": 42,
+            "rank": 1,
+            "turns": 19
+          },
+          {
+            "index": 1,
+            "name": "Fable High",
+            "vp": 36,
+            "rank": 2,
+            "turns": 18
+          }
+        ]
+      },
+      "kingdom": [
+        "Root Cellar",
+        "Litter",
+        "Secluded Shrine",
+        "Squire",
+        "Patrician",
+        "Acting Troupe",
+        "Shepherd",
+        "Pawn",
+        "Pooka",
+        "Townsfolk"
+      ],
+      "landscapes": [
+        "Fleet"
+      ]
+    },
+    "seat": null,
+    "spectating": true,
+    "turn": {
+      "yourTurn": false,
+      "phase": null
+    },
+    "you": null,
+    "opponents": [
+      {
+        "index": 0,
+        "name": "Sol High",
+        "vp": 42,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Blacksmith": 1,
+            "Province": 1,
+            "Silver": 2,
+            "Town Crier": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 1,
+          "known": {
+            "Secluded Shrine": 1
+          },
+          "unknown": 0
+        },
+        "deck": {
+          "count": 21,
+          "known": {
+            "Blacksmith": 1,
+            "Copper": 3,
+            "Estate": 5,
+            "Litter": 2,
+            "Pasture": 1,
+            "Pawn": 1,
+            "Province": 2,
+            "Shepherd": 3,
+            "Silver": 2,
+            "Squire": 1
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 5,
+          "known": {
+            "Estate": 1,
+            "Litter": 1,
+            "Province": 2,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Blacksmith": 2,
+            "Copper": 3,
+            "Estate": 6,
+            "Litter": 3,
+            "Pasture": 1,
+            "Pawn": 1,
+            "Province": 5,
+            "Secluded Shrine": 1,
+            "Shepherd": 3,
+            "Silver": 5,
+            "Squire": 1,
+            "Town Crier": 1
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "projects": [
+          "Fleet"
+        ],
+        "turnsTaken": 20,
+        "counters": {
+          "extraTurnsTaken": 1
+        }
+      },
+      {
+        "index": 1,
+        "name": "Fable High",
+        "vp": 36,
+        "hand": {
+          "count": 5,
+          "known": {
+            "Cursed Gold": 1,
+            "Province": 1,
+            "Shepherd": 2,
+            "Silver": 1
+          },
+          "unknown": 0
+        },
+        "inPlay": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "deck": {
+          "count": 27,
+          "known": {
+            "Copper": 4,
+            "Curse": 1,
+            "Duchy": 1,
+            "Estate": 8,
+            "Gold": 2,
+            "Pasture": 1,
+            "Pooka": 1,
+            "Province": 2,
+            "Secluded Shrine": 1,
+            "Silver": 4,
+            "Squire": 2
+          },
+          "unknown": 0,
+          "orderKnown": false
+        },
+        "discard": {
+          "count": 0,
+          "known": {},
+          "unknown": 0
+        },
+        "otherZones": {},
+        "owned": {
+          "known": {
+            "Copper": 4,
+            "Curse": 1,
+            "Cursed Gold": 1,
+            "Duchy": 1,
+            "Estate": 8,
+            "Gold": 2,
+            "Pasture": 1,
+            "Pooka": 1,
+            "Province": 3,
+            "Secluded Shrine": 1,
+            "Shepherd": 2,
+            "Silver": 5,
+            "Squire": 2
+          },
+          "unknown": 0
+        },
+        "uncertain": [],
+        "tokens": {
+          "villagers": 2
+        },
+        "turnsTaken": 18,
+        "counters": {}
+      }
+    ],
+    "supply": [
+      {
+        "card": "Copper",
+        "count": 49,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Copper",
+              "count": 50
+            }
+          ]
+        }
+      },
+      {
+        "card": "Silver",
+        "count": 29,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Silver",
+              "count": 40
+            }
+          ]
+        }
+      },
+      {
+        "card": "Gold",
+        "count": 28,
+        "cost": {
+          "coins": 6
+        },
+        "types": [
+          "Treasure"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Gold",
+              "count": 30
+            }
+          ]
+        }
+      },
+      {
+        "card": "Estate",
+        "count": 0,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Estate",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Duchy",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Duchy",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Province",
+        "count": 0,
+        "cost": {
+          "coins": 8
+        },
+        "types": [
+          "Victory"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Province",
+              "count": 8
+            }
+          ]
+        }
+      },
+      {
+        "card": "Curse",
+        "count": 5,
+        "cost": {
+          "coins": 0
+        },
+        "types": [
+          "Curse"
+        ],
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Curse",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Root Cellar",
+        "count": 10,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Root Cellar",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Litter",
+        "count": 7,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Litter",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Secluded Shrine",
+        "count": 8,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Duration"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Secluded Shrine",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Squire",
+        "count": 7,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Squire",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Patrician",
+        "count": 10,
+        "members": [
+          "Emporium",
+          "Patrician"
+        ],
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Patrician",
+              "count": 5
+            },
+            {
+              "card": "Emporium",
+              "count": 5
+            }
+          ]
+        }
+      },
+      {
+        "card": "Acting Troupe",
+        "count": 9,
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Acting Troupe",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Shepherd",
+        "count": 5,
+        "cost": {
+          "coins": 4
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Shepherd",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Pawn",
+        "count": 9,
+        "cost": {
+          "coins": 2
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Pawn",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Pooka",
+        "count": 9,
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Action"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "stacked",
+          "cards": [
+            {
+              "card": "Pooka",
+              "count": 10
+            }
+          ]
+        }
+      },
+      {
+        "card": "Townsfolk",
+        "count": 13,
+        "top": "Blacksmith",
+        "members": [
+          "Blacksmith",
+          "Elder",
+          "Miller",
+          "Town Crier"
+        ],
+        "cost": {
+          "coins": 3
+        },
+        "types": [
+          "Action",
+          "Townsfolk"
+        ],
+        "kingdom": true,
+        "structure": {
+          "kind": "rotating",
+          "cards": [
+            {
+              "card": "Town Crier",
+              "count": 4
+            },
+            {
+              "card": "Blacksmith",
+              "count": 4
+            },
+            {
+              "card": "Miller",
+              "count": 4
+            },
+            {
+              "card": "Elder",
+              "count": 4
+            }
+          ]
+        }
+      }
+    ],
+    "nonSupply": [],
+    "landscapes": [
+      {
+        "card": "Fleet",
+        "kind": "project",
+        "cost": {
+          "coins": 5
+        },
+        "types": [
+          "Project"
+        ],
+        "owners": [
+          0
+        ]
+      }
+    ],
+    "trash": {
+      "count": 11,
+      "known": {
+        "Acting Troupe": 1,
+        "Copper": 4,
+        "Curse": 4,
+        "Cursed Gold": 1,
+        "Silver": 1
+      },
+      "unknown": 0
+    },
+    "lasting": [
+      {
+        "card": "Secluded Shrine",
+        "owner": 0,
+        "until": "removed",
+        "cards": [
+          "Secluded Shrine"
+        ]
+      }
+    ],
+    "decision": null,
+    "sinceLastDecision": [
+      {
+        "seq": 0,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 1"
+      },
+      {
+        "seq": 1,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 2,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 3,
+        "type": "bought",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High buys Squire"
+      },
+      {
+        "seq": 4,
+        "type": "gained",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High gains Squire"
+      },
+      {
+        "seq": 5,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 6,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 1"
+      },
+      {
+        "seq": 7,
+        "type": "played",
+        "player": 1,
+        "card": "Cursed Gold",
+        "text": "Fable High plays Cursed Gold"
+      },
+      {
+        "seq": 8,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Fable High gains Curse"
+      },
+      {
+        "seq": 9,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 10,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 11,
+        "type": "bought",
+        "player": 1,
+        "card": "Pooka",
+        "text": "Fable High buys Pooka"
+      },
+      {
+        "seq": 12,
+        "type": "gained",
+        "player": 1,
+        "card": "Pooka",
+        "text": "Fable High gains Pooka"
+      },
+      {
+        "seq": 13,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 14,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 2"
+      },
+      {
+        "seq": 15,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 16,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 17,
+        "type": "played",
+        "player": 0,
+        "card": "Cursed Gold",
+        "text": "Sol High plays Cursed Gold"
+      },
+      {
+        "seq": 18,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 19,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 20,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 21,
+        "type": "bought",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High buys Litter"
+      },
+      {
+        "seq": 22,
+        "type": "gained",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High gains Litter"
+      },
+      {
+        "seq": 23,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 24,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 25,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 2"
+      },
+      {
+        "seq": 26,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 27,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 28,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 29,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 30,
+        "type": "bought",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High buys Shepherd"
+      },
+      {
+        "seq": 31,
+        "type": "gained",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High gains Shepherd"
+      },
+      {
+        "seq": 32,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 33,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 34,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 3"
+      },
+      {
+        "seq": 35,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 36,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 37,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 38,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 39,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 40,
+        "type": "bought",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High buys Secluded Shrine"
+      },
+      {
+        "seq": 41,
+        "type": "gained",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High gains Secluded Shrine"
+      },
+      {
+        "seq": 42,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 43,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 3"
+      },
+      {
+        "seq": 44,
+        "type": "played",
+        "player": 1,
+        "card": "Cursed Gold",
+        "text": "Fable High plays Cursed Gold"
+      },
+      {
+        "seq": 45,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Fable High gains Curse"
+      },
+      {
+        "seq": 46,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 47,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 48,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 49,
+        "type": "bought",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 50,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 51,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 52,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 4"
+      },
+      {
+        "seq": 53,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 54,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 55,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 56,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 57,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 58,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 59,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 60,
+        "type": "bought",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High buys Pawn"
+      },
+      {
+        "seq": 61,
+        "type": "gained",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High gains Pawn"
+      },
+      {
+        "seq": 62,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 63,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 64,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 4"
+      },
+      {
+        "seq": 65,
+        "type": "played",
+        "player": 1,
+        "card": "Pooka",
+        "text": "Fable High plays Pooka"
+      },
+      {
+        "seq": 66,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 67,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 68,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 4 cards"
+      },
+      {
+        "seq": 69,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 70,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 71,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 72,
+        "type": "bought",
+        "player": 1,
+        "card": "Secluded Shrine",
+        "text": "Fable High buys Secluded Shrine"
+      },
+      {
+        "seq": 73,
+        "type": "gained",
+        "player": 1,
+        "card": "Secluded Shrine",
+        "text": "Fable High gains Secluded Shrine"
+      },
+      {
+        "seq": 74,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 75,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 5"
+      },
+      {
+        "seq": 76,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 77,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +$1 (Pawn)"
+      },
+      {
+        "seq": 78,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 79,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 80,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 81,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 82,
+        "type": "bought",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High buys Shepherd"
+      },
+      {
+        "seq": 83,
+        "type": "gained",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High gains Shepherd"
+      },
+      {
+        "seq": 84,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 85,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 5"
+      },
+      {
+        "seq": 86,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 87,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 88,
+        "type": "bought",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High buys Squire"
+      },
+      {
+        "seq": 89,
+        "type": "gained",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High gains Squire"
+      },
+      {
+        "seq": 90,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 91,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 92,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 6"
+      },
+      {
+        "seq": 93,
+        "type": "played",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High plays Secluded Shrine"
+      },
+      {
+        "seq": 94,
+        "type": "played",
+        "player": 0,
+        "card": "Cursed Gold",
+        "text": "Sol High plays Cursed Gold"
+      },
+      {
+        "seq": 95,
+        "type": "gained",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High gains Curse"
+      },
+      {
+        "seq": 96,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High buys Silver"
+      },
+      {
+        "seq": 97,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 98,
+        "type": "resolved",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High's Secluded Shrine resolves"
+      },
+      {
+        "seq": 99,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 100,
+        "type": "trashed",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 101,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 102,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 6"
+      },
+      {
+        "seq": 103,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 104,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 105,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 106,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 107,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 108,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 7"
+      },
+      {
+        "seq": 109,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 110,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 111,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 112,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 113,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 114,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 115,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 116,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 117,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 118,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 119,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 120,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 121,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 122,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 123,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 124,
+        "type": "bought",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High buys Litter"
+      },
+      {
+        "seq": 125,
+        "type": "gained",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High gains Litter"
+      },
+      {
+        "seq": 126,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 127,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 7"
+      },
+      {
+        "seq": 128,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 129,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 130,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 131,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 132,
+        "type": "bought",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High buys Squire"
+      },
+      {
+        "seq": 133,
+        "type": "gained",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High gains Squire"
+      },
+      {
+        "seq": 134,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 135,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 8"
+      },
+      {
+        "seq": 136,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 137,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 138,
+        "type": "revealed",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High reveals Pasture"
+      },
+      {
+        "seq": 139,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 140,
+        "type": "discarded",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High discards Pasture"
+      },
+      {
+        "seq": 141,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 142,
+        "type": "played",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High plays Secluded Shrine"
+      },
+      {
+        "seq": 143,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 144,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 145,
+        "type": "bought",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High buys Silver"
+      },
+      {
+        "seq": 146,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 147,
+        "type": "resolved",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High's Secluded Shrine resolves"
+      },
+      {
+        "seq": 148,
+        "type": "trashed",
+        "player": 0,
+        "card": "Cursed Gold",
+        "text": "Sol High trashes Cursed Gold"
+      },
+      {
+        "seq": 149,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 150,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 151,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 8"
+      },
+      {
+        "seq": 152,
+        "type": "played",
+        "player": 1,
+        "card": "Secluded Shrine",
+        "text": "Fable High plays Secluded Shrine"
+      },
+      {
+        "seq": 153,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 154,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 155,
+        "type": "bought",
+        "player": 1,
+        "card": "Acting Troupe",
+        "text": "Fable High buys Acting Troupe"
+      },
+      {
+        "seq": 156,
+        "type": "gained",
+        "player": 1,
+        "card": "Acting Troupe",
+        "text": "Fable High gains Acting Troupe"
+      },
+      {
+        "seq": 157,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 158,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 159,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 9"
+      },
+      {
+        "seq": 160,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 161,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 162,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 163,
+        "type": "played",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High plays Secluded Shrine"
+      },
+      {
+        "seq": 164,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 165,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 166,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 167,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 168,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 169,
+        "type": "bought",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High buys Shepherd"
+      },
+      {
+        "seq": 170,
+        "type": "gained",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High gains Shepherd"
+      },
+      {
+        "seq": 171,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 172,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 9"
+      },
+      {
+        "seq": 173,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 174,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 175,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 176,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 177,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 178,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 179,
+        "type": "bought",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High buys Gold"
+      },
+      {
+        "seq": 180,
+        "type": "gained",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High gains Gold"
+      },
+      {
+        "seq": 181,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 182,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 10"
+      },
+      {
+        "seq": 183,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 184,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 185,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 186,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 187,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 188,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 189,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 190,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 191,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 192,
+        "type": "gained",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High gains Silver"
+      },
+      {
+        "seq": 193,
+        "type": "resolved",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High's Secluded Shrine resolves"
+      },
+      {
+        "seq": 194,
+        "type": "trashed",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High trashes Copper"
+      },
+      {
+        "seq": 195,
+        "type": "trashed",
+        "player": 0,
+        "card": "Curse",
+        "text": "Sol High trashes Curse"
+      },
+      {
+        "seq": 196,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 197,
+        "type": "bought",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High buys Town Crier"
+      },
+      {
+        "seq": 198,
+        "type": "gained",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High gains Town Crier"
+      },
+      {
+        "seq": 199,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 200,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 201,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 10"
+      },
+      {
+        "seq": 202,
+        "type": "played",
+        "player": 1,
+        "card": "Pooka",
+        "text": "Fable High plays Pooka"
+      },
+      {
+        "seq": 203,
+        "type": "trashed",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High trashes Copper"
+      },
+      {
+        "seq": 204,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 4 cards"
+      },
+      {
+        "seq": 205,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 206,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 207,
+        "type": "bought",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High buys Silver"
+      },
+      {
+        "seq": 208,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 209,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 210,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 11"
+      },
+      {
+        "seq": 211,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 212,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 213,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 214,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 215,
+        "type": "revealed",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High reveals Pasture"
+      },
+      {
+        "seq": 216,
+        "type": "discarded",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High discards Pasture"
+      },
+      {
+        "seq": 217,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 218,
+        "type": "played",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High plays Town Crier"
+      },
+      {
+        "seq": 219,
+        "type": "chosen",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High chooses +1 Card and +1 Action (Town Crier)"
+      },
+      {
+        "seq": 220,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 221,
+        "type": "rotated",
+        "player": 0,
+        "text": "Sol High rotates the Townsfolk pile"
+      },
+      {
+        "seq": 222,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 223,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses +2 Buys (Squire)"
+      },
+      {
+        "seq": 224,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 225,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 226,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 227,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 228,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 229,
+        "type": "bought",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High buys Blacksmith"
+      },
+      {
+        "seq": 230,
+        "type": "gained",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High gains Blacksmith"
+      },
+      {
+        "seq": 231,
+        "type": "bought",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High buys Blacksmith"
+      },
+      {
+        "seq": 232,
+        "type": "gained",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High gains Blacksmith"
+      },
+      {
+        "seq": 233,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 234,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 11"
+      },
+      {
+        "seq": 235,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 236,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 237,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 238,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 239,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 240,
+        "type": "bought",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High buys Shepherd"
+      },
+      {
+        "seq": 241,
+        "type": "gained",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High gains Shepherd"
+      },
+      {
+        "seq": 242,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 243,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 244,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 12"
+      },
+      {
+        "seq": 245,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 246,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 247,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 248,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 249,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 250,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 251,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 252,
+        "type": "bought",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High buys Litter"
+      },
+      {
+        "seq": 253,
+        "type": "gained",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High gains Litter"
+      },
+      {
+        "seq": 254,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 255,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 256,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 12"
+      },
+      {
+        "seq": 257,
+        "type": "played",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High plays Shepherd"
+      },
+      {
+        "seq": 258,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 259,
+        "type": "revealed",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High reveals Estate"
+      },
+      {
+        "seq": 260,
+        "type": "discarded",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 261,
+        "type": "discarded",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High discards Estate"
+      },
+      {
+        "seq": 262,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 4 cards"
+      },
+      {
+        "seq": 263,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 264,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 265,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 266,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 267,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 268,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 269,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 270,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 271,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 13"
+      },
+      {
+        "seq": 272,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 273,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 274,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 275,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 276,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 277,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 278,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 279,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 280,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 281,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 282,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 283,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 284,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 285,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 286,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 287,
+        "type": "played",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High plays Town Crier"
+      },
+      {
+        "seq": 288,
+        "type": "chosen",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High chooses +1 Card and +1 Action (Town Crier)"
+      },
+      {
+        "seq": 289,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 290,
+        "type": "played",
+        "player": 0,
+        "card": "Secluded Shrine",
+        "text": "Sol High plays Secluded Shrine"
+      },
+      {
+        "seq": 291,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 292,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 293,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 294,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 295,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 296,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 297,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 298,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 299,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 300,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 301,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 302,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 13"
+      },
+      {
+        "seq": 303,
+        "type": "played",
+        "player": 1,
+        "card": "Acting Troupe",
+        "text": "Fable High plays Acting Troupe"
+      },
+      {
+        "seq": 304,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High takes 4 Villagers"
+      },
+      {
+        "seq": 305,
+        "type": "trashed",
+        "player": 1,
+        "card": "Acting Troupe",
+        "text": "Fable High trashes Acting Troupe"
+      },
+      {
+        "seq": 306,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 307,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 308,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 309,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 310,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 311,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 14"
+      },
+      {
+        "seq": 312,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 313,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 314,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 315,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 316,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses +2 Actions (Squire)"
+      },
+      {
+        "seq": 317,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 318,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 319,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 320,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 321,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 322,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 323,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 324,
+        "type": "played",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High plays Town Crier"
+      },
+      {
+        "seq": 325,
+        "type": "chosen",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High chooses +1 Card and +1 Action (Town Crier)"
+      },
+      {
+        "seq": 326,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 327,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 328,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Buy (Pawn)"
+      },
+      {
+        "seq": 329,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 330,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 331,
+        "type": "revealed",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High reveals Pasture"
+      },
+      {
+        "seq": 332,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 333,
+        "type": "discarded",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High discards Pasture"
+      },
+      {
+        "seq": 334,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 335,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 336,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 337,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 338,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 339,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 340,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 341,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 342,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 343,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 344,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 345,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 346,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 347,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 348,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 349,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 350,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 351,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 352,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 353,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 354,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 355,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 356,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 357,
+        "type": "bought",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High buys Shepherd"
+      },
+      {
+        "seq": 358,
+        "type": "gained",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High gains Shepherd"
+      },
+      {
+        "seq": 359,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 360,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 361,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 14"
+      },
+      {
+        "seq": 362,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 363,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses +2 Buys (Squire)"
+      },
+      {
+        "seq": 364,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 365,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 366,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 367,
+        "type": "played",
+        "player": 1,
+        "card": "Cursed Gold",
+        "text": "Fable High plays Cursed Gold"
+      },
+      {
+        "seq": 368,
+        "type": "gained",
+        "player": 1,
+        "card": "Curse",
+        "text": "Fable High gains Curse"
+      },
+      {
+        "seq": 369,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 370,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 371,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 372,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 373,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 374,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 15"
+      },
+      {
+        "seq": 375,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 376,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 377,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 378,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 379,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 380,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 381,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 382,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 383,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 384,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 385,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 386,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 387,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 388,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 389,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 390,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 391,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 392,
+        "type": "revealed",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High reveals Pasture"
+      },
+      {
+        "seq": 393,
+        "type": "discarded",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High discards Pasture"
+      },
+      {
+        "seq": 394,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 395,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 396,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 397,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 398,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 399,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Buy (Pawn)"
+      },
+      {
+        "seq": 400,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 401,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 402,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 403,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 404,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 405,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses +2 Buys (Squire)"
+      },
+      {
+        "seq": 406,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 407,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 408,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 409,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 410,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 411,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 412,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 413,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 414,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 415,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 416,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 417,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 418,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 419,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High buys Estate"
+      },
+      {
+        "seq": 420,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High gains Estate"
+      },
+      {
+        "seq": 421,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 422,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 423,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 15"
+      },
+      {
+        "seq": 424,
+        "type": "played",
+        "player": 1,
+        "card": "Pooka",
+        "text": "Fable High plays Pooka"
+      },
+      {
+        "seq": 425,
+        "type": "trashed",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High trashes Silver"
+      },
+      {
+        "seq": 426,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 427,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 4 cards"
+      },
+      {
+        "seq": 428,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 429,
+        "type": "played",
+        "player": 1,
+        "card": "Secluded Shrine",
+        "text": "Fable High plays Secluded Shrine"
+      },
+      {
+        "seq": 430,
+        "type": "counter",
+        "player": 1,
+        "text": "Fable High spends 1 Villager"
+      },
+      {
+        "seq": 431,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 432,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses +2 Buys (Squire)"
+      },
+      {
+        "seq": 433,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 434,
+        "type": "played",
+        "player": 1,
+        "card": "Pasture",
+        "text": "Fable High plays Pasture"
+      },
+      {
+        "seq": 435,
+        "type": "bought",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High buys Copper"
+      },
+      {
+        "seq": 436,
+        "type": "gained",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High gains Copper"
+      },
+      {
+        "seq": 437,
+        "type": "resolved",
+        "player": 1,
+        "card": "Secluded Shrine",
+        "text": "Fable High's Secluded Shrine resolves"
+      },
+      {
+        "seq": 438,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Fable High trashes Curse"
+      },
+      {
+        "seq": 439,
+        "type": "trashed",
+        "player": 1,
+        "card": "Curse",
+        "text": "Fable High trashes Curse"
+      },
+      {
+        "seq": 440,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 441,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 442,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 443,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 444,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 445,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 16"
+      },
+      {
+        "seq": 446,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 447,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Action (Pawn)"
+      },
+      {
+        "seq": 448,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 449,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 450,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 451,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 452,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 453,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 454,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 455,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 456,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 457,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 458,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 459,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 460,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 461,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 462,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 463,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 464,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 465,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 466,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 467,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 468,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 6 cards"
+      },
+      {
+        "seq": 469,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 470,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 471,
+        "type": "revealed",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High reveals Estate"
+      },
+      {
+        "seq": 472,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 473,
+        "type": "discarded",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High discards Estate"
+      },
+      {
+        "seq": 474,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 475,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 476,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 477,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 478,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 479,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 480,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 481,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 482,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 483,
+        "type": "played",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High plays Town Crier"
+      },
+      {
+        "seq": 484,
+        "type": "chosen",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High chooses +$2 (Town Crier)"
+      },
+      {
+        "seq": 485,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 486,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses +2 Buys (Squire)"
+      },
+      {
+        "seq": 487,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 488,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 489,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 490,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 491,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 492,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 493,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 494,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 495,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 496,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 497,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 498,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 499,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 500,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 501,
+        "type": "bought-landscape",
+        "player": 0,
+        "card": "Fleet",
+        "text": "Sol High buys Fleet"
+      },
+      {
+        "seq": 502,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 503,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 16"
+      },
+      {
+        "seq": 504,
+        "type": "played",
+        "player": 1,
+        "card": "Shepherd",
+        "text": "Fable High plays Shepherd"
+      },
+      {
+        "seq": 505,
+        "type": "revealed",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High reveals Province"
+      },
+      {
+        "seq": 506,
+        "type": "discarded",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High discards Province"
+      },
+      {
+        "seq": 507,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 2 cards"
+      },
+      {
+        "seq": 508,
+        "type": "played",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High plays Squire"
+      },
+      {
+        "seq": 509,
+        "type": "chosen",
+        "player": 1,
+        "card": "Squire",
+        "text": "Fable High chooses to gain a Silver (Squire)"
+      },
+      {
+        "seq": 510,
+        "type": "gained",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High gains Silver"
+      },
+      {
+        "seq": 511,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 512,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 513,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 514,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 515,
+        "type": "bought",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High buys Province"
+      },
+      {
+        "seq": 516,
+        "type": "gained",
+        "player": 1,
+        "card": "Province",
+        "text": "Fable High gains Province"
+      },
+      {
+        "seq": 517,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 518,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 17"
+      },
+      {
+        "seq": 519,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 520,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 521,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 17"
+      },
+      {
+        "seq": 522,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 523,
+        "type": "played",
+        "player": 1,
+        "card": "Gold",
+        "text": "Fable High plays Gold"
+      },
+      {
+        "seq": 524,
+        "type": "bought",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High buys Duchy"
+      },
+      {
+        "seq": 525,
+        "type": "gained",
+        "player": 1,
+        "card": "Duchy",
+        "text": "Fable High gains Duchy"
+      },
+      {
+        "seq": 526,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 527,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 18"
+      },
+      {
+        "seq": 528,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 529,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 530,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 531,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 532,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 533,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 534,
+        "type": "played",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High plays Pawn"
+      },
+      {
+        "seq": 535,
+        "type": "chosen",
+        "player": 0,
+        "card": "Pawn",
+        "text": "Sol High chooses +1 Card; +1 Buy (Pawn)"
+      },
+      {
+        "seq": 536,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 537,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 538,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 539,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 540,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 541,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 542,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 543,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High buys Estate"
+      },
+      {
+        "seq": 544,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High gains Estate"
+      },
+      {
+        "seq": 545,
+        "type": "bought",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High buys Estate"
+      },
+      {
+        "seq": 546,
+        "type": "gained",
+        "player": 0,
+        "card": "Estate",
+        "text": "Sol High gains Estate"
+      },
+      {
+        "seq": 547,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 548,
+        "type": "turn-start",
+        "player": 1,
+        "text": "Fable High starts turn 18"
+      },
+      {
+        "seq": 549,
+        "type": "played",
+        "player": 1,
+        "card": "Copper",
+        "text": "Fable High plays Copper"
+      },
+      {
+        "seq": 550,
+        "type": "played",
+        "player": 1,
+        "card": "Silver",
+        "text": "Fable High plays Silver"
+      },
+      {
+        "seq": 551,
+        "type": "bought",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High buys Estate"
+      },
+      {
+        "seq": 552,
+        "type": "gained",
+        "player": 1,
+        "card": "Estate",
+        "text": "Fable High gains Estate"
+      },
+      {
+        "seq": 553,
+        "type": "shuffled",
+        "player": 1,
+        "text": "Fable High shuffles"
+      },
+      {
+        "seq": 554,
+        "type": "drew",
+        "player": 1,
+        "text": "Fable High draws 5 cards"
+      },
+      {
+        "seq": 555,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 19"
+      },
+      {
+        "seq": 556,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 557,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 558,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 559,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 560,
+        "type": "played",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High plays Town Crier"
+      },
+      {
+        "seq": 561,
+        "type": "chosen",
+        "player": 0,
+        "card": "Town Crier",
+        "text": "Sol High chooses +1 Card and +1 Action (Town Crier)"
+      },
+      {
+        "seq": 562,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 1 card"
+      },
+      {
+        "seq": 563,
+        "type": "played",
+        "player": 0,
+        "card": "Litter",
+        "text": "Sol High plays Litter"
+      },
+      {
+        "seq": 564,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 565,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High takes 1 Debt"
+      },
+      {
+        "seq": 566,
+        "type": "played",
+        "player": 0,
+        "card": "Shepherd",
+        "text": "Sol High plays Shepherd"
+      },
+      {
+        "seq": 567,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 568,
+        "type": "revealed",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High reveals Province"
+      },
+      {
+        "seq": 569,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 570,
+        "type": "discarded",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High discards Province"
+      },
+      {
+        "seq": 571,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 4 cards"
+      },
+      {
+        "seq": 572,
+        "type": "played",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High plays Squire"
+      },
+      {
+        "seq": 573,
+        "type": "chosen",
+        "player": 0,
+        "card": "Squire",
+        "text": "Sol High chooses +2 Actions (Squire)"
+      },
+      {
+        "seq": 574,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 575,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 576,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 577,
+        "type": "played",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High plays Blacksmith"
+      },
+      {
+        "seq": 578,
+        "type": "chosen",
+        "player": 0,
+        "card": "Blacksmith",
+        "text": "Sol High chooses +2 Cards (Blacksmith)"
+      },
+      {
+        "seq": 579,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 2 cards"
+      },
+      {
+        "seq": 580,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 581,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 582,
+        "type": "played",
+        "player": 0,
+        "card": "Pasture",
+        "text": "Sol High plays Pasture"
+      },
+      {
+        "seq": 583,
+        "type": "played",
+        "player": 0,
+        "card": "Copper",
+        "text": "Sol High plays Copper"
+      },
+      {
+        "seq": 584,
+        "type": "played",
+        "player": 0,
+        "card": "Silver",
+        "text": "Sol High plays Silver"
+      },
+      {
+        "seq": 585,
+        "type": "counter",
+        "player": 0,
+        "text": "Sol High pays off 1 Debt"
+      },
+      {
+        "seq": 586,
+        "type": "bought",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High buys Province"
+      },
+      {
+        "seq": 587,
+        "type": "gained",
+        "player": 0,
+        "card": "Province",
+        "text": "Sol High gains Province"
+      },
+      {
+        "seq": 588,
+        "type": "shuffled",
+        "player": 0,
+        "text": "Sol High shuffles"
+      },
+      {
+        "seq": 589,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      },
+      {
+        "seq": 590,
+        "type": "turn-start",
+        "player": 0,
+        "text": "Sol High starts turn 20"
+      },
+      {
+        "seq": 591,
+        "type": "drew",
+        "player": 0,
+        "text": "Sol High draws 5 cards"
+      }
+    ]
+  },
+  "version": 265,
+  "deciding": null,
+  "table": {
+    "players": [
+      {
+        "seat": 0,
+        "inPlay": [
+          {
+            "card": "Secluded Shrine",
+            "stays": true,
+            "holds": false
+          }
+        ],
+        "discardTop": "Silver"
+      },
+      {
+        "seat": 1,
+        "inPlay": [],
+        "discardTop": null
+      }
+    ]
+  },
+  "undos": 0,
+  "canUndo": false,
+  "undo": {
+    "rule": "ask"
+  },
+  "meta": {
+    "source": "direct",
+    "rated": false,
+    "watchable": true,
+    "timed": true,
+    "users": [
+      {
+        "name": "Sol High",
+        "kind": "bot"
+      },
+      {
+        "name": "Fable High",
+        "kind": "bot"
+      }
+    ],
+    "connected": [
+      true,
+      true
+    ],
+    "watchers": 1,
+    "now": 1794950229987
+  }
+}

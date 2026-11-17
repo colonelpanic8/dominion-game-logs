@@ -1,0 +1,9 @@
+{
+  "scheduledTaskId": "scheduled-task:command:mcp:31b6c1f1-248a-42a7-942a-9c83aceff91f:schedule-task:monitor-sol-fable-seven-20261117",
+  "enabled": true,
+  "nextRunAt": "2026-11-17T16:55:52.375Z",
+  "schedule": {
+    "type": "interval",
+    "everyMs": 600000
+  }
+}
